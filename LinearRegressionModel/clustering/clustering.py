@@ -6,6 +6,7 @@ from sklearn.cluster import AgglomerativeClustering
 from scipy.cluster.hierarchy import dendrogram, linkage
 import matplotlib.pyplot as plt
 import os
+from langdetect import detect
 
 # Load BERT model and tokenizer
 tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
@@ -25,18 +26,22 @@ df = pd.read_csv("data/cleaned_job_titles.csv", header=None, names=["title", "pd
 df['combined_text'] = df['title'] + " " + df['top_related_titles'].fillna('') + " " + df['skills'].fillna('')
 df['combined_text'] = df['combined_text'].fillna('').astype(str)
 
-# Generate or load embeddings
-embeddings_file = "embeddings.npy"
-if os.path.exists(embeddings_file):
-    X = np.load(embeddings_file)
-else:
-    df['embedding'] = df['combined_text'].apply(get_bert_embedding)
-    X = np.vstack(df['embedding'].values)
-    np.save(embeddings_file, X)  # Save the embeddings
+# Re-filter non-English titles (to remove any missed titles)
+df = df[df['title'].apply(lambda x: detect(x) == 'en' if isinstance(x, str) else False)]
 
-# Perform hierarchical clustering
-clustering = AgglomerativeClustering(n_clusters=None, distance_threshold=20).fit(X)
+# Recompute embeddings for the filtered DataFrame
+print("Recomputing embeddings for filtered data...")
+df['embedding'] = df['combined_text'].apply(get_bert_embedding)
+X = np.vstack(df['embedding'].values)
+
+# Apply hierarchical clustering with a distance threshold
+clustering = AgglomerativeClustering(n_clusters=None, distance_threshold=13).fit(X)
 df['cluster'] = clustering.labels_
+
+# Review cluster sizes
+cluster_sizes = df['cluster'].value_counts()
+print("\nCluster Sizes:")
+print(cluster_sizes)
 
 # Save the updated dataframe with clusters
 df.to_csv("clustered_job_titles.csv", index=False)
@@ -53,6 +58,7 @@ plt.title("Job Titles Clustering Dendrogram")
 plt.xlabel("Job Title")
 plt.ylabel("Distance")
 plt.show()
+
 # Group by cluster and print titles in each cluster
 for cluster_id in sorted(df['cluster'].unique()):
     print(f"\nCluster {cluster_id}:")
