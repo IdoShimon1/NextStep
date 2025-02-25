@@ -5,7 +5,7 @@ import time
 import os
 
 # Your API key and OpenAI API endpoint
-api_key = ""  # Replace with your actual API key
+api_key = ""
 url = "https://api.openai.com/v1/chat/completions"
 
 # Load and clean the CSV
