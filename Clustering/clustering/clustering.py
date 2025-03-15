@@ -149,7 +149,6 @@ for cluster_id, group in grouped:
     
     # 5) Average experience
     # Make sure 'Experience' is numeric
-    # If your CSV has "Experience" as integer or float, this works directly. 
     group['Experience'] = pd.to_numeric(group['Experience'], errors='coerce')
     avg_experience = group['Experience'].mean()
     

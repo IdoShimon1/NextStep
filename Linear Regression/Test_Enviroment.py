@@ -4,6 +4,7 @@ import re
 import requests
 import pandas as pd
 import numpy as np
+import pickle
 from sentence_transformers import SentenceTransformer, util
 from sklearn.linear_model import LinearRegression
 
@@ -17,9 +18,10 @@ OPENAI_URL = "https://api.openai.com/v1/chat/completions"
 
 # File Paths:
 SYNTHETIC_CSV = "Data/Random_Resumes.csv"   # CSV with synthetic resume-job pairs and computed features
-JOBS_CSV = "Data/Enriched_and_cleaned_data.csv"         # CSV with individual job titles (columns: title, skills, Education, Experience)
+JOBS_CSV = "Data/Enriched_and_cleaned_data.csv"  # CSV with individual job titles (columns: title, skills, Education, Experience)
 RESUME_TEXT_PATH = "Data/Ido_Resume.txt"  # Text file for the resume to test
-OUTPUT_CSV = "Data/predicted_matches.csv"             # Output CSV for predicted match percentages
+OUTPUT_CSV = "Data/predicted_matches.csv"  # Output CSV for predicted match percentages
+MODEL_LR_PATH = "Data/linear_regression_model.pkl"  # File path to save/load the regression model
 
 # Embedding model configuration:
 EMBEDDING_MODEL_NAME = "all-MiniLM-L6-v2"
@@ -164,13 +166,29 @@ def train_regression_model(synthetic_csv_path, max_experience):
     print("Coefficients:", dict(zip(features, model_lr.coef_)))
     return model_lr
 
+def get_regression_model(synthetic_csv_path, max_experience, model_path):
+    """
+    Loads the regression model from disk if available; otherwise trains it and saves it.
+    """
+    if os.path.exists(model_path):
+        print("Loading regression model from disk...")
+        with open(model_path, "rb") as f:
+            model_lr = pickle.load(f)
+    else:
+        print("Training regression model from synthetic data...")
+        model_lr = train_regression_model(synthetic_csv_path, max_experience)
+        with open(model_path, "wb") as f:
+            pickle.dump(model_lr, f)
+        print(f"Regression model saved to {model_path}")
+    return model_lr
+
 ##############################################
 # 5. Predicting Match Percentage for Each Job Using the Trained Model
 ##############################################
 
 def predict_match_for_jobs(resume_info, jobs_df, embedder, model_lr, max_experience):
     """
-    For each job in jobs_df, compute the features (skills similarity, education match,
+    For each job in jobs_df, compute features (skills similarity, education match,
     experience closeness) based on resume_info and predict the match percentage using model_lr.
     Returns a DataFrame with job titles and predicted match percentages.
     """
@@ -181,7 +199,7 @@ def predict_match_for_jobs(resume_info, jobs_df, embedder, model_lr, max_experie
         job_skills = extract_skills(row.get("skills", ""))
         skills_similarity = compute_skills_similarity(job_skills, resume_skills, embedder)
         
-        # Education match (binary):
+        # Education match:
         resume_edu = resume_info.get("education", "")
         job_edu = row.get("Education", "")
         edu_match = meets_or_exceeds(resume_edu, job_edu)
@@ -220,36 +238,33 @@ def predict_match_for_jobs(resume_info, jobs_df, embedder, model_lr, max_experie
 ##############################################
 
 def main():
-    # ----- Training Phase -----
-    print("Training Linear Regression Model from Synthetic Data...")
-    model_lr = train_regression_model(SYNTHETIC_CSV, MAX_EXPERIENCE)
+    # ----- Step 1: Read and extract resume information via LLM -----
+    try:
+        with open(RESUME_TEXT_PATH, "r", encoding="utf-8") as f:
+            resume_text = f.read()
+    except Exception as e:
+        print("Error reading resume file:", e)
+        return
+    print("Extracting resume information via OpenAI...")
+    resume_info = extract_info_from_resume(resume_text)
+    print("Extracted Resume Info:", resume_info)
     
-    # ----- Testing Phase -----
-    # Load job titles CSV.
+    # ----- Step 2: (Optional) Use your Random Forest classifier to predict cluster -----
+    # (Assume you have already computed clusters and saved them in CLUSTERED_JOBS_CSV.)
+    # For this example, we'll simply load the precomputed job titles without filtering by cluster.
     try:
         jobs_df = pd.read_csv(JOBS_CSV)
     except Exception as e:
         print("Error reading jobs CSV:", e)
         return
     
-    # Load resume text.
-    try:
-        with open(RESUME_TEXT_PATH, "r", encoding="utf-8") as f:
-            resume_text = f.read()
-    except Exception as e:
-        print("Error reading resume text file:", e)
-        return
+    # ----- Step 3: Train (or load) the Linear Regression model using synthetic data -----
+    model_lr = get_regression_model(SYNTHETIC_CSV, MAX_EXPERIENCE, MODEL_LR_PATH)
     
-    # Extract resume info using OpenAI.
-    print("Extracting resume information using OpenAI...")
-    resume_info = extract_info_from_resume(resume_text)
-    print("Extracted Resume Info:", resume_info)
-    
-    # Predict match percentages for each job using the trained linear regression model.
-    print("Predicting match percentages for each job...")
+    # ----- Step 4: Predict matching scores for each job using the trained regression model -----
     results_df = predict_match_for_jobs(resume_info, jobs_df, embedder, model_lr, MAX_EXPERIENCE)
     
-    # Save results to CSV.
+    # ----- Step 5: Save and print the results -----
     results_df.to_csv(OUTPUT_CSV, index=False)
     print("\n=== Predicted Match Percentages for Each Job ===")
     print(results_df.to_string(index=False))

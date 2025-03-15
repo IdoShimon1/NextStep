@@ -4,6 +4,7 @@ import time
 import re
 import requests
 import pandas as pd
+import pickle
 from sentence_transformers import SentenceTransformer, util
 from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
@@ -22,7 +23,8 @@ OPENAI_URL = "https://api.openai.com/v1/chat/completions"
 
 # File Paths:
 LABELED_RESUMES_CSV = "Resume_Data/clusters_summary1.csv"  # Labeled resume-to-cluster data
-RESUME_TEXT_PATH = "Resume_Data/Ido_Resume.txt"            # New resume to classify
+RESUME_TEXT_PATH = "Resume_Data/Nurse_Resume.txt"            # New resume to classify
+MODEL_SAVE_PATH = "Resume_Data/random_forest_classifier.pkl"      # Path to save the classifier model
 
 # (Optional) Initialize an embedding model – kept here from your base code
 EMBEDDING_MODEL_NAME = "all-MiniLM-L6-v2"
@@ -42,7 +44,6 @@ def extract_info_from_resume(resume_text):
         "years_of_experience": 4
       }
     For this pipeline, we use the skills, education, and years_of_experience.
-    
     This version strips the response and attempts to extract the JSON content if extra text is present.
     """
     system_prompt = "You are a resume parser. Extract structured information from the text and return only valid JSON."
@@ -155,6 +156,11 @@ def train_random_forest_classifier():
 def main():
     # A) Train the Random Forest classifier using the labeled resume-to-cluster dataset
     clf_pipeline = train_random_forest_classifier()
+    
+    # Save the classifier model weights to a file
+    with open(MODEL_SAVE_PATH, "wb") as f:
+        pickle.dump(clf_pipeline, f)
+    print(f"Random Forest classifier model saved to {MODEL_SAVE_PATH}")
     
     # B) Read the new resume text from file
     with open(RESUME_TEXT_PATH, "r", encoding="utf-8") as f:
