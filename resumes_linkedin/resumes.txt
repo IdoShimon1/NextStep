@@ -1,0 +1,173 @@
+{
+  "uid": "100001",
+  "education": [
+    {
+      "degree": "Bachelor of Applied Science",
+      "field": "Computer and Information Systems Security / Information Assurance",
+      "institution": "The Academic College of Tel-Aviv, Yaffo",
+      "year_completed": 2024
+    },
+    {
+      "degree": "Master of Business Administration",
+      "field": "Business Administration",
+      "institution": "The Open University of Israel",
+      "year_completed": 2024
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Manager, Generative AI Leader",
+      "company": "KPMG Israel",
+      "start_date": "2024-01-01",
+      "end_date": null,
+      "skills": [
+        "Generative AI",
+        "AI Implementation in Large-Scale Organizations",
+        "Innovation",
+        "Strategic Roadmaps",
+        "Training and Workshops"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "AI Product Manager",
+      "company": "Lotem - IDF Digital & Data unit",
+      "start_date": "2023-01-01",
+      "end_date": "2024-01-01",
+      "skills": [
+        "Artificial Intelligence (AI)",
+        "Agile Methodologies",
+        "Facial Recognition",
+        "Cyber Defense",
+        "Data Science Collaboration"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Product Manager",
+      "company": "Lotem - IDF Digital & Data unit",
+      "start_date": "2020-01-01",
+      "end_date": "2023-01-01",
+      "skills": [
+        "Software Product Management",
+        "Digital Strategy",
+        "CRM (Dynamics 365)",
+        "UX Design",
+        "Cybersecurity Awareness",
+        "A/B Testing",
+        "Sprint Management"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Product Manager",
+      "company": "Lotem - IDF Digital & Data unit",
+      "start_date": "2019-01-01",
+      "end_date": "2020-01-01",
+      "skills": [
+        "Strategic Planning",
+        "SAP",
+        "Predictive Algorithms",
+        "Mobile Applications"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Founder",
+      "company": "POLITIX: Advanced Political Insights through AI",
+      "start_date": "2018-09-01",
+      "end_date": "2020-03-01",
+      "skills": [
+        "Strategic Business Planning",
+        "AI for Political Analysis",
+        "Business Leadership",
+        "Research and Development"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Campaign Manager - Municipal Elections",
+      "company": "HI party",
+      "start_date": "2018-02-01",
+      "end_date": "2018-11-01",
+      "skills": [
+        "Strategy and Marketing",
+        "Political Management",
+        "Team Leadership",
+        "Budget Management"
+      ]
+    }
+  ],
+  "skills": [
+    "Generative AI",
+    "AI Implementation in Large-Scale Organizations",
+    "Agile Methodologies",
+    "Product Management",
+    "Digital Strategy",
+    "Cyber Defense",
+    "UX Design",
+    "Data Science",
+    "Strategic Planning",
+    "Political Strategy"
+  ]
+}
+{
+  "uid": "100002",
+  "education": [
+    {
+      "degree": "Bachelor of Technology",
+      "field": "Computer Science",
+      "institution": "Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow",
+      "year_completed": null
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Scientist",
+      "company": "DataThick",
+      "start_date": "2024-05-01",
+      "end_date": null,
+      "skills": [
+        "Data Analysis",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Power BI",
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "scikit-learn",
+        "Cloud Platforms (AWS, Azure, GCP)"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Scientist",
+      "company": "InbuiltData",
+      "start_date": "2023-05-01",
+      "end_date": "2024-04-30",
+      "skills": [
+        "Data Science",
+        "Statistical Modeling",
+        "Data Visualization",
+        "Communication with Stakeholders",
+        "Data Pipelines",
+        "Predictive Modeling"
+      ]
+    }
+  ],
+  "skills": [
+    "Python",
+    "Exploratory Data Analysis",
+    "Data Science",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Power BI",
+    "TensorFlow",
+    "PyTorch",
+    "SQL",
+    "Data Engineering"
+  ]
+}
+
