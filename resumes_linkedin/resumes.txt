@@ -170,4 +170,2023 @@
     "Data Engineering"
   ]
 }
+{
+  "uid": "100003",
+  "education": [
+    {
+      "degree": "Bachelor of Arts",
+      "field": null,
+      "institution": "Nabadwip Vidyasagar College",
+      "year_completed": 2024
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Chief Operating Officer",
+      "company": "Talant Cubicle",
+      "start_date": "2023-07-01",
+      "end_date": "2025-02-01",
+      "skills": [
+        "Business Strategy",
+        "Strategic Leadership",
+        "HR Industry",
+        "Professional Networking"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Co-Founder",
+      "company": "FTH (Food To Home)",
+      "start_date": "2022-06-01",
+      "end_date": "2024-02-01",
+      "skills": [
+        "Logistics Management",
+        "Operations Management",
+        "Food Tech",
+        "Customer Service"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Co-Founder & Chief Collaboration Officer",
+      "company": "Vlogbook",
+      "start_date": "2022-06-01",
+      "end_date": "2023-12-01",
+      "skills": [
+        "Tourism Industry",
+        "Startup Scaling",
+        "Collaboration",
+        "Marketing"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Nft artist",
+      "company": "OpenSea",
+      "start_date": "2021-12-01",
+      "end_date": "2023-07-01",
+      "skills": [
+        "NFTs",
+        "Digital Art",
+        "Blockchain"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Leading Growth",
+      "company": "First 500 Days",
+      "start_date": "2023-01-01",
+      "end_date": "2023-04-01",
+      "skills": [
+        "Startup Ecosystem",
+        "Team Management",
+        "Leadership"
+      ]
+    }
+  ],
+  "skills": [
+    "Leadership",
+    "Operations Management",
+    "Strategic Planning",
+    "Growth Strategies",
+    "Business Strategy",
+    "Customer Acquisition",
+    "Python",
+    "Startups",
+    "AI Assistant Development",
+    "Supply Chain Management"
+  ]
+}
+{
+  "uid": "100004",
+  "education": [
+    {
+      "degree": "Artificial Intelligence & Machine Learning",
+      "field": "Computer Science",
+      "institution": "Harvard University",
+      "year_completed": 2025
+    },
+    {
+      "degree": "Bachelor of Applied Science",
+      "field": "Information Technology",
+      "institution": "Phoenix College",
+      "year_completed": 2026
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Co-Founder & Head of Security Awareness Game Development",
+      "company": "Shrood",
+      "start_date": "2023-08-01",
+      "end_date": null,
+      "skills": [
+        "Game Development",
+        "Security Awareness",
+        "Cybersecurity Training",
+        "Gamification",
+        "Business Strategy"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Software Engineer | Contributor",
+      "company": "Apple",
+      "start_date": "2025-03-01",
+      "end_date": null,
+      "skills": [
+        "WebKit",
+        "CSS Parsing",
+        "Python",
+        "C++",
+        "Open Source"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Software Engineer | Contributor",
+      "company": "Meta",
+      "start_date": "2025-01-01",
+      "end_date": "2025-03-01",
+      "skills": [
+        "Type Inference",
+        "JavaScript",
+        "TypeScript",
+        "Flow",
+        "Static Analysis"
+      ]
+    }
+  ],
+  "skills": [
+    "Artificial Intelligence (AI)",
+    "Machine Learning",
+    "Game Development",
+    "Security Awareness",
+    "Python",
+    "Web Development",
+    "Open Source",
+    "C++",
+    "Cybersecurity",
+    "Computer Science"
+  ]
+}
+{
+  "uid": "100005",
+  "education": [
+    {
+      "degree": "Bachelor's degree",
+      "field": null,
+      "institution": "Ranchi University, Ranchi",
+      "year_completed": 2001
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Chief Digital Officer (CDO)",
+      "company": "DataThick",
+      "start_date": "2023-01-01",
+      "end_date": null,
+      "skills": [
+        "Digital Transformation",
+        "AI Integration",
+        "Machine Learning",
+        "Agile Methodologies",
+        "Data Analytics",
+        "Customer Experience",
+        "Leadership",
+        "Marketing Optimization",
+        "Product Development",
+        "Innovation Strategy"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Digital Transformation Officer",
+      "company": "SoftwareMent",
+      "start_date": "2020-01-01",
+      "end_date": "2023-05-01",
+      "skills": [
+        "Software Project Management",
+        "Analytics",
+        "Python",
+        "Emerging Technologies"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Director Of Services",
+      "company": "SoftwareMent",
+      "start_date": "2012-01-01",
+      "end_date": "2020-07-01",
+      "skills": [
+        "Machine Learning",
+        "Digital Strategy",
+        "Operations",
+        "Customer Retention"
+      ]
+    }
+  ],
+  "skills": [
+    "Digital Strategy",
+    "Machine Learning",
+    "Business Intelligence (BI)",
+    "Analytics",
+    "Digital Transformation",
+    "Python",
+    "IT Management",
+    "Product Management",
+    "Artificial Intelligence (AI)",
+    "Leadership"
+  ]
+}
+{
+  "uid": "100006",
+  "education": [
+    {
+      "degree": "Programmer",
+      "field": "Computer Science",
+      "institution": "Mamram - Computer academy of IDF",
+      "year_completed": 2013
+    },
+    {
+      "degree": "Bachelor's degree",
+      "field": "Computer Science",
+      "institution": "The College of Management Academic Studies",
+      "year_completed": 2019
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Infrastructure Team Lead",
+      "company": "ironSource",
+      "start_date": "2023-10-01",
+      "end_date": null,
+      "skills": [
+        "Data Infrastructure",
+        "Team Leadership",
+        "Amazon ECS",
+        "Amazon Athena"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Senior Data Infrastructure Engineer",
+      "company": "ironSource",
+      "start_date": "2021-08-01",
+      "end_date": null,
+      "skills": [
+        "Amazon ECS",
+        "Amazon Athena",
+        "Data Engineering"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Data Engineer",
+      "company": "Trigo",
+      "start_date": "2019-12-01",
+      "end_date": "2021-08-01",
+      "skills": [
+        "Data Pipelines",
+        "ETL"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Head of Mamram programming course",
+      "company": "Mamram, IDF",
+      "start_date": "2019-03-01",
+      "end_date": "2019-12-01",
+      "skills": [
+        "Training",
+        "Mentorship"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Big Data Engineer",
+      "company": "Mamram, IDF",
+      "start_date": "2017-11-01",
+      "end_date": "2019-03-01",
+      "skills": [
+        "Big Data",
+        "Data Engineering"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "DBA",
+      "company": "Mamram, IDF",
+      "start_date": "2016-05-01",
+      "end_date": "2017-11-01",
+      "skills": [
+        "Database Administration",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "Programming course instructor",
+      "company": "Mamram, IDF",
+      "start_date": "2013-09-01",
+      "end_date": "2015-10-01",
+      "skills": [
+        "Instruction",
+        "C++",
+        "Cyber Warfare"
+      ]
+    }
+  ],
+  "skills": [
+    "Amazon Athena",
+    "Amazon ECS",
+    "Big Data",
+    "PostgreSQL",
+    "C++",
+    "Cyber Warfare"
+  ]
+}
+{
+  "uid": "100007",
+  "education": [
+    {
+      "degree": "SAP Implementer Certificate",
+      "field": "SAP",
+      "institution": "בסמח",
+      "year_completed": 2019
+    },
+    {
+      "degree": null,
+      "field": "Computer Software Engineering",
+      "institution": "ort colleges",
+      "year_completed": 2019
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Product Manager",
+      "company": "Ness Technologies | נס טכנולוגיות",
+      "start_date": "2024-11-01",
+      "end_date": null,
+      "skills": [
+        "Jira",
+        "Financial Analysis",
+        "Debugging",
+        "Product Management"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "SAP Human Resources Consultant",
+      "company": "Ness Technologies | נס טכנולוגיות",
+      "start_date": "2022-02-01",
+      "end_date": "2025-01-01",
+      "skills": [
+        "SAP ERP",
+        "SAP HR"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Project Manager",
+      "company": "Israel Defense Forces",
+      "start_date": "2023-01-01",
+      "end_date": "2025-01-01",
+      "skills": []
+    },
+    {
+      "job_id": "004",
+      "title": "SAP Team Lead",
+      "company": "Israel Defense Forces",
+      "start_date": "2020-12-01",
+      "end_date": "2022-02-01",
+      "skills": []
+    },
+    {
+      "job_id": "005",
+      "title": "SAP Analyst",
+      "company": "Israel Defense Forces",
+      "start_date": "2019-06-01",
+      "end_date": "2022-02-01",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "Python (Programming Language)",
+    "Product Management",
+    "SAP HR",
+    "Jira",
+    "Debugging"
+  ]
+}
+{
+  "uid": 100008,
+  "education": [
+    {
+      "degree": null,
+      "field": null,
+      "institution": "Belarusian State University of Informatics and Radioelectronics",
+      "year_completed": 1999
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "DevOps",
+      "company": "Tikal - Fullstack as a Service",
+      "start_date": "2016-04-01",
+      "end_date": null,
+      "skills": ["Argo", "Google Cloud Platform (GCP)"]
+    },
+    {
+      "job_id": "002",
+      "title": "Configuration Manager",
+      "company": "Trustwave",
+      "start_date": "2013-07-01",
+      "end_date": "2016-04-30",
+      "skills": []
+    },
+    {
+      "job_id": "003",
+      "title": "CM Team Leader",
+      "company": "Mentor Graphics",
+      "start_date": "2011-01-01",
+      "end_date": "2013-06-30",
+      "skills": []
+    },
+    {
+      "job_id": "004",
+      "title": "Software Configuration Manager, Integration (Infra)",
+      "company": "Amdocs",
+      "start_date": "2010-01-01",
+      "end_date": "2011-01-31",
+      "skills": []
+    },
+    {
+      "job_id": "005",
+      "title": "Configuration Manager, Software Developer",
+      "company": "CastUP",
+      "start_date": "2008-01-01",
+      "end_date": "2010-01-31",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "Networking",
+    "Argo"
+  ]
+}
+{
+  "uid": 100009,
+  "education": [
+    {
+      "degree": "Devops Engineering",
+      "field": null,
+      "institution": "John Bryce",
+      "year_completed": 2019
+    },
+    {
+      "degree": "CCNA, Routing and Switching",
+      "field": null,
+      "institution": "John Bryce",
+      "year_completed": 2015
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "DevOps Engineer",
+      "company": "ZoomInfo",
+      "start_date": "2022-08-01",
+      "end_date": null,
+      "skills": [
+        "Cloud Infrastructure",
+        "Google Cloud Platform (GCP)"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "DevOps Engineer",
+      "company": "Tikal - Fullstack as a Service",
+      "start_date": "2022-07-01",
+      "end_date": null,
+      "skills": [
+        "Go (Programming Language)"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "DevOps Engineer",
+      "company": "OTORIO",
+      "start_date": "2021-11-01",
+      "end_date": "2022-07-31",
+      "skills": []
+    },
+    {
+      "job_id": "004",
+      "title": "DevOps & Automation",
+      "company": "Mimecast",
+      "start_date": "2020-09-01",
+      "end_date": "2021-11-30",
+      "skills": []
+    },
+    {
+      "job_id": "005",
+      "title": "IT Support & System Administrator",
+      "company": "Orpak Systems",
+      "start_date": "2018-03-01",
+      "end_date": "2020-09-30",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "Argo",
+    "Kubernetes Operators development",
+    "Go (Programming Language)",
+    "Google Cloud Platform (GCP)",
+    "Amazon Web Services (AWS)"
+  ]
+}
+{
+  "uid": 100010,
+  "education": [
+    {
+      "degree": "Practical Engineer",
+      "field": "Computer Science",
+      "institution": "Tel Aviv University",
+      "year_completed": 2004
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior DevOps Engineer",
+      "company": "OurRitual",
+      "start_date": "2025-02-01",
+      "end_date": null,
+      "skills": []
+    },
+    {
+      "job_id": "002",
+      "title": "DevOps Tech Lead",
+      "company": "Tikal - Fullstack as a Service",
+      "start_date": "2020-09-01",
+      "end_date": null,
+      "skills": ["Amazon EKS", "GitOps"]
+    },
+    {
+      "job_id": "003",
+      "title": "DevOps Tech Lead",
+      "company": "Cellwize, a Qualcomm company",
+      "start_date": "2021-10-01",
+      "end_date": "2025-01-31",
+      "skills": ["Argo", "Google Kubernetes Engine (GKE)"]
+    },
+    {
+      "job_id": "004",
+      "title": "DevOps Engineer",
+      "company": "Elementor",
+      "start_date": "2020-10-01",
+      "end_date": "2021-10-31",
+      "skills": []
+    },
+    {
+      "job_id": "005",
+      "title": "DevOps Incubator Lead",
+      "company": "AUTOMAT-IT",
+      "start_date": "2020-05-01",
+      "end_date": "2020-09-30",
+      "skills": []
+    },
+    {
+      "job_id": "006",
+      "title": "DevOps Consultant",
+      "company": "AUTOMAT-IT",
+      "start_date": "2018-03-01",
+      "end_date": "2020-05-31",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "GitOps",
+    "ArgoCD"
+  ]
+}
+{
+  "uid": 100011,
+  "education": [
+    {
+      "degree": null,
+      "field": null,
+      "institution": "Far Eastern State Technical University",
+      "year_completed": 2004
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior DevOps Engineer | TechLead",
+      "company": "Tikal - Fullstack as a Service",
+      "start_date": "2017-03-01",
+      "end_date": null,
+      "skills": []
+    },
+    {
+      "job_id": "002",
+      "title": "Senior DevOps Engineer | TechLead | IC",
+      "company": "Imperva (via Tikal - Fullstack as a Service)",
+      "start_date": "2020-04-01",
+      "end_date": null,
+      "skills": [
+        "AWS",
+        "Terraform",
+        "Terragrunt",
+        "Kubernetes",
+        "Helm",
+        "Vault",
+        "Artifactory",
+        "Kafka",
+        "Jenkins"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Senior DevOps Engineer",
+      "company": "Testim.io (via Tikal - Fullstack as a Service)",
+      "start_date": "2018-11-01",
+      "end_date": "2020-04-30",
+      "skills": [
+        "AWS",
+        "Azure",
+        "Docker",
+        "Prometheus",
+        "Kubernetes",
+        "Helm",
+        "Ansible",
+        "Jenkins",
+        "CircleCI"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "DevOps Engineer",
+      "company": "Tufin (via Tikal - Fullstack as a Service)",
+      "start_date": "2018-06-01",
+      "end_date": "2018-11-30",
+      "skills": [
+        "Jenkins",
+        "Java",
+        "Gradle",
+        "Kubernetes",
+        "Helm",
+        "Codefresh"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "DevOps Engineer",
+      "company": "SentinelOne (via Tikal - Fullstack as a Service)",
+      "start_date": "2018-03-01",
+      "end_date": "2018-05-31",
+      "skills": [
+        "Ansible",
+        "Rundeck",
+        "Bash",
+        "Python",
+        "AWS"
+      ]
+    }
+  ],
+  "skills": [
+    "Kubernetes",
+    "Docker",
+    "Terraform",
+    "Ansible",
+    "Jenkins",
+    "Linux",
+    "AWS",
+    "Google Cloud Platform",
+    "Azure"
+  ]
+}
+{
+  "uid": 100012,
+  "education": [
+    {
+      "degree": "Master's degree",
+      "field": "Computer Science",
+      "institution": "University RAO",
+      "year_completed": 2011
+    },
+    {
+      "degree": null,
+      "field": null,
+      "institution": "Tel-Ran, Educational Center",
+      "year_completed": 2019
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "DevOps Engineer",
+      "company": "Checkmarx",
+      "start_date": "2023-01-01",
+      "end_date": null,
+      "skills": [
+        "Kubernetes",
+        "ArgoCD",
+        "AWS",
+        "Helm",
+        "Terragrunt",
+        "Karpenter",
+        "KEDA",
+        "CloudFormation"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Full Stack Developer",
+      "company": null,
+      "start_date": "2021-03-01",
+      "end_date": "2023-01-01",
+      "skills": [
+        "Go (Programming Language)",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Full-STACK Java developer",
+      "company": "Optisor LTD",
+      "start_date": "2019-12-01",
+      "end_date": "2021-03-01",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MongoDB",
+        "PostgreSQL",
+        "JWT",
+        "Docker"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Full-STACK Java developer/Devops engineer",
+      "company": "VTB Bank (Europe) SE",
+      "start_date": "2016-05-01",
+      "end_date": "2019-10-31",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Kubernetes",
+        "Jenkins",
+        "Ansible"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Software Developer",
+      "company": "Performance Lab",
+      "start_date": "2012-05-01",
+      "end_date": "2016-05-31",
+      "skills": [
+        ".NET Framework",
+        "Java",
+        "UI/UX",
+        "Virtualization"
+      ]
+    }
+  ],
+  "skills": [
+    "k8s",
+    "Amazon Web Services (AWS)",
+    "ArgoCD",
+    "Helm Charts",
+    "Go (Programming Language)",
+    "Java",
+    "Spring Boot",
+    "MongoDB",
+    "PostgreSQL",
+    "Terraform",
+    "Terragrunt",
+    "Docker"
+  ]
+}
+{
+  "uid": 100013,
+  "education": [
+    {
+      "degree": "Bachelor of Science - BS",
+      "field": "Computer Science",
+      "institution": "Bar-Ilan University",
+      "year_completed": 2020
+    },
+    {
+      "degree": "Bachelor of Applied Science - BASc",
+      "field": "Computer Science",
+      "institution": "Bar-Ilan University",
+      "year_completed": 2020
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "DevOps Engineer",
+      "company": "CyberArk",
+      "start_date": "2023-09-01",
+      "end_date": null,
+      "skills": [
+        "Amazon Web Services (AWS)",
+        "Ansible"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "DevOps Engineer",
+      "company": "Checkmarx",
+      "start_date": "2021-01-01",
+      "end_date": "2024-02-29",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "Amazon Web Services (AWS)",
+    "Ansible",
+    "Java",
+    "C",
+    "Python"
+  ]
+}
+{
+  "uid": 100014,
+  "education": [
+    {
+      "degree": "Java Full Stack Developer",
+      "field": "Computer Programming",
+      "institution": "John Bryce",
+      "year_completed": 2020
+    },
+    {
+      "degree": "MCSA: Windows Server 2016",
+      "field": null,
+      "institution": "John Bryce",
+      "year_completed": 2018
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "DevOps Engineer",
+      "company": "CyberArk",
+      "start_date": "2023-01-01",
+      "end_date": null,
+      "skills": [
+        "Amazon Web Services (AWS)",
+        "Terraform"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "DevOps Engineer",
+      "company": "1 2 3 Completed",
+      "start_date": "2021-04-01",
+      "end_date": "2023-01-01",
+      "skills": [
+        "Amazon Web Services (AWS)",
+        "Ansible",
+        "Terraform",
+        "Jenkins",
+        "Python",
+        "PowerShell"
+      ]
+    }
+  ],
+  "skills": [
+    "Amazon Web Services (AWS)",
+    "Terraform",
+    "Ansible",
+    "Docker",
+    "Jenkins",
+    "Python",
+    "PowerShell",
+    "Virtualization"
+  ]
+}
+{
+  "uid": 100015,
+  "education": [
+    {
+      "degree": "Master of Science - MS",
+      "field": "Mathematics and Computer Science",
+      "institution": "Weizmann Institute of Science",
+      "year_completed": 2022
+    },
+    {
+      "degree": "Bachelor of Science - BS",
+      "field": "Mathematics",
+      "institution": "The Hebrew University of Jerusalem",
+      "year_completed": 2015
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "AI Research Assistant",
+      "company": "Weizmann Institute of Science",
+      "start_date": "2023-05-01",
+      "end_date": null,
+      "skills": [
+        "Medical Databases",
+        "PyTorch"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Software Developer",
+      "company": "Ceva, Inc.",
+      "start_date": "2015-07-01",
+      "end_date": "2019-04-30",
+      "skills": [
+        "C++",
+        "Compiler Optimization"
+      ]
+    }
+  ],
+  "skills": [
+    "Data Science Theory",
+    "Machine Learning Theory",
+    "Medical Databases",
+    "PyTorch",
+    "C++",
+    "Compiler Optimization"
+  ]
+}
+{
+  "uid": 100016,
+  "education": [
+    {
+      "degree": "Bachelor of Science (BSc)",
+      "field": "Computer Science",
+      "institution": "Ben-Gurion University of the Negev",
+      "year_completed": 2013
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Engineering Team Lead",
+      "company": "AI21 Labs",
+      "start_date": "2023-04-01",
+      "end_date": null,
+      "skills": []
+    },
+    {
+      "job_id": "002",
+      "title": "R&D Team Lead",
+      "company": "Wix.com",
+      "start_date": "2020-02-01",
+      "end_date": "2023-04-01",
+      "skills": []
+    },
+    {
+      "job_id": "003",
+      "title": "Software Engineer",
+      "company": "Wix.com",
+      "start_date": "2018-06-01",
+      "end_date": "2023-04-01",
+      "skills": [
+        "JavaScript",
+        "Node.js"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "R&D Team Leader",
+      "company": "Dell EMC",
+      "start_date": "2016-06-01",
+      "end_date": "2018-05-31",
+      "skills": []
+    },
+    {
+      "job_id": "005",
+      "title": "Senior Software Engineer",
+      "company": "Dell EMC",
+      "start_date": "2013-08-01",
+      "end_date": "2016-06-01",
+      "skills": [
+        "Java",
+        "C++",
+        "AngularJS"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Flash Developer",
+      "company": "Tweegee Technologies, Inc.",
+      "start_date": "2008-05-01",
+      "end_date": "2010-09-30",
+      "skills": [
+        "AS3"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "E-Learning Developer",
+      "company": "IDF - Israel Defense Forces",
+      "start_date": "2005-10-01",
+      "end_date": "2007-10-31",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "TypeScript",
+    "Web Development",
+    "JavaScript",
+    "Node.js",
+    "Java",
+    "C++",
+    "AngularJS",
+    "AS3"
+  ]
+}
+{
+  "uid": 100017,
+  "education": [
+    {
+      "degree": "Master's degree",
+      "field": "Organizational Consulting and Development",
+      "institution": "Peres Academic Center",
+      "year_completed": 2022
+    },
+    {
+      "degree": "Bachelor’s Degree",
+      "field": "Computer Science",
+      "institution": "Academic Studies Center (MLA)",
+      "year_completed": 2015
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "R&D Team Lead",
+      "company": "AI21 Labs",
+      "start_date": "2023-12-01",
+      "end_date": null,
+      "skills": [
+        "Team Leadership",
+        "Python (Programming Language)"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "R&D Team Lead",
+      "company": "ONE ZERO - Digital Bank",
+      "start_date": "2021-11-01",
+      "end_date": "2024-01-01",
+      "skills": [
+        "Apache Kafka",
+        "Kotlin",
+        "Spring Boot",
+        "GraphQL",
+        "AWS",
+        "Kubernetes"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Task Force Manager",
+      "company": "ONE ZERO - Digital Bank",
+      "start_date": "2021-10-01",
+      "end_date": "2021-11-30",
+      "skills": [
+        "Leadership",
+        "GraphQL"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Senior Software Engineer",
+      "company": "ONE ZERO - Digital Bank",
+      "start_date": "2020-09-01",
+      "end_date": "2021-10-01",
+      "skills": [
+        "MongoDB",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Senior Software Engineer",
+      "company": "Melio",
+      "start_date": "2020-06-01",
+      "end_date": "2020-09-30",
+      "skills": [
+        "Node.js",
+        "JavaScript"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Senior Software Engineer Technical Lead",
+      "company": "PayK",
+      "start_date": "2019-08-01",
+      "end_date": "2020-05-31",
+      "skills": [
+        "Node.js",
+        "TypeScript",
+        "MongoDB"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "Scrum Master",
+      "company": "PayK",
+      "start_date": "2019-08-01",
+      "end_date": "2020-05-31",
+      "skills": []
+    },
+    {
+      "job_id": "008",
+      "title": "Software Engineer Technical Lead",
+      "company": "Payoneer",
+      "start_date": "2017-05-01",
+      "end_date": "2019-08-01",
+      "skills": [
+        ".NET",
+        "RabbitMQ",
+        "SQL Server"
+      ]
+    },
+    {
+      "job_id": "009",
+      "title": "Scrum Master",
+      "company": "Payoneer",
+      "start_date": "2017-03-01",
+      "end_date": "2019-08-01",
+      "skills": [
+        "Scrum"
+      ]
+    },
+    {
+      "job_id": "010",
+      "title": "Senior Software Engineer",
+      "company": "Payoneer",
+      "start_date": "2016-12-01",
+      "end_date": "2017-05-01",
+      "skills": [
+        "Software Development",
+        "Microsoft SQL Server"
+      ]
+    }
+  ],
+  "skills": [
+    "Python (Programming Language)",
+    "Google Cloud Platform (GCP)",
+    "Kotlin",
+    "Spring Boot",
+    "Node.js",
+    "TypeScript",
+    "MongoDB",
+    "GraphQL",
+    ".NET",
+    "RabbitMQ",
+    "SQL Server"
+  ]
+}
+{
+  "uid": 100018,
+  "education": [
+    {
+      "degree": null,
+      "field": null,
+      "institution": "Bar-Ilan University",
+      "year_completed": 2001
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior Software Engineering",
+      "company": "AI21 Labs",
+      "start_date": "2023-01-01",
+      "end_date": null,
+      "skills": [
+        "AI RAG systems",
+        "Task-specific AI services"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Software Architect @ CTO office",
+      "company": "Wix",
+      "start_date": "2021-12-01",
+      "end_date": "2023-02-28",
+      "skills": [
+        "GO",
+        "Scala",
+        "Python"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Engineering Director & Software Architect",
+      "company": "Audioburst",
+      "start_date": "2018-03-01",
+      "end_date": "2021-12-01",
+      "skills": [
+        "Microservices",
+        "Kubernetes",
+        "AWS",
+        "Azure",
+        "Big Data",
+        "CI/CD",
+        "DevOps"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Senior Software Engineer",
+      "company": "Zerto",
+      "start_date": "2016-12-01",
+      "end_date": "2018-03-01",
+      "skills": [
+        ".NET",
+        "Domain modeling",
+        "Databases",
+        "Refactoring"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Backend Team Leader",
+      "company": "Zerto",
+      "start_date": "2014-08-01",
+      "end_date": "2016-12-01",
+      "skills": []
+    },
+    {
+      "job_id": "006",
+      "title": "Software Architect",
+      "company": "Zerto",
+      "start_date": "2011-11-01",
+      "end_date": "2014-08-01",
+      "skills": [
+        ".NET C#",
+        "NHibernate",
+        "SQL Server"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "Software Engineer",
+      "company": "Pontis",
+      "start_date": "2009-09-01",
+      "end_date": "2011-11-01",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "Multithreading",
+    "Object Oriented Design",
+    "Python",
+    "Scala",
+    "GO",
+    ".NET",
+    "Microservices",
+    "Kubernetes",
+    "Big Data",
+    "DevOps",
+    "CI/CD",
+    "SQL Server"
+  ]
+}
+{
+  "uid": 100019,
+  "education": [
+    {
+      "degree": "B.Sc.",
+      "field": "Computer Engineering",
+      "institution": "Bar-Ilan University",
+      "year_completed": 2009
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior Front End Engineer",
+      "company": "CrowdStrike",
+      "start_date": "2025-02-01",
+      "end_date": null,
+      "skills": []
+    },
+    {
+      "job_id": "002",
+      "title": "Software Engineer",
+      "company": "AI21 Labs",
+      "start_date": "2023-07-01",
+      "end_date": "2025-02-01",
+      "skills": ["React.js"]
+    },
+    {
+      "job_id": "003",
+      "title": "Software Engineer",
+      "company": "Dropbox",
+      "start_date": "2022-03-01",
+      "end_date": "2023-05-31",
+      "skills": ["React.js"]
+    },
+    {
+      "job_id": "004",
+      "title": "Front End Developer",
+      "company": "Intuit",
+      "start_date": "2019-03-01",
+      "end_date": "2022-03-01",
+      "skills": ["React.js"]
+    },
+    {
+      "job_id": "005",
+      "title": "Full Stack Developer",
+      "company": "VisualDNA, A Nielsen Company",
+      "start_date": "2016-06-01",
+      "end_date": "2019-03-01",
+      "skills": ["React.js"]
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "Web Applications",
+    "React.js",
+    "Node.js",
+    "CSS",
+    "HTML"
+  ]
+}
+{
+  "uid": 100020,
+  "education": [
+    {
+      "degree": "Engineer’s Degree",
+      "field": null,
+      "institution": "Ruppin Academic Center",
+      "year_completed": 2011
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior Frontend Developer",
+      "company": "JFrog",
+      "start_date": "2024-07-01",
+      "end_date": null,
+      "skills": ["React", "Typescript", "Redux", "Mobx", "NodeJS", "GRPC", "protobuf", "Jest", "Cypress", "MUI", "JoyUI", "Figma", "AWS", "Kubernetes"]
+    },
+    {
+      "job_id": "002",
+      "title": "Senior Frontend Developer",
+      "company": "Qwak (Acquired by JFrog)",
+      "start_date": "2022-10-01",
+      "end_date": "2024-07-01",
+      "skills": ["React", "Typescript", "Redux", "Mobx", "NodeJS", "GRPC", "protobuf", "Jest", "Cypress", "Amazon Amplify", "Kubernetes"]
+    },
+    {
+      "job_id": "003",
+      "title": "Senior Frontend Developer",
+      "company": "AppsFlyer",
+      "start_date": "2017-03-01",
+      "end_date": "2022-10-01",
+      "skills": ["JavaScript", "React", "Redux", "Mobx", "HTML", "CSS", "Cypress", "Jest", "Clojure"]
+    },
+    {
+      "job_id": "004",
+      "title": "Full Stack Developer",
+      "company": "Outbrain",
+      "start_date": "2011-12-01",
+      "end_date": "2017-03-01",
+      "skills": ["Java", "Spring", "Hibernate", "Tomcat", "ActiveMQ", "JavaScript", "ExtJs", "AngularJS", "TypeScript", "NodeJS", "HTML", "CSS", "ES6", "Karma", "Jasmine"]
+    }
+  ],
+  "skills": [
+    "TypeScript",
+    "React.js",
+    "JavaScript",
+    "Redux",
+    "Node.js",
+    "GRPC",
+    "Protobuf",
+    "Functional programming",
+    "Spring MVC",
+    "Kafka"
+  ]
+}
+{
+  "uid": 100021,
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "field": "Computer Science",
+      "institution": "Reichman University",
+      "year_completed": 2016
+    },
+    {
+      "degree": "Bachelor’s Degree",
+      "field": "Business Administration, Finance",
+      "institution": "Reichman University",
+      "year_completed": 2011
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior Software Engineer",
+      "company": "Solid - Analyst Workflow Management",
+      "start_date": "2024-05-01",
+      "end_date": null,
+      "skills": []
+    },
+    {
+      "job_id": "002",
+      "title": "Senior Software Engineer Technical Lead",
+      "company": "Qwak",
+      "start_date": "2022-03-01",
+      "end_date": "2024-05-01",
+      "skills": ["Python", "GitHub Actions", "SonarCloud", "CI/CD", "SDK Development", "Production Readiness"]
+    },
+    {
+      "job_id": "003",
+      "title": "Software Engineer",
+      "company": "Qwak",
+      "start_date": "2021-09-01",
+      "end_date": "2022-03-01",
+      "skills": ["Kafka", "Kubernetes", "Streaming Pipeline", "Batch Processing"]
+    },
+    {
+      "job_id": "004",
+      "title": "Senior Software Engineer",
+      "company": "AppsFlyer",
+      "start_date": "2021-01-01",
+      "end_date": "2021-09-01",
+      "skills": ["Data Integration"]
+    },
+    {
+      "job_id": "005",
+      "title": "R&D Team Lead",
+      "company": "AppsFlyer",
+      "start_date": "2020-01-01",
+      "end_date": "2021-01-01",
+      "skills": ["Spark", "System Design", "Team Management", "Data Pipelines"]
+    },
+    {
+      "job_id": "006",
+      "title": "Software Developer",
+      "company": "AppsFlyer",
+      "start_date": "2019-05-01",
+      "end_date": "2020-01-01",
+      "skills": ["Kafka", "Microservices", "AWS"]
+    },
+    {
+      "job_id": "007",
+      "title": "Software Developer",
+      "company": "Mintigo",
+      "start_date": "2017-01-01",
+      "end_date": "2018-12-31",
+      "skills": ["Machine Learning", "Django"]
+    },
+    {
+      "job_id": "008",
+      "title": "Software Developer",
+      "company": "Webpals Group",
+      "start_date": "2016-07-01",
+      "end_date": "2016-12-31",
+      "skills": ["JavaScript", "Node.js"]
+    }
+  ],
+  "skills": [
+    "Clojure",
+    "Software Infrastructure",
+    "Kafka",
+    "Kubernetes",
+    "Python",
+    "System Design",
+    "Microservices",
+    "Functional Programming",
+    "Apache Spark",
+    "Team Management"
+  ]
+}
+{
+  "uid": 100022,
+  "education": [
+    {
+      "degree": "Bachelor of Science - BS",
+      "field": "Computer Software Engineering",
+      "institution": "Kinneret Academic College",
+      "year_completed": 2017
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "DevOps Engineer",
+      "company": "Galil Software Ltd.",
+      "start_date": "2021-01-01",
+      "end_date": null,
+      "skills": [
+        "OpenVPN",
+        "Amazon Web Services (AWS)",
+        "CI/CD",
+        "GitHub",
+        "Jenkins",
+        "Docker",
+        "Kubernetes"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Activity Leader to Tier 3 Support team",
+      "company": "Galil Software Ltd.",
+      "start_date": "2020-01-01",
+      "end_date": "2020-12-31",
+      "skills": []
+    },
+    {
+      "job_id": "003",
+      "title": "Support Tier 3 Frontend Developer",
+      "company": "Galil Software Ltd.",
+      "start_date": "2019-08-01",
+      "end_date": "2020-01-01",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "cicd",
+    "GitHub",
+    "OpenVPN",
+    "AWS",
+    "DevOps",
+    "Docker",
+    "Kubernetes"
+  ]
+}
+{
+  "uid": 100023,
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "DevOps Engineer",
+      "company": "Nova Ltd.",
+      "start_date": "2022-10-01",
+      "end_date": null,
+      "skills": [
+        "DevOps",
+        "Infrastructure as code (IaC)",
+        "Jenkins",
+        "ASP.NET Core"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "DevOps Developer",
+      "company": "NCR Corporation",
+      "start_date": "2016-09-01",
+      "end_date": "2022-10-01",
+      "skills": [
+        "Infrastructure as code (IaC)",
+        "Ansible",
+        "Jenkins"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Software Developer",
+      "company": "EntryPoint",
+      "start_date": "2012-11-01",
+      "end_date": "2022-10-01",
+      "skills": [
+        ".NET Core",
+        ".NET Framework"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "C# Developer",
+      "company": "CAST TIME",
+      "start_date": "2010-12-01",
+      "end_date": "2012-10-01",
+      "skills": [
+        "C#",
+        "Silverlight",
+        ".NET Core",
+        ".NET Framework"
+      ]
+    }
+  ],
+  "skills": [
+    "DevOps",
+    "Infrastructure as code (IaC)",
+    "Ansible",
+    "Jenkins",
+    ".NET Core",
+    ".NET Framework",
+    "C#",
+    "ASP.NET Core",
+    "Silverlight"
+  ]
+}
+{
+  "uid": 100024,
+  "education": [
+    {
+      "degree": "Master of Business Administration - MBA (In Progress)",
+      "field": "Business Administration and Management, General",
+      "institution": "University of Haifa",
+      "start_date": "2018-01-01",
+      "end_date": "2022-11-01"
+    },
+    {
+      "degree": "Bachelor of Science (BSc)",
+      "field": "Electrical Engineering",
+      "institution": "Braude Academic College",
+      "start_date": "2008-01-01",
+      "end_date": "2012-01-01"
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "DevOps Engineer",
+      "company": "Micro Focus",
+      "start_date": "2018-12-01",
+      "end_date": null,
+      "location": "Yehud, Israel",
+      "skills": []
+    },
+    {
+      "job_id": "002",
+      "title": "Operations Engineer for Octane (SaaS Product)",
+      "company": "Micro Focus",
+      "start_date": "2018-07-01",
+      "end_date": "2018-12-01",
+      "location": "Israel",
+      "skills": []
+    },
+    {
+      "job_id": "003",
+      "title": "Operation Engineer for Control Tower (SaaS Product)",
+      "company": "Hewlett Packard Enterprise",
+      "start_date": "2015-11-01",
+      "end_date": "2018-07-01",
+      "skills": []
+    },
+    {
+      "job_id": "004",
+      "title": "SOC engineer at SaaS department",
+      "company": "Hewlett Packard Enterprise",
+      "start_date": "2013-03-01",
+      "end_date": "2015-11-01",
+      "skills": []
+    },
+    {
+      "job_id": "005",
+      "title": "MS at diffusion department",
+      "company": "Intel Corporation",
+      "start_date": "2012-02-01",
+      "end_date": "2012-11-01",
+      "skills": []
+    }
+  ],
+  "skills": []
+}
+{
+  "uid": 100025,
+  "education": [
+    {
+      "degree": null,
+      "field": "Business management, Management Information Systems",
+      "institution": "Ruppin",
+      "start_date": "2010-01-01",
+      "end_date": "2013-01-01"
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "DevOps Engineer",
+      "company": "ZoomInfo",
+      "start_date": "2022-02-01",
+      "end_date": null,
+      "skills": []
+    },
+    {
+      "job_id": "002",
+      "title": "DevOps Engineer",
+      "company": "Viaccess-Orca",
+      "start_date": "2019-01-01",
+      "end_date": "2022-02-01",
+      "skills": []
+    },
+    {
+      "job_id": "003",
+      "title": "Scrum Master & QA Automation Engineer",
+      "company": "Viaccess-Orca",
+      "start_date": "2017-09-01",
+      "end_date": "2019-01-01",
+      "skills": []
+    },
+    {
+      "job_id": "004",
+      "title": "QA Automation Engineer",
+      "company": "Viaccess-Orca",
+      "start_date": "2016-12-01",
+      "end_date": "2017-09-01",
+      "skills": []
+    },
+    {
+      "job_id": "005",
+      "title": "Managment Program",
+      "company": "Bank Hapoalim",
+      "start_date": "2016-01-01",
+      "end_date": "2016-12-01",
+      "skills": []
+    },
+    {
+      "job_id": "006",
+      "title": "Senior Implementation Analyst",
+      "company": "Incentives Solutions",
+      "start_date": "2013-09-01",
+      "end_date": "2016-01-01",
+      "skills": []
+    }
+  ],
+  "skills": []
+}
+{
+  "uid": 100026,
+  "education": [
+    {
+      "degree": "Bachelor's degree",
+      "field": "Mathematics and Computer Science",
+      "institution": "Ben-Gurion University of the Negev",
+      "start_date": "2013-01-01",
+      "end_date": "2016-01-01"
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Software Engineer",
+      "company": "Skai",
+      "start_date": "2023-08-01",
+      "end_date": null,
+      "skills": []
+    },
+    {
+      "job_id": "002",
+      "title": "Software Engineer",
+      "company": "NICE Ltd",
+      "start_date": "2021-10-01",
+      "end_date": "2023-03-01",
+      "skills": []
+    },
+    {
+      "job_id": "003",
+      "title": "Software Engineer",
+      "company": "Imperva",
+      "start_date": "2021-01-01",
+      "end_date": "2021-10-01",
+      "skills": []
+    },
+    {
+      "job_id": "004",
+      "title": "Software Engineer",
+      "company": "Skybox Security",
+      "start_date": "2018-08-01",
+      "end_date": "2021-01-01",
+      "skills": []
+    },
+    {
+      "job_id": "005",
+      "title": "Teaching Assistant",
+      "company": "Ben-Gurion University of the Negev",
+      "start_date": "2016-01-01",
+      "end_date": "2018-07-01",
+      "skills": []
+    }
+  ],
+  "skills": []
+}
+{
+  "uid": 100027,
+  "education": [
+    {
+      "degree": "Master degree (M.Sc.)",
+      "field": "Software Engineering",
+      "institution": "SCE - Shamoon College of Engineering",
+      "start_date": "2015-01-01",
+      "end_date": "2017-01-01"
+    },
+    {
+      "degree": "Bachelor of Science (B.Sc.)",
+      "field": "Computer Software Engineering",
+      "institution": "SCE - Shamoon College of Engineering",
+      "start_date": "2011-01-01",
+      "end_date": "2015-01-01"
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Software Development Team Lead",
+      "company": "Coronet",
+      "start_date": "2018-05-01",
+      "end_date": null,
+      "skills": []
+    },
+    {
+      "job_id": "002",
+      "title": "Java Software Engineer",
+      "company": "Coronet",
+      "start_date": "2016-01-01",
+      "end_date": "2018-05-01",
+      "skills": []
+    },
+    {
+      "job_id": "003",
+      "title": "Software Developer",
+      "company": "SCE development center",
+      "start_date": "2014-11-01",
+      "end_date": "2016-01-01",
+      "skills": []
+    }
+  ],
+  "skills": []
+}
+{
+  "uid": 100028,
+  "education": [
+    {
+      "degree": "Bachelor of Science (BSc)",
+      "field": "Information Systems Engineering",
+      "institution": "Technion - Israel Institute of Technology",
+      "start_date": "2017-01-01",
+      "end_date": "2021-01-01"
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "DevOps Engineer",
+      "company": "Coro",
+      "start_date": "2021-11-01",
+      "end_date": null,
+      "skills": []
+    },
+    {
+      "job_id": "002",
+      "title": "Software QA Engineer",
+      "company": "Cyberbit",
+      "start_date": "2016-01-01",
+      "end_date": "2018-01-01",
+      "skills": []
+    },
+    {
+      "job_id": "003",
+      "title": "Cyber Systems Operator",
+      "company": "Israeli Military Intelligence - Unit 8200",
+      "start_date": "2013-07-01",
+      "end_date": "2015-07-01",
+      "skills": []
+    }
+  ],
+  "skills": []
+}
+{
+  "uid": 100029,
+  "education": [
+    {
+      "degree": "B.Sc",
+      "field": "Computer Science",
+      "institution": "The Academic College of Tel-Aviv, Yaffo",
+      "start_date": "2016-01-01",
+      "end_date": "2019-01-01"
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "DevOps Engineer",
+      "company": "Riskified",
+      "start_date": "2022-04-01",
+      "end_date": null,
+      "skills": ["Thanos", "Prometheus", "Grafana"]
+    },
+    {
+      "job_id": "002",
+      "title": "DevOps Engineer",
+      "company": "Viaccess-Orca",
+      "start_date": "2019-08-01",
+      "end_date": "2022-04-01",
+      "skills": []
+    }
+  ],
+  "skills": ["C++", "C"]
+}
+{
+  "uid": 100030,
+  "education": [
+    {
+      "degree": "B.Sc",
+      "field": "Computer Science",
+      "institution": "Ben-Gurion University of the Negev",
+      "start_date": "2017-01-01",
+      "end_date": "2020-01-01"
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "DevOps Engineer",
+      "company": "Palo Alto Networks",
+      "start_date": "2023-01-01",
+      "end_date": null,
+      "skills": []
+    },
+    {
+      "job_id": "002",
+      "title": "DevOps Engineer",
+      "company": "NCR Corporation",
+      "start_date": "2021-04-01",
+      "end_date": "2022-12-01",
+      "skills": []
+    },
+    {
+      "job_id": "003",
+      "title": "NOC",
+      "company": "LivePerson",
+      "start_date": "2016-02-01",
+      "end_date": "2016-08-01",
+      "skills": []
+    },
+    {
+      "job_id": "004",
+      "title": "Cyber Systems Operator",
+      "company": "Israel Defense Forces - 8200",
+      "start_date": "2013-07-01",
+      "end_date": "2015-07-01",
+      "skills": []
+    }
+  ],
+  "skills": []
+}
+{
+  "uid": 100031,
+  "education": [
+    {
+      "degree": "B.Sc",
+      "field": "Psychology and Computer Science",
+      "institution": "The Open University of Israel",
+      "start_date": "2018-10-01",
+      "end_date": "2023-07-01"
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior DevOps Engineer",
+      "company": "Palo Alto Networks",
+      "start_date": "2023-01-01",
+      "end_date": null,
+      "skills": ["Kubernetes", "Linux"]
+    },
+    {
+      "job_id": "002",
+      "title": "DevOps Engineer",
+      "company": "Cider Security",
+      "start_date": "2021-08-01",
+      "end_date": null,
+      "skills": ["Kubernetes"]
+    },
+    {
+      "job_id": "003",
+      "title": "DevOps Engineer",
+      "company": "SAM Seamless Network",
+      "start_date": "2018-11-01",
+      "end_date": "2021-07-01",
+      "skills": ["Kubernetes"]
+    },
+    {
+      "job_id": "004",
+      "title": "DevOps & IT Specialist",
+      "company": "Israel Defense Forces",
+      "start_date": "2014-01-01",
+      "end_date": "2018-01-01",
+      "skills": []
+    }
+  ],
+  "skills": ["Kubernetes", "Linux"]
+}
 
