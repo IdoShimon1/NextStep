@@ -1,0 +1,670 @@
+position,count
+'accountant',1148
+'intern',560
+'senior accountant',392
+'n/a',364
+'staff accountant',336
+'business development manager',332
+'engineering technician',280
+'research assistant',280
+'software engineer',224
+'software engineering manager',224
+'engineering manager',196
+'engineering assistant',168
+'engineering intern',168
+'intern trainee',168
+'project manager',140
+'data scientist',140
+'machine learning engineer',140
+'engineering supervisor',140
+'business analyst',112
+'project engineer',112
+'chief,112
+'consultant',112
+'data analyst',112
+'principal software engineer',112
+'director of business development',92
+'assistant accountant',90
+'software engineer intern',84
+'teaching assistant',84
+'financial analyst',84
+'project accountant',84
+'accounting manager',84
+'tutor',84
+'field engineering intern',84
+'assistant professor',84
+'summer research intern',84
+'executive assistant',84
+'general accountant',84
+'software developer',84
+'sde',84
+'junior machine learning engineer',84
+'help desk technician',84
+'director of engineering',84
+'analyst intern',84
+'senior account manager',60
+'junior analyst expert',56
+'inside sales manager',56
+'it support specialist',56
+'design engineer',56
+'account assistant',56
+'store manager',56
+'industrial engineering intern',56
+'junior data engineer',56
+'cto',56
+'engineering project manager',56
+accounts payable branch',56
+'computer technician',56
+'sde intern',56
+'machine learning engineer intern',56
+'general manager',56
+'sales representative',56
+'analyst',56
+'receptionist',56
+'engineering specialist',56
+'quality engineering analyst',56
+'controller',56
+'technician',56
+'imaging service engineer',56
+'machine learning developer',56
+'engineering lab technician',56
+'mechanical engineering intern',56
+'associate data scientist',56
+'production manager',56
+'full stack engineer intern',56
+'relocation consultant',56
+'electrical engineering lab technician',56
+'director,56
+'associate professor',56
+'volunteer math tutor',56
+'test technician',56
+'business development analyst',56
+'senior staff accountant',56
+'tax accountant',56
+'android developer intern',56
+'production supervisor',56
+'engineering technician v',56
+'senior manager',56
+'account executive',56
+'computer programmer',56
+'process technician',56
+'assistant controller',56
+'maintenance technician',56
+'summer intern',56
+'lead accountant',56
+'software developer intern',56
+'software engineering analyst',56
+'senior manufacturing engineer',56
+'electrical superintendent',56
+'manufacturing engineer',56
+'combat engineer',56
+'director of quality assurance',56
+'industrial engineer',56
+'research intern',56
+'web developer intern',56
+'lead test engineer',56
+'it associate',56
+'project administrator',56
+'owner',40
+'facilities administrator',38
+'cashier',34
+'junior engineer',28
+'mechanical engineering tutor',28
+'business enterprise risk manager',28
+'engineering technician ii',28
+'investment accountant',28
+'church administrator',28
+'accounting clerk',28
+'mentor',28
+'machine learning and data analysis associate',28
+'captain',28
+'engineering planning manager',28
+'non-commissioned officer',28
+'business client relationship manager',28
+'assistant service manager',28
+'aml compliance officer',28
+'sde and business analyst trainee',28
+'patient service representative',28
+'specialist,28
+'senior manufacturing project engineer',28
+'clinical administrator',28
+'technical support coordinator',28
+user applications',28
+'region coordinator',28
+'technology coordinator',28
+'business development coordinator',28
+'computer vision engineer',28
+'production planner',28
+'department supervisor/planner',28
+'director of finance & accounts',28
+'training & operations consultant',28
+'franchisee',28
+'training coordinator',28
+'software developer analyst',28
+'python intern',28
+'operator',28
+'industrial electrician',28
+'medical technologist',28
+'project coordinator/ sales',28
+'big data analyst',28
+'product marketing specialist',28
+'corporate associate / hr assistant',28
+'office coordinator',28
+'admissions coordinator',28
+'junior developer',28
+'documentation analyst',28
+'data analyst (intern)',28
+'subcontract accountant',28
+'administrative & finance coordinator',28
+'business development consultant',28
+'p&c producer and sales agent',28
+'quality assurance manager',28
+'owner / president',28
+'bi engineer',28
+'collaborative user experience group intern',28
+'student web developer',28
+'computer teacher',28
+'admissions director',28
+'business development & marketing',28
+'operations technician',28
+'part-time analyst',28
+'assistant lecturer in natural resource management',28
+'automation engineer',28
+'data engineer',28
+'software developer and analyst trainee',28
+'blockchain analyst',28
+'engineering services manager',28
+'facility supervisor',28
+'maintenance manager/safety & environmental manager',28
+'electrician',28
+'microwave communications technician',28
+'quality engineer',28
+'value stream group leader',28
+'installation technician',28
+'electrical/mechanical foreman',28
+'electrical apprentice',28
+'engineering business unit leader',28
+'instructor & teaching assistant',28
+'solutions analyst',28
+'student accounts representative/bookkeeper',28
+'accounting assistant',28
+'stock clerk',28
+'restaurant operations manager',28
+'senior student loan consultant',28
+'territory sales manager',28
+'route sales associate',28
+'skill trainer',28
+'shift manager',28
+'accountant ii',28
+'financial service representative/back-up supervisor',28
+'thermal technician',28
+'technical support specialists',28
+'area sales executive',28
+'floor manager',28
+'business development executive',28
+'data manager',28
+'accounting instructor',28
+'engineering office clerk',28
+'hard coating technician',28
+'benefits clerk',28
+'sales associate',28
+'student ambassador',28
+'sales assistant',28
+'manager,28
+quality engineering',28
+'senior engineer ii',28
+'senior engineer i',28
+'process engineer ii',28
+'research engineer',28
+'patent examiner',28
+'graduate research assistant',28
+'associate machine learning engineer',28
+'accountant iii',28
+'accounting clerk b',28
+'hmc hc laboratory assistant iii',28
+'manager engineering manufacturing systems engineering manager',28
+'surfacing lab technician',28
+'financial business analyst intern',28
+'resource advisor',28
+reports branch. accounts maintenance and control',28
+recon and reports branch',28
+'accountant,28
+network assistant team',28
+'supervisor,28
+accounts control branch',28
+'bookkeeper/accountant',28
+'monogram operator',28
+'junior sde',28
+'general ledger specialist',28
+'medical receptionist',28
+'teller',28
+'engineer technician iv',28
+'data programmer',28
+'accountant - payables / accounting clerk',28
+'developer engineer',28
+'junior intern',28
+'intern at machine learning and cognitive division',28
+'chemical synthesis research assistant',28
+'operations specialist',28
+'research analyst',28
+'junior data analyst',28
+'software development and deployment engineer',28
+'receptionist and barista',28
+'nanny',28
+'biomedical engineering technician ii',28
+'nutrition clerk',28
+'manager/assistant service coordinator',28
+'assistant project coordinator',28
+'environmental secretary',28
+'purchasing clerk',28
+'executive receptionist',28
+'intern developer',28
+'python developer intern',28
+'junior accountant',28
+'accountant cum secretary',28
+'manufacturing quality engineer',28
+'accounting and finance supervisor',28
+'seasonal tax advisor',28
+'customer service rep',28
+'junior system engineer analyst',28
+'senior account executive',28
+'manager',28
+'sales account manager',28
+'key account manager',28
+'chief engineer',28
+'facilities engineering manager',28
+'field engineering supervisor',28
+'chief plant engineer',28
+'nuclear inspector',28
+'submariner',28
+'accountant i',28
+'security officer',28
+'administrator/accountant',28
+'head freshmen basketball coach',28
+'process engineering technician iii',28
+'research and development associate',28
+'process engineer and manufacturing staff',28
+'production lead / process operator',28
+'mathematics and statistics tutor',28
+'operational excellence lead,28
+google express',28
+'operations manager',28
+'senior analyst',28
+'account manager and logistics analyst',28
+'payroll accountant',28
+'accounts receivable administrator',28
+'contracts processor',28
+'nlp analyst',28
+'engineering tech',28
+'manufacturing technician',28
+'senior capstone project',28
+'engineering technician/ field service',28
+'systems analyst',28
+'computer engineer',28
+'senior quality assurance analyst',28
+'technical support',28
+'office assistant',28
+'athletic coordinator',28
+'patient relations supervisor',28
+'engineering and quality technician',28
+'manager engineering process initiatives manager',28
+'manager engineering process manager',28
+'business process analyst',28
+'applications specialist',28
+'business systems analyst',28
+'information architect',28
+'nlp developer intern',28
+'engineering lab technician,28
+sr. specialist',28
+'assembly/ test technician',28
+'software quality assurance',28
+'mail - software quality engineer ii',28
+'engineering validation test technician',28
+'qa lead for customer care/service applications',28
+'strategy analyst',28
+'product engineer intern',28
+'trainee intern',28
+'deputy data analyst',28
+'engineering assistance supervisor',28
+'sky cap',28
+'manager / new york state licensed real estate salesperson',28
+'finance manager',28
+'engineering team lead',28
+'web developer',28
+'jr. software engineer',28
+'information technology support',28
+'information technology intern',28
+'qa engineering team lead',28
+'quality assurance engineering manager',28
+'munitions systems journeyman',28
+'electromechanical technician',28
+'financial advisor',28
+'postdoctoral research fellow',28
+'sr administrative assistant/technologist',28
+'assistant office manager',28
+'dispatch assistant',28
+'bartender',28
+'trainee internship',28
+'junior machine learning intern',28
+'associate project engineer',28
+'software development intern',28
+'application and marketing engineer',28
+'associate medical analyst',28
+'network solutions consultant',28
+'director',28
+'commercial relocation consultant',28
+'regional manager',28
+'corporate tax analyst',28
+'engineering technologist',28
+'managing partner/controller',28
+'deep learning engineer intern',28
+'revenue cycle analyst',28
+'summer trainee - cloud administration',28
+'sr. business development director',28
+'it program manager',28
+'distributed computer systems analyst / network administrator',28
+'special clerk',28
+'maintenance administrator',28
+'general clerk',28
+'assistant to vice president',28
+'assistant project manager',28
+'project coordinator',28
+'junior data evangelist',28
+'computer science tutor',28
+'sr. project manager',28
+'sr. traffic coordinator ad manager',28
+'senior accountant/financial analyst',28
+'lecturer in environmental science and technology',28
+'staffing manager',28
+'student research assistant',28
+'financial management partner',28
+'data processing junior intern',28
+'sr. director software development',28
+'vp of engineering and operations',28
+'co-founder and coo',28
+'vp of engineering',28
+'vp solutions sales',28
+'independent consultant',28
+'cto & founder',28
+'junior analyst',28
+'machine learning junior developer',28
+'software engineering intern',28
+'it help desk support',28
+'material handler',28
+'laborer',28
+'janitorial/construction laborer',28
+'electrical engineering technician and pcb layout designer',28
+'electronic technician',28
+'production technician',28
+'data managerial intern',28
+'machine learning scientist',28
+'entry-level computer support specialist',28
+'marketing/outside physician rep',28
+'marketing director',28
+'resident liaison',28
+'associate data science engineer',28
+'engineering manager/senior mechanical designer',28
+'self-sustaining engineering technician',28
+'plant manager/project manager',28
+'precision machinist',28
+'independent accounting consultant',28
+'accounting manager/human resources',28
+'accounting and human resources manager',28
+'business associate',28
+'bu analyst intern',28
+'computer repair technician',28
+'senior mortgage specialist',28
+'partner; business development',28
+'associate researcher',28
+'engineering manager/quality manager',28
+'manufacturing engineer,28
+project engineer,28
+sales engineer,28
+product development engineer,28
+and manufacturing engineering manager',28
+'vice president',28
+'assistant program manager',28
+'system developer',28
+'construction engineering supervisor',28
+'director business development',28
+'regional account manager',28
+'director of sales',28
+'quality manager',28
+senior mechanical engineer',28
+mechanical engineer,28
+'development designer,28
+'service technician',28
+'regional manager; consumer engagement',28
+'regional event marketing manager',28
+'one-on-one marketing supervisor',28
+'computer vision scientist',28
+'it data scientist',28
+'engineering aide',28
+'concrete finisher',28
+'senior converting analyst',28
+none,28
+'trainee',28
+'manager - maintenance and reliability',28
+'supervisor reliability engineer',28
+'process & tooling engineer',28
+'converting plant engineer',28
+'computer scientist',28
+'front-end developer',28
+'mobile app developer',28
+'support manager',28
+'junior analyst intern',28
+'associate software engineer and analyst',28
+'manufacturing lead',28
+'junior machine learning and deep learning engineer',28
+'senior engineering technician',28
+'software engineer - machine learning',28
+'equipment engineering technician',28
+'mechanical technician',28
+'operating engineer / test technician',28
+'logistics coordinator / sr. lab technician',28
+'production control analyst',28
+'material/production planner',28
+'jr. data scientist',28
+'computer science teacher',28
+'junior software engineer',28
+'associate consultant',28
+'online course instructor',28
+'instructional designer/training manager/database manager/senior accountant',28
+'tax analyst',28
+'software developer (machine learning engineer)',28
+'accounts receivable clerk',28
+'mortgage underwriter',28
+'commercial auto underwriter',28
+'personal auto underwriter',28
+'claims examiner',28
+'staff accountant ii',28
+'associate analyst',28
+'staff auditor ii',28
+'engineering systems installer',28
+'it technician/qa tester',28
+'installation/service technician',28
+'instrument technician',28
+'project manager assistance',28
+'finance technology expert',28
+'application development associate',28
+'information systems assistant',28
+'mis analyst',28
+'mechanical design engineer',28
+'event manager',28
+'customer service call center manager',28
+'customer service representative / call center',28
+'administrative specialist ii',28
+'auditor ii',28
+'vp of business development',28
+'academic resource advisor',28
+'co-founder vp of business development',28
+'clinical engineering manager',28
+'biomedical equipment technician ii',28
+'business development',28
+'service manager',28
+'system technology specialist',28
+'engineer',28
+'customer service representative',28
+'corporate process/systems engineering manager',28
+'software developer (ml)',28
+'sdi site operations manager',28
+'operations group manager',28
+'assistant analyst',28
+'directed study',28
+'research assistant,28
+dreu program',28
+'statistical analyst',28
+'senior software engineer',28
+'developer',28
+'dining room attendant',28
+'babysitter',28
+'project administrator engineering',28
+'engineering manager,28
+architect',28
+'sr. repair technician',28
+'lead manufacturing technician production supervisor',28
+'wafer fab technician',28
+'windows administrator',28
+'corporate engineering support technician',28
+'help desk support analyst ii',28
+'corp. accountant',28
+'graduate assistant of economic department',28
+'income tax preparer',28
+'inside sales representative',28
+'assistant manager',28
+'data analyst intern',28
+'staff accountant/ lease administrator',28
+'assistant claim approver',28
+'proof operator',28
+'billing associate',28
+'account receivable clerk',28
+'lead data scientist',28
+'district administrative manager',28
+'accounting tutor',28
+forensic and audit associate',28
+'advisory,28
+'software certification analyst',28
+'accountant /auditor',28
+'software developer ml',28
+'committee chair',28
+'member',28
+'resident advisor',28
+'qa engineering manager',28
+'project lead',28
+'associate fund controller',28
+'data strategy and delivery specialist',28
+business development',28
+'ceo and president',28
+'vice president,28
+commercial digital services',28
+national and strategic accounts - digital and applied imaging group',28
+'business manager',28
+'general merchandise department manager',28
+'accounting software consultant',28
+'staff accountant finance manager',28
+'software developer (machine learning)',28
+'data engineer associate',28
+'sde for software caging',28
+'financial aid accounting administrator',28
+'customer care consultant',28
+'computer programmer analyst',28
+'electrical design engineer',28
+'associate market research analyst intern',28
+'facility engineer',28
+'automation engineer,28
+intern',28
+'senior business development manager',28
+'business development / sales manager',28
+'marketing manager',28
+'systems engineering intern',28
+'analyst support',28
+'data scientist - analytics & insights',28
+'network systems qa tester',28
+'financial accountant',28
+'front office officer',28
+'internship - credit officer',28
+'director of franchise sales',28
+'quality analyst/document control specialist',28
+'computer/network instructor',28
+'quality assurance technician',28
+'electrical power generation equipment repairer technician',28
+'qa tester',28
+'process engineering intern',28
+'graduate researcher',28
+'engineering technician iii',28
+'generator test technician iii',28
+'unmanned aerial vehicle (uav) maintenance technician',28
+'technical support engineer',28
+'it analyst',28
+'assembler/operator',28
+'software engineering team lead',28
+'lead electrical engineer',28
+'electrical engineer',28
+'fw developer',28
+'systems administrator',28
+'branch service specialist',28
+'regional engineering manager',28
+'senior engineer',28
+'systems engineer ii',28
+'control systems engineer i / ii',28
+'associate systems engineer',28
+'research scientist',28
+'engineering project manager iii',28
+'field engineer/maintenance support engineer',28
+'aircraft mechanic / electrician / avionics technician',28
+'talent acquisition consultant / account executive',28
+'lead systems engineer',28
+'multi-skilled engineering manager',28
+'associate software engineer',28
+'rubber chemical division',28
+'professor emerytus',28
+'professor',28
+'director of graduate studies',28
+'visiting assistant professor',28
+'teaching and research assistant',28
+'lean six sigma intern',28
+'office manager/restaurant manager',28
+'machine learning intern',28
+'office manager',28
+'bookkeeper/office manager',28
+'office manager/bookkeeper',28
+'secretary/bookkeeper',28
+'supervisor accountant',28
+'senior financial analyst',28
+'senior engineering program manager',28
+'founder/principal consultant',28
+'adjunct professor',28
+'software implementation team member',28
+'accounts receivable & collection manager',28
+'junior research fellow',28
+'development engineer(solutions)',28
+'new business development manager',28
+'technician and instructor',28
+'computer technologist',28
+'poling clerk',28
+'manufacturing engineering intern',28
+'associate data engineer',28
+'lighting field engineering technician',28
+'administrative technical aide',28
+'customer service professional',28
+'business cooperative education student- customer care',28
+'associate system engineer intern',28
+'accountants payable/receivable & purchasing administrator',28
+'gearbox design',28
+'instructor',28
+'researcher',28
+'data consultant',28
+'blog writer',28
+'unix administrator assistant',28
+'bookkeeper',28
+'controller assistant',28
+'thermal engineering intern',28
+'senior technical support specialist',28
+'reliability engineering analysis on automotive oil pump',28
+'tank platoon sergeant',28
+'sales and marketing manager',28
+'vp sales and marketing',28
+'project engineer ii',28
+'engineer i',28
+'finite element analysis of industrial robotic assembly',28
+'associate developer',28
