@@ -1,0 +1,6404 @@
+{
+  "uid": "1901",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Certificate of Completion",
+      "field": "SQL Server DBA",
+      "institution": "NAYA-College",
+      "year_completed": 2022
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "Ezmatch - איזימץ' התאמות כרטיסי אשראי",
+      "start_date": "2022-02-01",
+      "end_date": null,
+      "skills": [
+        "Visual Studio",
+        "Transact-SQL (T-SQL)",
+        "Microsoft SQL Server",
+        "Performance Tuning"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Help Desk Representative",
+      "company": "Bar Technologies",
+      "start_date": "2018-07-01",
+      "end_date": "2022-02-01",
+      "skills": []
+    },
+    {
+      "job_id": "003",
+      "title": "Help Desk Representative",
+      "company": "Harel Insurance & Finance",
+      "start_date": "2016-07-01",
+      "end_date": "2018-07-01",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "Visual Studio",
+    "Transact-SQL (T-SQL)",
+    "Microsoft SQL Server",
+    "Performance Tuning"
+  ]
+}
+{
+  "uid": "1902",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "institution": "The Open University of Israel",
+      "year_completed": 2024
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "Rimini Street",
+      "start_date": "2024-02-01",
+      "end_date": null,
+      "skills": [
+        "Linux",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Customer Support Specialist",
+      "company": "Fiverr",
+      "start_date": "2020-12-01",
+      "end_date": "2022-04-01",
+      "skills": []
+    },
+    {
+      "job_id": "003",
+      "title": "CSM/ Customer Support Specialist",
+      "company": "Upright (acquired by Dario Health)",
+      "start_date": "2019-09-01",
+      "end_date": "2020-12-01",
+      "skills": []
+    },
+    {
+      "job_id": "004",
+      "title": "Customer Success Manager",
+      "company": "Donna Italia Germany GmbH",
+      "start_date": "2016-07-01",
+      "end_date": "2018-08-01",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "Linux",
+    "PostgreSQL",
+    "Ubuntu",
+    "CentOS",
+    "MySQL",
+    "SQL",
+    "C (Programming Language)",
+    "Java",
+    "Microsoft Visual Studio Code",
+    "IntelliJ IDEA"
+  ]
+}
+{
+  "uid": "1903",
+  "label": "Database Administrator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Junior Database Administrator",
+      "company": "Experda.com",
+      "start_date": "2025-01-01",
+      "end_date": null,
+      "skills": [
+        "Transact-SQL (T-SQL)",
+        "Microsoft SQL Server",
+        "SQL Server Management Studio"
+      ]
+    }
+  ],
+  "skills": [
+    "Transact-SQL (T-SQL)",
+    "Microsoft SQL Server",
+    "SQL Server Management Studio"
+  ]
+}
+{
+  "uid": "1904",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Diploma",
+      "field": "Database Administration",
+      "institution": "Technion - Israel Institute of Technology",
+      "year_completed": 2013
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior Database Administrator",
+      "company": "Logica-IT",
+      "start_date": "2023-03-01",
+      "end_date": null,
+      "skills": [
+        "Server Administration",
+        "PostgreSQL",
+        "High Availability Clustering",
+        "MongoDB",
+        "MSSQL DBA",
+        "MySQL",
+        "Vertica",
+        "Linux"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "SQL Server Database Administrator",
+      "company": "Migdal Group",
+      "start_date": "2019-05-01",
+      "end_date": "2023-03-01",
+      "skills": [
+        "Troubleshooting",
+        "Disaster Recovery",
+        "Red Hat Linux",
+        "Oracle Database",
+        "SQL Server",
+        "Replication",
+        "SSRS",
+        "SSIS",
+        "Backup & Restore"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "SQL DBA",
+      "company": "LADPC",
+      "start_date": "2013-11-01",
+      "end_date": "2019-05-01",
+      "skills": [
+        "Troubleshooting",
+        "SQL Database Administration",
+        "T-SQL",
+        "SQL Tuning",
+        "Performance Tuning"
+      ]
+    }
+  ],
+  "skills": [
+    "Server Administration",
+    "PostgreSQL",
+    "High Availability Clustering",
+    "Workbench",
+    "MongoDB",
+    "MSSQL DBA",
+    "MySQL",
+    "Vertica",
+    "Linux",
+    "Red Hat Linux",
+    "Oracle Database",
+    "Disaster Recovery",
+    "Troubleshooting",
+    "SQL Database Administration",
+    "Microsoft SQL Server",
+    "SQL",
+    "Databases",
+    "T-SQL",
+    "SQL Tuning",
+    "Performance Tuning",
+    "Replication",
+    "SSRS",
+    "SSIS",
+    "Backup & Restore",
+    "Database Security",
+    "Stored Procedures",
+    "Database Triggers",
+    "Database Design",
+    "Log Shipping",
+    "PL/SQL",
+    "Microsoft Azure",
+    "Amazon Web Services (AWS)"
+  ]
+}
+{
+  "uid": "1905",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Practical Engineer",
+      "field": "Computer Software Engineering",
+      "institution": "ORT Colleges",
+      "year_completed": 2007
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "Harel Insurance & Finance",
+      "start_date": "2022-01-01",
+      "end_date": null,
+      "skills": []
+    },
+    {
+      "job_id": "002",
+      "title": "Sql Server Database Administrator",
+      "company": "SQLink Group",
+      "start_date": "2020-01-01",
+      "end_date": "2022-01-01",
+      "skills": []
+    },
+    {
+      "job_id": "003",
+      "title": "BI Developer",
+      "company": "Clalit Health Services",
+      "start_date": "2016-11-01",
+      "end_date": "2019-12-31",
+      "skills": [
+        "MSSQL",
+        "TSQL",
+        "SSIS",
+        "SSRS"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "PC Technician",
+      "company": "Clalit Health Services",
+      "start_date": "2015-02-01",
+      "end_date": "2016-10-31",
+      "skills": []
+    },
+    {
+      "job_id": "005",
+      "title": "Help Desk Technician",
+      "company": "Clalit Health Services",
+      "start_date": "2010-07-01",
+      "end_date": "2015-01-31",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "Transact-SQL (T-SQL)",
+    "SQL Server Reporting Services (SSRS)",
+    "SQL Server Integration Services (SSIS)",
+    "Microsoft SQL Server",
+    "Database Administration",
+    "MSSQL",
+    "TSQL"
+  ]
+}
+{
+  "uid": "1906",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Certificate",
+      "field": "Data Modeling/Warehousing and Database Administration",
+      "institution": "Technion - Israel Institute of Technology",
+      "year_completed": 2017
+    },
+    {
+      "degree": "Bachelor's degree",
+      "field": "Economics",
+      "institution": "The Max Stern Yezreel Valley College",
+      "year_completed": 2013
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior Database Administrator",
+      "company": "Cognyte",
+      "start_date": "2021-03-01",
+      "end_date": null,
+      "skills": [
+        "Transact-SQL (T-SQL)", "Performance Tuning", "ETL", "Elasticsearch", "MongoDB",
+        "SQL Server Integration Services (SSIS)", "Git", "Jenkins", "Grafana",
+        "SQL", "Microsoft SQL Server", "Kibana", "Groovy", "Bitbucket",
+        "CI/CD", "SQL Server Reporting Services (SSRS)", "MySQL"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Database Administrator",
+      "company": "Hilan",
+      "start_date": "2019-10-01",
+      "end_date": "2021-03-01",
+      "skills": [
+        "Transact-SQL (T-SQL)", "SQL", "ETL", "SSIS", "Performance Tuning",
+        "CRM Databases", "Microsoft SQL Server", "SQL Server Reporting Services (SSRS)"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Database Administrator",
+      "company": "Madanes Insurance Agency Ltd",
+      "start_date": "2017-03-01",
+      "end_date": "2019-10-01",
+      "skills": [
+        "Transact-SQL (T-SQL)", "SQL", "ETL", "SSIS", "Microsoft SQL Server",
+        "Performance Tuning", "Data Warehousing", "MongoDB", "CRM Databases"
+      ]
+    }
+  ],
+  "skills": [
+    "Transact-SQL (T-SQL)", "Performance Tuning", "ETL", "Elasticsearch", "MongoDB",
+    "SQL Server Integration Services (SSIS)", "Git", "Jenkins", "Grafana",
+    "SQL", "Microsoft SQL Server", "Kibana", "Groovy", "Bitbucket",
+    "CI/CD", "SQL Server Reporting Services (SSRS)", "MySQL", "CRM Databases"
+  ]
+}
+{
+  "uid": "1907",
+  "label": "Database Administrator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Sql Server Database Administrator",
+      "company": "eToro",
+      "start_date": "2019-02-01",
+      "end_date": null,
+      "skills": ["Microsoft SQL Server", "Databases", "Active Directory", "Oracle PL/SQL Development"]
+    },
+    {
+      "job_id": "002",
+      "title": "Senior Sql Database Administrator",
+      "company": "Malam Systems",
+      "start_date": "2016-02-01",
+      "end_date": "2019-02-01",
+      "skills": ["Microsoft SQL Server", "Databases"]
+    },
+    {
+      "job_id": "003",
+      "title": "Sql Developer",
+      "company": "BOLT Insurance Agency",
+      "start_date": "2014-01-01",
+      "end_date": "2016-02-01",
+      "skills": ["Microsoft SQL Server", "Oracle PL/SQL Development"]
+    },
+    {
+      "job_id": "004",
+      "title": "QA Engineer",
+      "company": "Varonis",
+      "start_date": "2012-01-01",
+      "end_date": "2014-01-01",
+      "skills": [
+        "Test Planning", "Manual Testing", "Regression Testing",
+        "User Acceptance Testing", "System Testing", "Active Directory",
+        "Microsoft SQL Server", "Databases"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "QA Bi",
+      "company": "Menora Mivtachim Pension Ltd",
+      "start_date": "2010-01-01",
+      "end_date": "2012-01-01",
+      "skills": ["Test Planning", "Manual Testing"]
+    },
+    {
+      "job_id": "006",
+      "title": "QA Engineer",
+      "company": "Taldor",
+      "start_date": "2008-01-01",
+      "end_date": "2010-01-01",
+      "skills": ["Test Planning", "System Testing"]
+    }
+  ],
+  "skills": [
+    "Microsoft SQL Server",
+    "Databases",
+    "Active Directory",
+    "Oracle PL/SQL Development",
+    "Test Planning",
+    "Manual Testing",
+    "Regression Testing",
+    "User Acceptance Testing",
+    "System Testing"
+  ]
+}
+{
+  "uid": "1908",
+  "label": "Database Administrator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "Align Technology",
+      "start_date": "2024-12-01",
+      "end_date": null,
+      "skills": [
+        "Microsoft SQL Server", "SQL", "PL/SQL", "Oracle SQL Developer", "Transact-SQL (T-SQL)", "SQL Tuning", "MongoDB",
+        "Elasticsearch", "Elastic Stack (ELK)", "Eck", "Python (Programming Language)", "Bash", "Linux", "Oracle Database",
+        "Oracle Database Administration", "Databases", "Data Modeling", "Database Design", "Troubleshooting", 
+        "Database Security", "High Availability (HA)", "Disaster Recovery", "Backup & Recovery Systems",
+        "Database Consulting", "PostgreSQL", "GoldenGate", "Oracle Data Guard", "Oracle RAC", "SQL DBA", "CommVault", "Redis", 
+        "Problem Solving"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Database Administrator",
+      "company": "Israel Defense Forces",
+      "start_date": "2022-07-01",
+      "end_date": null,
+      "skills": [
+        "Microsoft SQL Server", "SQL", "PL/SQL", "Oracle SQL Developer", "Transact-SQL (T-SQL)", "SQL Tuning", "MongoDB",
+        "Elasticsearch", "Elastic Stack (ELK)", "Eck", "Python (Programming Language)", "Bash", "Linux", "Oracle Database",
+        "Oracle Database Administration", "Databases", "Data Modeling", "Database Design", "Troubleshooting", 
+        "Database Security", "High Availability (HA)", "Disaster Recovery", "Backup & Recovery Systems",
+        "Database Consulting", "PostgreSQL", "GoldenGate", "Oracle Data Guard", "Oracle RAC", "SQL DBA", "CommVault", "Redis", 
+        "Problem Solving"
+      ]
+    }
+  ],
+  "skills": [
+    "Microsoft SQL Server", "SQL", "PL/SQL", "Oracle SQL Developer", "Transact-SQL (T-SQL)", "SQL Tuning", "MongoDB",
+    "Elasticsearch", "Elastic Stack (ELK)", "Eck", "Python (Programming Language)", "Bash", "Linux", "Oracle Database",
+    "Oracle Database Administration", "Databases", "Data Modeling", "Database Design", "Troubleshooting", 
+    "Database Security", "High Availability (HA)", "Disaster Recovery", "Backup & Recovery Systems",
+    "Database Consulting", "PostgreSQL", "GoldenGate", "Oracle Data Guard", "Oracle RAC", "SQL DBA", "CommVault", "Redis", 
+    "Problem Solving"
+  ]
+}
+{
+  "uid": "1909",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor of Laws",
+      "field": "Law",
+      "institution": "Ono Academic College",
+      "year_completed": 2015
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator Team Lead",
+      "company": "Pango",
+      "start_date": "2020-02-01",
+      "end_date": null,
+      "skills": [
+        "MongoDB",
+        "Amazon RDS",
+        "PostgreSQL",
+        "Red Hat Linux",
+        "Linux",
+        "MySQL",
+        "Amazon Web Services (AWS)",
+        "Amazon EC2",
+        "Amazon S3",
+        "Microsoft SQL Server"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Database Administrator",
+      "company": "Maccabi Health care Services",
+      "start_date": "2019-11-01",
+      "end_date": "2020-02-29",
+      "skills": [
+        "SQL Server",
+        "Couchbase"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "HBase Team Leader",
+      "company": "Unit 8200 - Israeli Intelligence Corps",
+      "start_date": "2019-05-01",
+      "end_date": "2019-10-31",
+      "skills": []
+    },
+    {
+      "job_id": "004",
+      "title": "SQL Server DBA Team Leader",
+      "company": "Unit 8200 - Israeli Intelligence Corps",
+      "start_date": "2019-02-01",
+      "end_date": "2019-10-31",
+      "skills": []
+    },
+    {
+      "job_id": "005",
+      "title": "Python Developer",
+      "company": "Unit 8200 - Israeli Intelligence Corps",
+      "start_date": "2018-09-01",
+      "end_date": "2019-10-31",
+      "skills": [
+        "Python",
+        "Flask"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Software Developer",
+      "company": "IDF Mamram",
+      "start_date": "2015-05-01",
+      "end_date": "2016-03-31",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "MongoDB",
+    "Amazon RDS",
+    "PostgreSQL",
+    "Red Hat Linux",
+    "Linux",
+    "MySQL",
+    "Amazon Web Services (AWS)",
+    "Amazon EC2",
+    "Amazon S3",
+    "Microsoft SQL Server",
+    "Transact-SQL (T-SQL)",
+    "T-SQL Stored Procedures",
+    "SQL Tuning",
+    "SQL Server Management Studio",
+    "Object-Oriented Programming (OOP)",
+    "Software Development",
+    "Java",
+    "Java Database Connectivity (JDBC)",
+    "JavaScript",
+    "Web Development",
+    "HTML",
+    "C++",
+    "C#",
+    "Program Development",
+    "Windows Server",
+    "SQL Server Reporting Services (SSRS)",
+    "Database Administration",
+    "Relational Databases",
+    "Database Design",
+    "Node.js",
+    "JSON",
+    "Bootstrap",
+    "AngularJS",
+    "Design Patterns",
+    "SQL Server Integration Services (SSIS)",
+    "Python",
+    "angular cli",
+    "Flask",
+    "HBase",
+    "Stored Procedures"
+  ]
+}
+{
+  "uid": "1910",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "field": "Industrial Engineering, Information Systems",
+      "institution": "SCE - Shamoon College of Engineering",
+      "year_completed": 2022
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "SQL Database Administrator",
+      "company": "Ryltech - DB & IT Services",
+      "start_date": "2024-03-01",
+      "end_date": null,
+      "skills": [
+        "Performance Tuning",
+        "Microsoft SQL Server",
+        "Database Management",
+        "Disaster Recovery",
+        "Backup & Recovery",
+        "Database Migrations",
+        "T-SQL Development",
+        "Security",
+        "Monitoring & Issue Resolution"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "SAP B1 Implementer & SQL Developer",
+      "company": "UTI trucks & buses",
+      "start_date": "2023-09-01",
+      "end_date": "2024-02-29",
+      "skills": [
+        "SQL/T-SQL Development",
+        "ETL",
+        "Data Analysis",
+        "SAP B1",
+        "Development Characterization"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "SAP B1 Implementer & SQL Developer",
+      "company": "Moroccanoil",
+      "start_date": "2021-12-01",
+      "end_date": "2023-08-31",
+      "skills": [
+        "SQL/T-SQL Development",
+        "Data Analysis",
+        "Data Warehousing",
+        "ETL",
+        "Quality Assurance",
+        "Development Characterization",
+        "SAP B1"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "System Implementer",
+      "company": "John Bryce",
+      "start_date": "2021-03-01",
+      "end_date": "2021-12-31",
+      "skills": [
+        "Presentation Skills",
+        "System Implementations",
+        "ERP Implementations"
+      ]
+    }
+  ],
+  "skills": [
+    "Performance Tuning",
+    "Microsoft SQL Server",
+    "SQL/T-SQL Development",
+    "Data Analysis",
+    "SAP B1",
+    "ETL",
+    "Quality Assurance",
+    "System Implementations",
+    "Database Management",
+    "Disaster Recovery",
+    "Backup & Recovery",
+    "Database Migrations",
+    "T-SQL Development",
+    "Security",
+    "Monitoring & Issue Resolution",
+    "Development Characterization"
+  ]
+}
+{
+  "uid": "1911",
+  "label": "Database Administrator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "Rimini Street",
+      "start_date": "2023-11-01",
+      "end_date": null,
+      "skills": [
+        "Oracle Database Administration",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Product Manager",
+      "company": "Israeli Military Intelligence",
+      "start_date": "2022-08-01",
+      "end_date": "2023-11-01",
+      "skills": [
+        "Customer Success",
+        "MLOps"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Database Architect",
+      "company": "Israeli Military Intelligence",
+      "start_date": "2020-11-01",
+      "end_date": "2022-08-01",
+      "skills": [
+        "MongoDB"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Oracle Database Administrator",
+      "company": "Israeli Military Intelligence",
+      "start_date": "2019-06-01",
+      "end_date": "2020-11-01",
+      "skills": [
+        "Oracle Database Administration"
+      ]
+    }
+  ],
+  "skills": [
+    "Oracle Database Administration",
+    "PostgreSQL",
+    "MongoDB",
+    "MLOps",
+    "Customer Success"
+  ]
+}
+{
+  "uid": "1912",
+  "label": "Database Administrator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior Database Administrator",
+      "company": "NICE Actimize",
+      "start_date": "2022-12-01",
+      "end_date": null,
+      "skills": [
+        "Amazon Relational Database Service (RDS)",
+        "Python",
+        "Optimization",
+        "Microsoft SQL Server",
+        "SSIS",
+        "DTS",
+        "Quest vWorkspace",
+        "SQL Tuning",
+        "T-SQL",
+        "Replication",
+        "Performance Tuning",
+        "SSRS",
+        "ETL",
+        "Database Design",
+        "OLTP",
+        "Cluster",
+        "Stored Procedures",
+        "High Availability",
+        "Databases",
+        "Database Administration",
+        "Disaster Recovery",
+        "SQL",
+        "Software Development",
+        "Servers",
+        "Data Migration",
+        "Windows Server",
+        "Analysis Services",
+        "VBScript",
+        "Business Intelligence",
+        "Unix",
+        "Oracle RAC",
+        ".NET",
+        "OLAP",
+        "Data Modeling",
+        "Data Warehousing",
+        "IIS"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Applicative DBA",
+      "company": "Genpact",
+      "start_date": "2019-02-01",
+      "end_date": "2022-12-01",
+      "skills": [
+        "Database Administration",
+        "SQL Server",
+        "ETL",
+        "Performance Tuning",
+        "SQL Tuning"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Co-Founder",
+      "company": "Self-employed",
+      "start_date": "2018-05-01",
+      "end_date": "2019-02-01",
+      "skills": []
+    },
+    {
+      "job_id": "004",
+      "title": "Platform DBA",
+      "company": "888holdings",
+      "start_date": "2012-06-01",
+      "end_date": "2018-05-01",
+      "skills": [
+        "SQL Server",
+        "Database Design",
+        "ETL"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Senior DBA",
+      "company": "Amdocs",
+      "start_date": "2010-09-01",
+      "end_date": "2012-07-01",
+      "skills": [
+        "Database Administration",
+        "SQL Server",
+        "Disaster Recovery"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "DBA SQL SERVER",
+      "company": "Malam",
+      "start_date": "2007-12-01",
+      "end_date": "2010-10-01",
+      "skills": [
+        "SQL Server",
+        "Database Administration"
+      ]
+    }
+  ],
+  "skills": [
+    "Amazon Relational Database Service (RDS)",
+    "Python",
+    "Optimization",
+    "Microsoft SQL Server",
+    "SSIS",
+    "DTS",
+    "Quest vWorkspace",
+    "SQL Tuning",
+    "T-SQL",
+    "Replication",
+    "Performance Tuning",
+    "SSRS",
+    "ETL",
+    "Database Design",
+    "OLTP",
+    "Cluster",
+    "Stored Procedures",
+    "High Availability",
+    "Databases",
+    "Database Administration",
+    "Disaster Recovery",
+    "SQL",
+    "Software Development",
+    "Servers",
+    "Data Migration",
+    "Windows Server",
+    "Analysis Services",
+    "VBScript",
+    "Business Intelligence",
+    "Unix",
+    "Oracle RAC",
+    ".NET",
+    "OLAP",
+    "Data Modeling",
+    "Data Warehousing",
+    "IIS"
+  ]
+}
+{
+  "uid": "1913",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor's",
+      "field": "Economy and Business Administration",
+      "institution": "Ariel University",
+      "year_completed": 2013
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "Experda.com",
+      "start_date": "2024-12-01",
+      "end_date": null,
+      "skills": [
+        "Database Administration",
+        "SQL",
+        "Microsoft SQL Server"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Database Administrator",
+      "company": "EPR Systems",
+      "start_date": "2022-07-01",
+      "end_date": "2024-12-01",
+      "skills": [
+        "Database Administration",
+        "SQL",
+        "Transact-SQL (T-SQL)",
+        "Microsoft SQL Server"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "QA Tester",
+      "company": "EPR Systems",
+      "start_date": "2014-07-01",
+      "end_date": "2022-07-01",
+      "skills": [
+        "QA Engineering",
+        "Test Automation Tools"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Business Banker",
+      "company": "Mercantile Discount Bank Ltd.",
+      "start_date": "2011-01-01",
+      "end_date": "2014-01-01",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "Database Administration",
+    "SQL",
+    "Microsoft SQL Server",
+    "Transact-SQL (T-SQL)",
+    "QA Engineering",
+    "Test Automation Tools"
+  ]
+}
+{
+  "uid": "1914",
+  "label": "Database Administrator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "SQL Database Administrator",
+      "company": "SQLink Group",
+      "start_date": "2018-11-01",
+      "end_date": null,
+      "skills": [
+        "Microsoft SQL Server",
+        "SAP HANA",
+        "Elastic Stack (ELK)",
+        "MongoDB",
+        "MySQL",
+        "Amazon S3"
+      ]
+    }
+  ],
+  "skills": [
+    "Microsoft SQL Server",
+    "SAP HANA",
+    "Elastic Stack (ELK)",
+    "MongoDB",
+    "MySQL",
+    "Amazon S3"
+  ]
+}
+{
+  "uid": "1915",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor's",
+      "field": "Computer science",
+      "institution": "Ort Ramat Gan",
+      "year_completed": 1997
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior SQL Database Administrator and TL",
+      "company": "Aristocrat (Formerly NeoGames)",
+      "start_date": "2023-10-01",
+      "end_date": null,
+      "skills": [
+        "Transact-SQL (T-SQL)",
+        "Application DBA",
+        "Troubleshooting",
+        "Elasticsearch",
+        "Relational Databases",
+        "Database Administration",
+        "Data Warehousing",
+        "Amazon S3",
+        "Amazon EC2",
+        "Jenkins",
+        "DevOps",
+        "Continuous Integration and Continuous Delivery (CI/CD)",
+        "Bash",
+        "Microsoft Azure",
+        "Amazon Web Services (AWS)",
+        "Key Performance Indicators",
+        "Automation",
+        "Regression Testing",
+        "Python (Programming Language)",
+        "Kubernetes",
+        "Agile Testing",
+        "Oracle Database",
+        "Software Quality Assurance",
+        "Test Planning",
+        "Unix",
+        "Docker Products",
+        "Performance Center"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Application DBA",
+      "company": "Micro Focus (formerly HP / Hewlett Packard Enterprise)",
+      "start_date": "2015-02-01",
+      "end_date": "2023-04-30",
+      "skills": [
+        "Transact-SQL (T-SQL)",
+        "Troubleshooting",
+        "Elasticsearch",
+        "Relational Databases",
+        "Database Administration",
+        "Data Warehousing",
+        "Amazon S3",
+        "Amazon EC2",
+        "Jenkins",
+        "DevOps",
+        "Continuous Integration and Continuous Delivery (CI/CD)",
+        "Bash",
+        "Microsoft Azure",
+        "Amazon Web Services (AWS)",
+        "Key Performance Indicators",
+        "Automation",
+        "Regression Testing",
+        "Python (Programming Language)",
+        "Kubernetes",
+        "Agile Testing",
+        "Oracle Database",
+        "Software Quality Assurance",
+        "Test Planning",
+        "Unix",
+        "Docker Products"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Software Performance Engineer",
+      "company": "HP Software",
+      "start_date": "2006-03-01",
+      "end_date": "2015-02-28",
+      "skills": [
+        "Regression Testing",
+        "Performance Center",
+        "LoadRunner",
+        "WinRunner",
+        "Performance Testing",
+        "Quality Center",
+        "Performance Tuning",
+        "PL/SQL",
+        "VBScript",
+        "SQL",
+        "Performance Engineering",
+        "Linux",
+        "System Testing",
+        "Load Testing",
+        "QTP"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Software Automation & Performance Engineer",
+      "company": "Tesnet",
+      "start_date": "2000-01-01",
+      "end_date": "2006-12-31",
+      "skills": [
+        "Regression Testing",
+        "Key Performance Indicators"
+      ]
+    }
+  ],
+  "skills": [
+    "Transact-SQL (T-SQL)",
+    "Troubleshooting",
+    "Elasticsearch",
+    "Relational Databases",
+    "Database Administration",
+    "Data Warehousing",
+    "Amazon S3",
+    "Amazon EC2",
+    "Jenkins",
+    "DevOps",
+    "Continuous Integration and Continuous Delivery (CI/CD)",
+    "Bash",
+    "Microsoft Azure",
+    "Amazon Web Services (AWS)",
+    "Key Performance Indicators",
+    "Automation",
+    "Regression Testing",
+    "Python (Programming Language)",
+    "Kubernetes",
+    "Agile Testing",
+    "Oracle Database",
+    "Software Quality Assurance",
+    "Test Planning",
+    "Unix",
+    "Docker Products",
+    "Performance Center",
+    "LoadRunner",
+    "WinRunner",
+    "Performance Testing",
+    "Quality Center",
+    "Performance Tuning",
+    "PL/SQL",
+    "VBScript",
+    "SQL",
+    "Performance Engineering",
+    "Linux",
+    "System Testing",
+    "Load Testing",
+    "QTP"
+  ]
+}
+{
+  "uid": "1916",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor of Business Administration - BBA",
+      "field": "Information Technology",
+      "institution": "The College of Management Academic Studies",
+      "year_completed": 2007
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Team Leader Database Administrator",
+      "company": "The Israeli Phoenix",
+      "start_date": "2021-06-01",
+      "end_date": null,
+      "skills": [
+        "Database Administration",
+        "SQL",
+        "Linux",
+        "RMAN",
+        "Replication",
+        "Oracle Database",
+        "Oracle RAC",
+        "Exadata",
+        "OEM Management"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Senior Database Administrator",
+      "company": "The Israeli Phoenix",
+      "start_date": "2013-02-01",
+      "end_date": null,
+      "skills": [
+        "Database Administration",
+        "SQL",
+        "Linux",
+        "RMAN",
+        "Replication",
+        "Oracle Database",
+        "Oracle RAC",
+        "Exadata",
+        "OEM Management"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Database Administrator",
+      "company": "Partner Israel",
+      "start_date": "2006-02-01",
+      "end_date": "2013-01-31",
+      "skills": [
+        "Database Administration",
+        "SQL",
+        "Linux",
+        "Oracle Database",
+        "PL/SQL",
+        "MySQL",
+        "Shell Scripting",
+        "MongoDB"
+      ]
+    }
+  ],
+  "skills": [
+    "Database Administration",
+    "SQL",
+    "Linux",
+    "RMAN",
+    "Replication",
+    "Oracle Database",
+    "Oracle RAC",
+    "Exadata",
+    "OEM Management",
+    "PL/SQL",
+    "MySQL",
+    "Shell Scripting",
+    "MongoDB",
+    "Elastic Stack (ELK)"
+  ]
+}
+{
+  "uid": "1917",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor of Arts - BA",
+      "field": "Music Performance, General",
+      "institution": "The Jerusalem Academy of Music and Dance",
+      "year_completed": 2004
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "PostgreSQL Database Administrator",
+      "company": "Postgres Professionals",
+      "start_date": "2019-06-01",
+      "end_date": "2020-12-31",
+      "skills": [
+        "Database Administration",
+        "Linux",
+        "PostgreSQL",
+        "PL/SQL",
+        "Backup Management",
+        "Replications",
+        "User Management",
+        "Logs Parsing",
+        "Vacuuming"
+      ]
+    }
+  ],
+  "skills": [
+    "Database Administration",
+    "Linux",
+    "PostgreSQL",
+    "PL/SQL",
+    "Python (Programming Language)",
+    "Start-ups",
+    "Teamwork",
+    "Backup Management",
+    "Replications",
+    "User Management",
+    "Logs Parsing",
+    "Vacuuming"
+  ]
+}
+{
+  "uid": "1918",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Doctor of Philosophy - PhD",
+      "field": "Plant Molecular Biology",
+      "institution": "Tel Aviv University",
+      "year_completed": 2017
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Oracle Database Administrator",
+      "company": "Rimini Street",
+      "start_date": "2021-01-01",
+      "end_date": null,
+      "skills": [
+        "Oracle Database Administration",
+        "Database Administration",
+        "Performance Tuning",
+        "Oracle Database",
+        "PL/SQL"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Postdoctoral Researcher",
+      "company": "Tel Aviv University",
+      "start_date": "2019-08-01",
+      "end_date": "2021-01-31",
+      "skills": [
+        "Research",
+        "Bioinformatics",
+        "Molecular Biology",
+        "Genomics",
+        "Genetics"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Postdoctoral Researcher",
+      "company": "The University of Georgia",
+      "start_date": "2017-01-01",
+      "end_date": "2019-12-31",
+      "skills": [
+        "Research",
+        "Bioinformatics",
+        "Molecular Biology",
+        "Genomics",
+        "Genetics"
+      ]
+    }
+  ],
+  "skills": [
+    "Oracle Database Administration",
+    "Database Administration",
+    "Performance Tuning",
+    "Oracle Database",
+    "PL/SQL",
+    "Bioinformatics",
+    "Molecular Biology",
+    "Genomics",
+    "Genetics",
+    "Python (Programming Language)",
+    "Pandas (Software)",
+    "Manuscript",
+    "NGS",
+    "Biology"
+  ]
+}
+{
+  "uid": "1919",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "BA",
+      "field": "Computer Science and Management",
+      "institution": "Ramat Gan College",
+      "year_completed": 2008
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "Maccabi Health care Services",
+      "start_date": "Nov 2023",
+      "end_date": null,
+      "skills": [
+        "PostgreSQL",
+        "RDBMS",
+        "Database Consulting",
+        "Query Writing",
+        "Data Migration",
+        "Compliance Oversight",
+        "Data Integration",
+        "Problem Solving",
+        "SQL Server Analysis Services (SSAS)",
+        "SQL DBA",
+        "Active Directory",
+        "Data Management",
+        "Database Systems",
+        "VMware Infrastructure",
+        "MySQL",
+        "Couchbase",
+        "Apache Kafka",
+        "Java",
+        "ESB",
+        "Clicks",
+        "Uc4",
+        "Informatica",
+        "Amazon Web Services (AWS)",
+        "Azure SQL",
+        "Data Warehousing",
+        "IIS",
+        "Linux",
+        "Microsoft Dynamics CRM"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Senior Database Consultant",
+      "company": "Senticore Technologies",
+      "start_date": "Aug 2022",
+      "end_date": "Sep 2024",
+      "skills": [
+        "RDBMS",
+        "Query Writing",
+        "Data Migration",
+        "Compliance Oversight",
+        "Data Integration",
+        "Problem Solving",
+        "Data Architecture",
+        "Data Management",
+        "Amazon Web Services (AWS)",
+        "Database Systems"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Senior SQL Consultant",
+      "company": "SAKKOYA – Promoting Business with Technology Ltd.",
+      "start_date": "Mar 2017",
+      "end_date": "Sep 2024",
+      "skills": [
+        "RDBMS",
+        "Query Writing",
+        "Data Migration",
+        "Compliance Oversight",
+        "Data Integration",
+        "Problem Solving",
+        "Data Architecture",
+        "Data Management",
+        "Amazon Web Services (AWS)",
+        "Database Systems"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Data Architect FHIR Project",
+      "company": "Hadassah Medical Center",
+      "start_date": "Jun 2023",
+      "end_date": "Jul 2024",
+      "skills": [
+        "RDBMS",
+        "Query Writing",
+        "Compliance Oversight",
+        "Data Integration",
+        "Problem Solving",
+        "Data Management",
+        "Database Systems",
+        "Fast Healthcare Interoperability Resources (FHIR)"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Senior SQL Database Administrator",
+      "company": "Altshuler Shaham",
+      "start_date": "Jan 2019",
+      "end_date": "Aug 2022",
+      "skills": [
+        "RDBMS",
+        "Query Writing",
+        "Data Migration",
+        "Compliance Oversight",
+        "Data Integration",
+        "Problem Solving",
+        "SQL Server Analysis Services (SSAS)",
+        "Active Directory",
+        "Data Management",
+        "Database Systems",
+        "VMware Infrastructure"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Senior SQL DBA",
+      "company": "Union Bank of Israel",
+      "start_date": "Dec 2008",
+      "end_date": "Nov 2015",
+      "skills": [
+        "RDBMS",
+        "Query Writing",
+        "Data Migration",
+        "Compliance Oversight",
+        "Data Integration",
+        "Problem Solving",
+        "SQL Server Analysis Services (SSAS)",
+        "Active Directory",
+        "Data Management",
+        "Database Systems",
+        "VMware Infrastructure"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "DBA and System Administrator",
+      "company": "ERG Solutions",
+      "start_date": "Jan 2006",
+      "end_date": "Sep 2008",
+      "skills": [
+        "RDBMS",
+        "Query Writing",
+        "Data Migration",
+        "Data Integration",
+        "Problem Solving",
+        "Data Management",
+        "Database Systems",
+        "VMware Infrastructure"
+      ]
+    }
+  ],
+  "skills": [
+    "PostgreSQL",
+    "RDBMS",
+    "Database Consulting",
+    "Query Writing",
+    "Data Migration",
+    "Compliance Oversight",
+    "Data Integration",
+    "Problem Solving",
+    "SQL Server Analysis Services (SSAS)",
+    "SQL DBA",
+    "Active Directory",
+    "Data Management",
+    "Database Systems",
+    "VMware Infrastructure",
+    "MySQL",
+    "Couchbase",
+    "Apache Kafka",
+    "Java",
+    "ESB",
+    "Clicks",
+    "Uc4",
+    "Informatica",
+    "Amazon Web Services (AWS)",
+    "Azure SQL",
+    "Data Warehousing",
+    "IIS",
+    "Linux",
+    "Microsoft Dynamics CRM",
+    "Data Architecture",
+    "Fast Healthcare Interoperability Resources (FHIR)",
+    "T-SQL",
+    "Performance Tuning",
+    "Replication",
+    "High Availability",
+    "SQL Tuning",
+    "Databases",
+    "SSIS",
+    "Cluster",
+    "Systems Analysis",
+    "Business Intelligence",
+    "Integration"
+  ]
+}
+{
+  "uid": "1920",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor of Science - B.Sc",
+      "field": "Computer Science",
+      "institution": "Ashkelon Academic College",
+      "year_completed": 2018
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "Bank of Israel",
+      "start_date": "Sep 2019",
+      "end_date": null,
+      "skills": [
+        "Microsoft SQL Server",
+        "Oracle Database",
+        "Unix",
+        "Java",
+        "C++",
+        "C",
+        "Database Administration",
+        "Database Systems",
+        "Performance Tuning",
+        "High Availability",
+        "SQL Tuning",
+        "Replication",
+        "Data Management",
+        "Systems Analysis"
+      ]
+    }
+  ],
+  "skills": [
+    "Microsoft Office",
+    "Management",
+    "Microsoft Excel",
+    "Microsoft Word",
+    "Microsoft PowerPoint",
+    "Public Speaking",
+    "Eclipse",
+    "Leadership",
+    "Java",
+    "C++",
+    "C",
+    "Self-confidence",
+    "Microsoft SQL Server",
+    "Oracle Database",
+    "Unix"
+  ]
+}
+{
+  "uid": "1921",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor of Science - B.Sc",
+      "field": "Mechanical Engineering",
+      "institution": "Ben-Gurion University of the Negev",
+      "year_completed": null
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "Isracard",
+      "start_date": "Oct 2023",
+      "end_date": null,
+      "skills": [
+        "z/OS",
+        "COBOL",
+        "Job Control Language (JCL)",
+        "IBM Db2",
+        "SQL DBA"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Database Administrator",
+      "company": "Bank Hapoalim",
+      "start_date": "Aug 2022",
+      "end_date": "Oct 2023",
+      "skills": [
+        "z/OS",
+        "COBOL",
+        "Job Control Language (JCL)",
+        "IBM Db2",
+        "SQL DBA"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Product Manager",
+      "company": "Castify.ai",
+      "start_date": "Sep 2019",
+      "end_date": "May 2021",
+      "skills": [
+        "Product Management",
+        "Team Leadership",
+        "Product Development",
+        "Product Design",
+        "Product Requirements",
+        "Analytical Skills",
+        "User Experience (UX)",
+        "Business-to-Business (B2B)",
+        "E-commerce",
+        "Online Advertising",
+        "Educational Technology",
+        "JavaScript",
+        "Live Video Streaming"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Project Manager",
+      "company": "Israel Defense Forces",
+      "start_date": "Oct 2016",
+      "end_date": "Oct 2019",
+      "skills": [
+        "Team Management",
+        "Team Building",
+        "Time Management",
+        "Communication",
+        "Decision-Making",
+        "Problem Solving"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Product Manager",
+      "company": "Interactive Solutions",
+      "start_date": "Oct 2018",
+      "end_date": "Jan 2019",
+      "skills": [
+        "Product Management",
+        "Team Leadership",
+        "Product Development",
+        "Product Design",
+        "Product Requirements"
+      ]
+    }
+  ],
+  "skills": [
+    "z/OS",
+    "COBOL",
+    "Job Control Language (JCL)",
+    "IBM Db2",
+    "SQL DBA",
+    "Product Management",
+    "Team Leadership",
+    "Product Development",
+    "Product Design",
+    "Product Requirements",
+    "Analytical Skills",
+    "User Experience (UX)",
+    "Business-to-Business (B2B)",
+    "E-commerce",
+    "Online Advertising",
+    "Educational Technology",
+    "JavaScript",
+    "Live Video Streaming",
+    "Team Management",
+    "Team Building",
+    "Time Management",
+    "Communication",
+    "Decision-Making",
+    "Problem Solving",
+    "Hebrew",
+    "Spanish",
+    "SOLIDWORKS",
+    "Ctv",
+    "Over-the-Top Content (OTT)",
+    "Monetization"
+  ]
+}
+{
+  "uid": "1922",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "institution": "Holon Institute of Technology",
+      "year_completed": 2011
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Lead Database Administrator",
+      "company": "Just Eat Takeaway.com",
+      "start_date": "2021-12-01",
+      "end_date": null,
+      "skills": [
+        "Azure SQL", 
+        "Azure Data Factory", 
+        "Python (Programming Language)", 
+        "Elastic Stack (ELK)", 
+        "NoSQL", 
+        "Microsoft SQL Server", 
+        "Performance Tuning", 
+        "Integration", 
+        "SSRS", 
+        "SSIS", 
+        "T-SQL", 
+        "Unix", 
+        "SQL", 
+        "Data Warehousing"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Engineer And Senior DBA",
+      "company": "Harel Insurance & Finance",
+      "start_date": "2016-09-01",
+      "end_date": "2021-12-01",
+      "skills": [
+        "Microsoft SQL Server", 
+        "NoSQL", 
+        "Python", 
+        "Linux shell", 
+        "MSSQL", 
+        "MongoDB", 
+        "ELK Stack", 
+        "Redis", 
+        "AWS", 
+        "Azure", 
+        "Power BI"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "SQL Server DBA",
+      "company": "NAYA-Technologies",
+      "start_date": "2013-08-01",
+      "end_date": "2016-08-01",
+      "skills": [
+        "Microsoft SQL Server", 
+        "SSIS"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "DBA & BI",
+      "company": "Alvarion Ltd.",
+      "start_date": "2012-10-01",
+      "end_date": "2013-08-01",
+      "skills": [
+        "Microsoft SQL Server", 
+        "SSIS"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "DBA Consultant",
+      "company": "Inspire Technologies",
+      "start_date": "2011-11-01",
+      "end_date": "2012-10-01",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "Azure SQL", 
+    "Azure Data Factory", 
+    "Python (Programming Language)", 
+    "Elastic Stack (ELK)", 
+    "NoSQL", 
+    "Microsoft SQL Server", 
+    "Performance Tuning", 
+    "Integration", 
+    "SSRS", 
+    "SSIS", 
+    "T-SQL", 
+    "Unix", 
+    "SQL", 
+    "Data Warehousing", 
+    "MongoDB", 
+    "ETL", 
+    "Hadoop", 
+    "Transact-SQL (T-SQL)"
+  ]
+}
+{
+  "uid": "1923",
+  "label": "Database Administrator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "DBA DB2",
+      "company": "max מקס",
+      "start_date": "Nov 2024",
+      "end_date": null,
+      "skills": [
+        "DB2"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Database Administrator",
+      "company": "Discount Bank",
+      "start_date": "Mar 2020",
+      "end_date": null,
+      "skills": [
+        "DB2",
+        "Databases",
+        "Systems Analysis",
+        "Business Requirements",
+        "Integration",
+        "ETL"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Team Leader, System Analyst",
+      "company": "Discount Bank",
+      "start_date": "Mar 2005",
+      "end_date": null,
+      "skills": [
+        "Software System Analysis",
+        "Business Analysis",
+        "Systems Analysis",
+        "Software Project Management",
+        "Business Requirements",
+        "Software Development"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Senior MF Programmer",
+      "company": "Surecomp",
+      "start_date": "Feb 1998",
+      "end_date": "Mar 2005",
+      "skills": [
+        "COBOL",
+        "IBM Mainframe",
+        "Software Design",
+        "Software Development",
+        "Requirements Analysis"
+      ]
+    }
+  ],
+  "skills": [
+    "DB2",
+    "Databases",
+    "Systems Analysis",
+    "Business Requirements",
+    "Integration",
+    "ETL",
+    "Software System Analysis",
+    "Business Analysis",
+    "Software Project Management",
+    "Software Development",
+    "COBOL",
+    "IBM Mainframe",
+    "Software Design",
+    "Requirements Analysis",
+    "Credit Risk",
+    "Retail Banking",
+    "Credit",
+    "Trade Finance",
+    "Banking",
+    "Banking Software"
+  ]
+}
+{
+  "uid": "1924",
+  "label": "Database Administrator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "SQL Database Administrator",
+      "company": "One BI",
+      "start_date": "May 2021",
+      "end_date": null,
+      "skills": [
+        "SQL",
+        "Databases",
+        "MySQL",
+        "PostgreSQL",
+        "Python",
+        "Microsoft SQL Server",
+        "Linux",
+        "Windows"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Junior Database Administrator",
+      "company": "EXPERDA - Expert DBA Solutions",
+      "start_date": "Jun 2019",
+      "end_date": null,
+      "skills": [
+        "SQL",
+        "Databases",
+        "C#",
+        "Windows Server",
+        "PostgreSQL",
+        "Technical Support"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Technical Support Specialist",
+      "company": "NCR Corporation",
+      "start_date": "Aug 2018",
+      "end_date": "Jun 2019",
+      "skills": [
+        "Technical Support",
+        "Windows",
+        "Networking"
+      ]
+    }
+  ],
+  "skills": [
+    "SQL",
+    "Databases",
+    "MySQL",
+    "PostgreSQL",
+    "Python",
+    "C#",
+    "Microsoft SQL Server",
+    "Linux",
+    "Windows",
+    "Windows Server",
+    "Technical Support",
+    "Networking"
+  ]
+}
+{
+  "uid": "1925",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "DBA",
+      "field": "Database Administration",
+      "institution": "האקריו - HackerU",
+      "year_completed": 2022
+    },
+    {
+      "degree": "Bachelor of Science",
+      "field": "Economist",
+      "institution": "The Open University of Israel",
+      "year_completed": 2016
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "Cognyte",
+      "start_date": "Nov 2022",
+      "end_date": null,
+      "skills": [
+        "MySQL",
+        "PostgreSQL",
+        "SQL",
+        "Bash",
+        "Oracle SQL Developer",
+        "Linux"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Database Administrator",
+      "company": "019Mobile",
+      "start_date": "Oct 2018",
+      "end_date": "Nov 2022",
+      "skills": [
+        "MySQL",
+        "Oracle Database",
+        "Oracle Database Administration",
+        "ETL",
+        "Bash",
+        "PostgreSQL",
+        "SQL",
+        "Python",
+        "Mongo",
+        "Linux",
+        "PL/SQL"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Shift NOC Manager",
+      "company": "Telzar Infrastructure",
+      "start_date": "Dec 2010",
+      "end_date": "Oct 2018",
+      "skills": [
+        "Shift Management",
+        "NOC"
+      ]
+    }
+  ],
+  "skills": [
+    "MySQL",
+    "PostgreSQL",
+    "SQL",
+    "Bash",
+    "Oracle Database",
+    "Oracle Database Administration",
+    "ETL",
+    "Python",
+    "Mongo",
+    "Linux",
+    "PL/SQL",
+    "Oracle SQL Developer"
+  ]
+}
+{
+  "uid": "1926",
+  "label": "Database Administrator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "Sapiens",
+      "start_date": "Aug 2020",
+      "end_date": null,
+      "skills": [
+        "Microsoft SQL Server",
+        "SQL Server 2016",
+        "SQL Server 2017",
+        "SQL Server 2019",
+        "Query Store",
+        "Extended Events",
+        "Disaster Recovery",
+        "High Availability",
+        "Backups and Restores",
+        "Database Installations",
+        "Performance Tuning",
+        "Indexing"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Database Administrator",
+      "company": "Mivtach Simon",
+      "start_date": "Dec 2019",
+      "end_date": "Aug 2020",
+      "skills": [
+        "Microsoft SQL Server"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Database Administrator",
+      "company": "Valinor Ltd.",
+      "start_date": "Jun 2019",
+      "end_date": "Aug 2020",
+      "skills": [
+        "SQL Server",
+        "PostgreSQL",
+        "Python",
+        "Linux"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "SQL Server DBA",
+      "company": "EXPERDA - Expert DBA Solutions",
+      "start_date": "Jun 2018",
+      "end_date": "Jun 2019",
+      "skills": [
+        "SQL Server"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "DBA",
+      "company": "Made4Net",
+      "start_date": "Sep 2014",
+      "end_date": "Jun 2018",
+      "skills": [
+        "SQL Server",
+        "Logistics",
+        "Database Administration"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "SQL Programmer",
+      "company": "Sniper Marketing",
+      "start_date": "Aug 2012",
+      "end_date": "Sep 2013",
+      "skills": [
+        "SQL"
+      ]
+    }
+  ],
+  "skills": [
+    "Microsoft SQL Server",
+    "SQL Server 2016",
+    "SQL Server 2017",
+    "SQL Server 2019",
+    "Query Store",
+    "Extended Events",
+    "Disaster Recovery",
+    "High Availability",
+    "Backups and Restores",
+    "Database Installations",
+    "Performance Tuning",
+    "Indexing",
+    "PostgreSQL",
+    "Python",
+    "Linux",
+    "SSIS",
+    "C#",
+    "ASP.NET",
+    "Entity Framework",
+    "Windows Server 2012",
+    "Windows Server 2008",
+    "Active Directory",
+    "IIS",
+    "DNS",
+    "DHCP",
+    "VPN"
+  ]
+}
+{
+  "uid": "1927",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "MBA",
+      "field": "Business Administration",
+      "institution": "Tel Aviv University",
+      "year_completed": 2010
+    },
+    {
+      "degree": "B.Sc",
+      "field": "Computer Science and Mathematics",
+      "institution": "Bar-Ilan University",
+      "year_completed": 2004
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior Database Administrator",
+      "company": "Q-nomy, Inc.",
+      "start_date": "2021-04-01",
+      "end_date": null,
+      "skills": [
+        "SQL Server",
+        "T-SQL",
+        "Performance Tuning",
+        "Software Development",
+        "Databases",
+        "SSRS",
+        "Database Design",
+        "Stored Procedures"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Database Domain Expert",
+      "company": "Quest Software",
+      "start_date": "2019-11-01",
+      "end_date": "2021-04-01",
+      "skills": [
+        "SQL Server",
+        "SAP Sybase",
+        "PostgreSQL",
+        "MySQL",
+        "Azure",
+        "AWS RDS",
+        "Google Cloud",
+        "Agile Development",
+        "SQL Development"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Senior DBA, DBA Team Leader",
+      "company": "Migdal Group (Mivtach Simon)",
+      "start_date": "2016-12-01",
+      "end_date": "2019-10-01",
+      "skills": [
+        "Transact SQL",
+        "Database Performance Tuning",
+        "DB Design",
+        "SSIS",
+        "SQL Server"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "SQL Server DBA",
+      "company": "888holdings",
+      "start_date": "2014-06-01",
+      "end_date": "2016-11-01",
+      "skills": [
+        "DB Design",
+        "Transact SQL",
+        "SQL Server",
+        "Performance Tuning"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "SQL Server DBA",
+      "company": "Britannica Knowledge Systems",
+      "start_date": "2010-10-01",
+      "end_date": "2014-06-01",
+      "skills": [
+        "SQL Server",
+        "Database Performance Tuning",
+        "DB Design"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Project Manager, Programmer and Applicative DBA",
+      "company": "Contel ITS",
+      "start_date": "2005-07-01",
+      "end_date": "2010-10-01",
+      "skills": [
+        "Project Management",
+        "Database Administration",
+        "QA",
+        "Customer Support"
+      ]
+    }
+  ],
+  "skills": [
+    "SQL Server",
+    "T-SQL",
+    "Performance Tuning",
+    "Software Development",
+    "Databases",
+    "SSRS",
+    "Database Design",
+    "Stored Procedures",
+    "SAP Sybase",
+    "PostgreSQL",
+    "MySQL",
+    "Azure",
+    "AWS RDS",
+    "Google Cloud",
+    "Agile Development",
+    "Transact SQL",
+    "SSIS",
+    "Project Management",
+    "QA",
+    "Customer Support"
+  ]
+}
+{
+  "uid": "1928",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "institution": "Ashkelon Academic College",
+      "year_completed": 2021
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "MSSQL Database Administrator",
+      "company": "GreenRoad",
+      "start_date": "2024-08-01",
+      "end_date": null,
+      "skills": [
+        "Microsoft SQL Server",
+        "Transact-SQL (T-SQL)",
+        "Performance Tuning"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "MSSQL Database Administrator",
+      "company": "Ryltech - DB & IT Services",
+      "start_date": "2022-08-01",
+      "end_date": "2024-08-01",
+      "skills": [
+        "Microsoft SQL Server",
+        "Transact-SQL (T-SQL)",
+        "Performance Tuning"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Mechanical Technician",
+      "company": "Nano Dimension",
+      "start_date": "2018-01-01",
+      "end_date": "2018-12-31",
+      "skills": []
+    },
+    {
+      "job_id": "004",
+      "title": "Research And Development Technician",
+      "company": "HP",
+      "start_date": "2015-01-01",
+      "end_date": "2017-12-31",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "Amazon Web Services (AWS)",
+    "PySpark",
+    "Apache Kafka",
+    "Apache Spark",
+    "MongoDB",
+    "NoSQL",
+    "PostgreSQL",
+    "MariaDB",
+    "MySQL",
+    "Git",
+    "Linux",
+    "Docker",
+    "Elasticsearch",
+    "Performance Tuning",
+    "Microsoft SQL Server",
+    "Transact-SQL (T-SQL)",
+    "Python",
+    "Java",
+    "SQL"
+  ]
+}
+{
+  "uid": "1929",
+  "label": "Database Administrator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "Shift4",
+      "start_date": "2023-10-01",
+      "end_date": null,
+      "skills": [
+        "Database Consulting",
+        "Backup & Recovery Systems",
+        "Database Administration",
+        "Performance Management",
+        "DevOps",
+        "Linux System Administration",
+        "Performance Tuning",
+        "Linux",
+        "Bash",
+        "Python",
+        "Git",
+        "Jenkins",
+        "Ansible",
+        "GitHub",
+        "Docker"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Database Administrator",
+      "company": "Finaro (acquired by Shift4)",
+      "start_date": "2020-08-01",
+      "end_date": "2023-10-01",
+      "skills": [
+        "Database Consulting",
+        "Backup & Recovery Systems",
+        "Database Administration",
+        "Performance Management",
+        "DevOps",
+        "Linux System Administration",
+        "Performance Tuning",
+        "Linux",
+        "Bash",
+        "Python",
+        "Git",
+        "Jenkins",
+        "Ansible",
+        "GitHub",
+        "Docker"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Oracle Database Administrator",
+      "company": "Axxana",
+      "start_date": "2018-01-01",
+      "end_date": "2020-04-30",
+      "skills": [
+        "Oracle Database",
+        "Database Administration",
+        "Performance Management"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "DevOps Engineer",
+      "company": "Axxana",
+      "start_date": "2018-01-01",
+      "end_date": "2020-04-30",
+      "skills": [
+        "DevOps",
+        "Automation",
+        "Linux System Administration",
+        "Bash",
+        "Python",
+        "Git",
+        "Jenkins",
+        "Ansible",
+        "GitHub",
+        "Docker"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "System And Database Administrator",
+      "company": "J6 & Cyber Defense Directorate, IDF",
+      "start_date": "2014-03-01",
+      "end_date": "2017-11-30",
+      "skills": [
+        "System Administration",
+        "Database Administration",
+        "Linux",
+        "Bash"
+      ]
+    }
+  ],
+  "skills": [
+    "Database Consulting",
+    "Backup & Recovery Systems",
+    "Database Administration",
+    "Performance Management",
+    "DevOps",
+    "Linux System Administration",
+    "Performance Tuning",
+    "Linux",
+    "Bash",
+    "Python",
+    "Git",
+    "Jenkins",
+    "Ansible",
+    "GitHub",
+    "Docker",
+    "Oracle Database",
+    "MySQL",
+    "Automation",
+    "PXE",
+    "Cobbler",
+    "Bitbucket"
+  ]
+}
+{
+  "uid": "1930",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "MCSA, TCDBA with excellence, MCDBA",
+      "field": "Database Administration",
+      "institution": "Technion",
+      "year_completed": 2014
+    },
+    {
+      "degree": "BSc, Industrial Management; IT Engineering",
+      "field": "Industrial Management; IT Engineering",
+      "institution": "Ruppin",
+      "year_completed": 2010
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "EY",
+      "start_date": "2023-04-01",
+      "end_date": null,
+      "skills": [
+        "Database Design",
+        "Disaster Recovery",
+        "Performance Tuning",
+        "High Availability (HA)",
+        "SQL",
+        "Microsoft SQL Server",
+        "Query Writing"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Database Administrator",
+      "company": "Cyren",
+      "start_date": "2022-03-01",
+      "end_date": "2023-02-28",
+      "skills": [
+        "Database Design",
+        "Disaster Recovery",
+        "Performance Tuning",
+        "High Availability (HA)",
+        "SQL",
+        "Microsoft SQL Server",
+        "Query Writing"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Database Administrator",
+      "company": "TWINGO",
+      "start_date": "2021-01-01",
+      "end_date": "2022-03-31",
+      "skills": [
+        "Performance Tuning",
+        "SQL",
+        "Microsoft SQL Server"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Database Administrator",
+      "company": "Performit Ltd.",
+      "start_date": "2019-10-01",
+      "end_date": "2021-01-31",
+      "skills": [
+        "Performance Tuning",
+        "SQL",
+        "Microsoft SQL Server"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "DBA / Support Engineer T2",
+      "company": "Agent Video Intelligence",
+      "start_date": "2014-10-01",
+      "end_date": "2019-10-01",
+      "skills": [
+        "SQL",
+        "Database Design"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Application DBA / Project Manager",
+      "company": "ARTIS MULTIMEDIA LTD.",
+      "start_date": "2011-06-01",
+      "end_date": "2014-09-30",
+      "skills": [
+        "Database Administration",
+        "Project Management"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "IT Manager",
+      "company": "Music Gate",
+      "start_date": "2008-07-01",
+      "end_date": "2010-12-31",
+      "skills": [
+        "IT Management",
+        "Project Management"
+      ]
+    }
+  ],
+  "skills": [
+    "Database Design",
+    "Disaster Recovery",
+    "Performance Tuning",
+    "High Availability (HA)",
+    "SQL",
+    "Microsoft SQL Server",
+    "Query Writing",
+    "Linux",
+    "Unix",
+    "Windows",
+    "Jira",
+    "Tortoise SVN",
+    "Splunk",
+    "Solarwinds DPA",
+    "Object Oriented Design",
+    "Visual Basic",
+    "Python",
+    "Sybase",
+    "Vertica",
+    "SingleStore",
+    "Software Development",
+    "Testing",
+    "Management",
+    "Project Management",
+    "Code Review",
+    "DevOps"
+  ]
+}
+{
+  "uid": "1931",
+  "label": "Database Administrator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "SangIT",
+      "start_date": "2021-08-01",
+      "end_date": null,
+      "skills": [
+        "Data Migration",
+        "Oracle Database",
+        "Oracle Cloud",
+        "Oracle Autonomous Database",
+        "Oracle Cloud Infrastructure",
+        "Linux",
+        "MCSA",
+        "Active Directory",
+        "Domain Name System (DNS)",
+        "Dynamic Host Configuration Protocol (DHCP)",
+        "Group Policy",
+        "Routing",
+        "Remote Desktop",
+        "Batch Files",
+        "Distributed File System (DFS)",
+        "EFS",
+        "Virtual Private Network (VPN)",
+        "IPSec",
+        "Oracle E-Business Suite",
+        "Oracle Applications"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "IT Specialist",
+      "company": "Shenkar - Engineering. Design. Art.",
+      "start_date": "2020-10-01",
+      "end_date": "2021-08-31",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "Data Migration",
+    "Oracle Database",
+    "Oracle Cloud",
+    "Oracle Autonomous Database",
+    "Oracle Cloud Infrastructure",
+    "Linux",
+    "MCSA",
+    "Active Directory",
+    "Domain Name System (DNS)",
+    "Dynamic Host Configuration Protocol (DHCP)",
+    "Group Policy",
+    "Routing",
+    "Remote Desktop",
+    "Batch Files",
+    "Distributed File System (DFS)",
+    "EFS",
+    "Virtual Private Network (VPN)",
+    "IPSec",
+    "Oracle E-Business Suite",
+    "Oracle Applications",
+    "Communication",
+    "English"
+  ]
+}
+{
+  "uid": "1932",
+  "label": "Database Administrator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "Israel Railways Ltd.",
+      "start_date": "2023-02-01",
+      "end_date": null,
+      "skills": [
+        "Microsoft SQL Server",
+        "Oracle Database",
+        "SQL Database Administration",
+        "Oracle Database Administration",
+        "Transact-SQL (T-SQL)",
+        "High Availability",
+        "SQL Server Integration Services (SSIS)",
+        "SQL Server Management Studio",
+        "SQL",
+        "Powershell",
+        "Mirroring",
+        "Log Shipping",
+        "Replication",
+        "Stored Procedures",
+        "SQL Tuning",
+        "T-SQL Stored Procedures"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "SQL Database Administrator",
+      "company": "Performit",
+      "start_date": "2021-08-01",
+      "end_date": "2023-02-01",
+      "skills": [
+        "SQL Database Administration",
+        "SQL Server Management Studio",
+        "Transact-SQL (T-SQL)",
+        "SQL Tuning",
+        "Stored Procedures"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Database Administrator",
+      "company": "INSPIREIT ONE BI",
+      "start_date": "2020-10-01",
+      "end_date": "2023-01-31",
+      "skills": [
+        "Database Administration",
+        "SQL",
+        "SQL Server Integration Services (SSIS)"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Database Administrator",
+      "company": "Madeira Data Solutions",
+      "start_date": "2019-12-01",
+      "end_date": "2020-06-30",
+      "skills": [
+        "Database Administration",
+        "SQL"
+      ]
+    }
+  ],
+  "skills": [
+    "Microsoft SQL Server",
+    "Oracle Database",
+    "SQL Database Administration",
+    "Oracle Database Administration",
+    "Transact-SQL (T-SQL)",
+    "High Availability",
+    "SQL Server Integration Services (SSIS)",
+    "SQL Server Management Studio",
+    "SQL",
+    "Powershell",
+    "Mirroring",
+    "Log Shipping",
+    "Replication",
+    "Stored Procedures",
+    "SQL Tuning",
+    "T-SQL Stored Procedures",
+    "Microsoft Azure",
+    "Amazon Web Services (AWS)"
+  ]
+}
+{
+  "uid": "1933",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "institution": "Israel Jobs",
+      "year_completed": 1999
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "SQL Database Administrator",
+      "company": "Madeira Data Solutions",
+      "start_date": "2023-10-01",
+      "end_date": null,
+      "skills": [
+        "Microsoft SQL Server",
+        "T-SQL",
+        "SQL Tuning",
+        "Performance Tuning",
+        "SQL Server Reporting Services (SSRS)",
+        "Stored Procedures"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Sql Server Database Administrator",
+      "company": "ControlUp",
+      "start_date": "2018-02-01",
+      "end_date": "2023-10-01",
+      "skills": [
+        "Microsoft SQL Server",
+        "T-SQL",
+        "SQL Tuning",
+        "Performance Tuning",
+        "Stored Procedures"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "SQL Server DBA",
+      "company": "OptimalPlus",
+      "start_date": "2016-11-01",
+      "end_date": "2018-02-01",
+      "skills": [
+        "SQL Server",
+        "T-SQL",
+        "Database Security",
+        "Backup and Recovery",
+        "SQL Server Integration Services (SSIS)"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "SQL Server DBA",
+      "company": "Tradency",
+      "start_date": "2015-07-01",
+      "end_date": "2016-11-01",
+      "skills": [
+        "SQL Server",
+        "T-SQL",
+        "ELT",
+        "SQL Server Integration Services (SSIS)",
+        "Reporting Solutions"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "SQL Server DBA",
+      "company": "SanDisk",
+      "start_date": "2009-01-01",
+      "end_date": "2015-07-01",
+      "skills": [
+        "SQL Server",
+        "Database Architecture",
+        "Database Security",
+        "ELT",
+        "SQL Server Integration Services (SSIS)",
+        "SSRS",
+        "Backup and Recovery",
+        "Performance Tuning"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Testing Engineer",
+      "company": "Odin",
+      "start_date": "2007-10-01",
+      "end_date": "2009-04-01",
+      "skills": [
+        "Testing",
+        "Test Cases",
+        "Bug Tracking"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "QA Engineer",
+      "company": "Sphera",
+      "start_date": "2006-05-01",
+      "end_date": "2007-10-01",
+      "skills": [
+        "Testing",
+        "Test Cases",
+        "Bug Tracking"
+      ]
+    },
+    {
+      "job_id": "008",
+      "title": "Electronic Technician and Verification Automation Engineer",
+      "company": "Motorola",
+      "start_date": "2001-01-01",
+      "end_date": "2006-05-01",
+      "skills": [
+        "Testing",
+        "Test Scripts",
+        "Automation"
+      ]
+    },
+    {
+      "job_id": "009",
+      "title": "Electronic Technician",
+      "company": "Moked Handasa",
+      "start_date": "1999-01-01",
+      "end_date": "2001-01-01",
+      "skills": [
+        "Testing"
+      ]
+    }
+  ],
+  "skills": [
+    "Microsoft SQL Server",
+    "T-SQL",
+    "SQL Tuning",
+    "Performance Tuning",
+    "SQL Server Reporting Services (SSRS)",
+    "Stored Procedures",
+    "SQL Server Integration Services (SSIS)",
+    "Backup and Recovery",
+    "ELT",
+    "Database Security",
+    "Test Cases",
+    "Bug Tracking",
+    "Testing",
+    "Object Oriented Design",
+    "Software Development",
+    "System Architecture",
+    "Software Engineering",
+    "Agile Methodologies",
+    "Embedded Systems",
+    "Integration",
+    "Programming",
+    "Software Design"
+  ]
+}
+{
+  "uid": "1934",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Master of Science",
+      "field": "Mathematics",
+      "institution": "Odessa I.I.Mechnikov National University",
+      "year_completed": 1986
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "Dun & Bradstreet",
+      "start_date": "2000-02-01",
+      "end_date": null,
+      "skills": [
+        "Microsoft SQL Server",
+        "T-SQL",
+        "Stored Procedures",
+        "Performance Tuning",
+        "Programming",
+        "Troubleshooting",
+        "Databases"
+      ]
+    }
+  ],
+  "skills": [
+    "Microsoft SQL Server",
+    "T-SQL",
+    "Stored Procedures",
+    "Performance Tuning",
+    "Programming",
+    "Troubleshooting",
+    "Databases"
+  ]
+}
+{
+  "uid": "1935",
+  "label": "Database Administrator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior Database Administrator",
+      "company": "Nayax",
+      "start_date": "2022-01-01",
+      "end_date": null,
+      "skills": [
+        "Microsoft SQL Server",
+        "T-SQL",
+        "Performance Tuning",
+        "Business Intelligence",
+        "Data Warehousing",
+        "SSIS",
+        "SSRS",
+        "OLAP",
+        "SSAS",
+        "Sql Tuning",
+        "HADR"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Database Administrator Team Lead",
+      "company": "NAYA Technologies (part of EPAM Systems, Inc.)",
+      "start_date": "2019-04-01",
+      "end_date": "2022-01-01",
+      "skills": [
+        "Microsoft SQL Server",
+        "T-SQL",
+        "Performance Tuning",
+        "Business Intelligence",
+        "Data Warehousing",
+        "SSIS",
+        "SSRS",
+        "OLAP",
+        "SSAS",
+        "Sql Tuning",
+        "HADR"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Application and Infrastructure DBA",
+      "company": "NAYA Technologies (part of EPAM Systems, Inc.)",
+      "start_date": "2017-11-01",
+      "end_date": "2019-04-01",
+      "skills": [
+        "Microsoft SQL Server",
+        "T-SQL",
+        "Performance Tuning",
+        "Business Intelligence",
+        "Data Warehousing",
+        "SSIS",
+        "SSRS",
+        "OLAP",
+        "SSAS",
+        "Sql Tuning",
+        "HADR"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Application DBA",
+      "company": "NAYA Technologies (part of EPAM Systems, Inc.)",
+      "start_date": "2014-09-01",
+      "end_date": "2017-10-01",
+      "skills": [
+        "Microsoft SQL Server",
+        "T-SQL",
+        "Performance Tuning",
+        "Business Intelligence",
+        "Data Warehousing",
+        "SSIS",
+        "SSRS",
+        "OLAP",
+        "SSAS",
+        "Sql Tuning",
+        "HADR"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Junior Business Intelligence Developer",
+      "company": "NAYA Technologies (part of EPAM Systems, Inc.)",
+      "start_date": "2013-03-01",
+      "end_date": "2014-08-01",
+      "skills": [
+        "Microsoft SQL Server",
+        "T-SQL",
+        "Performance Tuning",
+        "Business Intelligence",
+        "Data Warehousing",
+        "SSIS",
+        "SSRS",
+        "OLAP",
+        "SSAS",
+        "Sql Tuning",
+        "HADR"
+      ]
+    }
+  ],
+  "skills": [
+    "Microsoft SQL Server",
+    "T-SQL",
+    "Performance Tuning",
+    "Business Intelligence",
+    "Data Warehousing",
+    "SSIS",
+    "SSRS",
+    "OLAP",
+    "SSAS",
+    "Sql Tuning",
+    "HADR"
+  ]
+}
+{
+  "uid": "1936",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "institution": "Holon Institute of Technology",
+      "year_completed": null
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Junior Database Administrator",
+      "company": "One Systems",
+      "start_date": "2022-04-01",
+      "end_date": null,
+      "skills": [
+        "Microsoft Servers",
+        "SQL",
+        "ccna",
+        "Customer Relationship Management (CRM)"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "IT Manager",
+      "company": "Israel Defense Forces",
+      "start_date": "2020-04-01",
+      "end_date": "2022-04-01",
+      "skills": [
+        "Active Directory",
+        "SQL",
+        "IT Management"
+      ]
+    }
+  ],
+  "skills": [
+    "C++",
+    "Microsoft Servers",
+    "SQL",
+    "ccna",
+    "Customer Relationship Management (CRM)",
+    "Active Directory",
+    "IT Management"
+  ]
+}
+{
+  "uid": "1937",
+  "label": "Database Administrator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "eToro",
+      "start_date": "2023-04-01",
+      "end_date": null,
+      "skills": [
+        "Backup & Recovery Systems",
+        "High Availability (HA)",
+        "Microsoft SQL Server",
+        "Transact-SQL (T-SQL)"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Database Administrator Team Lead",
+      "company": "One BI (previously Sense BI)",
+      "start_date": "2021-01-01",
+      "end_date": "2023-04-01",
+      "skills": [
+        "Backup & Recovery Systems",
+        "High Availability (HA)",
+        "Microsoft SQL Server",
+        "Transact-SQL (T-SQL)"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Database Administrator",
+      "company": "Inspire Bar Technologies",
+      "start_date": "2018-07-01",
+      "end_date": "2021-01-01",
+      "skills": [
+        "Backup & Recovery Systems",
+        "High Availability (HA)",
+        "Microsoft SQL Server",
+        "Transact-SQL (T-SQL)"
+      ]
+    }
+  ],
+  "skills": [
+    "Performance Tuning",
+    "High Availability (HA)",
+    "Backup & Recovery Systems",
+    "Microsoft SQL Server",
+    "Transact-SQL (T-SQL)",
+    "Oracle Database Administration",
+    "SQL",
+    "C#",
+    "T-SQL Stored Procedures",
+    "Data Management",
+    "Database Administration",
+    "Database Development"
+  ]
+}
+{
+  "uid": "1938",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor's degree",
+      "field": "Business Administration and Management, General",
+      "institution": "Netanya Academic College",
+      "year_completed": 2015
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "Harel Insurance & Finance",
+      "start_date": "2019-01-01",
+      "end_date": "2021-11-01",
+      "skills": [
+        "MSSQL",
+        "ELK Stack",
+        "Linux",
+        "SQL Server Infrastructure DBA",
+        "AlwaysON",
+        "Mirroring",
+        "Automation",
+        "Performance Monitoring",
+        "Elasticsearch",
+        "Logstash",
+        "Kibana",
+        "Redis",
+        "Amazon ElastiCache"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "System Administrator",
+      "company": "Harel Insurance & Finance",
+      "start_date": "2011-09-01",
+      "end_date": "2018-12-01",
+      "skills": [
+        "Windows",
+        "SQL",
+        "Databases",
+        "Elasticsearch",
+        "Logstash",
+        "Elastic Stack (ELK)",
+        "Kibana",
+        "Linux",
+        "Microsoft SQL Server",
+        "Windows Clusters",
+        "Software Distribution"
+      ]
+    }
+  ],
+  "skills": [
+    "Amazon ElastiCache",
+    "Redis",
+    "Windows",
+    "SQL",
+    "Databases",
+    "Elasticsearch",
+    "Logstash",
+    "Elastic Stack (ELK)",
+    "Kibana",
+    "Linux",
+    "Microsoft SQL Server",
+    "Database Administration",
+    "SQL Clustering"
+  ]
+}
+{
+  "uid": "1938",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "field": "Industrial Engineering",
+      "institution": "Holon Institute of Technology",
+      "year_completed": 2023
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "IEC - Israel Electric Corporation",
+      "start_date": "2024-02-01",
+      "end_date": null,
+      "skills": [
+        "Oracle SQL"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Technical Support Engineer",
+      "company": "Weizmann Institute of Science",
+      "start_date": "2019-10-01",
+      "end_date": "2024-01-01",
+      "skills": [
+        "SEM/TEM Technical support",
+        "Complex troubleshooting",
+        "Multidisciplinary systems"
+      ]
+    }
+  ],
+  "skills": [
+    "Jupyter",
+    "Spyder IDE",
+    "Testing",
+    "Microsoft Excel",
+    "Python (Programming Language)",
+    "Troubleshooting",
+    "Engineering",
+    "Data Analysis",
+    "Analytical Skills",
+    "Information Technology",
+    "Engineering Management",
+    "Communication",
+    "Dedication",
+    "Good Personal Attitude",
+    "Microsoft Office",
+    "Project Management",
+    "Technical Support",
+    "Management",
+    "Customer Service",
+    "Data Analytics",
+    "Failure Analysis",
+    "Programming Languages",
+    "SQL",
+    "Business Intelligence (BI)",
+    "Pandas (Software)"
+  ]
+}
+{
+  "uid": "1939",
+  "label": "Database Administrator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "CofaceBdi",
+      "start_date": "2019-06-01",
+      "end_date": null,
+      "skills": [
+        "SQL query optimization",
+        "Index management",
+        "SQL Procedures",
+        "Views",
+        "Functions",
+        "SQL reports",
+        "Backup automation",
+        "Patch management",
+        "SQL Server upgrades",
+        "Performance monitoring"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "DBA",
+      "company": "Segment IT",
+      "start_date": "2018-01-01",
+      "end_date": "2019-06-01",
+      "skills": [
+        "Query optimization",
+        "SQL queries for applications",
+        "Database design",
+        "Triggers",
+        "Indexing",
+        "Stored procedures",
+        "Functions"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "QA Engineer",
+      "company": "SAR Technologies LTD",
+      "start_date": "2015-12-01",
+      "end_date": "2018-01-01",
+      "skills": [
+        "Manual testing",
+        "Automation testing",
+        "Bug tracking",
+        "Performance testing",
+        "Usability testing"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "QA Engineer",
+      "company": "invest.com",
+      "start_date": "2013-05-01",
+      "end_date": "2015-12-01",
+      "skills": []
+    },
+    {
+      "job_id": "005",
+      "title": "Operations Project Manager",
+      "company": "Matrix",
+      "start_date": "2012-02-01",
+      "end_date": "2013-05-01",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "SQL",
+    "QA Engineering",
+    "Selenium",
+    "Profiler",
+    "MySQL",
+    "Microsoft SQL Server",
+    "Microsoft Access",
+    "Query Writing",
+    "Stored Procedures",
+    "TeamCity",
+    "JIRA",
+    "Test Planning",
+    "Testing",
+    "Git",
+    "Software Development",
+    "Software Testing",
+    ".NET Framework",
+    "Manual Testing",
+    "Logging"
+  ]
+}
+{
+  "uid": "1940",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor's degree",
+      "field": "Mass media & Management",
+      "institution": "The College of Management Academic Studies",
+      "year_completed": 2001
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior Oracle Database Administrator",
+      "company": "IAI - Israel Aerospace Industries",
+      "start_date": "2024-01-01",
+      "end_date": null,
+      "skills": []
+    },
+    {
+      "job_id": "002",
+      "title": "Oracle SQL Server Database Administrator",
+      "company": "Rimini Street",
+      "start_date": "2022-01-01",
+      "end_date": "2024-01-01",
+      "skills": [
+        "MongoDB",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "DBA Oracle & SQL Server",
+      "company": "Freelance",
+      "start_date": "2022-01-01",
+      "end_date": "2023-12-31",
+      "skills": []
+    },
+    {
+      "job_id": "004",
+      "title": "Database Administrator",
+      "company": "Migdal Group",
+      "start_date": "2020-01-01",
+      "end_date": "2022-01-01",
+      "skills": [
+        "MongoDB"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Lead DBA",
+      "company": "Bank Igud",
+      "start_date": "2015-09-01",
+      "end_date": "2020-01-01",
+      "skills": []
+    },
+    {
+      "job_id": "006",
+      "title": "Lead DBA",
+      "company": "Nogamy",
+      "start_date": "2014-12-01",
+      "end_date": "2015-08-31",
+      "skills": [
+        "Oracle",
+        "SQL Server",
+        "Vertica"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "DBA Oracle & SQL Server",
+      "company": "LADPC",
+      "start_date": "2013-05-01",
+      "end_date": "2014-09-30",
+      "skills": [
+        "Tuning",
+        "Replication",
+        "Performance",
+        "Backup-Restore",
+        "RAC System Maintenance",
+        "SSIS"
+      ]
+    },
+    {
+      "job_id": "008",
+      "title": "DBA Oracle & SQL Server",
+      "company": "Bezeq International",
+      "start_date": "2010-10-01",
+      "end_date": "2013-05-01",
+      "skills": []
+    },
+    {
+      "job_id": "009",
+      "title": "DBA Oracle & SQL Server",
+      "company": "Veracity",
+      "start_date": "2010-05-01",
+      "end_date": "2010-10-31",
+      "skills": []
+    },
+    {
+      "job_id": "010",
+      "title": "Control Systems and Networking",
+      "company": "EDS Israel",
+      "start_date": "2005-12-01",
+      "end_date": "2008-04-30",
+      "skills": []
+    },
+    {
+      "job_id": "011",
+      "title": "System / Help Desk",
+      "company": "Mataf",
+      "start_date": "1999-01-01",
+      "end_date": "2008-12-31",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "MongoDB",
+    "PostgreSQL",
+    "Oracle",
+    "SQL Tuning",
+    "Performance Tuning",
+    "Troubleshooting",
+    "Databases",
+    "Microsoft SQL Server",
+    "Database Administration",
+    "Unix",
+    "Shell Scripting",
+    "Oracle Enterprise Manager",
+    "SSIS",
+    "Linux",
+    "Operating Systems",
+    "Oracle RAC",
+    "RMAN",
+    "Replication",
+    "Red Hat Linux",
+    "ETL",
+    "Solaris",
+    "SQL",
+    "Integration",
+    "SQL Server Integration Services (SSIS)"
+  ]
+}
+{
+  "uid": "1941",
+  "label": "Database Administrator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "Intel Corporation",
+      "start_date": "2014-08-01",
+      "end_date": null,
+      "skills": []
+    },
+    {
+      "job_id": "002",
+      "title": "System Administrator",
+      "company": "Unilever",
+      "start_date": "2000-04-01",
+      "end_date": "2014-08-01",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "DBA",
+    "Technical Support",
+    "Data Management",
+    "System Administration",
+    "Database Servers"
+  ]
+}
+{
+  "uid": "1947",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "BSC",
+      "field": "computers",
+      "institution": "Tel Aviv University",
+      "year_completed": 1995
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator Team Lead",
+      "company": "Aman",
+      "start_date": "2022-11-01",
+      "end_date": null,
+      "skills": [
+        "oracle",
+        "aws",
+        "team management",
+        "oracle rac",
+        "databases"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Senior Oracle Database Administrator",
+      "company": "BlueSnap",
+      "start_date": "2020-07-01",
+      "end_date": "2024-01-31",
+      "skills": [
+        "oracle",
+        "sql",
+        "performance tuning"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Senior Oracle Database Administrator",
+      "company": "Clarizen",
+      "start_date": "2017-05-01",
+      "end_date": "2020-06-30",
+      "skills": [
+        "oracle rac",
+        "databases",
+        "rman"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Senior Oracle Database Administrator",
+      "company": "Arkia Israeli Airlines",
+      "start_date": "2014-08-01",
+      "end_date": "2017-04-30",
+      "skills": [
+        "oracle",
+        "sql server",
+        "sybase",
+        "automation",
+        "bi"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Senior DBA oracle ERP RAC ASM & MSSQL",
+      "company": "Venice Technologies",
+      "start_date": "2012-12-01",
+      "end_date": "2014-03-31",
+      "skills": [
+        "oracle",
+        "erp",
+        "rac",
+        "asm",
+        "mssql"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Senior Oracle DBA",
+      "company": "GlassHouse Technologies",
+      "start_date": "2011-09-01",
+      "end_date": "2012-11-30",
+      "skills": [
+        "oracle",
+        "performance tuning"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "Senior Oracle RAC DBA",
+      "company": "Yael Software",
+      "start_date": "2009-01-01",
+      "end_date": "2010-12-31",
+      "skills": [
+        "oracle rac"
+      ]
+    },
+    {
+      "job_id": "008",
+      "title": "Team Leader Oracle RAC/ERP",
+      "company": "Expert ONE1",
+      "start_date": "2006-06-01",
+      "end_date": "2009-01-31",
+      "skills": [
+        "oracle rac",
+        "erp"
+      ]
+    },
+    {
+      "job_id": "009",
+      "title": "Oracle DBA",
+      "company": "Pelephone Communications Ltd",
+      "start_date": "2007-01-01",
+      "end_date": "2008-01-01",
+      "skills": [
+        "oracle"
+      ]
+    },
+    {
+      "job_id": "010",
+      "title": "DBA",
+      "company": "Tangram",
+      "start_date": "2006-01-01",
+      "end_date": "2007-01-01",
+      "skills": [
+        "oracle erp",
+        "infrastructure"
+      ]
+    },
+    {
+      "job_id": "011",
+      "title": "DBA",
+      "company": "RAD Data Communications",
+      "start_date": "1998-01-01",
+      "end_date": "2003-12-31",
+      "skills": [
+        "oracle"
+      ]
+    },
+    {
+      "job_id": "012",
+      "title": "DBA",
+      "company": "Calanit Carmon",
+      "start_date": "1997-01-01",
+      "end_date": "1998-01-01",
+      "skills": [
+        "oracle"
+      ]
+    }
+  ],
+  "skills": [
+    "oracle",
+    "mssql",
+    "pl/sql",
+    "rman",
+    "performance tuning",
+    "team management",
+    "oracle rac",
+    "aws",
+    "databases",
+    "sql tuning",
+    "oracle enterprise manager",
+    "unix",
+    "etl",
+    "data migration",
+    "database design"
+  ]
+}
+{
+  "uid": "1948",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "institution": "Ashkelon College",
+      "year_completed": 2018
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "Unitask Group",
+      "start_date": "2022-06-01",
+      "end_date": null,
+      "skills": [
+        "Database Administration",
+        "SQL",
+        "SQL Tuning",
+        "Microsoft SQL Server"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Database Administrator",
+      "company": "Ryltech - DBA services",
+      "start_date": "2019-10-01",
+      "end_date": "2022-02-28",
+      "skills": [
+        "Database Administration",
+        "SQL",
+        "SQL Tuning",
+        "Microsoft SQL Server",
+        "Python"
+      ]
+    }
+  ],
+  "skills": [
+    "Database Administration",
+    "SQL",
+    "SQL Tuning",
+    "Microsoft SQL Server",
+    "MySQL",
+    "Python",
+    "Windows Server",
+    "Linux",
+    "Programming",
+    "Java",
+    "C++",
+    "HTML",
+    "JavaScript",
+    "CSS",
+    "PHP",
+    "Transact-SQL (T-SQL)",
+    "Database Development",
+    "Problem Solving",
+    "Software Engineering"
+  ]
+}
+{
+  "uid": "1949",
+  "label": "Database Administrator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "System and Database Administrator",
+      "company": "Amodat",
+      "start_date": "2024-02-01",
+      "end_date": null,
+      "skills": [
+        "Microsoft SQL Server",
+        "SSIS",
+        "Microsoft Power BI",
+        "ELT/ETL",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Graphic Designer",
+      "company": "Held",
+      "start_date": "2023-02-01",
+      "end_date": "2024-01-31",
+      "skills": [
+        "Adobe Illustrator",
+        "Adobe Photoshop"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "IT Support Technician",
+      "company": "ONE Technologies",
+      "start_date": "2022-02-01",
+      "end_date": "2022-12-31",
+      "skills": [
+        "Customer Relationship Management (CRM)",
+        "Troubleshooting",
+        "Teamwork"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Computer Network Administrator",
+      "company": "Israel Defense Forces",
+      "start_date": "2020-01-01",
+      "end_date": "2022-01-31",
+      "skills": [
+        "Active Directory",
+        "Microsoft Office"
+      ]
+    }
+  ],
+  "skills": [
+    "Microsoft SQL Server",
+    "SSIS",
+    "Microsoft Power BI",
+    "ELT/ETL",
+    "Microsoft Excel",
+    "Adobe Illustrator",
+    "Adobe Photoshop",
+    "Customer Relationship Management (CRM)",
+    "Troubleshooting",
+    "Teamwork",
+    "Active Directory",
+    "Microsoft Office"
+  ]
+}
+{
+  "uid": "1950",
+  "label": "Database Administrator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Oracle Database Administrator",
+      "company": "Lockheed Martin",
+      "start_date": "2018-11-01",
+      "end_date": null,
+      "skills": [
+        "Oracle Database",
+        "SQL",
+        "Unix",
+        "Linux",
+        "Technical Support",
+        "Troubleshooting"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "INFRA & DBA Support",
+      "company": "Amdocs",
+      "start_date": "2016-03-01",
+      "end_date": null,
+      "skills": [
+        "Oracle Database 10/11/12",
+        "SQL",
+        "Unix",
+        "Linux",
+        "Toad",
+        "SQL Developer",
+        "Citrix",
+        "Perforce (P4V)",
+        "Technical Support",
+        "Troubleshooting"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Technical & Business Operations Analyst",
+      "company": "Amdocs",
+      "start_date": "2013-12-01",
+      "end_date": "2016-03-01",
+      "skills": [
+        "Technical Support",
+        "Troubleshooting",
+        "System Crashes",
+        "Network Slowdowns",
+        "Security Breaches",
+        "Virus Infections"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Field Support Specialist",
+      "company": "One1",
+      "start_date": "2012-08-01",
+      "end_date": "2013-11-01",
+      "skills": [
+        "Technical Support",
+        "Troubleshooting"
+      ]
+    }
+  ],
+  "skills": [
+    "Oracle Database",
+    "SQL",
+    "Unix",
+    "Linux",
+    "Technical Support",
+    "Troubleshooting",
+    "Toad",
+    "SQL Developer",
+    "Citrix",
+    "Perforce (P4V)",
+    "System Crashes",
+    "Network Slowdowns",
+    "Security Breaches",
+    "Virus Infections"
+  ]
+}
+{
+  "uid": "1951",
+  "label": "Database Administrator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "SQL Database Administrator",
+      "company": "Eric Cohen Books",
+      "start_date": "2021-01-01",
+      "end_date": null,
+      "skills": [
+        "SQL",
+        "C#",
+        "Microsoft SQL Server",
+        "Linux",
+        "Windows",
+        "Amazon Web Services (AWS)",
+        "CentOS",
+        "Active Directory",
+        "Domain Controller",
+        "Voice over IP (VoIP)",
+        "FreePBX",
+        "VMWare ESXi",
+        "SQL Server Management Studio",
+        "SonicWALL",
+        "Office 365 Administration",
+        "File Servers",
+        "SMB",
+        "AFP",
+        "Mac"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "IT Manager",
+      "company": "Eric Cohen Books",
+      "start_date": "2015-01-01",
+      "end_date": "2021-01-01",
+      "skills": [
+        "IT Infrastructure Management",
+        "Software Development",
+        "Software Engineering",
+        "Web Development",
+        "Web Design",
+        "QA Engineering",
+        "Software Design",
+        "Testing",
+        "Quality Assurance",
+        "Test Cases"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "QA Engineer",
+      "company": "SanDisk",
+      "start_date": "2013-02-01",
+      "end_date": "2015-04-01",
+      "skills": [
+        "QA Engineering",
+        "Testing",
+        "Quality Assurance",
+        "Test Cases",
+        "Software Design"
+      ]
+    }
+  ],
+  "skills": [
+    "SQL",
+    "C#",
+    "Microsoft SQL Server",
+    "Linux",
+    "Windows",
+    "Amazon Web Services (AWS)",
+    "CentOS",
+    "Active Directory",
+    "Domain Controller",
+    "Voice over IP (VoIP)",
+    "FreePBX",
+    "VMWare ESXi",
+    "SQL Server Management Studio",
+    "SonicWALL",
+    "Office 365 Administration",
+    "File Servers",
+    "SMB",
+    "AFP",
+    "Mac",
+    "IT Infrastructure Management",
+    "Software Development",
+    "Software Engineering",
+    "Web Development",
+    "Web Design",
+    "QA Engineering",
+    "Software Design",
+    "Testing",
+    "Quality Assurance",
+    "Test Cases"
+  ]
+}
+{
+  "uid": "1952",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor's degree",
+      "field": "Information Technology",
+      "institution": "Kaplan University",
+      "year_completed": 2015
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior Database Administrator",
+      "company": "RSM US LLP",
+      "start_date": "2023-08-01",
+      "end_date": null,
+      "skills": [
+        "Performance Tuning",
+        "Enterprise Data",
+        "SQL",
+        "Database Administration",
+        "Microsoft SQL Server",
+        "Azure DevOps",
+        "Azure Data Factory",
+        "Azure Databricks",
+        "Azure Data Lake",
+        "Pipelines"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Database Administrator",
+      "company": "RSM US LLP",
+      "start_date": "2018-09-01",
+      "end_date": "2023-08-01",
+      "skills": [
+        "Performance Tuning",
+        "Enterprise Data",
+        "SQL",
+        "Database Administration",
+        "Microsoft SQL Server",
+        "SQL Azure",
+        "Azure DevOps",
+        "Azure Data Factory",
+        "Azure Databricks",
+        "Azure Data Lake",
+        "Pipelines"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Senior Service Desk Analyst",
+      "company": "RSM US LLP",
+      "start_date": "2017-11-01",
+      "end_date": "2018-09-01",
+      "skills": [
+        "Customer Service",
+        "Help Desk Support",
+        "Windows",
+        "Technical Support"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Service Desk Analyst",
+      "company": "RSM US LLP",
+      "start_date": "2015-09-01",
+      "end_date": "2017-10-01",
+      "skills": [
+        "Customer Service",
+        "Help Desk Support",
+        "Windows",
+        "Technical Support"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "IT Specialist",
+      "company": "Shared IT Inc",
+      "start_date": "2014-04-01",
+      "end_date": "2015-09-01",
+      "skills": [
+        "Windows Server",
+        "Active Directory",
+        "Network Security",
+        "Microsoft Exchange"
+      ]
+    }
+  ],
+  "skills": [
+    "Performance Tuning",
+    "Enterprise Data",
+    "SQL",
+    "Database Administration",
+    "Microsoft SQL Server",
+    "Azure DevOps",
+    "Azure Data Factory",
+    "Azure Databricks",
+    "Azure Data Lake",
+    "Pipelines",
+    "SQL Azure",
+    "Transact-SQL (T-SQL)",
+    "Replication",
+    "Veeam",
+    "Data Backup Solutions",
+    "Microsoft Azure",
+    "Database Tools",
+    "Microsoft Exchange",
+    "Microsoft Office",
+    "Network Security",
+    "Microsoft Excel",
+    "Information Technology",
+    "Leadership",
+    "Team Building",
+    "Software Documentation",
+    "Caseware Troubleshooting",
+    "Servers",
+    "System Administration",
+    "Software Installation",
+    "Windows",
+    "Windows Server",
+    "Windows 7",
+    "Windows XP",
+    "Technical Support",
+    "Help Desk Support"
+  ]
+}
+{
+  "uid": "1953",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "BS",
+      "field": "CIS",
+      "institution": "Washburn University",
+      "year_completed": 1987
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "Federal Reserve Bank of Kansas City",
+      "start_date": "2022-04-01",
+      "end_date": null,
+      "skills": [
+        "T-SQL",
+        "Database Design",
+        "SQL Server",
+        "Database Administration",
+        "Microsoft SQL Server",
+        "SSIS",
+        "SQL",
+        "SSRS",
+        "Data Warehousing",
+        "ETL",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Database Administrator",
+      "company": "Northrop Grumman",
+      "start_date": "2016-01-01",
+      "end_date": "2022-03-01",
+      "skills": [
+        "T-SQL",
+        "Database Design",
+        "SQL Server",
+        "Database Administration",
+        "Microsoft SQL Server",
+        "SSIS",
+        "SQL",
+        "SSRS",
+        "Data Warehousing",
+        "ETL",
+        "Agile Methodologies"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Database Administrator",
+      "company": "Heartland Crop Insurance, Inc.",
+      "start_date": "2011-10-01",
+      "end_date": "2016-01-01",
+      "skills": [
+        "T-SQL",
+        "Database Design",
+        "SQL Server",
+        "Database Administration",
+        "Microsoft SQL Server",
+        "SSIS",
+        "SQL",
+        "SSRS"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Database Administrator/Contractor",
+      "company": "Bradford & Galt",
+      "start_date": "2011-05-01",
+      "end_date": "2011-10-01",
+      "skills": [
+        "T-SQL",
+        "Database Design",
+        "SQL Server",
+        "Database Administration"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Database Administrator",
+      "company": "Kansas Health Solutions",
+      "start_date": "2009-10-01",
+      "end_date": "2011-05-01",
+      "skills": [
+        "T-SQL",
+        "Database Design",
+        "SQL Server",
+        "Database Administration"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "DBA III",
+      "company": "Federal Home Loan Bank of Topeka",
+      "start_date": "2002-12-01",
+      "end_date": "2009-10-01",
+      "skills": [
+        "T-SQL",
+        "Database Design",
+        "SQL Server",
+        "Database Administration"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "Developer",
+      "company": "Security Benefit",
+      "start_date": "1987-01-01",
+      "end_date": "2002-01-01",
+      "skills": [
+        ".NET",
+        "VB.NET",
+        "Crystal Reports",
+        "Visio",
+        "SDLC"
+      ]
+    }
+  ],
+  "skills": [
+    "T-SQL",
+    "Database Design",
+    "SQL Server",
+    "Database Administration",
+    "Microsoft SQL Server",
+    "SSIS",
+    "SQL",
+    "SSRS",
+    "Data Warehousing",
+    "ETL",
+    "Agile Methodologies",
+    "Crystal Reports",
+    "Visio",
+    "Data Modeling",
+    ".NET",
+    "VB.NET",
+    "SDLC"
+  ]
+}
+{
+  "uid": "1954",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor of Technology - BTech",
+      "field": "Computer Engineering",
+      "institution": "City Tech, CUNY",
+      "year_completed": 2022
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "SQL Database Administrator",
+      "company": "AT&T",
+      "start_date": "2022-06-01",
+      "end_date": null,
+      "skills": [
+        "SQL Server Management Studio",
+        "PL/SQL",
+        "Transact-SQL (T-SQL)",
+        "SQL Server Integration Services (SSIS)",
+        "SQL Server Reporting Services (SSRS)",
+        "Database Engine Tuning Advisor",
+        "Profiler",
+        "Events Viewer",
+        "Upgrade Wizard",
+        "Linux",
+        "Unix",
+        "Powershell",
+        "Bash",
+        "Java",
+        "Python",
+        "JavaScript",
+        "HTML",
+        "Visual Studio",
+        "Microsoft Office",
+        "ServiceNow",
+        "Microsoft Excel",
+        "Microsoft Access",
+        "Microsoft Outlook",
+        "BMC Remedy Ticketing System"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "SQL Database Administrator",
+      "company": "Adobe",
+      "start_date": "2019-10-01",
+      "end_date": "2022-06-01",
+      "skills": [
+        "SQL Server Management Studio",
+        "PL/SQL",
+        "Transact-SQL (T-SQL)",
+        "SQL Server Integration Services (SSIS)",
+        "SQL Server Reporting Services (SSRS)",
+        "Database Engine Tuning Advisor",
+        "Profiler",
+        "Events Viewer",
+        "Upgrade Wizard",
+        "Linux",
+        "Unix",
+        "Powershell",
+        "Bash",
+        "Java",
+        "Python",
+        "JavaScript",
+        "HTML",
+        "Visual Studio",
+        "Microsoft Office",
+        "ServiceNow",
+        "Microsoft Excel",
+        "Microsoft Access",
+        "Microsoft Outlook",
+        "BMC Remedy Ticketing System"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Junior SQL Database Administrator",
+      "company": "City Tech, CUNY",
+      "start_date": "2018-07-01",
+      "end_date": "2019-10-01",
+      "skills": [
+        "SQL Server Management Studio",
+        "PL/SQL",
+        "Transact-SQL (T-SQL)",
+        "SQL Server Integration Services (SSIS)",
+        "SQL Server Reporting Services (SSRS)",
+        "Database Engine Tuning Advisor",
+        "Profiler",
+        "Events Viewer",
+        "Upgrade Wizard",
+        "Linux",
+        "Unix",
+        "Powershell",
+        "Bash",
+        "Java",
+        "Python",
+        "JavaScript",
+        "HTML",
+        "Visual Studio",
+        "Microsoft Office",
+        "ServiceNow",
+        "Microsoft Excel",
+        "Microsoft Access",
+        "Microsoft Outlook",
+        "BMC Remedy Ticketing System"
+      ]
+    }
+  ],
+  "skills": [
+    "SQL Server Management Studio",
+    "PL/SQL",
+    "Transact-SQL (T-SQL)",
+    "SQL Server Integration Services (SSIS)",
+    "SQL Server Reporting Services (SSRS)",
+    "Database Engine Tuning Advisor",
+    "Profiler",
+    "Events Viewer",
+    "Upgrade Wizard",
+    "Linux",
+    "Unix",
+    "Powershell",
+    "Bash",
+    "Java",
+    "Python",
+    "JavaScript",
+    "HTML",
+    "Visual Studio",
+    "Microsoft Office",
+    "ServiceNow",
+    "Microsoft Excel",
+    "Microsoft Access",
+    "Microsoft Outlook",
+    "BMC Remedy Ticketing System"
+  ]
+}
+{
+  "uid": "1955",
+  "label": "Database Administrator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "RedViolet Company",
+      "start_date": "2023-11-01",
+      "end_date": "2024-11-01",
+      "skills": [
+        "MongoDB",
+        "PostgreSQL",
+        "SDLC",
+        "Database Management"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Database Engineer",
+      "company": "TEKsystems",
+      "start_date": "2023-04-01",
+      "end_date": "2023-11-01",
+      "skills": [
+        "AWX",
+        "Ansible",
+        "MongoDB",
+        "PostgreSQL",
+        "DBE Deployments",
+        "Automation"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Senior Database Administrator",
+      "company": "Zayo Group",
+      "start_date": "2017-12-01",
+      "end_date": "2023-02-01",
+      "skills": [
+        "SQL Tuning",
+        "SQL Database",
+        "MSSQL Clusters",
+        "Cost Optimization",
+        "Database Infrastructure",
+        "Access Control",
+        "Monitoring Systems"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Database Administrator",
+      "company": "Stem, Inc.",
+      "start_date": "2021-11-01",
+      "end_date": "2023-01-01",
+      "skills": [
+        "Time Series Data",
+        "SQL",
+        "NoSQL",
+        "InfluxDB",
+        "Redshift",
+        "PostgreSQL",
+        "AWS",
+        "Azure",
+        "Database Security",
+        "Backup and Recovery",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Database Administrator",
+      "company": "Sales Partnerships, Inc.",
+      "start_date": "2016-12-01",
+      "end_date": "2017-12-01",
+      "skills": [
+        "SQL Database",
+        "Database Design",
+        "Database Management"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Senior Database Administrator",
+      "company": "ARMtech Insurance Services",
+      "start_date": "2008-09-01",
+      "end_date": "2016-12-01",
+      "skills": [
+        "Database Administration",
+        "SQL Server",
+        "Database Management"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "IT Operations",
+      "company": "Global Callcenter Solutions Inc.",
+      "start_date": "2005-01-01",
+      "end_date": "2008-07-01",
+      "skills": [
+        "IT Operations",
+        "System Monitoring",
+        "Database Management"
+      ]
+    }
+  ],
+  "skills": [
+    "MongoDB",
+    "PostgreSQL",
+    "AWX",
+    "Ansible",
+    "SQL Tuning",
+    "SQL Database",
+    "MSSQL Clusters",
+    "Cost Optimization",
+    "Database Infrastructure",
+    "Access Control",
+    "Monitoring Systems",
+    "Time Series Data",
+    "NoSQL",
+    "InfluxDB",
+    "Redshift",
+    "AWS",
+    "Azure",
+    "Database Security",
+    "Backup and Recovery",
+    "Performance Monitoring",
+    "SQL Server",
+    "SQL Database Design",
+    "IT Operations"
+  ]
+}
+{
+  "uid": "1956",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "institution": "Hawassa University",
+      "year_completed": null
+    },
+    {
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "institution": "The University of Texas at Austin",
+      "year_completed": null
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "American Health Law Association",
+      "start_date": "2019-01-01",
+      "end_date": "Present",
+      "skills": [
+        "SQL Server",
+        "MySQL",
+        "Amazon RDS",
+        "EC2",
+        "SQL Server Profiler",
+        "Performance Monitor",
+        "query optimization",
+        "AWS Database Migration Service (DMS)",
+        "BACPAC",
+        "Backup-Restore",
+        "PowerShell scripting",
+        "ETL",
+        "SSIS",
+        "Cloud Migration",
+        "SQL Server Management Studio",
+        "Data Security",
+        "Database Performance Tuning",
+        "Capacity Planning"
+      ]
+    }
+  ],
+  "skills": [
+    "SQL Server",
+    "MySQL",
+    "Amazon RDS",
+    "EC2",
+    "SQL Server Profiler",
+    "Performance Monitor",
+    "query optimization",
+    "AWS Database Migration Service (DMS)",
+    "BACPAC",
+    "Backup-Restore",
+    "PowerShell scripting",
+    "ETL",
+    "SSIS",
+    "Cloud Migration",
+    "SQL Server Management Studio",
+    "Data Security",
+    "Database Performance Tuning",
+    "Capacity Planning",
+    "SQL Server Integration Services (SSIS)",
+    "SQL Tuning",
+    "Database Migration",
+    "Database Security",
+    "Data Analysis",
+    "Oracle SQL Developer",
+    "PL/SQL",
+    "NoSQL"
+  ]
+}
+{
+  "uid": "1956",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "institution": "Hawassa University",
+      "year_completed": null
+    },
+    {
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "institution": "The University of Texas at Austin",
+      "year_completed": null
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "American Health Law Association",
+      "start_date": "2019-01-01",
+      "end_date": "Present",
+      "skills": [
+        "SQL Server",
+        "MySQL",
+        "Amazon RDS",
+        "EC2",
+        "SQL Server Profiler",
+        "Performance Monitor",
+        "query optimization",
+        "AWS Database Migration Service (DMS)",
+        "BACPAC",
+        "Backup-Restore",
+        "PowerShell scripting",
+        "ETL",
+        "SSIS",
+        "Cloud Migration",
+        "SQL Server Management Studio",
+        "Data Security",
+        "Database Performance Tuning",
+        "Capacity Planning"
+      ]
+    }
+  ],
+  "skills": [
+    "SQL Server",
+    "MySQL",
+    "Amazon RDS",
+    "EC2",
+    "SQL Server Profiler",
+    "Performance Monitor",
+    "query optimization",
+    "AWS Database Migration Service (DMS)",
+    "BACPAC",
+    "Backup-Restore",
+    "PowerShell scripting",
+    "ETL",
+    "SSIS",
+    "Cloud Migration",
+    "SQL Server Management Studio",
+    "Data Security",
+    "Database Performance Tuning",
+    "Capacity Planning",
+    "SQL Server Integration Services (SSIS)",
+    "SQL Tuning",
+    "Database Migration",
+    "Database Security",
+    "Data Analysis",
+    "Oracle SQL Developer",
+    "PL/SQL",
+    "NoSQL"
+  ]
+}
+{
+  "uid": "1957",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "field": "Computer and Information Systems Security/Information Assurance",
+      "institution": "University of Maryland Global Campus",
+      "year_completed": 2022
+    },
+    {
+      "degree": "Bachelor of Science",
+      "field": "Human Resources Management/Personnel Administration",
+      "institution": "Ashford University",
+      "year_completed": 2018
+    },
+    {
+      "degree": "Associate of Arts",
+      "field": "Human Resources Management/Personnel Administration",
+      "institution": "Community College of the Air Force",
+      "year_completed": 2018
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Oracle Database Administrator",
+      "company": "Diversified Technical Services, Inc.",
+      "start_date": "2020-02-01",
+      "end_date": "Present",
+      "skills": [
+        "Oracle Database",
+        "Data Guard",
+        "RMAN Backup",
+        "Performance Tuning",
+        "Linux",
+        "PL/SQL",
+        "Oracle RAC",
+        "Network Security",
+        "Vulnerability Assessment",
+        "Threat Assessment",
+        "Malware Analysis",
+        "Encryption"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Oracle Database Administrator and Cyber Security Liaison",
+      "company": "Lockheed Martin",
+      "start_date": "2016-02-01",
+      "end_date": "2020-01-01",
+      "skills": [
+        "Oracle Database",
+        "Cyber Security",
+        "Vulnerability Assessment",
+        "Threat Assessment",
+        "Performance Tuning",
+        "Network Security",
+        "Oracle RAC",
+        "Data Guard",
+        "RMAN Backup"
+      ]
+    }
+  ],
+  "skills": [
+    "Oracle Database",
+    "Data Guard",
+    "RMAN Backup",
+    "Performance Tuning",
+    "Linux",
+    "PL/SQL",
+    "Oracle RAC",
+    "Network Security",
+    "Vulnerability Assessment",
+    "Threat Assessment",
+    "Malware Analysis",
+    "Encryption"
+  ]
+}
+{
+  "uid": "1958",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Master of Business Administration - MBA",
+      "field": "Management of Technology Companies",
+      "institution": "Collage of Management",
+      "year_completed": 2017
+    },
+    {
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "institution": "Collage of Management",
+      "year_completed": 2016
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Chief Database Administrator",
+      "company": "EPAM Systems",
+      "start_date": "2020-11-01",
+      "end_date": "Present",
+      "skills": [
+        "Oracle RAC",
+        "Grid Control",
+        "High Availability",
+        "Data Migration",
+        "PL/SQL",
+        "SQL Server",
+        "Databases",
+        "HP-UX",
+        "Linux",
+        "SQL",
+        "Performance Tuning",
+        "SQL Tuning",
+        "C#",
+        "Replication",
+        "MySQL",
+        "Security",
+        "Database Design",
+        "Database Administration",
+        "Oracle Enterprise Manager",
+        "Software Development",
+        "Team Leadership",
+        "Database Management",
+        "RMAN",
+        "Exadata",
+        "ElasticSearch",
+        "MongoDB",
+        "Hadoop",
+        "System Architecture",
+        "Infrastructure",
+        "ETL",
+        "Big Data",
+        "Consulting",
+        "Google Cloud Platform (GCP)",
+        "Python",
+        "Microsoft Azure",
+        "Oracle Database Administration",
+        "PostgreSQL",
+        "Jira",
+        "Confluence"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Senior Database Administrator",
+      "company": "EPAM Systems",
+      "start_date": "2017-10-01",
+      "end_date": "Present",
+      "skills": [
+        "Oracle RAC",
+        "Grid Control",
+        "High Availability",
+        "Data Migration",
+        "PL/SQL",
+        "SQL Server",
+        "Databases",
+        "HP-UX",
+        "Linux",
+        "SQL",
+        "Performance Tuning",
+        "SQL Tuning",
+        "C#",
+        "Replication",
+        "MySQL",
+        "Security",
+        "Database Design",
+        "Database Administration",
+        "Oracle Enterprise Manager",
+        "Software Development",
+        "Team Leadership",
+        "Database Management",
+        "RMAN",
+        "Exadata",
+        "ElasticSearch",
+        "MongoDB",
+        "Hadoop",
+        "System Architecture",
+        "Infrastructure",
+        "ETL",
+        "Big Data",
+        "Consulting",
+        "Google Cloud Platform (GCP)",
+        "Python",
+        "Microsoft Azure",
+        "Oracle Database Administration",
+        "PostgreSQL",
+        "Jira",
+        "Confluence"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Data Solutions Manager",
+      "company": "NAYA Tech",
+      "start_date": "2017-10-01",
+      "end_date": "2020-11-01",
+      "skills": [
+        "Oracle RAC",
+        "Grid Control",
+        "High Availability",
+        "Data Migration",
+        "PL/SQL",
+        "SQL Server",
+        "Databases",
+        "HP-UX",
+        "Linux",
+        "SQL",
+        "Performance Tuning",
+        "SQL Tuning",
+        "C#",
+        "Replication",
+        "MySQL",
+        "Security",
+        "Database Design",
+        "Database Administration",
+        "Oracle Enterprise Manager",
+        "Software Development",
+        "Team Leadership",
+        "Database Management",
+        "RMAN",
+        "Exadata",
+        "ElasticSearch",
+        "MongoDB",
+        "Hadoop",
+        "System Architecture",
+        "Infrastructure",
+        "ETL",
+        "Big Data",
+        "Consulting",
+        "Google Cloud Platform (GCP)",
+        "Python",
+        "Microsoft Azure",
+        "Oracle Database Administration",
+        "PostgreSQL",
+        "Jira",
+        "Confluence"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Data Section Manager",
+      "company": "NAYA Tech",
+      "start_date": "2014-03-01",
+      "end_date": "2017-10-01",
+      "skills": [
+        "Oracle RAC",
+        "Grid Control",
+        "High Availability",
+        "Data Migration",
+        "PL/SQL",
+        "SQL Server",
+        "Databases",
+        "HP-UX",
+        "Linux",
+        "SQL",
+        "Performance Tuning",
+        "SQL Tuning",
+        "C#",
+        "Replication",
+        "MySQL",
+        "Security",
+        "Database Design",
+        "Database Administration",
+        "Oracle Enterprise Manager",
+        "Software Development",
+        "Team Leadership",
+        "Database Management",
+        "RMAN",
+        "Exadata",
+        "ElasticSearch",
+        "MongoDB",
+        "Hadoop",
+        "System Architecture",
+        "Infrastructure",
+        "ETL",
+        "Big Data",
+        "Consulting",
+        "Google Cloud Platform (GCP)",
+        "Python",
+        "Microsoft Azure",
+        "Oracle Database Administration",
+        "PostgreSQL",
+        "Jira",
+        "Confluence"
+      ]
+    }
+  ],
+  "skills": [
+    "Oracle RAC",
+    "Grid Control",
+    "High Availability",
+    "Data Migration",
+    "PL/SQL",
+    "SQL Server",
+    "Databases",
+    "HP-UX",
+    "Linux",
+    "SQL",
+    "Performance Tuning",
+    "SQL Tuning",
+    "C#",
+    "Replication",
+    "MySQL",
+    "Security",
+    "Database Design",
+    "Database Administration",
+    "Oracle Enterprise Manager",
+    "Software Development",
+    "Team Leadership",
+    "Database Management",
+    "RMAN",
+    "Exadata",
+    "ElasticSearch",
+    "MongoDB",
+    "Hadoop",
+    "System Architecture",
+    "Infrastructure",
+    "ETL",
+    "Big Data",
+    "Consulting",
+    "Google Cloud Platform (GCP)",
+    "Python",
+    "Microsoft Azure",
+    "Oracle Database Administration",
+    "PostgreSQL",
+    "Jira",
+    "Confluence"
+  ]
+}
+{
+  "uid": "1959",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Master's degree",
+      "field": "Database Administration",
+      "institution": "Addis Ababa University",
+      "year_completed": null
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "SQL Database Administrator",
+      "company": "AIG",
+      "start_date": "2022-03-01",
+      "end_date": null,
+      "skills": [
+        "SQL Server", "AWS", "PostgreSQL Aurora", "Cloud Migration", "Database Security", "Performance Monitoring"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Database Administrator",
+      "company": "Western Union",
+      "start_date": "2020-11-01",
+      "end_date": "2022-02-01",
+      "skills": [
+        "SQL Server", "AWS", "ETL", "Data Migration", "Performance Tuning", "High Availability"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Technology Analyst",
+      "company": "Verizon",
+      "start_date": "2019-06-01",
+      "end_date": "2020-10-01",
+      "skills": [
+        "SQL Server", "Performance Monitoring", "Backup/Restore", "Database Upgrades", "High Availability"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "SQL Database Administrator",
+      "company": "Anthem Blue Cross and Blue Shield",
+      "start_date": "2016-09-01",
+      "end_date": "2019-05-01",
+      "skills": [
+        "SQL Server", "Log Shipping", "Mirroring", "Linked Servers", "Backup/Restore"
+      ]
+    }
+  ],
+  "skills": [
+    "SQL Server", "AWS", "ETL", "Performance Tuning", "Database Security", "Cloud Migration", "Database Design", "High Availability", "Troubleshooting", "Query Optimization"
+  ]
+}
+{
+  "uid": "1960",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor's degree",
+      "field": "Computer Science",
+      "institution": "Addis Ababa University",
+      "year_completed": null
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "SQL Database Administrator",
+      "company": "U.S. Venture, Inc.",
+      "start_date": "2021-08-01",
+      "end_date": null,
+      "skills": [
+        "Azure Data Factory", "Azure Data Lake Storage", "Azure Synapse Analytics", "SQL Server replication", "SQL query optimization", "Disaster Recovery", "High Availability", "SQL Server 2019", "Data encryption", "SQL Server Management Studio"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Database Administrator",
+      "company": "Star Mattress & Furniture Gallery",
+      "start_date": "2018-03-01",
+      "end_date": "2021-08-01",
+      "skills": [
+        "Azure SQL Database", "NoSQL", "Database security", "Database optimization", "T-SQL", "SSIS", "Azure Data Factory", "High Availability", "Disaster Recovery"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "SQL Database Administrator",
+      "company": "Wells Fargo",
+      "start_date": "2016-11-01",
+      "end_date": "2018-03-01",
+      "skills": [
+        "SQL Server performance tuning", "DMVs", "ETL processes (SSIS)", "Azure SQL Database", "Database migration", "Azure managed instances", "SSRS", "SSAS"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Database Administrator",
+      "company": "University of Washington",
+      "start_date": "2015-10-01",
+      "end_date": "2016-11-01",
+      "skills": [
+        "SQL Server", "Oracle", "PostgreSQL", "PowerShell", "Replication", "ETL processes", "SQL optimization", "ERP systems"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Database Administrator",
+      "company": "Potomac Electric Power Co.",
+      "start_date": "2013-10-01",
+      "end_date": "2015-09-01",
+      "skills": [
+        "SQL Server", "Oracle", "Database administration", "High Availability", "Disaster Recovery", "SQL query optimization"
+      ]
+    }
+  ],
+  "skills": [
+    "Azure Cloud Technologies", "SQL Server Management Studio", "SQL Tuning", "High Availability", "Disaster Recovery", "ETL Processes (SSIS, Azure Data Factory)", "Cloud Database Optimization", "Power BI Development", "Replication", "Performance Tuning", "Database Optimization", "Security Implementation"
+  ]
+}
+{
+  "uid": "1961",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor of Arts - BA",
+      "field": "Computer Science and Data Analyst",
+      "institution": "Denison University",
+      "year_completed": 2024
+    },
+    {
+      "degree": "Master of Science - MS",
+      "field": "Computer Science",
+      "institution": "Georgia Institute of Technology",
+      "year_completed": 2026
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "Chirality Research Inc.",
+      "start_date": "2025-03-01",
+      "end_date": null,
+      "skills": [
+        "Database administration", "SQL", "Data analysis", "Network security", "System performance optimization"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Digital Infrastructure - Network Specialist - Data Analyst",
+      "company": "Denison University Programming Council (UPC)",
+      "start_date": "2022-02-01",
+      "end_date": null,
+      "skills": [
+        "Network downtime reduction", "Data analysis", "Security incident analysis", "Ticket system improvement", "Network issue resolution"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "IT Technician - System Administrator - Network Engineer",
+      "company": "Denison University",
+      "start_date": "2023-01-01",
+      "end_date": "2024-08-01",
+      "skills": [
+        "System maintenance", "Hardware and software issue resolution", "Batch scripting", "Operating system configuration", "Support ticket reduction"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Software Engineer Intern",
+      "company": "Regions Economics Group",
+      "start_date": "2023-05-01",
+      "end_date": "2023-08-01",
+      "skills": [
+        "System architecture", "Database models", "Collaboration", "Service efficiency improvement"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Network & Hardware Support",
+      "company": "Viettel Software",
+      "start_date": "2019-05-01",
+      "end_date": "2020-11-01",
+      "skills": [
+        "Network security", "Incident analysis", "Cybersecurity", "IT service management", "Vulnerability identification"
+      ]
+    }
+  ],
+  "skills": [
+    "SQL", "Data analysis", "Database administration", "Network security", "Security incident analysis", "System performance optimization", "Hardware and software troubleshooting", "Batch scripting", "IT service management", "Cloud technologies"
+  ]
+}
+{
+  "uid": "1962",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Computer Science",
+      "field": "Computer Science",
+      "institution": "University of Maryland Global Campus",
+      "year_completed": null
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior Oracle Database Administrator",
+      "company": "TekSynap",
+      "start_date": "2022-08-01",
+      "end_date": null,
+      "skills": [
+        "Oracle Database",
+        "Oracle Database Administration"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Oracle Database Analyst",
+      "company": "Ironclad Technology Services",
+      "start_date": "2021-06-01",
+      "end_date": "2022-08-01",
+      "skills": [
+        "Database Administration",
+        "Oracle Database Administration",
+        "Database Migration"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Oracle Database Administrator",
+      "company": "The Coleman Group Inc.",
+      "start_date": "2020-05-01",
+      "end_date": "2021-06-01",
+      "skills": [
+        "Database Administration",
+        "Oracle Database Administration"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Oracle Database Administrator",
+      "company": "Unispec Enterprises",
+      "start_date": "2019-07-01",
+      "end_date": "2020-04-01",
+      "skills": [
+        "Oracle Database Administration"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Oracle Database Administrator",
+      "company": "New Breed Logistics",
+      "start_date": "2017-04-01",
+      "end_date": "2019-07-01",
+      "skills": [
+        "Oracle Database Administration"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Oracle Database Administrator",
+      "company": "CenturyLink",
+      "start_date": "2014-03-01",
+      "end_date": "2017-03-01",
+      "skills": [
+        "Oracle Database Administration"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "Data Entry Specialist",
+      "company": "American Renal Associates",
+      "start_date": "2012-03-01",
+      "end_date": "2014-05-01",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "Database Administration",
+    "Oracle Database Administration",
+    "Oracle RAC",
+    "Oracle Dataguard",
+    "PL/SQL",
+    "SQL Scripts",
+    "Oracle 12C",
+    "RMAN",
+    "Performance Tuning",
+    "Database Security",
+    "Database Migration",
+    "Unix",
+    "Oracle Enterprise Manager",
+    "Cybersecurity",
+    "Network Security",
+    "Cloud Computing",
+    "Amazon Web Services (AWS)",
+    "Network Administration",
+    "Customer Service"
+  ]
+}
+{
+  "uid": "1963",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "B.B.A.",
+      "field": "Business Administration, Computer Science",
+      "institution": "Austin Peay",
+      "year_completed": 1988
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "State of Tennessee",
+      "start_date": "1994-07-01",
+      "end_date": null,
+      "skills": [
+        "Database Administration",
+        "RMAN",
+        "Disaster Recovery",
+        "SQL",
+        "SQL Tuning",
+        "Performance Tuning"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Programmer/Analyst",
+      "company": "State of Tennessee",
+      "start_date": "1989-01-01",
+      "end_date": "1994-07-01",
+      "skills": [
+        "Database Design",
+        "SQL"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Secretary",
+      "company": "State of Tennessee",
+      "start_date": "1988-06-01",
+      "end_date": "1989-01-01",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "Database Administration",
+    "RMAN",
+    "Disaster Recovery",
+    "SQL",
+    "SQL Tuning",
+    "Performance Tuning",
+    "Database Design",
+    "Networking",
+    "Microsoft Office"
+  ]
+}
+{
+  "uid": "1964",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Master of Science",
+      "field": "Cyber Security Management",
+      "institution": "University of West Florida",
+      "year_completed": 2025
+    },
+    {
+      "degree": "Bachelor's of Technological Science",
+      "institution": "Siantou University Complex",
+      "year_completed": 2014
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "Saks Fifth Avenue",
+      "start_date": "2020-07-01",
+      "end_date": null,
+      "skills": [
+        "RMAN",
+        "Oracle Linux",
+        "Datapump",
+        "Disaster Recovery",
+        "Unix Shell Scripting",
+        "Database Replication",
+        "SQL Tuning",
+        "Performance Tuning",
+        "Data Migration"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Oracle Database Administrator/AWS Solution Architect/Engineer",
+      "company": "Fannie Mae",
+      "start_date": "2018-11-01",
+      "end_date": "2020-06-01",
+      "skills": [
+        "AWS EC2",
+        "RDS",
+        "IAM",
+        "S3",
+        "CloudWatch",
+        "Oracle 10g",
+        "Oracle 11g",
+        "Oracle 12c",
+        "Oracle 19c",
+        "PostgreSQL",
+        "Data Guard",
+        "Backup & Recovery",
+        "Cloning"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Database Administrator",
+      "company": "American Modern Insurance Group",
+      "start_date": "2015-07-01",
+      "end_date": "2018-10-01",
+      "skills": [
+        "Oracle RAC",
+        "Backup & Recovery",
+        "SQL Trace",
+        "TKPROF",
+        "AWR",
+        "ADDM",
+        "Performance Tuning",
+        "Azure Cloud",
+        "Partitioning",
+        "Oracle Enterprise Manager"
+      ]
+    }
+  ],
+  "skills": [
+    "RMAN",
+    "Datapump",
+    "Disaster Recovery",
+    "Unix Shell Scripting",
+    "SQL Tuning",
+    "Performance Tuning",
+    "Data Migration",
+    "AWS",
+    "Oracle RAC",
+    "Oracle Enterprise Manager",
+    "Backup & Recovery",
+    "PostgreSQL",
+    "Data Guard",
+    "AWR",
+    "TKPROF",
+    "Azure Cloud",
+    "Cloning"
+  ]
+}
+{
+  "uid": "1965",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor's degree",
+      "field": "Computer Science",
+      "institution": "Addis Ababa University",
+      "year_completed": 2016
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "SQL Database Administrator",
+      "company": "Walgreens Boots Alliance",
+      "start_date": "2022-09-01",
+      "end_date": null,
+      "skills": [
+        "SQL DBA", "Performance Tuning", "High Availability Clustering", "Data Migration", "Backup & Restore", "SQL Server Analysis Services (SSAS)", "SQL Server Integration Services (SSIS)", "SQL Server Reporting Services (SSRS)"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "SQL Database Administrator",
+      "company": "CVS Health Corporation",
+      "start_date": "2019-10-01",
+      "end_date": "2022-08-31",
+      "skills": [
+        "SQL DBA", "Performance Tuning", "Backup & Restore", "Stored Procedures", "Transact-SQL (T-SQL)", "Microsoft SQL Server"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Junior Database Administrator",
+      "company": "AT&T",
+      "start_date": "2018-03-01",
+      "end_date": "2019-09-30",
+      "skills": [
+        "SQL DBA", "Server Administration", "Performance Tuning"
+      ]
+    }
+  ],
+  "skills": [
+    "SQL DBA", "Performance Tuning", "High Availability Clustering", "Data Migration", "Backup & Restore", "SQL Server Analysis Services (SSAS)", "SQL Server Integration Services (SSIS)", "SQL Server Reporting Services (SSRS)", "Stored Procedures", "Transact-SQL (T-SQL)", "Microsoft SQL Server"
+  ]
+}
+{
+  "uid": "1966",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Master of Arts",
+      "field": "Educational Leadership and Administration",
+      "institution": "Addis Ababa University",
+      "year_completed": 2014
+    },
+    {
+      "degree": "Bachelor's degree",
+      "field": "Information Technology",
+      "institution": "Haramaya University",
+      "year_completed": 2012
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "SQL Database Administrator",
+      "company": "Cardinal Health",
+      "start_date": "2021-05-01",
+      "end_date": null,
+      "skills": [
+        "SQL Server", "Azure SQL Server", "T-SQL", "Stored Procedures", "SSIS", "SSRS", "Performance Tuning", "Database Migration", "Clustering", "Replication", "Backup & Recovery"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "SQL Database Administrator",
+      "company": "Wells Fargo",
+      "start_date": "2018-01-01",
+      "end_date": "2021-05-01",
+      "skills": [
+        "SQL Server", "Azure SQL Database", "HADR", "Always On", "Replication", "Performance Tuning", "Database Migration", "Backup & Recovery", "Index Management"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "SQL Database Administrator",
+      "company": "Walmart",
+      "start_date": "2014-01-01",
+      "end_date": "2017-12-31",
+      "skills": [
+        "SQL Server", "Database Administration", "T-SQL", "Clustering", "Log Shipping", "Index Fragmentation", "Backup & Recovery", "Service Pack Management"
+      ]
+    }
+  ],
+  "skills": [
+    "SQL Server", "Azure SQL Server", "T-SQL", "Stored Procedures", "SSIS", "SSRS", "Performance Tuning", "Database Migration", "Clustering", "Replication", "Backup & Recovery", "Index Management", "HADR", "Always On", "Log Shipping", "Service Pack Management"
+  ]
+}
+{
+  "uid": "1967",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor's degree",
+      "field": "Computer Science",
+      "institution": "L N Hoshing Vidyalaya",
+      "year_completed": null
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "Amdocs",
+      "start_date": "2015-03-01",
+      "end_date": null,
+      "skills": [
+        "RMAN", "Oracle RAC", "Oracle", "Performance Tuning", "Shell Scripting", "Solaris", "Database Administration", "SQL*Plus", "Oracle Administration", "PL/SQL", "Oracle Enterprise Manager", "Unix", "Unix Shell Scripting", "SQL", "Oracle Application Express", "Oracle Database Administration"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Sr Oracle DBA",
+      "company": "Amdocs",
+      "start_date": "2010-08-01",
+      "end_date": "2015-03-01",
+      "skills": [
+        "Oracle", "Performance Tuning", "Shell Scripting", "SQL*Plus", "Oracle Administration", "PL/SQL", "Unix", "Unix Shell Scripting"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Oracle Database Administrator L-1",
+      "company": "Vodafone (Client of Amdocs)",
+      "start_date": "2009-05-01",
+      "end_date": "2010-08-01",
+      "skills": [
+        "Oracle", "Database Administration", "SQL", "PL/SQL"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Oracle Database Administrator Trainer",
+      "company": "Systems Domain",
+      "start_date": "2008-05-01",
+      "end_date": "2009-05-01",
+      "skills": [
+        "Oracle", "SQL", "Database Administration"
+      ]
+    }
+  ],
+  "skills": [
+    "RMAN", "Oracle RAC", "Oracle", "Performance Tuning", "Shell Scripting", "Solaris", "Database Administration", "SQL*Plus", "Oracle Administration", "PL/SQL", "Oracle Enterprise Manager", "Unix", "Unix Shell Scripting", "SQL", "Oracle Application Express", "Oracle Database Administration"
+  ]
+}
+{
+  "uid": "1968",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "BS",
+      "field": "Computer Science",
+      "institution": "The University of Alabama",
+      "year_completed": 2002
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior Enterprise Database Administrator",
+      "company": "Washington Metropolitan Area Transit Authority (WMATA)",
+      "start_date": "2017-08-01",
+      "end_date": "2018-04-01",
+      "skills": [
+        "AIX", "Windows", "MS SQL Server", "Cluster Databases", "SAN Storage", "Database Maintenance", "Capacity Planning", "Performance Tuning", "Database Upgrades", "Disaster Recovery", "Database Architecture", "Problem Resolution"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Senior Database Administrator",
+      "company": "Asurion",
+      "start_date": "2012-09-01",
+      "end_date": "2016-12-01",
+      "skills": [
+        "SQL Server", "Failover Clustering", "Disaster Recovery", "BI Initiatives", "ETL", "Database Architecture", "Automation", "SQL Server Administration"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Lead Architect DBA - SQL Server",
+      "company": "GE Healthcare",
+      "start_date": "2011-09-01",
+      "end_date": "2012-09-01",
+      "skills": [
+        "SQL Server", "Failover Clustering", "Cloud Infrastructure", "Global Administration", "Offshore Team Management"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Database Administrator II",
+      "company": "Cabela's",
+      "start_date": "2010-01-01",
+      "end_date": "2011-09-01",
+      "skills": [
+        "SQL Server", "Cluster Administration", "Database Optimization", "SQL Jobs", "Disaster Recovery", "High Availability", "SQL Maintenance", "Database Security"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "ERP/Database Administrator",
+      "company": "Marygrove College",
+      "start_date": "2008-12-01",
+      "end_date": "2009-12-01",
+      "skills": [
+        "Database Administration", "SQL", "ERP Systems"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Programmer Analyst II",
+      "company": "Lee University",
+      "start_date": "2006-10-01",
+      "end_date": "2008-12-01",
+      "skills": [
+        "SQL", "Programming", "Database Analysis"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "Computer Specialist",
+      "company": "Antioch Missionary Baptist Church",
+      "start_date": "2003-03-01",
+      "end_date": "2006-12-01",
+      "skills": [
+        "System Administration", "IT Support"
+      ]
+    },
+    {
+      "job_id": "008",
+      "title": "Neighborhood Network Engineer (Contractor)",
+      "company": "Opelika Housing Authority",
+      "start_date": "2005-09-01",
+      "end_date": "2006-10-01",
+      "skills": [
+        "Networking", "IT Support"
+      ]
+    }
+  ],
+  "skills": [
+    "AIX", "Windows", "MS SQL Server", "Cluster Databases", "SAN Storage", "Database Maintenance", "Capacity Planning", "Performance Tuning", "Database Upgrades", "Disaster Recovery", "Database Architecture", "Problem Resolution", "SQL Server", "Failover Clustering", "BI Initiatives", "ETL", "Cloud Infrastructure", "Offshore Team Management", "SQL Jobs", "High Availability", "Database Security", "System Administration", "Networking", "IT Support"
+  ]
+}
+{
+  "uid": "1969",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "BS",
+      "field": "Operations Management",
+      "institution": "Remington College",
+      "year_completed": 2008
+    },
+    {
+      "degree": "AS",
+      "field": "Computer Network Administration",
+      "institution": "Remington College",
+      "year_completed": 2002
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator II",
+      "company": "Emory University",
+      "start_date": "2022-08-01",
+      "end_date": null,
+      "skills": [
+        "SQL Server",
+        "VMware",
+        "Disaster Recovery",
+        "Backup Solutions",
+        "Active Directory",
+        "System Administration"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "System and Database Administrator",
+      "company": "Saint Leo University",
+      "start_date": "2012-01-01",
+      "end_date": "2022-08-01",
+      "skills": [
+        "Disaster Recovery",
+        "VMware ESXi",
+        "Storage Area Network (SAN)",
+        "Network-Attached Storage (NAS)",
+        "Backup Solutions",
+        "SQL",
+        "Troubleshooting",
+        "Active Directory",
+        "System Administration",
+        "High Availability (HA)",
+        "Windows Server"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Local Technical Contact",
+      "company": "Remington College",
+      "start_date": "2007-03-01",
+      "end_date": "2011-05-01",
+      "skills": [
+        "Networking",
+        "Microsoft Office",
+        "SQL",
+        "Technical Support",
+        "Windows Server"
+      ]
+    }
+  ],
+  "skills": [
+    "SQL Server",
+    "VMware",
+    "Disaster Recovery",
+    "Backup Solutions",
+    "Active Directory",
+    "System Administration",
+    "Troubleshooting",
+    "Storage Area Network (SAN)",
+    "Network-Attached Storage (NAS)",
+    "High Availability (HA)",
+    "Windows Server",
+    "Microsoft Exchange",
+    "Technical Support",
+    "Networking",
+    "Servers",
+    "Hardware",
+    "A+ Certified",
+    "Microsoft SQL Server",
+    "Query Optimization",
+    "SQL Tuning"
+  ]
+}
+{
+  "uid": "1970",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "field": "Operations Management",
+      "institution": "Buffalo State University",
+      "year_completed": 2016
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "Navisite",
+      "start_date": "2018-01-01",
+      "end_date": null,
+      "skills": [
+        "SQL Server",
+        "Azure SQL",
+        "Database Systems",
+        "Data Migration",
+        "Performance Tuning",
+        "Microsoft SQL Server",
+        "Database Optimization",
+        "Server Configuration",
+        "Data Architecture",
+        "SQL Server Integration Services (SSIS)",
+        "SQL Server Reporting Services (SSRS)",
+        "SQL",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Database Administrator",
+      "company": "U.S. Bank",
+      "start_date": "2016-03-01",
+      "end_date": "2017-12-31",
+      "skills": [
+        "Cloud Computing",
+        "SQL Server",
+        "Microsoft Azure",
+        "SQL Server Management Studio",
+        "Transact-SQL (T-SQL)",
+        "SQL Server Analysis Services (SSAS)",
+        "SQL Server Reporting Services (SSRS)",
+        "Data Management",
+        "Data Transfer"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "SQL Database Administrator",
+      "company": "Davis Delivery Services",
+      "start_date": "2015-01-01",
+      "end_date": "2016-02-29",
+      "skills": [
+        "SQL Server",
+        "Azure SQL",
+        "Database Design",
+        "Database Optimization",
+        "SQL Tuning",
+        "Data Integration"
+      ]
+    }
+  ],
+  "skills": [
+    "SQL Server",
+    "Azure SQL",
+    "Database Systems",
+    "Data Migration",
+    "Performance Tuning",
+    "Microsoft SQL Server",
+    "Database Optimization",
+    "Server Configuration",
+    "Data Architecture",
+    "SQL Server Integration Services (SSIS)",
+    "SQL Server Reporting Services (SSRS)",
+    "SQL",
+    "PostgreSQL",
+    "Cloud Computing",
+    "Microsoft Azure",
+    "SQL Server Management Studio",
+    "Transact-SQL (T-SQL)",
+    "SQL Server Analysis Services (SSAS)",
+    "Data Management",
+    "Data Transfer"
+  ]
+}
+{
+  "uid": "1971",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor's degree",
+      "field": "Electric Engineering",
+      "institution": "University of Benin",
+      "year_completed": 2010
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "MS-SQL Database Administrator",
+      "company": "Dell Technologies",
+      "start_date": "2018-09-01",
+      "end_date": null,
+      "skills": [
+        "SQL Server database installation",
+        "database monitoring",
+        "backup management",
+        "index rebuilds",
+        "database security",
+        "performance tuning",
+        "disaster recovery",
+        "failover clustering"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "SQL Server Database Administrator",
+      "company": "Wellstar Hospital",
+      "start_date": "2018-01-01",
+      "end_date": "2018-08-01",
+      "skills": [
+        "database migrations",
+        "Azure services",
+        "Always On Availability Groups",
+        "SQL Server clustering",
+        "PowerShell",
+        "T-SQL",
+        "database performance optimization"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Database Administrator/System Admin",
+      "company": "Diamond Bank",
+      "start_date": "2012-06-01",
+      "end_date": "2017-12-01",
+      "skills": [
+        "SQL Server automation",
+        "high availability solutions",
+        "database migrations",
+        "SSIS",
+        "SSRS",
+        "Power BI",
+        "disaster recovery",
+        "database design",
+        "security management"
+      ]
+    }
+  ],
+  "skills": [
+    "T-SQL",
+    "JavaScript",
+    "HTML",
+    "IIS 4.0",
+    "Internet Protocol Suite (TCP/IP)",
+    "Backup & Recovery Systems",
+    "Critical Thinking",
+    "Decision Modeling",
+    "Root Cause Analysis",
+    "ServiceNow",
+    "Subversion",
+    "Git",
+    "Linux",
+    "Unix Solaris",
+    "Windows Server",
+    "SQLCMD",
+    "Transformation and Loading (ETL)",
+    "Microsoft SQL Server",
+    "Performance Tuning of Database Instance",
+    "Data Visualization",
+    "Google Analytics",
+    "Power BI",
+    "Oracle",
+    "SQL Server Profiler",
+    "SQL Server Data Tools (SSDT)",
+    "SQL Server Reporting Services (SSRS)",
+    "SQL Server Integration Services (SSIS)",
+    "SQL Server Management Studio (SSMS)"
+  ]
+}
+{
+  "uid": "1972",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Master's degree",
+      "field": "Computer Software Engineering",
+      "institution": "North American University (NAU)",
+      "year_completed": 2017
+    },
+    {
+      "degree": "Bachelor's degree",
+      "field": "Mechanical Engineering",
+      "institution": "Orta Doğu Teknik Üniversitesi / Middle East Technical University",
+      "year_completed": 1995
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "iLearnSchools",
+      "start_date": "2024-07-01",
+      "end_date": null,
+      "skills": [
+        "SQL", "Database Administration"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Software Engineer",
+      "company": "Google",
+      "start_date": "2018-08-01",
+      "end_date": "2024-04-30",
+      "skills": [
+        "SQL", "JavaScript", "C#", "OCR", "SIMS Database", "Time Table Builder"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Software Developer / Database Administrator",
+      "company": "Harmony Public Schools",
+      "start_date": "2006-07-01",
+      "end_date": "2018-08-31",
+      "skills": [
+        "SQL", "Database Administration"
+      ]
+    }
+  ],
+  "skills": [
+    "SQL", "JavaScript", "C#", "OCR", "SIMS Database", "Time Table Builder"
+  ]
+}
+{
+  "uid": "1973",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor's degree",
+      "field": "General Studies",
+      "institution": "University of Missouri-Columbia",
+      "year_completed": 1985
+    },
+    {
+      "degree": "Master's degree",
+      "field": "Medieval and Renaissance Studies",
+      "institution": "University of Missouri-Columbia",
+      "year_completed": 1985
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "University of Missouri",
+      "start_date": "2007-06-01",
+      "end_date": null,
+      "skills": [
+        "SQL", "Database Administration", "System Administration", "Backup and Maintenance Management", "Database Creation and Integration", "Data Modeling"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Business Intelligence Trainer",
+      "company": "University of Missouri Health Care",
+      "start_date": "2000-12-01",
+      "end_date": "2007-06-30",
+      "skills": [
+        "Cognos", "Custom Queries", "System Administration", "Business Intelligence"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Computer Network Manager",
+      "company": "University of Missouri",
+      "start_date": "1988-08-01",
+      "end_date": "2000-12-01",
+      "skills": [
+        "Network Administration", "System Administration", "Networking"
+      ]
+    }
+  ],
+  "skills": [
+    "SQL", "Visio", "Windows", "HTML", "Software Documentation", "Troubleshooting", "Microsoft SQL Server", "Data Analysis", "Operating Systems", "System Administration",
+    "Windows Server", "Microsoft Office", "XP", "Analysis", "Oracle", "Databases", "Python", "Technical Writing", "MySQL", "Team Leadership", "Project Planning", "Security",
+    "Process Improvement", "Linux", "Web Development", "Java", "Access", "Servers", "CSS", "Disaster Recovery", "Computer Hardware", "Windows 7", "Integration", "Web Applications",
+    "Programming", "Perl", "Database Design", "Networking", "OS X", "Visual Basic", "Network Administration", "Technical Support", "Imagineering", "PHP", "User Experience", "IIS",
+    "Business Process Improvement", "Microsoft Access"
+  ]
+}
+{
+  "uid": "1974",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Associate of Science",
+      "field": "Computer Programming",
+      "institution": "North Dakota State College of Science",
+      "year_completed": 1987
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Database Administrator",
+      "company": "Sanford Health",
+      "start_date": "2001-06-01",
+      "end_date": null,
+      "skills": [
+        "SQL Server", "SQL Tuning", "Performance Tuning", "Disaster Recovery", "Database Administration", 
+        "VMware", "Unix", "System Administration", "Troubleshooting", "Active Directory", "SharePoint", 
+        "Servers", "HIPAA", "Healthcare Information Technology", "Oracle", "SSRS", "Crystal Reports"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Technical Support Manager",
+      "company": "Simplicity Systems, Inc.",
+      "start_date": "1990-07-01",
+      "end_date": "1997-08-01",
+      "skills": [
+        "Technical Support", "Customer Service", "Team Leadership"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Product Developer",
+      "company": "Great Plains Software - Microsoft",
+      "start_date": "1987-06-01",
+      "end_date": "1990-06-01",
+      "skills": [
+        "Product Development", "Testing", "GPS Systems"
+      ]
+    }
+  ],
+  "skills": [
+    "SQL Server", "Performance Tuning", "Disaster Recovery", "Technical Support", "SQL", "VMware", "Unix", 
+    "Database Administration", "Healthcare Information Technology", "Oracle", "Active Directory", "SharePoint", 
+    "Servers", "Troubleshooting", "System Administration", "HIPAA", "SSRS", "Crystal Reports"
+  ]
+}
+{
+  "uid": "1975",
+  "label": "Database Administrator",
+  "education": [
+    {
+      "degree": "Bachelor's degree",
+      "field": "Information Technology",
+      "institution": "SVSHV Hindu Vidyalaya",
+      "year_completed": 2010
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior Database Administrator",
+      "company": "Xoriant",
+      "start_date": "2016-04-01",
+      "end_date": null,
+      "skills": [
+        "Azure Data Factory",
+        "SQL Server Integration Services (SSIS)",
+        "SQL Server Analysis Services (SSAS)",
+        "Azure Virtual Machines",
+        "T-SQL Stored Procedures",
+        "Database Administration",
+        "SQL DBA",
+        "Database Management System (DBMS)",
+        "SQL Azure",
+        "Microsoft SQL Server",
+        "Data Migration",
+        "Performance Tuning"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Database Administrator",
+      "company": "Datavail",
+      "start_date": "2014-12-01",
+      "end_date": "2016-04-01",
+      "skills": [
+        "SQL Server Integration Services (SSIS)",
+        "Database Administration",
+        "SQL Server 2008/2008R2/2012/2014",
+        "SQL Server Clustering",
+        "Failover Clustering",
+        "RAID Configuration",
+        "Database Migration",
+        "Performance Monitoring",
+        "Active Directory Services",
+        "Dynamic Management Views (DMV)"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Technical Consultant",
+      "company": "Capgemini India Pvt Ltd.",
+      "start_date": "2011-11-01",
+      "end_date": "2014-12-01",
+      "skills": [
+        "SQL Server",
+        "Business Intelligence Solutions",
+        "QlikView",
+        "SSIS",
+        "MDX",
+        "ETL",
+        "Data Warehouse Migration"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "SSRS Developer",
+      "company": "Omnitech",
+      "start_date": "2010-05-01",
+      "end_date": "2011-10-01",
+      "skills": [
+        "SSRS",
+        "SQL Server",
+        "ETL Support",
+        "SQL Server Reporting",
+        "Pentaho"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Customer Support Executive",
+      "company": "Sparsh BPO Service Limited",
+      "start_date": "2007-04-01",
+      "end_date": "2008-03-01",
+      "skills": [
+        "Customer Support",
+        "SLA Management",
+        "Cross-Functional Team Interaction"
+      ]
+    }
+  ],
+  "skills": [
+    "Azure Data Factory",
+    "SQL Server Integration Services (SSIS)",
+    "SQL Server Analysis Services (SSAS)",
+    "Azure Virtual Machines",
+    "T-SQL Stored Procedures",
+    "Database Administration",
+    "SQL DBA",
+    "Database Management System (DBMS)",
+    "SQL Azure",
+    "Microsoft SQL Server",
+    "Data Migration",
+    "Performance Tuning",
+    "Business Intelligence Tools",
+    "QlikView",
+    "SQL Tuning",
+    "Data Integration",
+    "SSRS",
+    "Data Warehousing",
+    "ETL",
+    "SQL Server Reporting Services (SSRS)",
+    "Analysis Services"
+  ]
+}

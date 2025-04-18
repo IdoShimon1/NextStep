@@ -1,0 +1,6845 @@
+{
+  "uid": "1826",
+  "label": "Lead Data Center Engineer",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Lead Data Center Engineer",
+      "company": "Carbonite Inc an OpenText Company",
+      "start_date": "2021-10-01",
+      "end_date": null,
+      "skills": ["Data Center", "Troubleshooting", "Networking", "Windows", "Linux", "Servers", "Windows Server"]
+    },
+    {
+      "job_id": "002",
+      "title": "Sr Data Center Engineer",
+      "company": "OpenText",
+      "start_date": "2020-01-01",
+      "end_date": null,
+      "skills": ["Data Center", "Troubleshooting", "Networking", "Windows", "Linux", "Servers", "Windows Server"]
+    },
+    {
+      "job_id": "003",
+      "title": "Data Center Engineer",
+      "company": "Carbonite Inc.",
+      "start_date": "2015-01-01",
+      "end_date": null,
+      "skills": ["Data Center", "Troubleshooting", "Networking", "Windows", "Linux", "Servers", "Windows Server"]
+    }
+  ],
+  "skills": [
+    "Data Center",
+    "Troubleshooting",
+    "Networking",
+    "Windows",
+    "Linux",
+    "Servers",
+    "Windows Server"
+  ]
+}
+{
+  "uid": "1827",
+  "label": "Data Center Engineer",
+  "education": [
+    {
+      "degree": "Associate of Arts",
+      "field": "Liberal Arts - Business and CIS Emphasis",
+      "institution": "De Anza College",
+      "year_completed": 2014
+    },
+    {
+      "degree": "Business Administration - Marketing",
+      "field": "Business Administration",
+      "institution": "San José State University",
+      "year_completed": 2015
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "DigitalOcean",
+      "start_date": "2020-09-01",
+      "end_date": null,
+      "skills": [
+        "data center infrastructure",
+        "network administration",
+        "hardware diagnostics",
+        "Linux OS",
+        "RMA processing",
+        "server inventory",
+        "power and cooling systems"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center Technician",
+      "company": "Redapt Inc",
+      "start_date": "2018-07-01",
+      "end_date": "2020-09-01",
+      "skills": [
+        "server racking and cabling",
+        "hardware configuration",
+        "SSH access",
+        "QA checks",
+        "migration projects",
+        "on-site support"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Data Center Technician",
+      "company": "FusionStorm",
+      "start_date": "2017-07-01",
+      "end_date": "2018-07-01",
+      "skills": [
+        "racking and patching",
+        "network switch setup",
+        "migration coordination",
+        "cable management"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Data Center Technician",
+      "company": "NextPhase Systems",
+      "start_date": "2016-10-01",
+      "end_date": "2017-07-01",
+      "skills": [
+        "server cabling",
+        "system maintenance",
+        "hardware troubleshooting",
+        "inventory management"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Data Center Technician",
+      "company": "TEKsystems",
+      "start_date": "2016-05-01",
+      "end_date": "2016-07-01",
+      "skills": [
+        "hardware configuration",
+        "asset database",
+        "structured cabling",
+        "fiber maintenance",
+        "ticket-based troubleshooting"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Operations Engineer",
+      "company": "Applied Innovation Group Inc. (AIG Tech)",
+      "start_date": "2015-11-01",
+      "end_date": "2016-05-01",
+      "skills": [
+        "schematic drawing",
+        "PCB programming",
+        "Linux troubleshooting",
+        "firmware updates"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "Inventory Technician",
+      "company": "Milestone Technologies, Inc.",
+      "start_date": "2013-08-01",
+      "end_date": "2015-11-01",
+      "skills": [
+        "IT asset lifecycle",
+        "hardware imaging",
+        "inventory management",
+        "hardware repair"
+      ]
+    },
+    {
+      "job_id": "008",
+      "title": "Data Center Technician",
+      "company": "Milestone Technologies, Inc.",
+      "start_date": "2011-07-01",
+      "end_date": "2013-08-01",
+      "skills": [
+        "server reconnects",
+        "cable management",
+        "client coordination",
+        "hardware patching"
+      ]
+    },
+    {
+      "job_id": "009",
+      "title": "IT Technician",
+      "company": "TEKsystems",
+      "start_date": "2011-03-01",
+      "end_date": "2012-05-01",
+      "skills": [
+        "desktop support",
+        "server maintenance",
+        "network upgrades",
+        "hardware installation"
+      ]
+    },
+    {
+      "job_id": "010",
+      "title": "Quality Control",
+      "company": "Randstad Technologies US",
+      "start_date": "2010-06-01",
+      "end_date": "2011-01-01",
+      "skills": [
+        "production QA",
+        "documentation review",
+        "compliance checks"
+      ]
+    }
+  ],
+  "skills": [
+    "data center infrastructure",
+    "network administration",
+    "Linux OS",
+    "hardware diagnostics",
+    "server racking",
+    "SSH access",
+    "hardware repair",
+    "cabling",
+    "inventory management",
+    "system troubleshooting",
+    "structured cabling",
+    "asset tracking",
+    "migration projects"
+  ]
+}
+{
+  "uid": "1828",
+  "label": "Data Center Technician",
+  "education": [
+    {
+      "degree": "Bachelor's degree",
+      "field": "Business Technology Management",
+      "institution": "Regis University",
+      "year_completed": 2013
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "Insight",
+      "start_date": "2014-08-01",
+      "end_date": null,
+      "skills": [
+        "System Administration",
+        "Security Clearance",
+        "Troubleshooting",
+        "Operations Management",
+        "Customer Service",
+        "Team Leadership",
+        "Process Improvement",
+        "Time Management"
+      ]
+    }
+  ],
+  "skills": [
+    "System Administration",
+    "Security Clearance",
+    "Troubleshooting",
+    "Operations Management",
+    "Customer Service",
+    "Team Leadership",
+    "Process Improvement",
+    "Time Management",
+    "Leadership",
+    "Training",
+    "Project Planning",
+    "Strategic Planning",
+    "Data Analysis"
+  ]
+}
+{
+  "uid": "1829",
+  "label": "Data Center Technician",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Infrastructure Operations Manager",
+      "company": "Harvard Medical School",
+      "start_date": "2023-10-01",
+      "end_date": null,
+      "skills": [
+        "Leadership",
+        "Vendor Management",
+        "Strategic Planning",
+        "Project Planning",
+        "Management"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Senior Data Center Engineer",
+      "company": "Harvard Medical School",
+      "start_date": "2022-05-01",
+      "end_date": null,
+      "skills": [
+        "Data Center Operations",
+        "Troubleshooting",
+        "Equipment Commissioning",
+        "Preventive Maintenance",
+        "Power Distribution"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Data Center Engineer",
+      "company": "Harvard Medical School",
+      "start_date": "2018-01-01",
+      "end_date": "2022-07-31",
+      "skills": [
+        "Networking",
+        "Vendor Management",
+        "Customer Service"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Field Service Technician",
+      "company": "Self Employed",
+      "start_date": "1994-04-01",
+      "end_date": null,
+      "skills": [
+        "Troubleshooting",
+        "Equipment Maintenance",
+        "Electricians"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Data Center Engineer",
+      "company": "PTC",
+      "start_date": "2016-04-01",
+      "end_date": "2017-11-30",
+      "skills": []
+    },
+    {
+      "job_id": "006",
+      "title": "Data Center Technician",
+      "company": "Sentinel Data Centers",
+      "start_date": "2007-11-01",
+      "end_date": "2010-05-31",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "Data Center Operations",
+    "Equipment Commissioning",
+    "Equipment Maintenance",
+    "Power Distribution",
+    "Preventive Maintenance",
+    "Troubleshooting",
+    "Leadership",
+    "Vendor Management",
+    "Customer Service",
+    "Electricians",
+    "Strategic Planning",
+    "Cross-functional Team Leadership",
+    "Budgets",
+    "Networking",
+    "Project Planning",
+    "Engineering"
+  ]
+}
+{
+  "uid": "1830",
+  "label": "Data Center Technician",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Sr. Data Center Engineer",
+      "company": "DRW",
+      "start_date": "2021-07-01",
+      "end_date": null,
+      "skills": [
+        "Data Center",
+        "Servers",
+        "Virtualization",
+        "Problem Solving",
+        "Unix",
+        "Networking"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Sr. Trade Support Engineer/Director of Data Center Operations",
+      "company": "Born Capital",
+      "start_date": "2011-06-01",
+      "end_date": "2020-02-29",
+      "skills": [
+        "Disaster Recovery",
+        "Technical Support",
+        "Electronic Trading",
+        "Leadership",
+        "IT Management",
+        "Active Directory"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Server and User Support",
+      "company": "Blue Capital Group",
+      "start_date": "2005-12-01",
+      "end_date": "2011-04-30",
+      "skills": [
+        "Trading Systems",
+        "Technical Support",
+        "Disaster Recovery",
+        "Quality Assurance",
+        "Market Data"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Desktop/Network Support Analyst",
+      "company": "Ritchie Capital Management",
+      "start_date": "2002-01-01",
+      "end_date": "2005-12-31",
+      "skills": [
+        "Network Support",
+        "Application Support",
+        "Regulatory Reporting"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Director of Information Technology",
+      "company": "White Way Sign",
+      "start_date": "1995-11-01",
+      "end_date": "2002-12-31",
+      "skills": [
+        "Servers",
+        "Networking",
+        "Firewalls",
+        "Project Management",
+        "IT Management",
+        "Training"
+      ]
+    }
+  ],
+  "skills": [
+    "Data Center",
+    "Disaster Recovery",
+    "Trading Systems",
+    "Technical Support",
+    "Servers",
+    "Active Directory",
+    "Unix",
+    "Virtualization",
+    "Networking",
+    "Firewalls",
+    "Project Management",
+    "Leadership",
+    "IT Management",
+    "Application Support",
+    "Problem Solving",
+    "System Administration",
+    "Information Technology",
+    "Quality Assurance"
+  ]
+}
+{
+  "uid": "1831",
+  "label": "Senior Data Center Engineer",
+  "education": [
+    {
+      "degree": "Bachelor of Applied Science",
+      "field": "Organizational Leadership",
+      "institution": "Centralia College",
+      "year_completed": 2014
+    },
+    {
+      "degree": "Associate of Science",
+      "field": "Computer Science",
+      "institution": "Centralia College",
+      "year_completed": 2000
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior Data Center Engineer",
+      "company": "Right! Systems, Inc.",
+      "start_date": "2024-11-01",
+      "end_date": null,
+      "skills": []
+    },
+    {
+      "job_id": "002",
+      "title": "Sales Engineer",
+      "company": "ark data centers",
+      "start_date": "2023-03-01",
+      "end_date": "2024-08-31",
+      "skills": ["Colocation", "Cloud", "Disaster Recovery", "High Density Compute", "Windows Server", "Veeam"]
+    },
+    {
+      "job_id": "003",
+      "title": "IT Security Engineer - Cloud Platform",
+      "company": "Micron Technology",
+      "start_date": "2022-04-01",
+      "end_date": "2023-03-31",
+      "skills": ["Kubernetes", "EKS", "AKS", "GKS", "OpenShift", "AWS", "Terraform", "Prisma Cloud", "Lambda", "AWS Config"]
+    },
+    {
+      "job_id": "004",
+      "title": "Server Systems Engineer",
+      "company": "WinCo Foods",
+      "start_date": "2018-12-01",
+      "end_date": "2022-04-30",
+      "skills": ["System Administration", "Cloud", "Hardware", "Documentation", "Vendor Management"]
+    },
+    {
+      "job_id": "005",
+      "title": "Client Reliability Engineer",
+      "company": "Taos",
+      "start_date": "2017-12-01",
+      "end_date": "2018-01-31",
+      "skills": ["Technical Support", "Process Improvement", "Security"]
+    },
+    {
+      "job_id": "006",
+      "title": "Service Delivery Manager (Patching Services)",
+      "company": "Taos",
+      "start_date": "2016-10-01",
+      "end_date": "2017-12-31",
+      "skills": ["Patching", "Windows", "Linux", "VMware", "Leadership"]
+    },
+    {
+      "job_id": "007",
+      "title": "OCA II",
+      "company": "Taos",
+      "start_date": "2015-08-01",
+      "end_date": "2016-10-31",
+      "skills": ["AWS", "GCP", "Windows Server", "VMware", "Exchange", "O365"]
+    },
+    {
+      "job_id": "008",
+      "title": "Network Manager",
+      "company": "Middleton School District 134",
+      "start_date": "2015-01-01",
+      "end_date": "2015-08-31",
+      "skills": []
+    },
+    {
+      "job_id": "009",
+      "title": "Systems Engineer",
+      "company": "Chehalis School District 302",
+      "start_date": "2008-01-01",
+      "end_date": "2015-01-31",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "Kubernetes",
+    "AWS",
+    "Terraform",
+    "Windows Server",
+    "Veeam",
+    "Cloud Security",
+    "Prisma Cloud",
+    "Palo Alto",
+    "VMware",
+    "Linux",
+    "O365"
+  ]
+}
+{
+  "uid": "1832",
+  "label": "Data Center Technician",
+  "education": [
+    {
+      "degree": "Doctor of Philosophy",
+      "field": "Mechanical Engineering",
+      "institution": "University of California, Riverside",
+      "year_completed": 2025
+    },
+    {
+      "degree": "Master's degree",
+      "field": "Mechanical Engineering",
+      "institution": "Iran University of Science and Technology",
+      "year_completed": 2019
+    },
+    {
+      "degree": "Bachelor of Science",
+      "field": "Mechanical Engineering",
+      "institution": "K. N. Toosi University of Technology",
+      "year_completed": 2015
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior Data Center Engineer",
+      "company": "NVIDIA",
+      "start_date": "2025-02-01",
+      "end_date": null,
+      "skills": []
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center Engineering Intern",
+      "company": "NVIDIA",
+      "start_date": "2024-06-01",
+      "end_date": "2024-11-30",
+      "skills": []
+    },
+    {
+      "job_id": "003",
+      "title": "Thermal R&D Intern",
+      "company": "Tesla",
+      "start_date": "2023-06-01",
+      "end_date": "2023-12-31",
+      "skills": [
+        "ANSYS Electronics",
+        "Icepak",
+        "ANSYS Fluent",
+        "Electronic Cooling"
+      ]
+    }
+  ],
+  "skills": [
+    "ANSYS Fluent",
+    "ANSYS",
+    "Electronic Cooling",
+    "Icepak",
+    "Python",
+    "Matlab",
+    "AutoCAD",
+    "Engineering",
+    "CAD",
+    "Simulations",
+    "Computational Fluid Dynamics (CFD)",
+    "HVAC",
+    "C++",
+    "Visual C#",
+    "C",
+    "Multiphase Flow",
+    "Lattice Boltzmann Method",
+    "FLUENT",
+    "Artificial Neural Networks (ANN)",
+    "Genetic Algorithms",
+    "LEED",
+    "Fortran",
+    "Fluid Mechanics",
+    "Thermal Engineering",
+    "Programming",
+    "COMSOL"
+  ]
+}
+{
+  "uid": "1833",
+  "label": "Data Center Engineering Team Lead",
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "field": "Computer Systems Networking and Cyber Security",
+      "institution": "University of Maryland Global Campus",
+      "year_completed": null
+    },
+    {
+      "degree": "Associate's degree",
+      "field": "Computer and Information Systems Security/Information Assurance",
+      "institution": "Anne Arundel Community College",
+      "year_completed": null
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineering Team Lead",
+      "company": "United States Department of Defense",
+      "start_date": "2022-11-01",
+      "end_date": null,
+      "skills": [
+        "Data Center",
+        "Team Leadership",
+        "Project Management",
+        "Interviewing",
+        "Team Building"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center Engineer",
+      "company": "United States Department of Defense",
+      "start_date": "2018-01-01",
+      "end_date": null,
+      "skills": [
+        "Data Center Infrastructure",
+        "Data Center Architecture",
+        "Data Center Operations",
+        "Data Center Management",
+        "Data Center Design"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Configuration Manager",
+      "company": "United States Department of Defense",
+      "start_date": "2015-01-01",
+      "end_date": "2018-12-31",
+      "skills": [
+        "Configuration Management",
+        "Logistics Management",
+        "Data Center"
+      ]
+    }
+  ],
+  "skills": [
+    "Data Center",
+    "Team Leadership",
+    "Project Management",
+    "Interviewing",
+    "Team Building",
+    "Data Center Infrastructure",
+    "Data Center Architecture",
+    "Data Center Operations",
+    "Data Center Management",
+    "Data Center Design",
+    "Configuration Management",
+    "Logistics Management"
+  ]
+}
+{
+  "uid": "1834",
+  "label": "Data Center Engineer",
+  "education": [
+    {
+      "degree": "PhD",
+      "field": "Chemical Engineering, Controls, Machine Learning",
+      "institution": "UC Santa Barbara",
+      "year_completed": 2023
+    },
+    {
+      "degree": "BTech",
+      "field": "Chemical Engineering",
+      "institution": "Indian Institute of Technology, Bombay",
+      "year_completed": 2017
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "Google",
+      "start_date": "2023-10-01",
+      "end_date": null,
+      "skills": [
+        "Data Center Technology and Systems"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Senior Research Engineer",
+      "company": "RTX",
+      "start_date": "2023-01-01",
+      "end_date": "2023-10-01",
+      "skills": [
+        "Sustainable Aviation",
+        "Manufacturing Applications",
+        "Technological Solutions"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "PHD Researcher",
+      "company": "UC Santa Barbara",
+      "start_date": "2018-09-01",
+      "end_date": "2023-01-01",
+      "skills": [
+        "Machine Learning",
+        "Model Predictive Control",
+        "System Identification",
+        "Feedback Controller Design"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Data Center Engineering Intern",
+      "company": "Google",
+      "start_date": "2022-06-01",
+      "end_date": "2022-09-30",
+      "skills": [
+        "Data Center Advanced Technology Innovation",
+        "Google Cloud"
+      ]
+    }
+  ],
+  "skills": [
+    "Teamwork",
+    "Model Predictive Control",
+    "Machine Learning",
+    "Deep Learning",
+    "Reinforcement Learning",
+    "Numerical Optimization",
+    "Data Center Technology and Systems",
+    "System Identification",
+    "Feedback Controller Design",
+    "Google Cloud",
+    "Sustainable Aviation",
+    "Manufacturing Applications"
+  ]
+}
+{
+  "uid": "1836",
+  "label": "Data Center Engineer",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "AT&T",
+      "start_date": "Mar 2024",
+      "end_date": "Present",
+      "skills": [
+        "Data Center",
+        "Power Management",
+        "Vendor Management",
+        "Troubleshooting",
+        "Hardware Installation"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center Engineer",
+      "company": "Millennium",
+      "start_date": "Apr 2022",
+      "end_date": "Aug 2023",
+      "skills": [
+        "Data Center Design",
+        "Infrastructure Management",
+        "Power Capacity",
+        "Project Management",
+        "Installation",
+        "Troubleshooting"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Data Center Manager",
+      "company": "IEX, the Investors Exchange",
+      "start_date": "May 2017",
+      "end_date": "Apr 2022",
+      "skills": [
+        "Data Center Management",
+        "Power & Cooling Management",
+        "Budgeting",
+        "Project Management",
+        "Compliance",
+        "Vendor Management"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "NNO Planning - Space and Power",
+      "company": "Verizon Wireless",
+      "start_date": "Aug 2015",
+      "end_date": "Apr 2017",
+      "skills": [
+        "Space & Power Planning",
+        "Data Center Capacity",
+        "Power Usage Tracking",
+        "Cloud/SDN Architecture",
+        "Risk Management"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Engineer III",
+      "company": "Comcast",
+      "start_date": "May 2015",
+      "end_date": "Aug 2015",
+      "skills": [
+        "Data Center Capacity",
+        "Design",
+        "Power & Cooling",
+        "Excel Reporting"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Engineer II",
+      "company": "Comcast",
+      "start_date": "Jan 2010",
+      "end_date": "May 2015",
+      "skills": [
+        "Capacity Planning",
+        "Data Center Management",
+        "Project Management",
+        "Design Layout Improvement",
+        "Network & SAN Coordination"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "Engineer I",
+      "company": "Comcast",
+      "start_date": "Apr 2008",
+      "end_date": "Dec 2009",
+      "skills": [
+        "Team Leadership",
+        "Data Center Installation",
+        "Structured Cabling",
+        "Network Core Installation"
+      ]
+    }
+  ],
+  "skills": [
+    "Data Center",
+    "Power Management",
+    "Vendor Management",
+    "Troubleshooting",
+    "Hardware Installation",
+    "Data Center Design",
+    "Infrastructure Management",
+    "Project Management",
+    "Power Capacity",
+    "Compliance",
+    "Budgeting",
+    "Space & Power Planning",
+    "Cloud/SDN Architecture",
+    "Risk Management",
+    "Capacity Planning",
+    "Design Layout Improvement",
+    "Network & SAN Coordination",
+    "Team Leadership",
+    "Structured Cabling"
+  ]
+}
+{
+  "uid": "1837",
+  "label": "Senior Data Center Engineer",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior Data Center Engineer",
+      "company": "Bezeq International",
+      "start_date": "2021-05-01",
+      "end_date": null,
+      "skills": [
+        "Transmission Control Protocol (TCP)",
+        "Network Protocols",
+        "Network Engineering",
+        "Network Security",
+        "Firewalls",
+        "Border Gateway Protocol (BGP)",
+        "Technical Support",
+        "Networking",
+        "Troubleshooting",
+        "Server Administration",
+        "Windows Server",
+        "Cisco Networking",
+        "Cisco Technologies",
+        "Router Configuration"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center Technician",
+      "company": "Bezeq International",
+      "start_date": "2017-05-01",
+      "end_date": "2021-05-01",
+      "skills": [
+        "Transmission Control Protocol (TCP)",
+        "Network Operations Center (NOC)",
+        "Networking",
+        "Troubleshooting",
+        "Server Administration",
+        "Windows",
+        "Cisco Routers",
+        "Wide Area Network (WAN)"
+      ]
+    }
+  ],
+  "skills": [
+    "Transmission Control Protocol (TCP)",
+    "Network Protocols",
+    "Network Engineering",
+    "Network Security",
+    "Firewalls",
+    "Border Gateway Protocol (BGP)",
+    "Technical Support",
+    "Networking",
+    "Troubleshooting",
+    "Server Administration",
+    "Windows Server",
+    "Cisco Networking",
+    "Cisco Technologies",
+    "Router Configuration"
+  ]
+}
+{
+  "uid": "1838",
+  "label": "Data Center Engineer",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "OhioHealth Group",
+      "start_date": "2017-06-01",
+      "end_date": null,
+      "skills": [
+        "Facilities Operations",
+        "Power Distribution",
+        "UPS Systems",
+        "Troubleshooting",
+        "Batteries",
+        "Switchgear",
+        "Preventive Maintenance",
+        "Field Service",
+        "Electronics",
+        "Generators",
+        "Electrical Engineering",
+        "Power Systems",
+        "Facilities Management",
+        "Low Voltage",
+        "Commissioning",
+        "Power Supplies",
+        "Maintenance & Repair",
+        "Test Equipment",
+        "Electricity",
+        "High Voltage",
+        "Inverters",
+        "Data Center",
+        "Power Electronics",
+        "Energy Management",
+        "Electrical Troubleshooting",
+        "Wiring",
+        "PLC",
+        "Electrical Controls",
+        "Electrical Safety",
+        "Building Automation",
+        "Variable Frequency Drives",
+        "Building Management Systems",
+        "Relays",
+        "Transformer",
+        "Power Quality",
+        "HVAC",
+        "Electro-mechanical",
+        "Power Generation",
+        "Field Service Engineering",
+        "Cabling",
+        "Technical Training",
+        "Automation",
+        "Cooling Water",
+        "Electric Power",
+        "Predictive Maintenance",
+        "Software Installation",
+        "Energy Conservation"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Regional Service Manager",
+      "company": "CPSI (Computer Power & Service, Inc.)",
+      "start_date": "2016-04-01",
+      "end_date": "2017-05-01",
+      "skills": [
+        "Leadership"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Critical Facilities",
+      "company": "WarnerMedia (Time Warner)",
+      "start_date": "2014-11-01",
+      "end_date": "2016-04-01",
+      "skills": [
+        "Leadership"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Field Service Engineer",
+      "company": "Thomas & Betts/JT Packard",
+      "start_date": "2003-04-01",
+      "end_date": "2014-11-01",
+      "skills": [
+        "Leadership"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Field Engineer",
+      "company": "ETAK Systems, Inc.",
+      "start_date": "2002-01-01",
+      "end_date": "2003-01-01",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "Facilities Operations",
+    "Power Distribution",
+    "UPS Systems",
+    "Troubleshooting",
+    "Batteries",
+    "Switchgear",
+    "Preventive Maintenance",
+    "Field Service",
+    "Electronics",
+    "Generators",
+    "Electrical Engineering",
+    "Power Systems",
+    "Facilities Management",
+    "Low Voltage",
+    "Commissioning",
+    "Power Supplies",
+    "Maintenance & Repair",
+    "Test Equipment",
+    "Electricity",
+    "High Voltage",
+    "Inverters",
+    "Data Center",
+    "Power Electronics",
+    "Energy Management",
+    "Electrical Troubleshooting",
+    "Wiring",
+    "PLC",
+    "Electrical Controls",
+    "Electrical Safety",
+    "Building Automation",
+    "Variable Frequency Drives",
+    "Building Management Systems",
+    "Relays",
+    "Transformer",
+    "Power Quality",
+    "HVAC",
+    "Electro-mechanical",
+    "Power Generation",
+    "Field Service Engineering",
+    "Cabling",
+    "Technical Training",
+    "Automation",
+    "Cooling Water",
+    "Electric Power",
+    "Predictive Maintenance",
+    "Software Installation",
+    "Energy Conservation"
+  ]
+}
+{
+  "uid": "1838",
+  "label": "Data Center Engineer",
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "field": "Kinesiology and Exercise Science",
+      "institution": "Virginia Commonwealth University",
+      "year_completed": 2023
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "CBRE",
+      "start_date": "2025-03-01",
+      "end_date": null,
+      "skills": [
+        "Data Center Infrastructure",
+        "Rack",
+        "Hardware Configuration",
+        "System Testing",
+        "Technical Support",
+        "Troubleshooting",
+        "Ticketing Systems",
+        "Patch Management",
+        "Quality Control",
+        "Structured Cabling"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center Engineer",
+      "company": "IES Communications",
+      "start_date": "2024-08-01",
+      "end_date": "2025-03-01",
+      "skills": [
+        "Data Center Infrastructure",
+        "Rack",
+        "Server Configuration",
+        "Cable Installation",
+        "System Testing",
+        "Technical Support",
+        "Troubleshooting",
+        "Patch Management",
+        "Quality Control",
+        "Structured Cabling"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Datacenter Technician",
+      "company": "Meta",
+      "start_date": "2024-01-01",
+      "end_date": "2024-08-01",
+      "skills": [
+        "Data Center Infrastructure",
+        "Rack",
+        "Server Configuration",
+        "Cable Installation",
+        "Fiber Optics",
+        "System Testing",
+        "UPS & CDU Systems",
+        "Technical Support",
+        "Troubleshooting",
+        "Patch Management"
+      ]
+    }
+  ],
+  "skills": [
+    "Data Center Infrastructure",
+    "Rack",
+    "Server Configuration",
+    "Hardware Configuration",
+    "Cable Installation",
+    "Technical Support",
+    "Troubleshooting",
+    "Patch Management",
+    "Quality Control",
+    "Structured Cabling",
+    "Fiber Optics",
+    "UPS & CDU Systems",
+    "Ticketing Systems"
+  ]
+}
+{
+  "uid": "1839",
+  "label": "Lead Data Center Engineer",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Lead Data Center Engineer",
+      "company": "Walgreens",
+      "start_date": "2020-01-01",
+      "end_date": null,
+      "skills": [
+        "Troubleshooting",
+        "Cabling",
+        "Mapping",
+        "Linux",
+        "Operating Systems",
+        "Standard Operating Procedure (SOP)",
+        "Service-Level Agreements (SLA)",
+        "Windows",
+        "Mac OS",
+        "Internet Protocol Suite (TCP/IP)",
+        "Transmission Control Protocol (TCP)",
+        "Tcpdump",
+        "User Datagram Protocol (UDP)",
+        "Dynamic Host Configuration Protocol (DHCP)",
+        "IPv4",
+        "IPv6",
+        "IP VPN",
+        "Secure File Transfer Protocol (SFTP)",
+        "Microsoft Office",
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Project Management",
+        "Leadership",
+        "Public Speaking",
+        "Research Skills",
+        "Time Management",
+        "Storage Area Network (SAN)",
+        "Wide Area Network (WAN)",
+        "Virtual Private Network (VPN)",
+        "Network File System (NFS)",
+        "Network Security",
+        "Acl",
+        "Idrac",
+        "Group security policies",
+        "Nlyte",
+        "Linux System Administration",
+        "Github",
+        "Chef",
+        "GIT",
+        "Jenkins",
+        "Docker",
+        "Amazon Web Services (AWS)",
+        "Python",
+        "Bash",
+        "JIRA",
+        "BMC Remedy",
+        "Microsoft SQL Server",
+        "Puppet",
+        "Nagios",
+        "Backup & Recovery Systems"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center Engineer",
+      "company": "Optum",
+      "start_date": "2016-03-01",
+      "end_date": "2019-12-01",
+      "skills": [
+        "Troubleshooting"
+      ]
+    }
+  ],
+  "skills": [
+    "Troubleshooting",
+    "Cabling",
+    "Mapping",
+    "Linux",
+    "Operating Systems",
+    "Standard Operating Procedure (SOP)",
+    "Service-Level Agreements (SLA)",
+    "Windows",
+    "Mac OS",
+    "Internet Protocol Suite (TCP/IP)",
+    "Transmission Control Protocol (TCP)",
+    "Tcpdump",
+    "User Datagram Protocol (UDP)",
+    "Dynamic Host Configuration Protocol (DHCP)",
+    "IPv4",
+    "IPv6",
+    "IP VPN",
+    "Secure File Transfer Protocol (SFTP)",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "Microsoft Word",
+    "Project Management",
+    "Leadership",
+    "Public Speaking",
+    "Research Skills",
+    "Time Management",
+    "Storage Area Network (SAN)",
+    "Wide Area Network (WAN)",
+    "Virtual Private Network (VPN)",
+    "Network File System (NFS)",
+    "Network Security",
+    "Acl",
+    "Idrac",
+    "Group security policies",
+    "Nlyte",
+    "Linux System Administration",
+    "Github",
+    "Chef",
+    "GIT",
+    "Jenkins",
+    "Docker",
+    "Amazon Web Services (AWS)",
+    "Python",
+    "Bash",
+    "JIRA",
+    "BMC Remedy",
+    "Microsoft SQL Server",
+    "Puppet",
+    "Nagios",
+    "Backup & Recovery Systems"
+  ]
+}
+{
+  "uid": "1840",
+  "label": "Senior Data Center Engineer",
+  "education": [
+    {
+      "degree": "Bachelor",
+      "field": "ELECTRONICS ENGINEERING TECHNOLOGY",
+      "institution": "DeVry University",
+      "year_completed": 1991
+    },
+    {
+      "degree": "Associate",
+      "field": "Liberal Arts and Sciences",
+      "institution": "University of Illinois Chicago",
+      "year_completed": 1988
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior Data Center Engineer",
+      "company": "U.S. Cellular",
+      "start_date": "2012-01-01",
+      "end_date": null,
+      "skills": [
+        "LTE",
+        "EVDO",
+        "Wireless",
+        "UMTS",
+        "GSM",
+        "CDMA",
+        "Cellular",
+        "WiMAX",
+        "Network Design",
+        "3G",
+        "Telecommunications",
+        "Wireless Networking",
+        "IP",
+        "SMS",
+        "TDMA",
+        "Cellular Communications",
+        "4G",
+        "Switches",
+        "T1",
+        "RAN",
+        "RF",
+        "Optical Fiber",
+        "CDMA2000",
+        "Networking",
+        "Mobile Technology",
+        "Mobile Communications",
+        "WiFi",
+        "Routers",
+        "VoIP",
+        "Mobile Devices",
+        "Integration",
+        "System Deployment",
+        "Edge",
+        "SIP",
+        "Broadband",
+        "Pre-sales",
+        "MPLS",
+        "Fiber Optics",
+        "Microwave",
+        "Computer Network Operations",
+        "Network Engineering",
+        "Transmission",
+        "TCP/IP",
+        "HSPA",
+        "Wireless Broadband",
+        "Telephony",
+        "Cabling",
+        "Routing",
+        "Managed Services"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Switch/Equipment Engineer Contractor",
+      "company": "US Cellular",
+      "start_date": "2010-06-01",
+      "end_date": "2011-12-01",
+      "skills": [
+        "LTE",
+        "EVDO",
+        "Wireless",
+        "UMTS",
+        "GSM",
+        "CDMA",
+        "Cellular",
+        "WiMAX"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "DIRECTOR, WIRELESS ENGINEERING",
+      "company": "Commnet Supply / Telmar Networks",
+      "start_date": "2003-01-01",
+      "end_date": "2010-03-01",
+      "skills": [
+        "LTE",
+        "WiMAX",
+        "GSM",
+        "EDGE",
+        "UMTS",
+        "HSPA",
+        "CDMA",
+        "EVDO",
+        "LTE networks"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "WIRELESS NETWORK SYSTEM ENGINEER/TECHNICAL CONSULTANT",
+      "company": "Lucent Technologies",
+      "start_date": "1995-11-01",
+      "end_date": "2002-12-01",
+      "skills": [
+        "CDMA",
+        "TDMA",
+        "EVDO",
+        "AMPS",
+        "PCS"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "EQUIPMENT ENGINEER",
+      "company": "AT&T Network Systems",
+      "start_date": "1991-01-01",
+      "end_date": "1995-10-01",
+      "skills": [
+        "Wireless",
+        "Transmission"
+      ]
+    }
+  ],
+  "skills": [
+    "LTE",
+    "EVDO",
+    "Wireless",
+    "UMTS",
+    "GSM",
+    "CDMA",
+    "Cellular",
+    "WiMAX",
+    "Network Design",
+    "3G",
+    "Telecommunications",
+    "Wireless Networking",
+    "IP",
+    "SMS",
+    "TDMA",
+    "Cellular Communications",
+    "4G",
+    "Switches",
+    "T1",
+    "RAN",
+    "RF",
+    "Optical Fiber",
+    "CDMA2000",
+    "Networking",
+    "Mobile Technology",
+    "Mobile Communications",
+    "WiFi",
+    "Routers",
+    "VoIP",
+    "Mobile Devices",
+    "Integration",
+    "System Deployment",
+    "Edge",
+    "SIP",
+    "Broadband",
+    "Pre-sales",
+    "MPLS",
+    "Fiber Optics",
+    "Microwave",
+    "Computer Network Operations",
+    "Network Engineering",
+    "Transmission",
+    "TCP/IP",
+    "HSPA",
+    "Wireless Broadband",
+    "Telephony",
+    "Cabling",
+    "Routing",
+    "Managed Services"
+  ]
+}
+{
+  "uid": "1841",
+  "label": "Data Center Engineer II",
+  "education": [
+    {
+      "degree": "Associate's Degree",
+      "field": "Computer Information Systems",
+      "institution": "Paradise Valley Community College",
+      "year_completed": null
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer II",
+      "company": "Atos",
+      "start_date": "Mar 2023",
+      "end_date": null,
+      "skills": [
+        "Computer Hardware Installation",
+        "Communication",
+        "Service Desk",
+        "Customer Service",
+        "Data Centers",
+        "Information Technology",
+        "Maintenance & Repair",
+        "Servers",
+        "Technical Support",
+        "Troubleshooting"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Technical Support Specialist",
+      "company": "CIOX HEALTH CARING FOUNDATION INC",
+      "start_date": "Mar 2022",
+      "end_date": "Sep 2023",
+      "skills": [
+        "Computer Hardware Installation",
+        "Quality Assurance",
+        "Communication",
+        "Service Desk",
+        "Data Centers",
+        "Computer Repair",
+        "Customer Service",
+        "Desktop Computers",
+        "Digital Imaging",
+        "Equipment Installation",
+        "Hardware",
+        "Hardware Installation",
+        "Information Technology",
+        "Laptops",
+        "Maintenance & Repair",
+        "Problem Solving",
+        "Software Installation",
+        "Technical Support",
+        "Troubleshooting",
+        "Windows 7",
+        "A++"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Data Center Technician",
+      "company": "Tek Systems",
+      "start_date": "Oct 2021",
+      "end_date": "Mar 2022",
+      "skills": [
+        "Service Desk",
+        "Computer Hardware Installation",
+        "Communication",
+        "Computer Hardware",
+        "Computer Repair",
+        "Data Centers",
+        "Equipment Installation",
+        "Hardware",
+        "Hardware Installation",
+        "IT Hardware Support",
+        "Information Technology",
+        "Integration",
+        "Maintenance & Repair",
+        "Networking",
+        "Problem Solving",
+        "Servers",
+        "Switches",
+        "System Installations",
+        "Technical Support",
+        "Troubleshooting"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Field Services Engineer",
+      "company": "Tokyo Electron US",
+      "start_date": "Jun 2021",
+      "end_date": "Oct 2021",
+      "skills": [
+        "Computer Hardware Installation",
+        "Service Desk",
+        "Communication"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Datacenter Technician",
+      "company": "TEKsystems",
+      "start_date": "Apr 2021",
+      "end_date": "Jun 2021",
+      "skills": [
+        "Computer Hardware Installation",
+        "Service Desk",
+        "Communication"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Computer Laboratory Technician/ Hardware Technician",
+      "company": "Intel Corporation",
+      "start_date": "Sep 2018",
+      "end_date": "Dec 2020",
+      "skills": [
+        "Computer Hardware Installation",
+        "Service Desk",
+        "Communication",
+        "Computer Repair",
+        "Customer Service",
+        "Desktop Computers",
+        "Equipment Installation",
+        "Hardware",
+        "Hardware Installation",
+        "IT Hardware Support",
+        "Information Technology",
+        "Integration",
+        "Maintenance & Repair",
+        "Networking",
+        "Operating Systems",
+        "Problem Solving",
+        "Quality Assurance",
+        "Servers",
+        "Software Installation",
+        "Switches",
+        "System Installations",
+        "Technical Support",
+        "Testing",
+        "Troubleshooting",
+        "Validation Technician",
+        "Windows 7"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "Hardware Specialist",
+      "company": "Arrow Electronics",
+      "start_date": "Aug 2020",
+      "end_date": "Oct 2020",
+      "skills": [
+        "Computer Hardware Installation",
+        "Service Desk",
+        "Communication",
+        "A++",
+        "Computer Hardware",
+        "Desktop Computers",
+        "IT Hardware Support",
+        "Hardware Installation",
+        "Hardware",
+        "Information Technology",
+        "Integration",
+        "Operating Systems",
+        "Problem Solving",
+        "Servers",
+        "Quality Assurance",
+        "Software Installation",
+        "Troubleshooting",
+        "Windows",
+        "Windows 10",
+        "Windows 7",
+        "Analytical Skills"
+      ]
+    },
+    {
+      "job_id": "008",
+      "title": "Computer Technician",
+      "company": "Transource Computers",
+      "start_date": "Mar 2016",
+      "end_date": "Jul 2016",
+      "skills": [
+        "Computer Hardware Installation",
+        "Service Desk",
+        "Communication",
+        "A++",
+        "Computer Hardware",
+        "Computer Repair",
+        "Desktop Computers",
+        "Digital Imaging",
+        "Equipment Installation",
+        "Hardware",
+        "Hardware Installation",
+        "IT Hardware Support",
+        "Information Technology",
+        "Integration",
+        "Laptops",
+        "Maintenance & Repair",
+        "Operating Systems",
+        "Problem Solving",
+        "Quality Assurance",
+        "Servers",
+        "Software Installation",
+        "System Installations",
+        "Team Leadership",
+        "Technical Support",
+        "Testing",
+        "Troubleshooting",
+        "Windows",
+        "Windows 10",
+        "Windows 7",
+        "Windows Vista",
+        "Windows XP",
+        "Workstations",
+        "XP"
+      ]
+    },
+    {
+      "job_id": "009",
+      "title": "Computer Technician",
+      "company": "Arrow Electronics",
+      "start_date": "Dec 2015",
+      "end_date": "Feb 2016",
+      "skills": [
+        "Computer Hardware Installation",
+        "Service Desk",
+        "Communication"
+      ]
+    },
+    {
+      "job_id": "010",
+      "title": "Migration Specialist",
+      "company": "eBryIT, Inc.",
+      "start_date": "May 2015",
+      "end_date": "Aug 2015",
+      "skills": [
+        "Computer Hardware Installation",
+        "Service Desk",
+        "Communication",
+        "A++",
+        "Computer Hardware",
+        "Customer Service",
+        "Desktop Computers",
+        "Digital Imaging",
+        "Equipment Installation",
+        "Hardware",
+        "Hardware Installation",
+        "IT Hardware Support",
+        "Information Technology",
+        "Integration",
+        "Laptops",
+        "Maintenance & Repair",
+        "Operating Systems",
+        "Problem Solving",
+        "Quality Assurance",
+        "Software Installation",
+        "System Installations",
+        "Technical Support",
+        "Troubleshooting",
+        "Windows",
+        "Workstations"
+      ]
+    },
+    {
+      "job_id": "011",
+      "title": "Lead Technician",
+      "company": "Transource Computers",
+      "start_date": "May 2009",
+      "end_date": "Jan 2014",
+      "skills": [
+        "Computer Hardware Installation",
+        "Service Desk",
+        "Communication"
+      ]
+    },
+    {
+      "job_id": "012",
+      "title": "Computer Technician/Assembler",
+      "company": "Transource Computers",
+      "start_date": "Sep 1998",
+      "end_date": "Oct 2013",
+      "skills": [
+        "Computer Hardware Installation",
+        "Service Desk",
+        "Communication"
+      ]
+    },
+    {
+      "job_id": "013",
+      "title": "Assembly Technician",
+      "company": "Avnet",
+      "start_date": "Nov 2002",
+      "end_date": "Sep 2003",
+      "skills": [
+        "Computer Hardware Installation",
+        "Service Desk",
+        "Communication",
+        "A++",
+        "Analytical Skills",
+        "Computer Hardware",
+        "Computer Repair",
+        "Desktop Computers",
+        "Digital Imaging",
+        "Equipment Installation",
+        "Hardware",
+        "Hardware Installation",
+        "IT Hardware Support",
+        "Information Technology",
+        "Integration",
+        "Maintenance & Repair",
+        "Operating Systems",
+        "Problem Solving",
+        "Servers",
+        "Software Installation",
+        "Troubleshooting",
+        "Windows",
+        "Workstations"
+      ]
+    }
+  ],
+  "skills": [
+    "Computer Hardware Installation",
+    "Communication",
+    "Service Desk",
+    "Data Centers",
+    "Information Technology",
+    "Maintenance & Repair",
+    "Servers",
+    "Technical Support",
+    "Troubleshooting",
+    "A++",
+    "Quality Assurance",
+    "Hardware",
+    "Windows",
+    "Windows 7",
+    "Windows 10",
+    "Windows XP",
+    "Laptops",
+    "Problem Solving",
+    "Software Installation",
+    "Systems Installations",
+    "Testing",
+    "Networking",
+    "Switches",
+    "Servers",
+    "Hardware Installation"
+  ]
+}
+{
+  "uid": "1842",
+  "label": "Data Center Engineer",
+  "education": [
+    {
+      "degree": "Bachelor's Degree",
+      "field": "Computer Science",
+      "institution": "Montclair State University",
+      "year_completed": 2004
+    },
+    {
+      "degree": "Master of Business Administration (M.B.A.)",
+      "field": "Executive Master of Business Administration",
+      "institution": "New Jersey Institute of Technology",
+      "year_completed": 2006
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "Morgan Stanley",
+      "start_date": "2023-01-01",
+      "end_date": null,
+      "skills": [
+        "Data Center Infrastructure", 
+        "Splunk", 
+        "Patch Management", 
+        "Cyber Security Risk", 
+        "Microsoft Excel", 
+        "SharePoint", 
+        "Technical Leadership"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Site Engineer",
+      "company": "JPMorgan Chase & Co.",
+      "start_date": "2022-05-01",
+      "end_date": "2023-01-01",
+      "skills": [
+        "Site Engineering", 
+        "Security Operations", 
+        "Incident Reporting", 
+        "Technical Documentation"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Data Center Engineer",
+      "company": "GlaxoSmithKline Consumer Healthcare, L.P.",
+      "start_date": "2020-12-01",
+      "end_date": "2022-05-01",
+      "skills": [
+        "Data Center Infrastructure", 
+        "Splunk", 
+        "Security Engineering", 
+        "Log Analysis", 
+        "Security Monitoring"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Onsite/Network/Voice Engineer",
+      "company": "HCLTech",
+      "start_date": "2017-07-01",
+      "end_date": "2020-11-01",
+      "skills": [
+        "Network Engineering", 
+        "Voice Systems", 
+        "Vulnerability Scanning", 
+        "Security Controls"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Application Support Analyst",
+      "company": "KPMG",
+      "start_date": "2015-06-01",
+      "end_date": "2016-10-01",
+      "skills": [
+        "Application Support", 
+        "Incident Response", 
+        "VMware Workstation", 
+        "Business Continuity Planning"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "IT Support Engineer",
+      "company": "AEP Industries Inc.",
+      "start_date": "2009-11-01",
+      "end_date": "2015-05-01",
+      "skills": [
+        "IT Support", 
+        "Active Directory", 
+        "Virus Removal", 
+        "Cisco Routers"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "Network and Computer Specialist",
+      "company": "KINGS COUNTY HOSPITAL CENTER",
+      "start_date": "2008-03-01",
+      "end_date": "2009-11-01",
+      "skills": [
+        "Network Support", 
+        "Government Network Solutions"
+      ]
+    }
+  ],
+  "skills": [
+    "Data Center Infrastructure",
+    "Splunk",
+    "Patch Management",
+    "Cyber Security Risk",
+    "Microsoft Excel",
+    "SharePoint",
+    "Technical Leadership",
+    "Security Operations",
+    "Incident Reporting",
+    "Technical Documentation",
+    "Log Analysis",
+    "Security Monitoring",
+    "Network Engineering",
+    "Voice Systems",
+    "Vulnerability Scanning",
+    "Security Controls",
+    "Application Support",
+    "Incident Response",
+    "VMware Workstation",
+    "Business Continuity Planning",
+    "IT Support",
+    "Active Directory",
+    "Virus Removal",
+    "Cisco Routers",
+    "Network Support",
+    "Government Network Solutions"
+  ]
+}
+{
+  "uid": "1843",
+  "label": "Sr Staff Data Center Engineer",
+  "education": [
+    {
+      "degree": "Master of Science",
+      "field": "Electrical and Electronics Engineering",
+      "institution": "Arizona State University",
+      "year_completed": 2017
+    },
+    {
+      "degree": "Bachelor of Technology",
+      "field": "Electrical Engineering",
+      "institution": "CHARUSAT",
+      "year_completed": 2014
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Sr Staff Data Center Engineer",
+      "company": "LinkedIn",
+      "start_date": "Dec 2024",
+      "end_date": null,
+      "skills": [
+        "Data Center Infrastructure",
+        "Electrical Distribution Design",
+        "Mission Critical",
+        "Technical Standards",
+        "Leadership"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Manager III, Data Center Infrastructure Engr (AMERICAS East Region)",
+      "company": "Amazon Web Services (AWS)",
+      "start_date": "Nov 2023",
+      "end_date": "Dec 2024",
+      "skills": [
+        "Mission Critical",
+        "Project Management",
+        "Leadership",
+        "Data Center Infrastructure",
+        "Technical Standards"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Data Center Infrastructure Engr III",
+      "company": "Amazon Web Services (AWS)",
+      "start_date": "Jul 2023",
+      "end_date": "Nov 2023",
+      "skills": [
+        "Electrical Distribution Design",
+        "Mission Critical",
+        "Leadership",
+        "Data Center Infrastructure",
+        "Technical Standards"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Data Center Infrastructure Engr II",
+      "company": "Amazon Web Services (AWS)",
+      "start_date": "Apr 2021",
+      "end_date": "Jun 2023",
+      "skills": [
+        "Electrical Distribution Design",
+        "Mission Critical",
+        "Data Center Infrastructure",
+        "Technical Standards"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Data Center Infrastructure Engr I",
+      "company": "Amazon Web Services (AWS)",
+      "start_date": "Feb 2020",
+      "end_date": "Mar 2021",
+      "skills": [
+        "Electrical Distribution Design",
+        "Mission Critical",
+        "Data Center Infrastructure",
+        "Technical Standards"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Electrical Engineer",
+      "company": "Clark Nexsen",
+      "start_date": "Jan 2018",
+      "end_date": "Feb 2020",
+      "skills": [
+        "Electrical Distribution Design",
+        "Mission Critical",
+        "Data Center Infrastructure",
+        "Technical Standards"
+      ]
+    }
+  ],
+  "skills": [
+    "Data Center Infrastructure",
+    "Electrical Distribution Design",
+    "Mission Critical",
+    "Technical Standards",
+    "Leadership",
+    "Project Management",
+    "AutoCAD",
+    "Revit",
+    "Bluebeam",
+    "SKM PowerTools",
+    "AGi32",
+    "Electrical Engineering",
+    "National Electrical Code"
+  ]
+}
+{
+  "uid": "1844",
+  "label": "Data Center Engineer - SW CLOUD",
+  "education": [
+    {
+      "degree": "Post-baccalaureate Professional Certificate",
+      "field": "Information & Cybersecurity Engineering",
+      "institution": "UC Berkeley School of Information",
+      "year_completed": 2024
+    },
+    {
+      "degree": "Bachelor's degree",
+      "field": "Engineering Technology, Computer Network System Management Concentration",
+      "institution": "San José State University",
+      "year_completed": 2022
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer - SW CLOUD",
+      "company": "NVIDIA",
+      "start_date": "Apr 2025",
+      "end_date": null,
+      "skills": [
+        "server troubleshooting", "firmware updates", "network administration", "cable management"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Lab Engineer, Software & Network Engineering Lab",
+      "company": "Arista Networks",
+      "start_date": "2022",
+      "end_date": "Apr 2025",
+      "skills": [
+        "network topologies", "POC testing", "vendor management", "network debugging", "lab resource management"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Cybersecurity Engineer",
+      "company": "Goldman Sachs",
+      "start_date": "Mar 2024",
+      "end_date": "Apr 2024",
+      "skills": [
+        "ethical hacking", "penetration testing", "network security", "cyber risk management"
+      ]
+    }
+  ],
+  "skills": [
+    "server troubleshooting", "network administration", "firmware updates", "cable management", 
+    "ethical hacking", "penetration testing", "network security", "cybersecurity", 
+    "cloud security", "network topologies", "vendor management", "POC testing"
+  ]
+}
+{
+  "uid": "1845",
+  "label": "Lead, IT Infrastructure and Systems - Data Center",
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "field": "Computing Science",
+      "institution": "Sam Houston State University",
+      "year_completed": null
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Lead, IT Infrastructure and Systems - Data Center",
+      "company": "Baylor College of Medicine",
+      "start_date": "Jan 2022",
+      "end_date": null,
+      "skills": [
+        "data center management", "IT infrastructure", "systems management"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Implementation Analyst",
+      "company": "Fiserv",
+      "start_date": "Aug 2021",
+      "end_date": "Dec 2021",
+      "skills": [
+        "implementation analysis", "business analysis", "customer service"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Data Center Engineer",
+      "company": "Noble Energy",
+      "start_date": "Jan 2017",
+      "end_date": "Nov 2020",
+      "skills": [
+        "data center operations", "server management", "hardware installation"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Senior Manager - Enterprise Data Center Services, Storage, and Data Protection",
+      "company": "Stewart Title",
+      "start_date": "Jan 2012",
+      "end_date": "Aug 2016",
+      "skills": [
+        "data center services", "storage management", "data protection", "disaster recovery"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Senior Manager - Enterprise Data Center Services",
+      "company": "Stewart Title",
+      "start_date": "May 2008",
+      "end_date": "Jan 2012",
+      "skills": [
+        "enterprise data center services", "project management", "vendor management"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Data Center Operations Manager",
+      "company": "Stewart Title",
+      "start_date": "Jan 2000",
+      "end_date": "May 2008",
+      "skills": [
+        "data center management", "operations management", "staff supervision"
+      ]
+    }
+  ],
+  "skills": [
+    "data center management", "IT infrastructure", "systems management", "implementation analysis", "business analysis",
+    "customer service", "server management", "hardware installation", "data protection", "disaster recovery",
+    "enterprise data center services", "project management", "vendor management", "staff supervision"
+  ]
+}
+{
+  "uid": "1846",
+  "label": "Data Center Engineer",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "CoreWeave",
+      "start_date": "Mar 2024",
+      "end_date": null,
+      "skills": [
+        "Data Center Engineering",
+        "Troubleshooting",
+        "Hardware"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Computer Network Specialist / Data Center Engineer",
+      "company": "ECCO Select",
+      "start_date": "Jul 2022",
+      "end_date": "Mar 2024",
+      "skills": [
+        "Networking",
+        "Data Center Engineering",
+        "Troubleshooting"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Sr. IT Service Tech",
+      "company": "KEYENCE CORPORATION",
+      "start_date": "Dec 2021",
+      "end_date": "Mar 2024",
+      "skills": [
+        "IT Service",
+        "Troubleshooting",
+        "Server Administration"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Information Technology Help Desk Manager",
+      "company": "Adler University",
+      "start_date": "Sep 2019",
+      "end_date": "Jul 2022",
+      "skills": [
+        "Help Desk Support",
+        "Customer Service",
+        "Team Building"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Senior IT Specialist",
+      "company": "Adler University",
+      "start_date": "Jul 2019",
+      "end_date": "Jul 2022",
+      "skills": [
+        "IT Support",
+        "Troubleshooting",
+        "Team Management"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "IT Specialist",
+      "company": "Univar",
+      "start_date": "Mar 2018",
+      "end_date": "Jul 2022",
+      "skills": [
+        "IT Support",
+        "Network Troubleshooting"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "IT Network Engineer",
+      "company": "NBC Universal International Television Distribution",
+      "start_date": "Nov 2015",
+      "end_date": "Jul 2022",
+      "skills": [
+        "Network Engineering",
+        "Critical IT Facilities Management"
+      ]
+    },
+    {
+      "job_id": "008",
+      "title": "Information Technology Software Refresh Analyst",
+      "company": "CareerBuilder, LLC",
+      "start_date": "May 2013",
+      "end_date": "Sep 2014",
+      "skills": [
+        "Software Installation",
+        "Network Troubleshooting"
+      ]
+    },
+    {
+      "job_id": "009",
+      "title": "Server Data Center Engineer within Microsoft’s Azure Cloud Data Center",
+      "company": "Insight Global Dell DCS Services / Microsoft",
+      "start_date": "Jan 2013",
+      "end_date": "May 2013",
+      "skills": [
+        "Server Administration",
+        "Cloud Computing"
+      ]
+    }
+  ],
+  "skills": [
+    "Troubleshooting",
+    "Hardware",
+    "Networking",
+    "Data Center Engineering",
+    "Cloud Computing",
+    "Servers",
+    "IT Service Management",
+    "Customer Service",
+    "Team Building",
+    "Leadership",
+    "Software Installation",
+    "Network Administration",
+    "Help Desk Support",
+    "ITIL",
+    "CompTIA Network+"
+  ]
+}
+{
+  "uid": "1847",
+  "label": "Data Center Architect",
+  "education": [
+    {
+      "degree": "Master of Business Administration - MBA",
+      "field": "Computer/Information Technology Administration and Management",
+      "institution": "University of Phoenix",
+      "year_completed": 2002
+    },
+    {
+      "degree": "BS",
+      "field": "Computer and Information Sciences",
+      "institution": "University of Maryland",
+      "year_completed": 1991
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Architect",
+      "company": "Hewlett Packard Enterprise",
+      "start_date": "Apr 2019",
+      "end_date": null,
+      "skills": [
+        "Data Center", "Cloud Computing", "Storage", "IT Strategy", "Enterprise Architecture", "Virtualization", "Storage Virtualization", "Disaster Recovery", "High Availability", "SAN", "NAS", "Security", "Network Architecture", "Solution Architecture"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center Architect",
+      "company": "Hitachi Vantara Federal",
+      "start_date": "Apr 2017",
+      "end_date": "Apr 2019",
+      "skills": [
+        "Data Center", "Cloud Computing", "Storage", "IT Strategy", "Enterprise Architecture", "Virtualization", "Storage Virtualization", "Disaster Recovery", "High Availability", "SAN", "NAS", "Security", "Network Architecture", "Solution Architecture"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Specialist Solutions Consultant",
+      "company": "Hitachi Data Systems",
+      "start_date": "Dec 2014",
+      "end_date": "Apr 2017",
+      "skills": [
+        "Data Center", "Cloud Computing", "Storage", "IT Strategy", "Enterprise Architecture", "Virtualization", "Storage Virtualization", "Disaster Recovery", "High Availability", "SAN", "NAS", "Security", "Network Architecture", "Solution Architecture"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Technical Architect",
+      "company": "Bithop Systems, Inc.",
+      "start_date": "Jan 2014",
+      "end_date": "Dec 2014",
+      "skills": [
+        "Infrastructure", "Technical Support", "Cloud Sourcing", "Enterprise Archiving", "Disaster Recovery", "Software as a Service", "Virtualization", "ITIL"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Principal Technologist - Storage",
+      "company": "Oracle",
+      "start_date": "Jul 2010",
+      "end_date": "Jun 2013",
+      "skills": [
+        "Storage", "Disaster Recovery", "Content Management", "Archive/ILM"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Chief Architect, Infrastructure Strategy and Investment Planning",
+      "company": "SAIC",
+      "start_date": "Jun 2009",
+      "end_date": "Aug 2010",
+      "skills": [
+        "Infrastructure Strategy", "Data Classification", "Storage Strategy", "ILM", "Strategic Storage Architecture"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "Principal Solutions Architect",
+      "company": "Sun Microsystems Federal",
+      "start_date": "2005",
+      "end_date": "Apr 2009",
+      "skills": [
+        "Solutions Architecture", "Storage", "IT Strategy"
+      ]
+    },
+    {
+      "job_id": "008",
+      "title": "Principal Solutions Architect",
+      "company": "StorageTek",
+      "start_date": "Nov 2004",
+      "end_date": "Jun 2006",
+      "skills": [
+        "Storage", "Solutions Architecture"
+      ]
+    },
+    {
+      "job_id": "009",
+      "title": "Consulting Systems Engineer",
+      "company": "StorageTek",
+      "start_date": "Aug 1998",
+      "end_date": "Nov 2004",
+      "skills": [
+        "Systems Engineering", "Storage"
+      ]
+    },
+    {
+      "job_id": "010",
+      "title": "EMC (SS/SW)",
+      "company": "US Navy",
+      "start_date": "1980",
+      "end_date": "2002",
+      "skills": [
+        "EMC", "SS/SW"
+      ]
+    }
+  ],
+  "skills": [
+    "Data Center", "Cloud Computing", "Storage", "IT Strategy", "Enterprise Architecture", "Virtualization", "Storage Virtualization", "Disaster Recovery", "High Availability", "SAN", "NAS", "Security", "Network Architecture", "Solution Architecture", "Infrastructure", "Technical Support", "ITIL", "Content Management", "Archive/ILM", "Infrastructure Strategy", "Data Classification", "Strategic Storage Architecture", "Solutions Architecture", "EMC", "Systems Engineering"
+  ]
+}
+{
+  "uid": "1848",
+  "label": "Data Center Engineer at Amazon Web Services (AWS)",
+  "education": [
+    {
+      "degree": "Cybersecurity",
+      "field": "Cybersecurity",
+      "institution": "George Mason University",
+      "year_completed": null
+    },
+    {
+      "degree": "Data Analysis",
+      "field": "Data Analysis",
+      "institution": "Northern Virginia Community College",
+      "year_completed": "2024"
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "Amazon Web Services (AWS)",
+      "start_date": "Aug 2024",
+      "end_date": null,
+      "skills": ["ETL", "SQL"]
+    },
+    {
+      "job_id": "002",
+      "title": "Security Control Room Operator",
+      "company": "First Coast Security",
+      "start_date": "Jun 2023",
+      "end_date": null,
+      "skills": ["Security Monitoring", "Data Warehousing"]
+    },
+    {
+      "job_id": "003",
+      "title": "Data Center Technician",
+      "company": "Amazon Web Services (AWS)",
+      "start_date": "Feb 2023",
+      "end_date": "May 2023",
+      "skills": ["Face-to-face Communication", "Managing Accounts", "Accounting"]
+    },
+    {
+      "job_id": "004",
+      "title": "Data Center HAC Technician",
+      "company": "Amazon Web Services (AWS)",
+      "start_date": "Jul 2022",
+      "end_date": "Oct 2022",
+      "skills": ["Hand Tools", "Component Repair"]
+    },
+    {
+      "job_id": "005",
+      "title": "Data Analyst Intern",
+      "company": "Dominion Energy",
+      "start_date": "Jan 2021",
+      "end_date": "Apr 2021",
+      "skills": ["SQL", "Excel", "Tableau"]
+    }
+  ],
+  "skills": [
+    "ETL", "SQL", "Security Monitoring", "Data Warehousing", "Face-to-face Communication", 
+    "Managing Accounts", "Accounting", "Hand Tools", "Component Repair", "SQL", 
+    "Excel", "Tableau"
+  ]
+}
+{
+  "uid": "1849",
+  "label": "Data Center Engineer",
+  "education": [
+    {
+      "degree": "Associate's degree",
+      "field": "Computer Science",
+      "institution": "ITT Technical Institute-Pittsburgh",
+      "year_completed": 2016
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "World Wide Technology",
+      "start_date": "May 2024",
+      "end_date": null,
+      "skills": [
+        "Data Center Operations",
+        "Capacity Planning",
+        "Automation"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center Capacity Engineer",
+      "company": "Meta",
+      "start_date": "Oct 2022",
+      "end_date": "Nov 2023",
+      "skills": [
+        "Global Standards",
+        "Capacity Projects",
+        "Root Cause Analysis",
+        "Cross-functional Collaboration"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Data Center Engineer",
+      "company": "CSAA Insurance Group, a AAA Insurer",
+      "start_date": "Nov 2021",
+      "end_date": "Oct 2022",
+      "skills": [
+        "Project Planning",
+        "Data Center Operations",
+        "Mentorship",
+        "Capacity Deployment"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Data Center Support Engineer",
+      "company": "Microsoft",
+      "start_date": "May 2017",
+      "end_date": "Nov 2021",
+      "skills": [
+        "Infrastructure Deployment",
+        "Server Support",
+        "Hardware Troubleshooting",
+        "Project Management"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "2nd Line Support Engineer",
+      "company": "Atos",
+      "start_date": "Dec 2016",
+      "end_date": "May 2017",
+      "skills": [
+        "Fiber Cabling",
+        "Troubleshooting"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Desktop Support Analyst",
+      "company": "Moving Solutions Inc.",
+      "start_date": "Jan 2016",
+      "end_date": "Mar 2017",
+      "skills": [
+        "Desktop Support"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "Computer Hardware Specialist",
+      "company": "Digital Storm PC",
+      "start_date": "Sep 2015",
+      "end_date": "Jan 2017",
+      "skills": [
+        "Hardware Support"
+      ]
+    }
+  ],
+  "skills": [
+    "Cloud Computing",
+    "Linux System Administration",
+    "Team Leadership",
+    "Server Administration",
+    "Microsoft Azure",
+    "Red Hat Linux",
+    "VMware vSphere",
+    "Active Directory"
+  ]
+}
+{
+  "uid": "1850",
+  "label": "Senior Datacenter Technician",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "Ori",
+      "start_date": "2025-01-01",
+      "end_date": null,
+      "skills": ["Data Center Operations", "Break Fix", "Dell PowerEdge Servers"]
+    },
+    {
+      "job_id": "002",
+      "title": "Senior Datacenter Technician",
+      "company": "Penguin Solutions",
+      "start_date": "2024-07-01",
+      "end_date": "2025-01-31",
+      "skills": ["Break Fix", "Dell PowerEdge Servers"]
+    },
+    {
+      "job_id": "003",
+      "title": "Solutions Delivery Engineer",
+      "company": "Dell Technologies",
+      "start_date": "2023-07-01",
+      "end_date": "2024-07-01",
+      "skills": ["Graphics Processing Unit", "Data Center Management"]
+    },
+    {
+      "job_id": "004",
+      "title": "Datacenter Operator",
+      "company": "Softtek",
+      "start_date": "2023-02-01",
+      "end_date": "2023-06-30",
+      "skills": ["Ethernet", "rack and stack"]
+    },
+    {
+      "job_id": "005",
+      "title": "Datacenter Field Operations",
+      "company": "Vapor IO",
+      "start_date": "2019-09-01",
+      "end_date": "2023-01-31",
+      "skills": ["Hardware", "Ethernet", "Fiber Optic Cable"]
+    },
+    {
+      "job_id": "006",
+      "title": "Datacenter Technician 3",
+      "company": "Rackspace Managed Hosting",
+      "start_date": "2006-03-01",
+      "end_date": "2019-09-01",
+      "skills": ["Ethernet", "Hardware"]
+    },
+    {
+      "job_id": "007",
+      "title": "Help Desk Analyst",
+      "company": "Texas Instruments",
+      "start_date": "2004-02-01",
+      "end_date": "2006-03-01",
+      "skills": ["Software Troubleshooting", "Windows", "Ticketing Systems"]
+    },
+    {
+      "job_id": "008",
+      "title": "Help Desk Analyst",
+      "company": "ExxonMobil",
+      "start_date": "2003-02-01",
+      "end_date": "2004-02-01",
+      "skills": ["Software Troubleshooting", "Ticketing Systems", "Windows"]
+    }
+  ],
+  "skills": [
+    "Data Center Operations",
+    "Break Fix",
+    "Dell PowerEdge Servers",
+    "Graphics Processing Unit",
+    "Data Center Management",
+    "Ethernet",
+    "rack and stack",
+    "Fiber Optic Cable",
+    "Hardware",
+    "Windows",
+    "Software Troubleshooting",
+    "Ticketing Systems"
+  ]
+}
+{
+  "uid": "1851",
+  "label": "Senior Datacenter Engineer",
+  "education": [
+    {
+      "degree": "Master of Commerce",
+      "field": "Commerce",
+      "institution": "CCS (Chaudhary Charan Singh) University",
+      "year_completed": null
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior Datacenter Engineer",
+      "company": "Tesla",
+      "start_date": "May 2023",
+      "end_date": null,
+      "skills": [
+        "Data Center Operations"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center Site Lead",
+      "company": "JPMorgan Chase & Co.",
+      "start_date": "Dec 2017",
+      "end_date": "Jul 2022",
+      "skills": [
+        "Data Center Operations",
+        "Data Center Relocation",
+        "Project Management",
+        "Vendor Management",
+        "Incident Management",
+        "ITIL",
+        "IT Service Management"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "APAC Infrastructure Manager",
+      "company": "Colt Technology Services",
+      "start_date": "May 2016",
+      "end_date": "Dec 2017",
+      "skills": [
+        "Project Management",
+        "Vendor Management",
+        "Data Center Operations"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Sr. Data Center Manager",
+      "company": "SBI BITS",
+      "start_date": "Apr 2016",
+      "end_date": "May 2016",
+      "skills": [
+        "Data Center Operations"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Sr. Data Center Manager",
+      "company": "SBI Japannext",
+      "start_date": "Apr 2015",
+      "end_date": "Apr 2016",
+      "skills": [
+        "Data Center Operations"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Data Center Site Lead",
+      "company": "Morgan Stanley",
+      "start_date": "May 2011",
+      "end_date": "Apr 2015",
+      "skills": [
+        "Data Center Operations",
+        "Team Management"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "Data Center Site Engineer",
+      "company": "Morgan Stanley",
+      "start_date": "Aug 2007",
+      "end_date": "May 2011",
+      "skills": [
+        "Data Center Operations",
+        "Troubleshooting"
+      ]
+    }
+  ],
+  "skills": [
+    "Leadership",
+    "Team Collaboration",
+    "Data Center Operations",
+    "Data Center Relocation",
+    "Project Management",
+    "Vendor Management",
+    "Incident Management",
+    "ITIL",
+    "IT Service Management",
+    "System Administration",
+    "Troubleshooting",
+    "CDCP",
+    "CCNA",
+    "Microsoft Office",
+    "Microsoft Certified Professional",
+    "Team Leadership",
+    "Team Management"
+  ]
+}
+{
+  "uid": "1852",
+  "label": "Data Center Infrastructure Engineer",
+  "education": [
+    {
+      "degree": "Associate's degree",
+      "field": "Applied Psychology",
+      "institution": "Ohlone College",
+      "year_completed": null
+    },
+    {
+      "degree": "High School Diploma",
+      "field": "General ed",
+      "institution": "Leland High School",
+      "year_completed": null
+    },
+    {
+      "degree": "Computer and Information Sciences, General",
+      "field": "Computer and Information Sciences",
+      "institution": "De Anza College",
+      "year_completed": "Mar 2021"
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Infrastructure Engineer",
+      "company": "NVIDIA",
+      "start_date": "Jul 2021",
+      "end_date": null,
+      "skills": [
+        "Data Center Operations",
+        "Troubleshooting",
+        "Server Management",
+        "Firmware flashing",
+        "RMA Management",
+        "Quality Assurance",
+        "Linux Server"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Datacenter Technician",
+      "company": "Microsoft",
+      "start_date": "Mar 2019",
+      "end_date": "Jul 2021",
+      "skills": [
+        "Operational Support",
+        "Server Management",
+        "Computer Engineering"
+      ]
+    }
+  ],
+  "skills": [
+    "Operational Support",
+    "Server Management",
+    "Computer Engineering",
+    "Cybersecurity Incident Response",
+    "Sales Processes",
+    "Public Speaking",
+    "Face-to-Face Sales",
+    "Computer Literacy",
+    "Process Improvement",
+    "Troubleshooting",
+    "Networking",
+    "Sales",
+    "Disposal",
+    "Windows Server",
+    "Communication",
+    "Writing",
+    "Lifelong Learning",
+    "Technical Support",
+    "English",
+    "Help Desk Support",
+    "Customer Service",
+    "Cabling",
+    "Management",
+    "Fluke",
+    "Diversity & Inclusion"
+  ]
+}
+{
+  "uid": "1853",
+  "label": "Critical Operations Technician",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "Microsoft",
+      "start_date": "Nov 2024",
+      "end_date": null,
+      "skills": [
+        "Critical Environment Technician",
+        "installation",
+        "diagnostics",
+        "troubleshooting",
+        "escalation management",
+        "incident management",
+        "safety compliance",
+        "OSHA regulations",
+        "regulatory compliance",
+        "quality control",
+        "HVAC systems",
+        "mechanical systems",
+        "electrical systems"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "MEP Engineer",
+      "company": "Schneider Electric",
+      "start_date": "Apr 2024",
+      "end_date": "Nov 2024",
+      "skills": [
+        "Mechanical design",
+        "UPS systems",
+        "Power converters",
+        "CAD modeling",
+        "bill of material",
+        "vibration testing",
+        "HALT",
+        "cross-functional collaboration",
+        "reliability",
+        "safety",
+        "quality"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Data Center Facility Engineer",
+      "company": "Microsoft",
+      "start_date": "Jul 2023",
+      "end_date": "Apr 2024",
+      "skills": [
+        "Data Center Operations",
+        "facility maintenance",
+        "HVAC systems",
+        "electrical systems",
+        "UPS systems",
+        "fire alarm systems",
+        "troubleshooting",
+        "preventive maintenance",
+        "vendor management"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Critical Facility Engineer",
+      "company": "United Airlines",
+      "start_date": "Oct 2022",
+      "end_date": "Jul 2023",
+      "skills": [
+        "Facilities operations",
+        "building monitoring",
+        "preventive maintenance",
+        "electrical systems",
+        "HVAC systems",
+        "fire suppression",
+        "critical switching",
+        "training programs",
+        "global processes",
+        "quality control",
+        "safety programs"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Critical Operations Technician",
+      "company": "STACK INFRASTRUCTURE",
+      "start_date": "Nov 2020",
+      "end_date": "Oct 2022",
+      "skills": [
+        "Facilities operations",
+        "electrical systems",
+        "mechanical systems",
+        "UPS systems",
+        "HVAC systems",
+        "vendor management",
+        "site safety",
+        "LOTO programs",
+        "training"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "DCEO (Data Center Engineering Operations)",
+      "company": "Amazon Web Services (AWS)",
+      "start_date": "May 2018",
+      "end_date": "Nov 2020",
+      "skills": [
+        "Data Center Operations",
+        "preventive maintenance",
+        "critical systems monitoring",
+        "facility maintenance",
+        "electrical and mechanical systems"
+      ]
+    }
+  ],
+  "skills": [
+    "Critical Environment Technician",
+    "installation",
+    "diagnostics",
+    "troubleshooting",
+    "escalation management",
+    "incident management",
+    "safety compliance",
+    "OSHA regulations",
+    "regulatory compliance",
+    "quality control",
+    "HVAC systems",
+    "mechanical systems",
+    "electrical systems",
+    "Mechanical design",
+    "UPS systems",
+    "Power converters",
+    "CAD modeling",
+    "bill of material",
+    "vibration testing",
+    "HALT",
+    "cross-functional collaboration",
+    "reliability",
+    "safety",
+    "quality",
+    "facility maintenance",
+    "vendor management",
+    "training programs",
+    "global processes",
+    "quality control",
+    "site safety",
+    "LOTO programs"
+  ]
+}
+{
+  "uid": "1854",
+  "label": "Lead Data Center Engineer",
+  "education": [
+    {
+      "degree": "Bachelor’s Degree",
+      "field": "Computer Science",
+      "institution": "Northern Illinois University",
+      "year_completed": 2011
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Lead Data Center Engineer",
+      "company": "Optiver",
+      "start_date": "2025-01-01",
+      "end_date": null,
+      "skills": [
+        "Data Center",
+        "Troubleshooting",
+        "Data Center Infrastructure",
+        "Infrastructure",
+        "Servers"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Senior Data Center Engineer",
+      "company": "Optiver",
+      "start_date": "2021-02-01",
+      "end_date": "2025-01-01",
+      "skills": [
+        "Data Center",
+        "Troubleshooting",
+        "Data Center Infrastructure",
+        "Infrastructure",
+        "Servers"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Data Center Engineer",
+      "company": "DocuSign",
+      "start_date": "2020-12-01",
+      "end_date": "2021-02-01",
+      "skills": [
+        "Data Center",
+        "Troubleshooting"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Data Center Technician III",
+      "company": "Oracle",
+      "start_date": "2018-05-01",
+      "end_date": "2020-11-01",
+      "skills": [
+        "Data Center",
+        "Hardware Troubleshooting",
+        "Jira",
+        "Confluence",
+        "Infrastructure Management"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Data Center Administrator",
+      "company": "Seattle Children's",
+      "start_date": "2018-02-01",
+      "end_date": "2018-05-01",
+      "skills": [
+        "Data Center"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Datacenter Technician II",
+      "company": "Rackspace",
+      "start_date": "2016-07-01",
+      "end_date": "2018-01-01",
+      "skills": [
+        "Data Center",
+        "Troubleshooting"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "Associate Destiny Operations Center Specialist",
+      "company": "Bungie",
+      "start_date": "2015-11-01",
+      "end_date": "2016-03-01",
+      "skills": [
+        "Data Center"
+      ]
+    },
+    {
+      "job_id": "008",
+      "title": "Data Center Engineer",
+      "company": "CME Group",
+      "start_date": "2010-04-01",
+      "end_date": "2015-10-01",
+      "skills": [
+        "Data Center",
+        "Troubleshooting"
+      ]
+    },
+    {
+      "job_id": "009",
+      "title": "IT Supporter",
+      "company": "Rockford Spine Center",
+      "start_date": "2006-08-01",
+      "end_date": "2007-05-01",
+      "skills": [
+        "Troubleshooting"
+      ]
+    }
+  ],
+  "skills": [
+    "Data Center",
+    "Troubleshooting",
+    "Data Center Infrastructure",
+    "Infrastructure",
+    "Servers",
+    "Hardware Troubleshooting",
+    "Jira",
+    "Confluence",
+    "Infrastructure Management",
+    "CompTIA A+ Certification",
+    "CompTIA Network+ Certified",
+    "CCNA",
+    "VMware",
+    "TCP/IP",
+    "Disaster Recovery",
+    "Networking",
+    "Unix",
+    "Cisco Technologies",
+    "Microsoft Exchange"
+  ]
+}
+{
+  "uid": "1855",
+  "label": "Data Center Engineer",
+  "education": [
+    {
+      "degree": "Bachelor's degree",
+      "field": "Network Administration and Security",
+      "institution": "Central Penn College",
+      "year_completed": 2014
+    },
+    {
+      "degree": "Associate’s Degree",
+      "field": "Computer Networking Technology",
+      "institution": "HACC, Central Pennsylvania's Community College",
+      "year_completed": 2017
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "Apex Systems",
+      "start_date": "Nov 2024",
+      "end_date": null,
+      "skills": [
+        "Network Engineering",
+        "Disaster Recovery",
+        "Cisco Systems Products",
+        "IT Infrastructure Management"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center Engineer",
+      "company": "WellSpan Health",
+      "start_date": "Jun 2023",
+      "end_date": "Sep 2024",
+      "skills": [
+        "Network Engineering",
+        "Disaster Recovery",
+        "Cybersecurity",
+        "Cisco Routers",
+        "Cisco Switches"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Network & Systems Administrator",
+      "company": "PA GI Consultants",
+      "start_date": "Jun 2023",
+      "end_date": "Sep 2024",
+      "skills": [
+        "Network Systems",
+        "Systems Administration",
+        "VLAN",
+        "Azure Infrastructure as a Service (IaaS)",
+        "Microsoft 365"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "IT Data Center Specialist Team Leader",
+      "company": "HCL Technologies",
+      "start_date": "Nov 2019",
+      "end_date": "Jul 2023",
+      "skills": [
+        "Cloud Migration",
+        "Azure Site Recovery",
+        "VLAN",
+        "Capacity Planning",
+        "Security Monitoring"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "IT Analyst & Security Specialist",
+      "company": "Vibra Healthcare",
+      "start_date": null,
+      "end_date": null,
+      "skills": [
+        "Security Devices",
+        "Security Monitoring",
+        "Remote User Support",
+        "Information Security",
+        "System Installations"
+      ]
+    }
+  ],
+  "skills": [
+    "Cisco Switches",
+    "Azure Site Recovery",
+    "Microsoft OneDrive",
+    "Cloud Migration",
+    "Access Management",
+    "Security Monitoring",
+    "VLAN",
+    "OSI Model",
+    "Capacity Planning",
+    "Quality Assurance",
+    "Remote Administration",
+    "Network Security Auditing",
+    "Cisco Routers",
+    "Cisco IOS",
+    "Windows System Administration",
+    "AWS",
+    "Microsoft Azure",
+    "Security Devices",
+    "Cybersecurity",
+    "IT Infrastructure Management",
+    "Network Systems"
+  ]
+}
+{
+  "uid": "1855",
+  "label": "Data Center Engineer",
+  "education": [
+    {
+      "degree": "Bachelor's degree",
+      "field": "Network Administration and Security",
+      "institution": "Central Penn College",
+      "year_completed": 2014
+    },
+    {
+      "degree": "Associate’s Degree",
+      "field": "Computer Networking Technology",
+      "institution": "HACC, Central Pennsylvania's Community College",
+      "year_completed": 2017
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "Apex Systems",
+      "start_date": "Nov 2024",
+      "end_date": null,
+      "skills": [
+        "Network Engineering",
+        "Disaster Recovery",
+        "Cisco Systems Products",
+        "IT Infrastructure Management"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center Engineer",
+      "company": "WellSpan Health",
+      "start_date": "Jun 2023",
+      "end_date": "Sep 2024",
+      "skills": [
+        "Network Engineering",
+        "Disaster Recovery",
+        "Cybersecurity",
+        "Cisco Routers",
+        "Cisco Switches"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Network & Systems Administrator",
+      "company": "PA GI Consultants",
+      "start_date": "Jun 2023",
+      "end_date": "Sep 2024",
+      "skills": [
+        "Network Systems",
+        "Systems Administration",
+        "VLAN",
+        "Azure Infrastructure as a Service (IaaS)",
+        "Microsoft 365"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "IT Data Center Specialist Team Leader",
+      "company": "HCL Technologies",
+      "start_date": "Nov 2019",
+      "end_date": "Jul 2023",
+      "skills": [
+        "Cloud Migration",
+        "Azure Site Recovery",
+        "VLAN",
+        "Capacity Planning",
+        "Security Monitoring"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "IT Analyst & Security Specialist",
+      "company": "Vibra Healthcare",
+      "start_date": null,
+      "end_date": null,
+      "skills": [
+        "Security Devices",
+        "Security Monitoring",
+        "Remote User Support",
+        "Information Security",
+        "System Installations"
+      ]
+    }
+  ],
+  "skills": [
+    "Cisco Switches",
+    "Azure Site Recovery",
+    "Microsoft OneDrive",
+    "Cloud Migration",
+    "Access Management",
+    "Security Monitoring",
+    "VLAN",
+    "OSI Model",
+    "Capacity Planning",
+    "Quality Assurance",
+    "Remote Administration",
+    "Network Security Auditing",
+    "Cisco Routers",
+    "Cisco IOS",
+    "Windows System Administration",
+    "AWS",
+    "Microsoft Azure",
+    "Security Devices",
+    "Cybersecurity",
+    "IT Infrastructure Management",
+    "Network Systems"
+  ]
+}
+{
+  "uid": "1855",
+  "label": "Data Center Engineer",
+  "education": [
+    {
+      "degree": "Bachelor's degree",
+      "field": "Network Administration and Security",
+      "institution": "Central Penn College",
+      "year_completed": 2014
+    },
+    {
+      "degree": "Associate’s Degree",
+      "field": "Computer Networking Technology",
+      "institution": "HACC, Central Pennsylvania's Community College",
+      "year_completed": 2017
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "Apex Systems",
+      "start_date": "Nov 2024",
+      "end_date": null,
+      "skills": [
+        "Network Engineering",
+        "Disaster Recovery",
+        "Cisco Systems Products",
+        "IT Infrastructure Management"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center Engineer",
+      "company": "WellSpan Health",
+      "start_date": "Jun 2023",
+      "end_date": "Sep 2024",
+      "skills": [
+        "Network Engineering",
+        "Disaster Recovery",
+        "Cybersecurity",
+        "Cisco Routers",
+        "Cisco Switches"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Network & Systems Administrator",
+      "company": "PA GI Consultants",
+      "start_date": "Jun 2023",
+      "end_date": "Sep 2024",
+      "skills": [
+        "Network Systems",
+        "Systems Administration",
+        "VLAN",
+        "Azure Infrastructure as a Service (IaaS)",
+        "Microsoft 365"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "IT Data Center Specialist Team Leader",
+      "company": "HCL Technologies",
+      "start_date": "Nov 2019",
+      "end_date": "Jul 2023",
+      "skills": [
+        "Cloud Migration",
+        "Azure Site Recovery",
+        "VLAN",
+        "Capacity Planning",
+        "Security Monitoring"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "IT Analyst & Security Specialist",
+      "company": "Vibra Healthcare",
+      "start_date": null,
+      "end_date": null,
+      "skills": [
+        "Security Devices",
+        "Security Monitoring",
+        "Remote User Support",
+        "Information Security",
+        "System Installations"
+      ]
+    }
+  ],
+  "skills": [
+    "Cisco Switches",
+    "Azure Site Recovery",
+    "Microsoft OneDrive",
+    "Cloud Migration",
+    "Access Management",
+    "Security Monitoring",
+    "VLAN",
+    "OSI Model",
+    "Capacity Planning",
+    "Quality Assurance",
+    "Remote Administration",
+    "Network Security Auditing",
+    "Cisco Routers",
+    "Cisco IOS",
+    "Windows System Administration",
+    "AWS",
+    "Microsoft Azure",
+    "Security Devices",
+    "Cybersecurity",
+    "IT Infrastructure Management",
+    "Network Systems"
+  ]
+}
+{
+  "uid": "1858",
+  "label": "Data Center Engineer",
+  "education": [
+    {
+      "degree": "Master's degree",
+      "field": "Electrical and Electronics Engineering",
+      "institution": "Dumlupinar University",
+      "year_completed": 2012
+    },
+    {
+      "degree": "Bachelor's degree",
+      "field": "Electrical and Electronics Engineering",
+      "institution": "Firat University",
+      "year_completed": 2008
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "iLearn Schools",
+      "start_date": "2019-12-01",
+      "end_date": null,
+      "skills": [
+        "data center infrastructure",
+        "server and network hardware",
+        "environmental monitoring",
+        "HVAC systems",
+        "PDU",
+        "Splunk",
+        "Kaspersky",
+        "Iboss",
+        "GoGuardian",
+        "SIEM",
+        "SCADA",
+        "cybersecurity"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center Consultant",
+      "company": "NUWENCY Consult GmbH",
+      "start_date": "2018-10-01",
+      "end_date": "2019-09-30",
+      "skills": [
+        "data center consulting",
+        "security operations center support",
+        "incident response",
+        "cyber threat analysis",
+        "training",
+        "network infrastructure"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Information Technology Expert",
+      "company": "ICTA",
+      "start_date": "2010-02-01",
+      "end_date": "2018-04-30",
+      "skills": [
+        "data center commissioning",
+        "cybersecurity",
+        "penetration testing",
+        "technical specifications",
+        "telecom systems integration",
+        "web services"
+      ]
+    }
+  ],
+  "skills": [
+    "data center infrastructure",
+    "server and network hardware",
+    "environmental monitoring",
+    "Splunk",
+    "SIEM",
+    "cybersecurity",
+    "penetration testing",
+    "telecom integration",
+    "incident response",
+    "consulting",
+    "engineering",
+    "project management"
+  ]
+}
+{
+  "uid": "1859",
+  "label": "Data Center Engineer",
+  "education": [
+    {
+      "degree": "Bachelor",
+      "field": "Computer Science",
+      "institution": "Portland State University",
+      "year_completed": 1988
+    },
+    {
+      "degree": "Master",
+      "field": "Computer Information Systems",
+      "institution": "University of Phoenix",
+      "year_completed": 2008
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "Microsoft",
+      "start_date": "2024-02-01",
+      "end_date": null,
+      "skills": [
+        "Configuration Management",
+        "Python",
+        "PowerShell",
+        "Shell scripting",
+        "BIOS",
+        "BMC",
+        "NIC",
+        "FPGA",
+        "ARM SoC"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Hardware Engineer and Lab Manager",
+      "company": "Intel Corporation",
+      "start_date": "2021-11-01",
+      "end_date": "2024-02-01",
+      "skills": [
+        "Test infrastructure",
+        "Hardware deployment",
+        "Test frameworks",
+        "Test scripts"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Cloud Operations/Administration Engineer",
+      "company": "Intel Corporation",
+      "start_date": "2019-06-01",
+      "end_date": "2021-11-01",
+      "skills": [
+        "OpenStack",
+        "Ansible",
+        "Linux administration",
+        "Firmware updates",
+        "Cloud administration"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Sr. Systems Engineer - UNIX / Workload Automation",
+      "company": "IBM",
+      "start_date": "2012-08-01",
+      "end_date": "2019-06-01",
+      "skills": [
+        "UNIX",
+        "AutoSys",
+        "System integration",
+        "Hardware/software testing"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Senior Systems Application Administrator",
+      "company": "US Bank",
+      "start_date": "2007-03-01",
+      "end_date": "2012-08-01",
+      "skills": [
+        "Operating systems",
+        "Hardware planning",
+        "Architectural strategies"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Infrastructure Senior Systems Analyst",
+      "company": "ACS, Inc",
+      "start_date": "2004-12-01",
+      "end_date": "2007-02-28",
+      "skills": []
+    },
+    {
+      "job_id": "007",
+      "title": "Senior Systems Consultant",
+      "company": "Southwest Washington Medical Center",
+      "start_date": "2000-12-01",
+      "end_date": "2004-12-31",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "Unix",
+    "Servers",
+    "Operating Systems",
+    "Hardware",
+    "Technical Support",
+    "Solaris",
+    "Disaster Recovery",
+    "Testing",
+    "Enterprise Software",
+    "AIX",
+    "System Deployment",
+    "System Administration",
+    "VMware",
+    "Unix Shell Scripting",
+    "Autosys",
+    "High Availability",
+    "Troubleshooting",
+    "Systems Analysis",
+    "Software Engineering",
+    "Software Documentation",
+    "System Architecture",
+    "Apache",
+    "Microsoft SQL Server",
+    "HP-UX",
+    "Maximo",
+    "Perl",
+    "Powershell",
+    "Solaris 8/9/10",
+    "Analytics",
+    "OS X",
+    "Computer Security",
+    "Redhat",
+    "Oracle SQL",
+    "Systems Engineering",
+    "HP Openview",
+    "Workload Automation",
+    "Technical Documentation",
+    "Compliance Testing",
+    "Mac OS X",
+    "Automation",
+    "Samba",
+    "Windows Server 2008",
+    "Data Conversion",
+    "JAWS",
+    "WebSphere Application Server",
+    "Technical Training",
+    "Software Deployment",
+    "Windows Server 2012",
+    "Managed File Transfer"
+  ]
+}
+{
+  "uid": "1860",
+  "label": "Data Center Engineer",
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "field": "Organizational Learning, Innovation, & Development",
+      "institution": "Southern Illinois University, Carbondale",
+      "year_completed": 2023
+    },
+    {
+      "degree": "Associate of Science",
+      "field": "General Studies",
+      "institution": "Vincennes University",
+      "year_completed": 2018
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "Amazon Web Services (AWS)",
+      "start_date": "2022-09-01",
+      "end_date": null,
+      "skills": [
+        "Data Center",
+        "Mission Critical",
+        "CAT Generators",
+        "Power monitoring",
+        "Medium Voltage",
+        "HVAC",
+        "Cloud Computing",
+        "Identity and Access Management (IAM)",
+        "Vendor Management",
+        "Infrastructure Projects"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Master Electrical Technician",
+      "company": "Samsung Semiconductor",
+      "start_date": "2022-08-01",
+      "end_date": "2022-09-30",
+      "skills": [
+        "Medium Voltage",
+        "Power monitoring",
+        "Mechanical Maintenance",
+        "Electrical Equipment",
+        "IP Networking"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Communications and Information Technology Manager",
+      "company": "USS CONNECTICUT (SSN-22)",
+      "start_date": "2010-10-01",
+      "end_date": "2014-01-31",
+      "skills": [
+        "Information Technology",
+        "COMSEC Management",
+        "Military Operations",
+        "IT Management",
+        "Program Management"
+      ]
+    }
+  ],
+  "skills": [
+    "Data Center",
+    "Mission Critical",
+    "CAT Generators",
+    "Power monitoring",
+    "Medium Voltage",
+    "HVAC",
+    "Cloud Computing",
+    "Identity and Access Management (IAM)",
+    "Vendor Management",
+    "Infrastructure Projects",
+    "Mechanical Maintenance",
+    "Electrical Equipment",
+    "IP Networking",
+    "Information Technology",
+    "COMSEC Management",
+    "Military Operations",
+    "IT Management",
+    "Program Management"
+  ]
+}
+{
+  "uid": "1861",
+  "label": "Data Center Engineer",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "America First Credit Union",
+      "start_date": "2022-12-01",
+      "end_date": null,
+      "skills": [
+        "Cisco Technologies", "Data Center Design", "Network Infrastructure", "Routing",
+        "Data Center Management", "Network Engineering", "Cisco Nexus", "Cisco Wireless",
+        "Cisco Certified", "Infrastructure", "Data Analysis", "Cisco UCS",
+        "Data Center Operations", "Cisco Routers", "Troubleshooting"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Senior Network Engineer",
+      "company": "Centene Corporation",
+      "start_date": "2021-11-01",
+      "end_date": "2022-12-01",
+      "skills": [
+        "Network Infrastructure", "Data Center Design", "Routing", "Data Center Management",
+        "Network Engineering", "Infrastructure", "Data Center Operations", "Troubleshooting"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Senior Network Design Engineer",
+      "company": "Verizon",
+      "start_date": "2020-02-01",
+      "end_date": "2021-11-01",
+      "skills": [
+        "Network Infrastructure", "Data Center Design", "Routing", "Data Center Management",
+        "Network Engineering", "Infrastructure", "Data Center Operations", "Troubleshooting"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Sr. Data Center Network Engineer",
+      "company": "Zions Bank",
+      "start_date": "2014-11-01",
+      "end_date": "2020-02-01",
+      "skills": [
+        "Network Infrastructure", "Data Center Design", "Routing", "Data Center Management",
+        "Network Engineering", "Infrastructure", "Data Center Operations", "Troubleshooting"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Senior Lead Engineer",
+      "company": "Copart",
+      "start_date": "2011-05-01",
+      "end_date": "2014-04-30",
+      "skills": [
+        "Network Infrastructure", "Data Center Design", "Routing", "Data Center Management",
+        "Network Engineering", "Infrastructure", "Data Center Operations", "Troubleshooting"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Senior Network Engineer",
+      "company": "CGI",
+      "start_date": "2005-03-01",
+      "end_date": "2011-11-01",
+      "skills": [
+        "Network Infrastructure", "Routing", "Network Engineering", "Infrastructure",
+        "Data Center Operations", "Troubleshooting"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "Senior Network Engineer",
+      "company": "Celestica",
+      "start_date": "2002-05-01",
+      "end_date": "2005-05-01",
+      "skills": ["Routing", "Network Engineering"]
+    },
+    {
+      "job_id": "008",
+      "title": "Network Engineer",
+      "company": "IBM",
+      "start_date": "1999-05-01",
+      "end_date": "2002-05-01",
+      "skills": ["Routing"]
+    }
+  ],
+  "skills": [
+    "Cisco Technologies", "Data Center Design", "Network Infrastructure", "Routing",
+    "Data Center Management", "Network Engineering", "Cisco Nexus", "Cisco Wireless",
+    "Cisco Certified", "Infrastructure", "Data Analysis", "Cisco UCS", "Data Center Operations",
+    "Cisco Routers", "Troubleshooting", "VPN", "Firewalls", "WAN", "Network Architecture",
+    "Business Analysis", "Switches", "Network Security", "Network Design", "CCNA", "CISSP",
+    "Cisco Call Manager", "Cisco Security", "Cisco VoIP", "Cisco IOS", "Data Center Architecture",
+    "Integration", "Networking", "Strategic Planning", "Disaster Recovery", "Management",
+    "Vendor Management", "BGP", "OSPF", "Cisco Firewall Security", "LAN-WAN", "Cisco VPN",
+    "Checkpoint Security", "Cisco ASA", "Data Center Virtualization", "Data Center Infrastructure"
+  ]
+}
+{
+  "uid": "1862",
+  "label": "System Engineer",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "System Engineer",
+      "company": "Zeva Incorporated",
+      "start_date": "2021-09-01",
+      "end_date": null,
+      "skills": [
+        "Troubleshooting",
+        "Data Centers",
+        "Linux System Administration",
+        "Microsoft Endpoint Configuration Manager",
+        "Active Directory Experience",
+        "Windows Administration",
+        "VMware Server",
+        "Windows System Administration",
+        "Data Center Infrastructure",
+        "Network Administration",
+        "Network Engineering",
+        "VMware Infrastructure",
+        "CommVault",
+        "Backup & Recovery Systems",
+        "VMware",
+        "VMware vSphere",
+        "VMware Horizon View",
+        "System Administration"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center Engineer",
+      "company": "Zeva Incorporated",
+      "start_date": "2020-08-01",
+      "end_date": null,
+      "skills": [
+        "Troubleshooting",
+        "Data Centers"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "AISR TIER 1 Network Administrator",
+      "company": "Leonardo DRS",
+      "start_date": "2019-02-01",
+      "end_date": "2020-08-01",
+      "skills": [
+        "Troubleshooting",
+        "Technical Support"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Special Intelligence Systems Administrator/Communicator",
+      "company": "United States Marine Corps",
+      "start_date": "2010-09-01",
+      "end_date": "2019-02-01",
+      "skills": [
+        "Troubleshooting",
+        "Technical Support"
+      ]
+    }
+  ],
+  "skills": [
+    "Cisco Networking",
+    "Linux System Administration",
+    "Microsoft Endpoint Configuration Manager",
+    "Active Directory Experience",
+    "Windows Administration",
+    "Technical Support",
+    "VMware Server",
+    "Windows System Administration",
+    "Data Center Infrastructure",
+    "Network Administration",
+    "Network Engineering",
+    "Data Centers",
+    "VMware Infrastructure",
+    "Troubleshooting",
+    "CommVault",
+    "Backup & Recovery Systems",
+    "VMware",
+    "VMware vSphere",
+    "VMware Horizon View",
+    "System Administration",
+    "Networking",
+    "Security",
+    "Network Security",
+    "Information Security",
+    "Computer Security",
+    "Security Management",
+    "Active Directory",
+    "Windows Server",
+    "Server Administration",
+    "Switches",
+    "Router Configuration",
+    "Cisco Routers"
+  ]
+}
+{
+  "uid": "1863",
+  "label": "Data Center Engineer",
+  "education": [
+    {
+      "degree": "Bachelor's degree",
+      "field": "Cybersecurity",
+      "institution": "Western Governors University",
+      "year_completed": 2023
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "Randstad Digital Americas",
+      "start_date": "2025-02-01",
+      "end_date": "2025-03-31",
+      "skills": [
+        "Cisco Systems Products",
+        "Data Centers",
+        "Solid-State Drive (SSD)",
+        "Layer2 Protocols",
+        "Layer3 Routing"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "IT Support Specialist/Data Center Tech",
+      "company": "Ocado Engineering",
+      "start_date": "2023-01-01",
+      "end_date": "2025-02-28",
+      "skills": [
+        "Desk Top Support",
+        "Desktop Computers",
+        "Technical Support",
+        "IT Operations",
+        "Active Directory"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "ServiceNow NextGen Extern",
+      "company": "ServiceNow",
+      "start_date": "2022-09-01",
+      "end_date": "2023-01-31",
+      "skills": [
+        "ServiceNow Administration",
+        "ITSM",
+        "Incident Management",
+        "JavaScript",
+        "Change Management"
+      ]
+    }
+  ],
+  "skills": [
+    "Cisco Systems Products",
+    "Data Centers",
+    "Solid-State Drive (SSD)",
+    "Desk Top Support",
+    "Desktop Computers",
+    "Technical Support",
+    "IT Operations",
+    "Active Directory",
+    "ServiceNow Administration",
+    "ITSM",
+    "Incident Management",
+    "JavaScript",
+    "Change Management"
+  ]
+}
+{
+  "uid": "1864",
+  "label": "Data Center Engineer",
+  "education": [
+    {
+      "degree": null,
+      "field": "Communications technologies , Information Technology",
+      "institution": "National Open University of Nigeria",
+      "year_completed": 2011
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "National Technologies (NTI), a Network Connex Company",
+      "start_date": "2025-03-01",
+      "end_date": null,
+      "skills": [
+        "Data Center Infrastructure",
+        "Network Security Implementation",
+        "Hardware Troubleshooting",
+        "Server Management",
+        "Monitoring Systems"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center Engineer",
+      "company": "Microsoft",
+      "start_date": "2025-01-01",
+      "end_date": null,
+      "skills": [
+        "Data Center Operations",
+        "Power and Cooling Optimization",
+        "Networking",
+        "Security",
+        "Storage Systems"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Network Security Engineer",
+      "company": "Renaissance Network Reinvent",
+      "start_date": "2022-09-01",
+      "end_date": "2025-03-01",
+      "skills": [
+        "Security Operations",
+        "Vulnerability Assessment",
+        "Cloud Security",
+        "Information Security",
+        "Security Audits"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Information Technology Analyst",
+      "company": "Renaissance Network Reinvent",
+      "start_date": "2022-07-01",
+      "end_date": "2025-03-01",
+      "skills": [
+        "Computer Information Systems",
+        "IT Infrastructure",
+        "Security Management",
+        "Information Technology",
+        "Technology Solutions"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Network Engineer",
+      "company": "Net Solutions",
+      "start_date": "2021-07-01",
+      "end_date": "2022-07-31",
+      "skills": [
+        "Network Security Implementation",
+        "Network Services",
+        "Computer Networking",
+        "Python (Programming Language)"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Network Support Engineer",
+      "company": "Spectrum",
+      "start_date": "2019-09-01",
+      "end_date": "2021-07-31",
+      "skills": [
+        "Network Troubleshooting",
+        "Network Installation",
+        "Network Administration",
+        "Network Services"
+      ]
+    }
+  ],
+  "skills": [
+    "Data Center Infrastructure",
+    "Network Security Implementation",
+    "Security Operations",
+    "Network Engineering",
+    "Information Security",
+    "Network Troubleshooting",
+    "Cloud Security",
+    "Penetration Testing",
+    "Python",
+    "Computer Networking"
+  ]
+}
+{
+  "uid": "1865",
+  "label": "Data Center Administrator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Administrator",
+      "company": "SpaceX",
+      "start_date": "2022-10-01",
+      "end_date": null,
+      "skills": [
+        "Data Center Management"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center Operations Engineer II",
+      "company": "Oracle",
+      "start_date": "2020-11-01",
+      "end_date": "2022-10-01",
+      "skills": [
+        "Oracle Server Infrastructure",
+        "Mission Critical Systems"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Lead Data Center Administrator",
+      "company": "Deluxe Entertainment Services Group",
+      "start_date": "2017-06-01",
+      "end_date": "2020-04-01",
+      "skills": [
+        "Data Center Administration",
+        "Data Center Buildout"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Data Center Engineer",
+      "company": "Green Dot Corporation",
+      "start_date": "2014-12-01",
+      "end_date": "2017-06-01",
+      "skills": [
+        "Data Center Design",
+        "Infrastructure Maintenance"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Data Storage Support Engineer",
+      "company": "Nexsan Technologies, Inc.",
+      "start_date": "2013-03-01",
+      "end_date": "2014-12-01",
+      "skills": [
+        "Storage Engineering",
+        "SATA Storage"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Sr. Technical Specialist",
+      "company": "Imation Mobile Security",
+      "start_date": "2013-07-01",
+      "end_date": "2013-09-01",
+      "skills": [
+        "Technical Support"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "Enterprise Systems Administrator",
+      "company": "Expedia, Inc.",
+      "start_date": "2008-06-01",
+      "end_date": "2012-06-01",
+      "skills": [
+        "Windows Operations",
+        "Data Center Management"
+      ]
+    },
+    {
+      "job_id": "008",
+      "title": "Data Center Systems Engineer",
+      "company": "Siemens",
+      "start_date": "2006-01-01",
+      "end_date": "2007-01-01",
+      "skills": [
+        "Data Center Engineering"
+      ]
+    },
+    {
+      "job_id": "009",
+      "title": "Data Center Systems Engineer",
+      "company": "Hewlett-Packard",
+      "start_date": "2005-01-01",
+      "end_date": "2006-01-01",
+      "skills": [
+        "Data Center Systems"
+      ]
+    },
+    {
+      "job_id": "010",
+      "title": "Executive Support",
+      "company": "Washington Mutual Bank",
+      "start_date": "2003-01-01",
+      "end_date": "2005-01-01",
+      "skills": [
+        "Executive Technical Support"
+      ]
+    },
+    {
+      "job_id": "011",
+      "title": "Systems Technician, Intern",
+      "company": "City of Seattle",
+      "start_date": "1999-01-01",
+      "end_date": "2000-01-01",
+      "skills": [
+        "System Technician"
+      ]
+    }
+  ],
+  "skills": [
+    "Data Center Management",
+    "Oracle Server Infrastructure",
+    "Mission Critical Systems",
+    "Data Center Administration",
+    "Data Center Buildout",
+    "Data Center Design",
+    "Infrastructure Maintenance",
+    "Storage Engineering",
+    "SATA Storage",
+    "Technical Support",
+    "Windows Operations",
+    "Data Center Engineering",
+    "Executive Technical Support",
+    "System Technician"
+  ]
+}
+{
+  "uid": "1866",
+  "label": "Data Center Engineer",
+  "education": [
+    {
+      "degree": "Bachelor of Science",
+      "field": "Electrical and Electronics Engineering",
+      "institution": "H.I.T",
+      "year_completed": 2009
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "Weizmann Institute of Science",
+      "start_date": "2016-04-01",
+      "end_date": null,
+      "skills": [
+        "Network Infrastructure",
+        "Analytical Skills",
+        "Data Centers",
+        "Disaster Recovery",
+        "Project Management",
+        "Servers",
+        "Troubleshooting",
+        "IT Operations",
+        "IT Management",
+        "IT Service Management",
+        "Service Delivery",
+        "Networking",
+        "Telecommunications",
+        "Integration",
+        "Virtualization"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "DC Site Manager",
+      "company": "IBM",
+      "start_date": "2015-08-01",
+      "end_date": "2016-04-01",
+      "skills": [
+        "Cable Management",
+        "Cable Networks"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Data Center Manager",
+      "company": "yes",
+      "start_date": "2007-06-01",
+      "end_date": "2015-08-01",
+      "skills": [
+        "Network Infrastructure",
+        "Network Engineering",
+        "Cable Networks",
+        "Cable Management"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "ATM technician",
+      "company": "Shva",
+      "start_date": "2006-06-01",
+      "end_date": "2007-06-01",
+      "skills": [
+        "Installing and maintaining ATMs"
+      ]
+    }
+  ],
+  "skills": [
+    "Network Infrastructure",
+    "Analytical Skills",
+    "Data Centers",
+    "Disaster Recovery",
+    "Project Management",
+    "Servers",
+    "Troubleshooting",
+    "IT Operations",
+    "IT Management",
+    "IT Service Management",
+    "Service Delivery",
+    "Networking",
+    "Telecommunications",
+    "Integration",
+    "Virtualization",
+    "Cable Management",
+    "Cable Networks"
+  ]
+}
+{
+  "uid": "1867",
+  "label": "Senior Data Center Engineer Operator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior Data Center Engineer Operator",
+      "company": "Amazon Web Services (AWS)",
+      "start_date": "2022-09-01",
+      "end_date": null,
+      "skills": [
+        "Electrical Engineering",
+        "Electrical Troubleshooting",
+        "Technical Support",
+        "Troubleshooting",
+        "Engineering",
+        "Electronics Repair",
+        "Customer Service",
+        "Event Planning",
+        "Microsoft Excel",
+        "Microsoft Office",
+        "Teamwork",
+        "Electrical Wiring",
+        "Management",
+        "Communication",
+        "Microsoft Word",
+        "Computer Hardware",
+        "English"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Lead Electrical and Instrumentation Engineer",
+      "company": "Chevron",
+      "start_date": "2021-06-01",
+      "end_date": "2022-09-01",
+      "skills": [
+        "Instrumentation",
+        "Electrical Engineering"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Electrical and Instrumentation Engineer",
+      "company": "Noble Energy",
+      "start_date": "2019-04-01",
+      "end_date": "2021-06-01",
+      "skills": [
+        "Instrumentation",
+        "Electrical Engineering"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Service Engineer",
+      "company": "Radion Engineering",
+      "start_date": "2017-09-01",
+      "end_date": "2019-04-01",
+      "skills": [
+        "Electrical Engineering",
+        "Technical Support"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Chief Electrician",
+      "company": "ZIM Integrated Shipping Services",
+      "start_date": "2012-09-01",
+      "end_date": "2017-08-01",
+      "skills": [
+        "Electrical Engineering"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Electrician",
+      "company": "ELTA Systems Ltd",
+      "start_date": "2011-09-01",
+      "end_date": "2012-09-01",
+      "skills": [
+        "Electrical Engineering"
+      ]
+    }
+  ],
+  "skills": [
+    "Electrical Engineering",
+    "Electrical Troubleshooting",
+    "Technical Support",
+    "Troubleshooting",
+    "Engineering",
+    "Electronics Repair",
+    "Customer Service",
+    "Event Planning",
+    "Microsoft Excel",
+    "Microsoft Office",
+    "Teamwork",
+    "Electrical Wiring",
+    "Management",
+    "Communication",
+    "Microsoft Word",
+    "Computer Hardware",
+    "English",
+    "Instrumentation"
+  ]
+}
+{
+  "uid": "1868",
+  "label": "Data Center Engineer",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "Bezeq International",
+      "start_date": "2024-05-01",
+      "end_date": null,
+      "skills": [
+        "Data Center Infrastructure",
+        "LAN-WAN",
+        "Virtual Private Network (VPN)",
+        "Cisco Certified Specialist - Enterprise Core",
+        "Network Switches",
+        "Cisco Routers",
+        "Cisco Certified",
+        "Network Engineering",
+        "Cisco Systems Products",
+        "Routing",
+        "CCNA",
+        "Troubleshooting",
+        "Local Area Network (LAN)",
+        "Cisco Networking"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Noc ISP Analyst",
+      "company": "Gilat Telecom",
+      "start_date": "2023-04-01",
+      "end_date": "2024-04-01",
+      "skills": [
+        "Linux"
+      ]
+    }
+  ],
+  "skills": [
+    "Data Center Infrastructure",
+    "LAN-WAN",
+    "Virtual Private Network (VPN)",
+    "Cisco Certified Specialist - Enterprise Core",
+    "Network Switches",
+    "Cisco Routers",
+    "Cisco Certified",
+    "Network Engineering",
+    "Cisco Systems Products",
+    "Routing",
+    "CCNA",
+    "Troubleshooting",
+    "Local Area Network (LAN)",
+    "Cisco Networking",
+    "Linux"
+  ]
+}
+{
+  "uid": "1869",
+  "label": "Data Center Engineer",
+  "education": [
+    {
+      "degree": "Diploma of Education",
+      "field": "Electrician",
+      "institution": "ORT Colleges",
+      "year_completed": 2024
+    },
+    {
+      "degree": "Bachelor's degree",
+      "field": "Business Administration, Management and Operations",
+      "institution": "Bar-Ilan University",
+      "year_completed": 2020
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "MedOne",
+      "start_date": "2022-05-01",
+      "end_date": null,
+      "skills": [
+        "Logistics Management",
+        "Project Management",
+        "Infrastructure",
+        "HVAC",
+        "Energy Efficiency",
+        "Facility Management (FM)",
+        "Facilities Operations",
+        "Mechanical, Electrical, and Plumbing (MEP)"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Mechanical Engineer",
+      "company": "Office of the Prime Minister of Israel",
+      "start_date": "2010-01-01",
+      "end_date": "2022-05-01",
+      "skills": []
+    },
+    {
+      "job_id": "003",
+      "title": "HVAC Manager",
+      "company": "Electra",
+      "start_date": "2007-01-01",
+      "end_date": "2010-03-01",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "Logistics Management",
+    "Project Management",
+    "Infrastructure",
+    "HVAC",
+    "Energy Efficiency",
+    "Facility Management (FM)",
+    "Facilities Operations",
+    "Mechanical, Electrical, and Plumbing (MEP)"
+  ]
+}
+{
+  "uid": "1870",
+  "label": "Data Center Engineer",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "Apple",
+      "start_date": "2017-12-01",
+      "end_date": null,
+      "skills": [
+        "Data Center",
+        "Project Planning",
+        "HP Server Hardware",
+        "Customer Service",
+        "Budgets",
+        "Enclosures",
+        "Air Conditioning",
+        "Electricity",
+        "ILO",
+        "APC",
+        "IBM Server Hardware",
+        "Sun Server",
+        "Cisco Nexus",
+        "Blade Technology",
+        "BladeCenter",
+        "HP Blade",
+        "Project Management",
+        "HVAC",
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Active Directory",
+        "Microsoft Exchange",
+        "Microsoft Office",
+        "Research",
+        "PowerPoint",
+        "DRAC",
+        "Dell PowerEdge Servers",
+        "HP Proliant",
+        "VMware",
+        "Linux",
+        "TCP/IP",
+        "Servers"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Customer Support Engineer",
+      "company": "Hitachi Data Systems",
+      "start_date": "2016-09-01",
+      "end_date": "2017-12-01",
+      "skills": []
+    },
+    {
+      "job_id": "003",
+      "title": "Junior Network Engineer",
+      "company": "Amdocs",
+      "start_date": "2015-04-01",
+      "end_date": "2016-08-01",
+      "skills": []
+    },
+    {
+      "job_id": "004",
+      "title": "Data Center Engineer",
+      "company": "Amdocs",
+      "start_date": "2012-04-01",
+      "end_date": "2015-04-01",
+      "skills": []
+    },
+    {
+      "job_id": "005",
+      "title": "Datacenter Technician",
+      "company": "IDF - Mamram",
+      "start_date": "2009-08-01",
+      "end_date": "2011-08-01",
+      "skills": []
+    }
+  ],
+  "skills": [
+    "Data Center",
+    "Project Planning",
+    "HP Server Hardware",
+    "Customer Service",
+    "Budgets",
+    "Enclosures",
+    "Air Conditioning",
+    "Electricity",
+    "ILO",
+    "APC",
+    "IBM Server Hardware",
+    "Sun Server",
+    "Cisco Nexus",
+    "Blade Technology",
+    "BladeCenter",
+    "HP Blade",
+    "Project Management",
+    "HVAC",
+    "Microsoft Excel",
+    "Microsoft Word",
+    "Active Directory",
+    "Microsoft Exchange",
+    "Microsoft Office",
+    "Research",
+    "PowerPoint",
+    "DRAC",
+    "Dell PowerEdge Servers",
+    "HP Proliant",
+    "VMware",
+    "Linux",
+    "TCP/IP",
+    "Servers"
+  ]
+}
+{
+  "uid": "1871",
+  "label": "Senior Data Center Engineer",
+  "education": [
+    {
+      "degree": "Master of Science",
+      "field": "Laser and Optical Engineering",
+      "institution": "Odessa I.I.Mechnikov National University",
+      "year_completed": 1991
+    },
+    {
+      "degree": "Bachelor of Science",
+      "field": "Physics",
+      "institution": "Odessa I.I.Mechnikov National University",
+      "year_completed": 1988
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior Data Center Engineer",
+      "company": "NSO Group",
+      "start_date": "2020-02-01",
+      "end_date": "2024-08-01",
+      "skills": [
+        "Virtualization",
+        "Storage",
+        "Storage Area Network (SAN)",
+        "Servers",
+        "Enterprise Software",
+        "Unix",
+        "Software Development",
+        "Testing",
+        "Solaris",
+        "Integration",
+        "Cloud Computing",
+        "Databases",
+        "Software Engineering",
+        "Oracle",
+        "Operating Systems",
+        "System Architecture",
+        "Apache",
+        "Linux",
+        "SQL",
+        "Quality Assurance",
+        "Security",
+        "IIS",
+        "Troubleshooting",
+        "Microsoft SQL Server",
+        "Networking",
+        "Python (Programming Language)",
+        "Bash"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Linux System Engineer",
+      "company": "EMET",
+      "start_date": "2017-01-01",
+      "end_date": "2022-01-01",
+      "skills": [
+        "RHEL Patching",
+        "Kernel Upgrades",
+        "VMware",
+        "AWS",
+        "Ansible",
+        "Diagnostic Troubleshooting"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "System Integrator",
+      "company": "Pontis",
+      "start_date": "2012-01-01",
+      "end_date": "2016-01-01",
+      "skills": [
+        "HP Servers",
+        "IBM Servers",
+        "Linux REHL",
+        "Windows Server 2012",
+        "Apache",
+        "IIS",
+        "Tomcat",
+        "JBoss",
+        "DB Monitoring",
+        "MySQL",
+        "Oracle DB",
+        "SQL Server",
+        "Redis",
+        "Nagios",
+        "Citrix Virtualization",
+        "VPN",
+        "SSL Protocols",
+        "BASH Scripting"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Production Engineer",
+      "company": "Oracle",
+      "start_date": "2007-01-01",
+      "end_date": "2012-01-01",
+      "skills": [
+        "OS Updates",
+        "Solaris",
+        "Oracle Linux",
+        "RedHat",
+        "SUSE Linux",
+        "Oracle Enterprise Manager",
+        "DB2 Databases",
+        "Virtualization",
+        "VMware ESXi",
+        "XML",
+        "JSON",
+        "Wireshark",
+        "Software and Hardware Quality Management"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "System Integrator",
+      "company": "Comverse",
+      "start_date": "2004-01-01",
+      "end_date": "2007-01-01",
+      "skills": [
+        "Linux RedHat v5",
+        "Solaris v8",
+        "SUN Netra 20",
+        "Langley Servers",
+        "LSI Servers",
+        "UPU Servers",
+        "FC Switches",
+        "Oracle DB",
+        "Network Bonding",
+        "Cluster Setup",
+        "Optic Fiber Switches"
+      ]
+    }
+  ],
+  "skills": [
+    "Virtualization",
+    "Storage",
+    "Storage Area Network (SAN)",
+    "Servers",
+    "Enterprise Software",
+    "Unix",
+    "Software Development",
+    "Testing",
+    "Solaris",
+    "Integration",
+    "Cloud Computing",
+    "Databases",
+    "Software Engineering",
+    "Oracle",
+    "Operating Systems",
+    "System Architecture",
+    "Apache",
+    "Linux",
+    "SQL",
+    "Quality Assurance",
+    "Security",
+    "IIS",
+    "Troubleshooting",
+    "Microsoft SQL Server",
+    "Networking",
+    "Python (Programming Language)",
+    "Bash",
+    "RHEL Patching",
+    "Kernel Upgrades",
+    "VMware",
+    "AWS",
+    "Ansible",
+    "Diagnostic Troubleshooting",
+    "HP Servers",
+    "IBM Servers",
+    "Linux REHL",
+    "Windows Server 2012",
+    "Apache",
+    "IIS",
+    "Tomcat",
+    "JBoss",
+    "DB Monitoring",
+    "MySQL",
+    "Oracle DB",
+    "SQL Server",
+    "Redis",
+    "Nagios",
+    "Citrix Virtualization",
+    "VPN",
+    "SSL Protocols",
+    "BASH Scripting",
+    "OS Updates",
+    "Solaris",
+    "Oracle Linux",
+    "RedHat",
+    "SUSE Linux",
+    "Oracle Enterprise Manager",
+    "DB2 Databases",
+    "VMware ESXi",
+    "XML",
+    "JSON",
+    "Wireshark",
+    "Software and Hardware Quality Management",
+    "Network Bonding",
+    "Cluster Setup",
+    "Optic Fiber Switches"
+  ]
+}
+{
+  "uid": "1872",
+  "label": "Data Center Engineer",
+  "education": [
+    {
+      "degree": "Practical Engineer",
+      "field": "Electrical and Electronics Engineering",
+      "institution": "Sapir College",
+      "year_completed": 2017
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "Amazon Web Services (AWS)",
+      "start_date": "2024-03-01",
+      "end_date": null,
+      "skills": [
+        "Data Center Management",
+        "Networking",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Practical Engineer",
+      "company": "Intel Corporation",
+      "start_date": "2017-10-01",
+      "end_date": "2024-03-01",
+      "skills": [
+        "Problem Solving",
+        "Technical Training",
+        "Troubleshooting",
+        "Electrical Machines",
+        "Mechanical Troubleshooting"
+      ]
+    }
+  ],
+  "skills": [
+    "Data Center Management",
+    "Networking",
+    "Cloud Computing",
+    "Problem Solving",
+    "Technical Training",
+    "Troubleshooting",
+    "Electrical Machines",
+    "Mechanical Troubleshooting"
+  ]
+}
+{
+  "uid": "1873",
+  "label": "Data Center Engineer",
+  "education": [
+    {
+      "degree": "Associate's degree",
+      "field": "DevSecOps",
+      "institution": "Bar-Ilan University",
+      "year_completed": 2023
+    },
+    {
+      "degree": "Bachelor's degree",
+      "field": "Information Technology",
+      "institution": "The Open University of Israel",
+      "year_completed": 2028
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "NVIDIA",
+      "start_date": "2024-12-01",
+      "end_date": null,
+      "skills": [
+        "Data Centers",
+        "Servers",
+        "Microsoft Azure",
+        "VMware",
+        "Networking",
+        "Amazon Web Services (AWS)"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center",
+      "company": "Elbit Systems",
+      "start_date": "2023-10-01",
+      "end_date": "2024-12-01",
+      "skills": [
+        "Data Centers",
+        "Servers",
+        "Networking",
+        "Amazon Web Services (AWS)"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Information Technology Technician",
+      "company": "Elbit Systems Ltd",
+      "start_date": "2019-03-01",
+      "end_date": "2023-10-01",
+      "skills": [
+        "Information Technology",
+        "Linux",
+        "Windows",
+        "Active Directory",
+        "Customer Service",
+        "Teamwork"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "IT Helpdesk",
+      "company": "BAZAN Group Oil Refineries Ltd",
+      "start_date": "2018-01-01",
+      "end_date": "2018-07-01",
+      "skills": [
+        "Information Technology",
+        "Customer Service",
+        "Microsoft Exchange",
+        "Active Directory"
+      ]
+    }
+  ],
+  "skills": [
+    "Data Centers",
+    "Servers",
+    "Microsoft Azure",
+    "VMware",
+    "Networking",
+    "Amazon Web Services (AWS)",
+    "Information Technology",
+    "DevOps",
+    "Linux",
+    "Windows",
+    "Teamwork",
+    "Multimedia",
+    "Microsoft Exchange",
+    "Active Directory",
+    "Customer Service",
+    "Learn New Software Quickly",
+    "OSI Model",
+    "Extron"
+  ]
+}
+{
+  "uid": "1874",
+  "label": "Data Center Engineer",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "TSG IT Advanced Systems Ltd.",
+      "start_date": "2021-08-01",
+      "end_date": null,
+      "skills": [
+        "Data Centers",
+        "Servers",
+        "Python",
+        "Powershell",
+        "Microsoft Office"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Datacenter Operator",
+      "company": "TSG IT Advanced Systems Ltd.",
+      "start_date": "2021-03-01",
+      "end_date": "2021-08-01",
+      "skills": [
+        "Data Centers",
+        "NOC Operations"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Security Operations Center Analyst",
+      "company": "Dell EMC",
+      "start_date": "2020-08-01",
+      "end_date": "2021-03-01",
+      "skills": [
+        "SOC",
+        "Cyber Security",
+        "Ethical Hacking"
+      ]
+    }
+  ],
+  "skills": [
+    "Data Centers",
+    "Servers",
+    "Python",
+    "Powershell",
+    "Microsoft Office",
+    "NOC Operations",
+    "SOC",
+    "Cyber Security",
+    "Ethical Hacking",
+    "Team Leadership",
+    "Customer Service",
+    "Negotiation",
+    "Marketing Strategy"
+  ]
+}
+{
+  "uid": "1875",
+  "label": "Data Center Engineer - Team Lead",
+  "education": [
+    {
+      "degree": "Bachelor's degree",
+      "field": "Computer Science",
+      "institution": "Reichman University",
+      "year_completed": 2023
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer - Team Lead",
+      "company": "Cisco",
+      "start_date": "2023-11-01",
+      "end_date": null,
+      "skills": [
+        "Data Center Management",
+        "Data Center Operations",
+        "Data Center Infrastructure",
+        "Data Center",
+        "Networking",
+        "Configuration Management"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center Engineer",
+      "company": "Cisco Data Center",
+      "start_date": "2019-04-01",
+      "end_date": null,
+      "skills": [
+        "Data Center Operations",
+        "Data Center Management",
+        "Windows",
+        "IT Hardware Support",
+        "Hardware Installation",
+        "Linux",
+        "Python"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Network Administrator",
+      "company": "Israel Defense Forces",
+      "start_date": "2015-12-01",
+      "end_date": "2018-08-01",
+      "skills": [
+        "Networking",
+        "Problem Solving"
+      ]
+    }
+  ],
+  "skills": [
+    "Data Center Management",
+    "Data Center Operations",
+    "Data Center Infrastructure",
+    "Data Center",
+    "Networking",
+    "Configuration Management",
+    "Windows",
+    "IT Hardware Support",
+    "Hardware Installation",
+    "Linux",
+    "Python",
+    "Git",
+    "Java",
+    "Red Hat Linux",
+    "C#",
+    "JavaScript",
+    "Angular",
+    "Node.js",
+    "AngularJS",
+    "Unity",
+    "Data Structures",
+    "Algorithms",
+    "Problem Solving",
+    "Microsoft Office",
+    "Microsoft Excel",
+    "Customer Service",
+    "Scripting"
+  ]
+}
+{
+  "uid": "1876",
+  "label": "Data Center Engineer",
+  "education": [
+    {
+      "degree": "Bachelor of Laws - LLB",
+      "field": "Law",
+      "institution": "Ono Academic College",
+      "year_completed": 2019
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "Check Point Software Technologies Ltd",
+      "start_date": "2023-10-01",
+      "end_date": null,
+      "skills": [
+        "Cloud Environments",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Oracle",
+        "Networking",
+        "Routing",
+        "Gateways",
+        "Clusters",
+        "Auto-scaling",
+        "Load Balancers",
+        "vCenter",
+        "ESXi",
+        "NSX Servers",
+        "Check Point Security Products"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Network Engineer",
+      "company": "Bynet Data Communications",
+      "start_date": "2021-07-01",
+      "end_date": "2023-11-01",
+      "skills": [
+        "LAN",
+        "WAN",
+        "API Orchestration",
+        "Python",
+        "Cisco Systems",
+        "Juniper Networks",
+        "Routing",
+        "Switching Protocols",
+        "IPsec",
+        "VRRP",
+        "GLBP",
+        "HSRP",
+        "BGP",
+        "OSPF",
+        "EIGRP",
+        "MPLS",
+        "STP",
+        "Multicasting",
+        "VRF",
+        "Check Point Firewall"
+      ]
+    }
+  ],
+  "skills": [
+    "Cloud Environments",
+    "AWS",
+    "Azure",
+    "GCP",
+    "Oracle",
+    "Networking",
+    "Routing",
+    "Gateways",
+    "Clusters",
+    "Auto-scaling",
+    "Load Balancers",
+    "vCenter",
+    "ESXi",
+    "NSX Servers",
+    "Check Point Security Products",
+    "LAN",
+    "WAN",
+    "API Orchestration",
+    "Python",
+    "Cisco Systems",
+    "Juniper Networks",
+    "Routing",
+    "Switching Protocols",
+    "IPsec",
+    "VRRP",
+    "GLBP",
+    "HSRP",
+    "BGP",
+    "OSPF",
+    "EIGRP",
+    "MPLS",
+    "STP",
+    "Multicasting",
+    "VRF",
+    "Check Point Firewall"
+  ]
+}
+{
+  "uid": "1877",
+  "label": "Data Center Engineer",
+  "education": [
+    {
+      "degree": "Engineer's degree",
+      "field": "Electrical and Electronics Engineering",
+      "institution": "Bar-Ilan University",
+      "year_completed": 2026
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "Experis",
+      "start_date": "2023-07-01",
+      "end_date": null,
+      "skills": [
+        "Operations",
+        "Data Centers"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center Project Manager",
+      "company": "Bynet Systems Applications",
+      "start_date": "2022-01-01",
+      "end_date": "2022-07-01",
+      "skills": [
+        "Operations",
+        "Project Management",
+        "Data Centers"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Data Center Engineer",
+      "company": "Army Israel",
+      "start_date": "2022-02-01",
+      "end_date": null,
+      "skills": [
+        "Operations",
+        "Data Centers"
+      ]
+    }
+  ],
+  "skills": [
+    "Operations",
+    "Project Management",
+    "Data Centers",
+    "Engineering",
+    "Problem Solving",
+    "Microsoft Excel",
+    "Teamwork",
+    "Organization Skills",
+    "Training"
+  ]
+}
+{
+  "uid": "1878",
+  "label": "Data Center Engineer",
+  "education": [
+    {
+      "degree": "Bachelor's degree",
+      "field": "Computer Software Engineering",
+      "institution": "Afeka Tel Aviv Academic College of Engineering",
+      "year_completed": 2022
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "HOT",
+      "start_date": "2023-08-01",
+      "end_date": null,
+      "skills": [
+        "Troubleshooting",
+        "Network Support"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Network Support Engineer",
+      "company": "HOT",
+      "start_date": "2022-01-01",
+      "end_date": "2023-08-01",
+      "skills": [
+        "Network Switches",
+        "Multiprotocol Label Switching (MPLS)",
+        "Network Security",
+        "Border Gateway Protocol (BGP)",
+        "Network Engineering",
+        "Network Administration"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Network Administrator",
+      "company": "Bezeq",
+      "start_date": "2020-05-01",
+      "end_date": "2021-12-01",
+      "skills": [
+        "Networking",
+        "Network Administration"
+      ]
+    }
+  ],
+  "skills": [
+    "Troubleshooting",
+    "Network Support",
+    "Network Switches",
+    "Multiprotocol Label Switching (MPLS)",
+    "Network Security",
+    "Border Gateway Protocol (BGP)",
+    "Network Engineering",
+    "Network Administration",
+    "Networking",
+    "Fortinet"
+  ]
+}
+{
+  "uid": "1879",
+  "label": "Data Center Engineer",
+  "education": [
+    {
+      "degree": "Bachelor's degree",
+      "field": "Computer Science, Information Technology",
+      "institution": "Birzeit University",
+      "year_completed": 2016
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "JAWWAL",
+      "start_date": "2018-09-01",
+      "end_date": null,
+      "skills": [
+        "Data Center Operations",
+        "Troubleshooting",
+        "Storage Management"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Technical Support Engineer",
+      "company": "JAWWAL",
+      "start_date": "2017-06-01",
+      "end_date": "2018-09-01",
+      "skills": [
+        "Backup Solutions",
+        "VMware",
+        "Storage Management"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Freelance Front-End Web Developer",
+      "company": "Self-employed",
+      "start_date": "2016-02-01",
+      "end_date": "2018-10-01",
+      "skills": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "jQuery",
+        "SCSS",
+        "AJAX",
+        "PHP",
+        "CodeIgniter",
+        "MySQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Front-End Web Developer (Intern)",
+      "company": "Squaretalk",
+      "start_date": "2016-12-01",
+      "end_date": "2017-03-01",
+      "skills": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "jQuery",
+    "SCSS",
+    "AJAX",
+    "PHP",
+    "CodeIgniter",
+    "MySQL",
+    "MongoDB",
+    "JIRA",
+    "Backup Solutions",
+    "VMware",
+    "Storage Management",
+    "Red Hat Linux"
+  ]
+}
+{
+  "uid": "1880",
+  "label": "Data Center Architect",
+  "education": [
+    {
+      "degree": "BA",
+      "field": "Computer Science, Information Technology",
+      "institution": "Birzeit University",
+      "year_completed": 2016
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Architect",
+      "company": "Bezeq International",
+      "start_date": "Dec 2024",
+      "end_date": null,
+      "skills": [
+        "Cisco Technologies",
+        "Networking",
+        "Data Center",
+        "Network Security",
+        "Virtualization"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Head of the Data Center and Professional Services",
+      "company": "Fibernet Ltd.",
+      "start_date": "Nov 2022",
+      "end_date": "Dec 2024",
+      "skills": [
+        "Data Center",
+        "Integration",
+        "Network Security",
+        "Project Management"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Data Center Manager",
+      "company": "Kyndryl",
+      "start_date": "Sep 2021",
+      "end_date": "Nov 2022",
+      "skills": [
+        "Network Security",
+        "Data Center",
+        "IP",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Data Center Manager",
+      "company": "IBM",
+      "start_date": "Apr 2016",
+      "end_date": "Aug 2021",
+      "skills": [
+        "Data Center",
+        "Networking",
+        "Network Security",
+        "Virtualization"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Passive Infrastructure and Data Center Manager",
+      "company": "DBS Satellite Services (YES)",
+      "start_date": "Dec 2009",
+      "end_date": "Apr 2016",
+      "skills": [
+        "Network Security",
+        "Data Center",
+        "Telecommunications"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "Network Engineer and Responsible for Passive Infrastructure",
+      "company": "Applied Materials",
+      "start_date": "Jun 2006",
+      "end_date": "Aug 2009",
+      "skills": [
+        "Networking",
+        "Cisco Technologies",
+        "Network Security"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "Network Engineer",
+      "company": "Ness Technologies",
+      "start_date": "Jan 2000",
+      "end_date": "Jun 2006",
+      "skills": [
+        "Cisco Technologies",
+        "Networking",
+        "Network Security",
+        "Routing"
+      ]
+    },
+    {
+      "job_id": "008",
+      "title": "Head of the PBX Installations Team",
+      "company": "Eurocom Cellular Communications",
+      "start_date": "May 1993",
+      "end_date": "Dec 1999",
+      "skills": [
+        "Telecommunications",
+        "Network Administration"
+      ]
+    }
+  ],
+  "skills": [
+    "Cisco Technologies",
+    "Networking",
+    "Data Center",
+    "Network Security",
+    "Virtualization",
+    "Telecommunications",
+    "Project Management",
+    "Integration",
+    "IP",
+    "Cloud Computing"
+  ]
+}
+{
+  "uid": "1881",
+  "label": "Data Center Technician",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Technician",
+      "company": "Oracle",
+      "start_date": "2021-05-01",
+      "end_date": null,
+      "skills": [
+        "Hardware",
+        "Data Center Operations",
+        "Data Center Infrastructure",
+        "Servers",
+        "Blade Servers",
+        "ILO",
+        "Cable Management",
+        "Cisco UCS"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center Technician",
+      "company": "Ofek 324 Unit - IAF",
+      "start_date": "2018-02-01",
+      "end_date": "2020-09-01",
+      "skills": [
+        "Hardware",
+        "Data Center Operations",
+        "Data Center Infrastructure",
+        "Cable Management"
+      ]
+    }
+  ],
+  "skills": [
+    "Hardware",
+    "Data Center Operations",
+    "Data Center Infrastructure",
+    "Servers",
+    "Blade Servers",
+    "ILO",
+    "Cable Management",
+    "Cisco UCS"
+  ]
+}
+{
+  "uid": "1882",
+  "label": "Senior Data Center Technician",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Senior Data Center Technician",
+      "company": "Microsoft",
+      "start_date": "2021-10-01",
+      "end_date": null,
+      "skills": [
+        "Troubleshooting",
+        "Servers",
+        "Cloud Computing",
+        "Cabling",
+        "Fiber Optics",
+        "Switches",
+        "Routers",
+        "Windows Server",
+        "Linux"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Datacenter Technician",
+      "company": "Colobridge GmbH",
+      "start_date": "2013-07-01",
+      "end_date": "2019-02-01",
+      "skills": [
+        "Troubleshooting",
+        "Servers",
+        "Cloud Computing",
+        "Cabling",
+        "Fiber Optics",
+        "Switches",
+        "Routers",
+        "Windows Server",
+        "Linux"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Project Manager",
+      "company": "Bridge IT",
+      "start_date": "2011-03-01",
+      "end_date": "2013-03-01",
+      "skills": [
+        "Project Management",
+        "Servers",
+        "Cloud Computing",
+        "Web Development",
+        "Mobile Applications"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Product Manager",
+      "company": "InfoTeCS Internet Trust",
+      "start_date": "2010-02-01",
+      "end_date": "2011-03-01",
+      "skills": [
+        "Project Management",
+        "Software Development"
+      ]
+    }
+  ],
+  "skills": [
+    "Troubleshooting",
+    "Servers",
+    "Cloud Computing",
+    "Cabling",
+    "Fiber Optics",
+    "Switches",
+    "Routers",
+    "Windows Server",
+    "Linux",
+    "Project Management",
+    "Web Development",
+    "Mobile Applications",
+    "SEO",
+    "Software Development"
+  ]
+}
+{
+  "uid": "1883",
+  "label": "Data Center Engineer",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "WWT/Nvidia",
+      "start_date": "May 2024",
+      "end_date": null,
+      "skills": [
+        "Computer Hardware", "Data Centers"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Senior Data Center Engineer",
+      "company": "HCLTech",
+      "start_date": "Oct 2021",
+      "end_date": "May 2024",
+      "skills": [
+        "Racking and stacking", "HP/Dell server hardware support", "Remote connectivity configuration", "Data Center Infrastructure Management", "Vendor Management", "DCIM management", "Servicenow", "Fiber & Ethernet patching"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "TMS Engineer",
+      "company": "Puma Energy",
+      "start_date": "Apr 2015",
+      "end_date": "Jul 2020",
+      "skills": [
+        "FuelFACS deployment", "Hydrocarbon Accounting", "SQL database", "PowerBI", "Vendor Management", "On-premises support", "Data Management"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Senior Information Technology Support Engineer",
+      "company": "Trafigura",
+      "start_date": "Apr 2011",
+      "end_date": "Jan 2015",
+      "skills": [
+        "SQL", "Service Desk", "Infrastructure", "Data Management", "Technical Support", "IT Operations"
+      ]
+    }
+  ],
+  "skills": [
+    "Data Centers", "SQL", "Servers", "System Administration", "Data Center Operations", "Infrastructure", "IT Service Management", "Data Management", "Master Data Management", "Vendor Management"
+  ]
+}
+{
+  "uid": "1884",
+  "label": "Data Center Manager",
+  "education": [
+    {
+      "degree": "Practical engineer",
+      "field": "Computer Engineering",
+      "institution": "Hadassah Academic College",
+      "year_completed": 2004
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Manager",
+      "company": "Mobileye",
+      "start_date": "2018-03-01",
+      "end_date": null,
+      "skills": [
+        "Data Center", "System Architecture", "Networking", "Network Security", "Servers", "Backup Exec"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "System Administrator",
+      "company": "Mobileye",
+      "start_date": "2013-03-01",
+      "end_date": null,
+      "skills": [
+        "System Administration", "Active Directory", "Windows Server", "Linux", "Microsoft SQL Server", "Networking"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "System Administrator",
+      "company": "Pisga Educational Center",
+      "start_date": "2011-07-01",
+      "end_date": "2013-03-01",
+      "skills": [
+        "System Administration", "Networking", "Active Directory", "Computer Repair"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "IT Specialist",
+      "company": "ADS Computers",
+      "start_date": "2001-03-01",
+      "end_date": "2011-07-01",
+      "skills": [
+        "IT Management", "Network Administration", "Computer Maintenance", "Networking", "Hardware"
+      ]
+    }
+  ],
+  "skills": [
+    "Data Center", "System Architecture", "Networking", "Network Security", "Servers", "Backup Exec", "System Administration", "Active Directory", "Windows Server", "Linux", "Microsoft SQL Server", "Networking", "Virtualization", "IT Management", "Perl", "MySQL", "TCP/IP", "Computer Repair", "Computer Hardware", "Storage Area Network (SAN)", "VMware", "IBM Storage", "HP Products", "Dell Products"
+  ]
+}
+{
+  "uid": "1885",
+  "label": "Data Center Operator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Operator",
+      "company": "Calanit by one",
+      "start_date": "2024-05-01",
+      "end_date": null,
+      "skills": [
+        "Data Center", "Rack and Stack", "Networking", "Cable Management", "Server Troubleshooting", "Infiniband Fabric", "Supermicro Servers", "Dell PowerEdge Servers", "Mellanox", "Arista Switches"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Mechanical Support",
+      "company": "Schindler Israel",
+      "start_date": "2023-08-01",
+      "end_date": "2024-01-01",
+      "skills": [
+        "Mechanical Support", "Technical Support"
+      ]
+    }
+  ],
+  "skills": [
+    "Data Center", "Rack and Stack", "Networking", "Cable Management", "Server Troubleshooting", "Infiniband Fabric", "Supermicro Servers", "Dell PowerEdge Servers", "Mellanox", "Arista Switches", "Mechanical Support", "Technical Support", "Software Testing", "SQL", "Jira", "Manual Testing", "Test Planning", "Bug Tracking"
+  ]
+}
+{
+  "uid": "1886",
+  "label": "Data Center Operator",
+  "education": [
+    {
+      "degree": "Cyber & Information Security",
+      "field": "See-Security: Cyber & Information Security College",
+      "institution": "See-Security: Cyber & Information Security College",
+      "year_completed": null
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Operator",
+      "company": "NVIDIA",
+      "start_date": "2024-11-01",
+      "end_date": null,
+      "skills": [
+        "IBM Servers", "Dell PowerEdge Servers", "Network Switches", "ServiceNow", "Fiber Optic Cable", "Hardware Installation", "Servers", "HP Server Hardware", "PowerIQ", "Data Center Construction", "SuperMicro Servers"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "IT Support HelpDesk",
+      "company": "Strauss Group",
+      "start_date": "2023-08-01",
+      "end_date": "2024-11-01",
+      "skills": [
+        "SAP", "Network Access Control (NAC)", "Microsoft Azure", "XDR", "Active Directory", "Office 365", "Python (Programming Language)"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Technical Support Specialist",
+      "company": "Cellcom",
+      "start_date": "2021-10-01",
+      "end_date": "2023-07-01",
+      "skills": [
+        "Troubleshooting Skills", "Help Desk Support", "Problem Solving", "Technical Support", "Networking"
+      ]
+    }
+  ],
+  "skills": [
+    "IBM Servers", "Dell PowerEdge Servers", "Network Switches", "ServiceNow", "Fiber Optic Cable", "Hardware Installation", "Servers", "HP Server Hardware", "PowerIQ", "Data Center Construction", "SuperMicro Servers", "SAP", "Network Access Control (NAC)", "Microsoft Azure", "XDR", "Active Directory", "Office 365", "Python (Programming Language)", "Linux", "VMware", "MCSA", "CCNA", "Troubleshooting Skills", "Help Desk Support", "Problem Solving", "Technical Support", "Networking"
+  ]
+}
+{
+  "uid": "1887",
+  "label": "Data Center Technician",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Technician",
+      "company": "Cisco Israel",
+      "start_date": "2024-07-01",
+      "end_date": "2024-10-01",
+      "skills": [
+        "Production Server Hardware", "Installation", "Monitoring", "Maintenance", "Support", "Optimization"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Laboratory Technician",
+      "company": "Cisco Israel",
+      "start_date": "2024-06-01",
+      "end_date": "2024-07-01",
+      "skills": [
+        "Installation", "Monitoring", "Maintenance", "Support", "Optimization"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Installation Technician",
+      "company": "GreenTops",
+      "start_date": "2018-06-01",
+      "end_date": "2023-05-01",
+      "skills": [
+        "Installation", "Wiring", "Electrical Panels", "Fault Handling"
+      ]
+    }
+  ],
+  "skills": [
+    "Production Server Hardware", "Installation", "Monitoring", "Maintenance", "Support", "Optimization", 
+    "Wiring", "Electrical Panels", "Fault Handling", "Spanning Tree Protocol (STP)", "Network Address Translation (NAT)", 
+    "Open Shortest Path First (OSPF)", "Border Gateway Protocol (BGP)", "Internet Protocol Suite (TCP/IP)"
+  ]
+}
+{
+  "uid": "1888",
+  "label": "Data Center Technician",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Technician",
+      "company": "Google",
+      "start_date": "2021-10-01",
+      "end_date": null,
+      "skills": [
+        "Active Directory", "VMware", "Networking", "Troubleshooting", "Internet Protocol (IP)", "Technical Support", 
+        "Mobile Devices", "Help Desk Implementation", "FreePBX", "Voice over IP (VoIP)", "Group Policy", 
+        "Windows Server", "Scripting", "Servers", "DNS Server", "Server Administration", "Powershell", 
+        "Nimble", "Storage Systems", "Microsoft Exchange", "Cisco AMP", "Symantec Endpoint Protection", "Veeam"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "System Administrator",
+      "company": "Ashdod Municipality",
+      "start_date": "2019-05-01",
+      "end_date": "2021-04-01",
+      "skills": [
+        "Active Directory", "VMware", "Networking", "Windows Server", "Group Policy", "Powershell", "Scripting"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Junior System and Support",
+      "company": "Minrav Development",
+      "start_date": "2018-05-01",
+      "end_date": "2018-12-01",
+      "skills": [
+        "Technical Support", "Networking", "Troubleshooting", "Windows Server"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Senior Helpdesk",
+      "company": "BlackRock",
+      "start_date": "2016-08-01",
+      "end_date": "2018-05-01",
+      "skills": [
+        "Active Directory", "Microsoft Exchange", "FreePBX", "Group Policy", "Troubleshooting", "Technical Support"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Senior Technical Support",
+      "company": "012 Golden Lines",
+      "start_date": "2015-04-01",
+      "end_date": "2016-08-01",
+      "skills": [
+        "Technical Support", "Networking", "Troubleshooting", "Windows Server"
+      ]
+    }
+  ],
+  "skills": [
+    "Active Directory", "VMware", "Networking", "Technical Support", "Troubleshooting", "Internet Protocol (IP)", 
+    "Mobile Devices", "Help Desk Implementation", "FreePBX", "Voice over IP (VoIP)", "Group Policy", 
+    "Windows Server", "Scripting", "Servers", "DNS Server", "Server Administration", "Powershell", "Nimble", 
+    "Storage Systems", "Microsoft Exchange", "Cisco AMP", "Symantec Endpoint Protection", "Veeam"
+  ]
+}
+{
+  "uid": "1889",
+  "label": "Datacenter Technician",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Datacenter Technician",
+      "company": "Oracle",
+      "start_date": "2022-01-01",
+      "end_date": null,
+      "skills": [
+        "Internet Protocol Suite (TCP/IP)", "Windows Server", "Linux", "Data Center"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center Technician",
+      "company": "Israeli Military Intelligence",
+      "start_date": "2019-11-01",
+      "end_date": "2021-11-01",
+      "skills": [
+        "Internet Protocol Suite (TCP/IP)", "Windows Server", "Linux", "Data Center"
+      ]
+    }
+  ],
+  "skills": [
+    "Internet Protocol Suite (TCP/IP)", "Windows Server", "Linux", "Data Center"
+  ]
+}
+{
+  "uid": "1890",
+  "label": "Datacenter Technician",
+  "education": [
+    {
+      "degree": "Bachelor of Arts",
+      "field": "Economics and Computer Science",
+      "institution": "The Open University of Israel",
+      "year_completed": 2023
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Datacenter Technician",
+      "company": "Microsoft",
+      "start_date": "2021-10-01",
+      "end_date": null,
+      "skills": [
+        "VLAN", "HP Servers", "VMware vSphere", "Storage Area Network (SAN)", "Network-Attached Storage (NAS)", 
+        "Virtual Private Network (VPN)", "NetApp", "Cisco IOS", "VMware ESX", "JIRA", "Python (Programming Language)", 
+        "Java", "IBM Servers", "Virtual Machines", "HP Server Hardware"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "System Administrator",
+      "company": "J6 & Cyber Defense Directorate, IDF",
+      "start_date": "2017-04-01",
+      "end_date": "2019-04-01",
+      "skills": [
+        "VLAN", "HP Servers", "VMware vSphere", "Storage Area Network (SAN)", "Network-Attached Storage (NAS)", 
+        "Virtual Private Network (VPN)", "NetApp", "Cisco IOS", "VMware ESX", "JIRA", "Python (Programming Language)", 
+        "Java", "IBM Servers", "Virtual Machines", "HP Server Hardware"
+      ]
+    }
+  ],
+  "skills": [
+    "VLAN", "HP Servers", "VMware vSphere", "Storage Area Network (SAN)", "Network-Attached Storage (NAS)", 
+    "Virtual Private Network (VPN)", "NetApp", "Cisco IOS", "VMware ESX", "JIRA", "Python (Programming Language)", 
+    "Java", "IBM Servers", "Virtual Machines", "HP Server Hardware"
+  ]
+}
+{
+  "uid": "1891",
+  "label": "Network Engineer",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Datacenter Technician",
+      "company": "Log-On Software",
+      "start_date": "2024-08-01",
+      "end_date": null,
+      "skills": [
+        "Cisco Routers", "Cisco Networking", "Alteon", "Cisco Nexus", "Catalyst Switches", "Catalyst", 
+        "Checkpoint", "Radware alteo", "Palo Alto Networks", "Firewalls", "Solarwinds", "ServiceNow", 
+        "Networking", "System Administration", "Network Switches", "Data Centers", "Data Center Management"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Network Engineer",
+      "company": "J6 & Cyber Defense Directorate, IDF",
+      "start_date": "2022-12-01",
+      "end_date": "2025-04-01",
+      "skills": [
+        "Cisco Routers", "Cisco Networking", "Alteon", "Cisco Nexus", "Catalyst Switches", "Catalyst", 
+        "Checkpoint", "Radware alteo", "Palo Alto Networks", "Firewalls", "Solarwinds", "ServiceNow", 
+        "Networking", "System Administration", "Network Switches", "Data Centers", "Data Center Management"
+      ]
+    }
+  ],
+  "skills": [
+    "Cisco Routers", "Cisco Networking", "Alteon", "Cisco Nexus", "Catalyst Switches", "Catalyst", 
+    "Checkpoint", "Radware alteo", "Palo Alto Networks", "Firewalls", "Solarwinds", "ServiceNow", 
+    "Networking", "System Administration", "Network Switches", "Data Centers", "Data Center Management"
+  ]
+}
+{
+  "uid": "1892",
+  "label": "Data Center Engineer",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "M.S.R Engineering & Operation Ltd",
+      "start_date": "2022-08-01",
+      "end_date": null,
+      "skills": [
+        "Data Center Management", "System Administration", "Network Management", "Server Installation", "System Integrity Monitoring"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "System Administrator",
+      "company": "Bynet Data Communications",
+      "start_date": "2022-03-01",
+      "end_date": null,
+      "skills": [
+        "System Administration", "Network Management", "Server Installation", "Data Center Management"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Deputy Director of the Data Center Establishment Team",
+      "company": "TSG IT Advanced Systems Ltd.",
+      "start_date": "2020-01-01",
+      "end_date": null,
+      "skills": [
+        "Data Center Establishment", "Network Management", "System Integrity Monitoring", "Server Installation"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "IT Support Specialist, IT Technician, Help Desk Team Leader",
+      "company": "Bynet Data Communications",
+      "start_date": "2016-03-01",
+      "end_date": "2020-01-01",
+      "skills": [
+        "IT Support", "User Support", "Computing Equipment Maintenance", "Printer Server Management", "Multimedia Systems Installation", "Security Systems Management"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "Field Technician and Lab Man",
+      "company": "Ness-Matach",
+      "start_date": "2007-02-01",
+      "end_date": "2015-03-01",
+      "skills": [
+        "Field Technician", "Lab Maintenance", "Multimedia Systems", "Low Voltage Systems"
+      ]
+    }
+  ],
+  "skills": [
+    "Data Center Management", "System Administration", "Network Management", "Server Installation", "System Integrity Monitoring", 
+    "IT Support", "User Support", "Computing Equipment Maintenance", "Printer Server Management", "Multimedia Systems Installation", 
+    "Security Systems Management", "Field Technician", "Lab Maintenance", "Low Voltage Systems"
+  ]
+}
+{
+  "uid": "1893",
+  "label": "PS Engineering Computing Team Leader",
+  "education": [
+    {
+      "degree": "Bachelor",
+      "field": "Mathematics & Biology",
+      "institution": "Audiberty College",
+      "year_completed": 1990
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "PS Engineering Computing Team Leader",
+      "company": "Bynet Data Communications",
+      "start_date": "2017-08-01",
+      "end_date": null,
+      "skills": [
+        "Virtualization", "Cisco UCS", "Citrix", "Storage", "VMware", "Pre-sales", "Data Center", 
+        "Cisco Technologies", "HP", "Disaster Recovery", "NetApp", "LAN Switching", "Solution Architecture", 
+        "WAN", "Linux", "RIP", "Network Design", "Security", "Network Architecture", "Integration", 
+        "LAN-WAN", "SaaS", "LDAP", "DNS", "Network Security", "Telecommunications", "System Deployment", 
+        "VPN", "TCP/IP", "Active Directory", "Network Engineering", "Servers", "Operating Systems", "Firewalls", 
+        "Storage Area Networks", "NAS", "Checkpoint", "VDI", "Routers", "QoS", "Ethernet", "Switches", "DHCP", 
+        "OSPF", "Routing", "IP", "Cloud Computing", "MPLS", "Unified Communications", "System Administration"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data-Center Technology Specialist",
+      "company": "Bynet Data Communications",
+      "start_date": "2013-01-01",
+      "end_date": null,
+      "skills": [
+        "Cisco UCS", "Cloud Management Software", "VDI Infrastructure"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Pre-Sale System Engineer",
+      "company": "Bynet Data Communications",
+      "start_date": "2009-08-01",
+      "end_date": null,
+      "skills": [
+        "Virtualization", "UCS Subject Matter Expert", "Datacenter Design", "Virtualization Projects"
+      ]
+    },
+    {
+      "job_id": "004",
+      "title": "Security Information Supervisor",
+      "company": "Cal (Israel Credit Cards)",
+      "start_date": "2007-09-01",
+      "end_date": "2008-02-01",
+      "skills": [
+        "Security Information"
+      ]
+    },
+    {
+      "job_id": "005",
+      "title": "System Engineer (SBC & Altiris)",
+      "company": "Bynet Data Communications",
+      "start_date": "2000-08-01",
+      "end_date": "2007-08-01",
+      "skills": [
+        "SBC", "Altiris"
+      ]
+    },
+    {
+      "job_id": "006",
+      "title": "System Administrator",
+      "company": "Visonic",
+      "start_date": "1997-02-01",
+      "end_date": "2000-07-01",
+      "skills": [
+        "System Administration"
+      ]
+    },
+    {
+      "job_id": "007",
+      "title": "Network Technician",
+      "company": "Computer Store",
+      "start_date": "1996-01-01",
+      "end_date": "1997-02-01",
+      "skills": [
+        "Network Technician"
+      ]
+    }
+  ],
+  "skills": [
+    "Virtualization", "Cisco UCS", "Citrix", "Storage", "VMware", "Pre-sales", "Data Center", 
+    "Cisco Technologies", "HP", "Disaster Recovery", "NetApp", "LAN Switching", "Solution Architecture", 
+    "WAN", "Linux", "RIP", "Network Design", "Security", "Network Architecture", "Integration", 
+    "LAN-WAN", "SaaS", "LDAP", "DNS", "Network Security", "Telecommunications", "System Deployment", 
+    "VPN", "TCP/IP", "Active Directory", "Network Engineering", "Servers", "Operating Systems", "Firewalls", 
+    "Storage Area Networks", "NAS", "Checkpoint", "VDI", "Routers", "QoS", "Ethernet", "Switches", "DHCP", 
+    "OSPF", "Routing", "IP", "Cloud Computing", "MPLS", "Unified Communications", "System Administration"
+  ]
+}
+{
+  "uid": "1894",
+  "label": "Data Centre Technician",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Centre Technician",
+      "company": "Oracle",
+      "start_date": "2021-04-01",
+      "end_date": null,
+      "skills": [
+        "Data Center Operations", "Security", "Rack", "Data Center", "Cable Management", "Powershell", 
+        "Racking", "VMware", "JS", "HTML", "CSS", "Java", "Infrastructure Management", "Networking", 
+        "Operating Systems", "Cisco Switch"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Datacenter Technician",
+      "company": "Israel Defense Forces",
+      "start_date": "2018-04-01",
+      "end_date": "2020-09-01",
+      "skills": [
+        "Data Center Operations", "Security", "Rack", "Cable Management", "Powershell"
+      ]
+    }
+  ],
+  "skills": [
+    "Data Center Operations", "Security", "Rack", "Data Center", "Cable Management", "Powershell", 
+    "Racking", "VMware", "JS", "HTML", "CSS", "Java", "Infrastructure Management", "Networking", 
+    "Operating Systems", "Cisco Switch"
+  ]
+}
+{
+  "uid": "1895",
+  "label": "Data Center Technician",
+  "education": [
+    {
+      "degree": "Associate's degree",
+      "field": "Network and System Administration/Administrator",
+      "institution": "Metropolitan Community College",
+      "year_completed": 2023
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Technician",
+      "company": "Nocix",
+      "start_date": "2024-04-01",
+      "end_date": "2025-03-31",
+      "skills": [
+        "Device Imaging/Setup", "Troubleshooting", "Network Security", "Information Technology", 
+        "Windows", "Customer Service", "SQL", "Linux", "Network Administration", "System Administration", 
+        "pfSense", "Networking", "Windows Server/Active Directory", "Home Network", "Network Design", 
+        "Nginx/Tengine Web Server", "Computer Hardware", "IT Support", "Firewalls"
+      ]
+    }
+  ],
+  "skills": [
+    "Device Imaging/Setup", "Troubleshooting", "Network Security", "Information Technology", 
+    "Windows", "Customer Service", "SQL", "Linux", "Network Administration", "System Administration", 
+    "pfSense", "Networking", "Windows Server/Active Directory", "Home Network", "Network Design", 
+    "Nginx/Tengine Web Server", "Computer Hardware", "IT Support", "Firewalls"
+  ]
+}
+{
+  "uid": "1896",
+  "label": "Data Center Engineer",
+  "education": [
+    {
+      "degree": "Practical Engineering",
+      "field": "Engineering",
+      "institution": "Ashkelon Academic College",
+      "year_completed": 2018
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Engineer",
+      "company": "max מקס",
+      "start_date": "2023-07-01",
+      "end_date": null,
+      "skills": [
+        "Help Desk Support", "Data Centers", "Hardware", "Engineering"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center Engineer",
+      "company": "IBM",
+      "start_date": "2022-05-01",
+      "end_date": "2023-12-31",
+      "skills": [
+        "Help Desk Support", "Data Centers", "Hardware"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Shift Manager at Regional Communication Center",
+      "company": "Israel Defense Forces",
+      "start_date": "2019-04-01",
+      "end_date": "2020-06-30",
+      "skills": [
+        "Help Desk Support", "Data Centers", "Engineering"
+      ]
+    }
+  ],
+  "skills": [
+    "Help Desk Support", "Data Centers", "Hardware", "Engineering"
+  ]
+}
+{
+  "uid": "1897",
+  "label": "Datacenter Technician",
+  "education": [
+    {
+      "degree": "Bachelor of Arts - BA",
+      "field": "Economic",
+      "institution": "The Open University of Israel",
+      "year_completed": 2024
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Datacenter Technician",
+      "company": "Oracle",
+      "start_date": "2021-12-01",
+      "end_date": null,
+      "skills": [
+        "Computer Networking", "System Administration", "Network Administration", "Technical Support", "Integration", "Data Center", "Computer Hardware", "Java", "Operating Systems", "VMware vSphere", "Windows Server"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Atlassian Expert",
+      "company": "Israeli Military Intelligence",
+      "start_date": "2018-08-01",
+      "end_date": "2019-09-30",
+      "skills": [
+        "System Administration", "Network Administration", "Technical Support", "Research", "Integration", "Project Management", "Computer Hardware", "Jira", "Linux", "Windows Servers", "PostgreSQL", "MySQL"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Datacenter Technician",
+      "company": "Israeli Military Intelligence",
+      "start_date": "2015-11-01",
+      "end_date": "2019-02-28",
+      "skills": [
+        "System Administration", "Network Administration", "Technical Support", "Integration", "Data Center", "Computer Hardware"
+      ]
+    }
+  ],
+  "skills": [
+    "Computer Networking", "System Administration", "Network Administration", "Technical Support", "Integration", "Data Center", "Project Management", "Computer Hardware", "Java", "Operating Systems", "VMware vSphere", "Jira", "Windows Server", "CCNA", "Cisco Networking"
+  ]
+}
+{
+  "uid": "1898",
+  "label": "Datacenter Administrator",
+  "education": [],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Datacenter Administrator",
+      "company": "NVIDIA",
+      "start_date": "2020-05-01",
+      "end_date": null,
+      "skills": [
+        "Linux System Administration", "Data Center Operations", "Windows", "Active Directory"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Data Center Technician",
+      "company": "Mellanox Technologies",
+      "start_date": "2018-12-01",
+      "end_date": "2020-05-31",
+      "skills": [
+        "Linux System Administration", "Data Center Operations", "Windows", "Active Directory"
+      ]
+    },
+    {
+      "job_id": "003",
+      "title": "Operations, Lab and IT Manager",
+      "company": "KAYA Instruments",
+      "start_date": "2017-03-01",
+      "end_date": "2018-10-31",
+      "skills": [
+        "Linux System Administration", "Microsoft Office", "Customer Service", "Sales", "Data Center Operations", "Leadership"
+      ]
+    }
+  ],
+  "skills": [
+    "Linux System Administration", "Data Center Operations", "Windows", "Active Directory", "Customer Service", "Sales", "Leadership", "Microsoft Office"
+  ]
+}
+{
+  "uid": "1899",
+  "label": "Data Center Technician",
+  "education": [
+    {
+      "degree": "Bachelor of Applied Science - BASc",
+      "field": "Computer Science",
+      "institution": "Elsewedy University of Technology",
+      "year_completed": 2023
+    },
+    {
+      "degree": "Information Technology",
+      "field": "Information Technology",
+      "institution": "We School for Applied Technology",
+      "year_completed": 2023
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Technician",
+      "company": "Telecom Egypt",
+      "start_date": "2023-08-01",
+      "end_date": null,
+      "skills": [
+        "Telecommunications Systems", "LAN-WAN", "Technical Maintenance", "Networking", "Cisco Networking", "Linux", "MySQL", "Microsoft SQL Server"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Telecommunications Technician",
+      "company": "Smart Info",
+      "start_date": "2023-06-01",
+      "end_date": "2023-07-31",
+      "skills": [
+        "Telecommunications Systems", "LAN-WAN", "Technical Maintenance", "Networking", "MySQL", "Cisco Networking", "Linux", "Python", "HTML", "CSS"
+      ]
+    }
+  ],
+  "skills": [
+    "Telecommunications Systems", "LAN-WAN", "Technical Maintenance", "Networking", "Cisco Networking", "Linux", "MySQL", "Microsoft SQL Server", "Python", "HTML", "CSS", "Java", "Microsoft Excel", "Adobe Photoshop", "AutoCAD", "Public Speaking", "Microsoft Word", "Microsoft PowerPoint"
+  ]
+}
+{
+  "uid": "1899",
+  "label": "Data Center Technician",
+  "education": [
+    {
+      "degree": "Bachelor of Applied Science - BASc",
+      "field": "Computer Science",
+      "institution": "Elsewedy University of Technology",
+      "year_completed": 2023
+    },
+    {
+      "degree": "Information Technology",
+      "field": "Information Technology",
+      "institution": "We School for Applied Technology",
+      "year_completed": 2023
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Data Center Technician",
+      "company": "Telecom Egypt",
+      "start_date": "2023-08-01",
+      "end_date": null,
+      "skills": [
+        "Telecommunications Systems", "LAN-WAN", "Technical Maintenance", "Networking", "Cisco Networking", "Linux", "MySQL", "Microsoft SQL Server"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "Telecommunications Technician",
+      "company": "Smart Info",
+      "start_date": "2023-06-01",
+      "end_date": "2023-07-31",
+      "skills": [
+        "Telecommunications Systems", "LAN-WAN", "Technical Maintenance", "Networking", "MySQL", "Cisco Networking", "Linux", "Python", "HTML", "CSS"
+      ]
+    }
+  ],
+  "skills": [
+    "Telecommunications Systems", "LAN-WAN", "Technical Maintenance", "Networking", "Cisco Networking", "Linux", "MySQL", "Microsoft SQL Server", "Python", "HTML", "CSS", "Java", "Microsoft Excel", "Adobe Photoshop", "AutoCAD", "Public Speaking", "Microsoft Word", "Microsoft PowerPoint"
+  ]
+}
+{
+  "uid": "1900",
+  "label": "Datacenter Technician",
+  "education": [
+    {
+      "degree": "Master of Science - MS",
+      "field": "Information Systems",
+      "institution": "University of Nevada, Reno",
+      "year_completed": 2022
+    },
+    {
+      "degree": "Bachelor of Science - BS",
+      "field": "Public Administration",
+      "institution": "University of Nevada-Las Vegas",
+      "year_completed": 2016
+    }
+  ],
+  "job_history": [
+    {
+      "job_id": "001",
+      "title": "Datacenter Technician",
+      "company": "Apple",
+      "start_date": "2024-10-01",
+      "end_date": null,
+      "skills": [
+        "Cisco Systems Products", "IT Infrastructure Management", "Networking", "Network Administration", "Network Security", "Security", "Network Switches", "Wireless Networking", "Linux", "System Administration", "Project Management"
+      ]
+    },
+    {
+      "job_id": "002",
+      "title": "System Administrator/Technical Program Leader",
+      "company": "United States Department of Defense",
+      "start_date": "2017-02-01",
+      "end_date": "2024-10-01",
+      "skills": [
+        "Network Services", "Systems Management", "Information Technology Infrastructure", "Cybersecurity", "Security", "Leadership", "Troubleshooting", "Microsoft Office", "Time Management", "Team Management", "Identity and Access Management (IAM)", "Public Administration"
+      ]
+    }
+  ],
+  "skills": [
+    "Cisco Systems Products", "IT Infrastructure Management", "Networking", "Network Administration", "Network Security", "Security", "Network Switches", "Wireless Networking", "Linux", "System Administration", "Project Management", "Network Services", "Systems Management", "Information Technology Infrastructure", "Cybersecurity", "Leadership", "Troubleshooting", "Microsoft Office", "Time Management", "Team Management", "Identity and Access Management (IAM)", "Public Administration"
+  ]
+}
