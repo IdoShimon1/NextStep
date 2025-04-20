@@ -3,8 +3,8 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": null,
-      "field": "Information Systems Technology, Digital Innovation Specialisation",
+      "degree": "Bachelor of Science",
+      "field": "Information Systems Technology",
       "institution": "The Academic College of Tel-Aviv, Yaffo",
       "year_completed": 2023
     }
@@ -142,16 +142,10 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": null,
-      "field": "Software Engineering, Java",
+      "degree": "Bachelor of Science",
+      "field": "Software Engineering",
       "institution": "The Open University of Israel",
       "year_completed": 2025
-    },
-    {
-      "degree": null,
-      "field": "Full Stack Web Development",
-      "institution": "John Bryce",
-      "year_completed": 2021
     }
   ],
   "job_history": [
@@ -204,7 +198,7 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": null,
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "Holon Institute of Technology",
       "year_completed": 2022
@@ -315,7 +309,7 @@
       "year_completed": 2007
     },
     {
-      "degree": "Bachelor of Arts",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "Tel-Hai Academic College",
       "year_completed": 2000
@@ -618,7 +612,7 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "Engineer's degree",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "Bosmat",
       "year_completed": 2006
@@ -700,20 +694,6 @@
 {
   "uid": "1659",
   "label": "Cloud Solution Architect",
-  "education": [
-    {
-      "degree": "MCITP",
-      "field": "Network and System Administration",
-      "institution": "The Open University of Israel",
-      "year_completed": 2010
-    },
-    {
-      "degree": null,
-      "field": "Cybersecurity, Cyber/Computer Forensics and Counterterrorism",
-      "institution": "AVNET",
-      "year_completed": 2017
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -849,13 +829,13 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "Bachelor of Technology (B.Tech.)",
+      "degree": "Bachelor of Science",
       "field": "Computer Software Engineering",
       "institution": "Technion - Israel Institute of Technology",
       "year_completed": 1997
     },
     {
-      "degree": "Bachelor of Science (BSc)",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "Champlain College",
       "year_completed": 2000
@@ -995,7 +975,7 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "Social science",
+      "degree": ""Bachelor of Arts"",
       "field": "Social science",
       "institution": "The Open University of Israel",
       "year_completed": 2016
@@ -1080,14 +1060,6 @@
 {
   "uid": "1663",
   "label": "Cloud Solution Architect",
-  "education": [
-    {
-      "degree": "Diploma",
-      "field": "Specialist Information Systems and Information Security",
-      "institution": "Sela College",
-      "year_completed": 2011
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -1218,20 +1190,6 @@
 {
   "uid": "1664",
   "label": "Cloud Solution Architect",
-  "education": [
-    {
-      "degree": "CIO & Executive Program",
-      "field": "CIO & Executive Program",
-      "institution": "Technion - Israel Institute of Technology",
-      "year_completed": 2021
-    },
-    {
-      "degree": "Certified DevOps engineer",
-      "field": "DevOps engineering",
-      "institution": "Devopsexperts",
-      "year_completed": 2021
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -1359,18 +1317,6 @@
 {
   "uid": "1665",
   "label": "Cloud Solution Architect",
-  "education": [
-    {
-      "degree": "Mathematics",
-      "institution": "Israel Jobs",
-      "year_completed": 2008
-    },
-    {
-      "degree": "Computer Science",
-      "institution": "IDF - Mamram",
-      "year_completed": 2000
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -1452,7 +1398,8 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "Computer Software Engineering",
+      "degree": "Bachelor of Science",
+      "field": "Computer Software Engineering",
       "institution": "Technion - Israel Institute of Technology",
       "year_completed": 2012
     }
@@ -1540,7 +1487,8 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "Computer Science & Management",
+      "degree": "Bachelor of Science",
+      "field": "Computer Science & Management",
       "institution": "Ha'Universita Ha'Petuha",
       "year_completed": 2000
     }
@@ -1642,7 +1590,7 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Computer and Information Sciences and Support Services",
       "institution": "University in Russia",
       "year_completed": null
@@ -1833,14 +1781,6 @@
 {
   "uid": "1670",
   "label": "Cloud Solution Architect",
-  "education": [
-    {
-      "degree": "Associate's degree",
-      "field": "Computer Software Engineering",
-      "institution": "Sela College",
-      "year_completed": 2020
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -2207,20 +2147,6 @@
 {
   "uid": "1672",
   "label": "Cloud Solution Architect",
-  "education": [
-    {
-      "degree": "Associate Certificate",
-      "field": "Data Engineering",
-      "institution": "Udemy",
-      "year_completed": 2025
-    },
-    {
-      "degree": "DevOps Bootcamp",
-      "field": "AWS and DevOps",
-      "institution": "TechWorld with Nana",
-      "year_completed": 2022
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -2473,13 +2399,13 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "Bachelor of Applied Science",
+      "degree": "Bachelor of Science",
       "field": "Business Administration and Accounting",
       "institution": "Boston University",
       "year_completed": 2001
     },
     {
-      "degree": "Technical College",
+      "degree": "Bachelor of Science",
       "field": "Computer Software Engineering",
       "institution": "Technical College Beit Hakerem",
       "year_completed": 2011
@@ -2633,7 +2559,7 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "Bachelor of Architecture",
+      "degree": "Bachelor of Arts",
       "field": "Business Administration, Management and Operations",
       "institution": "Peres Academic Center",
       "year_completed": 2014
@@ -2944,7 +2870,7 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "Bachelor of Engineering",
+      "degree": "Bachelor of Science",
       "field": "Electrical and Electronics Engineering",
       "institution": "Jerusalem College of Technology",
       "year_completed": 2021
@@ -3022,13 +2948,13 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "MBA",
+      "degree": "Master of Business",
       "field": "Business Management",
       "institution": "Technion - Israel Institute of Technology",
       "year_completed": 2009
     },
     {
-      "degree": "BSc",
+      "degree": "Bachelor of Science",
       "field": "Computer Science & Mathematics",
       "institution": "Ben-Gurion University of the Negev",
       "year_completed": 2003
@@ -3132,12 +3058,6 @@
   "uid": "1680",
   "label": "Cloud Solution Architect",
   "education": [
-    {
-      "degree": "Leadership Development",
-      "field": "Business",
-      "institution": "QUATRO Leadership Lab",
-      "year_completed": 2023
-    },
     {
       "degree": "Bachelor of Science",
       "field": "Unknown",
@@ -3276,7 +3196,7 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "Bachelor of Technology",
+      "degree": "Bachelor of Science",
       "field": "Electrical & Electronics Engineering",
       "institution": "Cochin University of Science and Technology",
       "year_completed": 2006
@@ -3397,8 +3317,8 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "Information Technology",
-      "field": "Network Infrastructure",
+      "field": "Information Technology",
+      "degree": "Bachelor of Science",
       "institution": "Columbus Technical College",
       "year_completed": 1999
     }
@@ -3490,13 +3410,13 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "Master's degree",
-      "field": "Information Science/Studies",
+      "degree": "Master of Science",
+      "field": "Information Science",
       "institution": "University of Utah",
       "year_completed": 2024
     },
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Mechanical Engineering",
       "institution": "Jawaharlal Nehru Technological University Hyderabad (JNTUH)",
       "year_completed": 2019
@@ -3614,7 +3534,7 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "BBA",
+      "degree": "Bachelor of Business",
       "field": "Corporate Finance",
       "institution": "University of North Texas",
       "year_completed": null
@@ -3717,7 +3637,7 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "Bachelor's",
+      "degree": "Bachelor of Science",
       "field": "Not specified",
       "institution": "University of Cincinnati",
       "year_completed": 2001
@@ -3862,8 +3782,8 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "Computer Science",
-      "field": "Computer Programming, Specific Applications",
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
       "institution": "San José State University",
       "year_completed": 2002
     }
@@ -4301,7 +4221,7 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "MS",
+      "degree": "Master of Science",
       "field": "Industrial Engineering",
       "institution": "The Ohio State University",
       "year_completed": 1997
@@ -4409,7 +4329,7 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "Master's degree",
+      "degree": "Master of Law",
       "field": "Law",
       "institution": "Kyiv National Economics University",
       "year_completed": 2011
@@ -4513,7 +4433,7 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "Bachelor of Business Administration (B.B.A.)",
+      "degree": "Bachelor of Business",
       "field": "Management Information Systems and Services",
       "institution": "University of Houston, C.T. Bauer College of Business",
       "year_completed": 2008
@@ -4601,7 +4521,7 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "BS",
+      "degree": "Bachelor of Science",
       "field": "Geological Sciences",
       "institution": "University of Washington",
       "year_completed": 1997
@@ -4797,14 +4717,14 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "Management",
-      "field": "CIS",
+      "degree": "Bachelor of Arts",
+      "field": "Management",
       "institution": "Park University",
       "year_completed": null
     },
     {
-      "degree": "Telecommunication Management",
-      "field": "Management",
+      "degree": "Bachelor of Arts",
+      "field": "Telecommunication Management",
       "institution": "DeVry University",
       "year_completed": null
     }
@@ -4977,7 +4897,7 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "Bachelor's Degree",
+      "degree": "Bachelor of Science",
       "field": "Computer Engineering",
       "institution": "Virginia Tech",
       "year_completed": 1999
@@ -5075,7 +4995,7 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Sports Medicine",
       "institution": "Howard University",
       "year_completed": 2015
@@ -5151,14 +5071,14 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "Master of Business Administration (MBA)",
+      "degree": "Master of Business",
       "field": "Network Architecture and Cloud Computing",
       "institution": "FIAP",
       "year_completed": 2016
     },
     {
-      "degree": "Graduate Technology",
-      "field": "Networking Computers, LAN/WAN Management/Manager",
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
       "institution": "Universidade Paulista",
       "year_completed": 2009
     }
@@ -5276,7 +5196,7 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "M. Tech.",
+      "degree": "Master of Science",
       "field": "Computer Science",
       "institution": "Devi Ahilya Vishwavidyalaya",
       "year_completed": 2000
@@ -5405,13 +5325,13 @@
   "label": "Cloud Solution Architect",
   "education": [
     {
-      "degree": "B.Tech",
+      "degree": "Bachelor of Science",
       "field": "Instrumentation Engineering",
       "institution": "The Madras Institute of Technology (MIT), Chennai",
       "year_completed": null
     },
     {
-      "degree": "B.Sc",
+      "degree": "Bachelor of Science",
       "field": "Physics",
       "institution": "N M S S V N College, Nagamalai, Madurai",
       "year_completed": null

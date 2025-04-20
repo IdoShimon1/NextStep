@@ -1,19 +1,11 @@
 {
   "uid": "1901",
   "label": "Database Administrator",
-  "education": [
-    {
-      "degree": "Certificate of Completion",
-      "field": "SQL Server DBA",
-      "institution": "NAYA-College",
-      "year_completed": 2022
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
       "title": "Database Administrator",
-      "company": "Ezmatch - איזימץ' התאמות כרטיסי אשראי",
+      "company": "Ezmatch",
       "start_date": "2022-02-01",
       "end_date": null,
       "skills": [
@@ -135,14 +127,6 @@
 {
   "uid": "1904",
   "label": "Database Administrator",
-  "education": [
-    {
-      "degree": "Diploma",
-      "field": "Database Administration",
-      "institution": "Technion - Israel Institute of Technology",
-      "year_completed": 2013
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -302,13 +286,7 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Certificate",
-      "field": "Data Modeling/Warehousing and Database Administration",
-      "institution": "Technion - Israel Institute of Technology",
-      "year_completed": 2017
-    },
-    {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Economics",
       "institution": "The Max Stern Yezreel Valley College",
       "year_completed": 2013
@@ -478,7 +456,7 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Bachelor of Laws",
+      "degree": "Bachelor of Law",
       "field": "Law",
       "institution": "Ono Academic College",
       "year_completed": 2015
@@ -894,7 +872,7 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Bachelor's",
+      "degree": "Bachelor of Business",
       "field": "Economy and Business Administration",
       "institution": "Ariel University",
       "year_completed": 2013
@@ -990,7 +968,7 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Bachelor's",
+      "degree": "Bachelor of Science",
       "field": "Computer science",
       "institution": "Ort Ramat Gan",
       "year_completed": 1997
@@ -1150,7 +1128,7 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Bachelor of Business Administration - BBA",
+      "degree": "Bachelor of Science",
       "field": "Information Technology",
       "institution": "The College of Management Academic Studies",
       "year_completed": 2007
@@ -1233,7 +1211,7 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Bachelor of Arts - BA",
+      "degree": "Bachelor of Arts",
       "field": "Music Performance, General",
       "institution": "The Jerusalem Academy of Music and Dance",
       "year_completed": 2004
@@ -1279,7 +1257,7 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Doctor of Philosophy - PhD",
+      "degree": "Doctor of Philosophy",
       "field": "Plant Molecular Biology",
       "institution": "Tel Aviv University",
       "year_completed": 2017
@@ -1351,7 +1329,7 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "BA",
+      "degree": "Bachelor of Science",
       "field": "Computer Science and Management",
       "institution": "Ramat Gan College",
       "year_completed": 2008
@@ -1557,7 +1535,7 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Bachelor of Science - B.Sc",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "Ashkelon Academic College",
       "year_completed": 2018
@@ -1611,7 +1589,7 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Bachelor of Science - B.Sc",
+      "degree": "Bachelor of Science",
       "field": "Mechanical Engineering",
       "institution": "Ben-Gurion University of the Negev",
       "year_completed": null
@@ -1846,7 +1824,7 @@
     {
       "job_id": "001",
       "title": "DBA DB2",
-      "company": "max מקס",
+      "company": "max",
       "start_date": "Nov 2024",
       "end_date": null,
       "skills": [
@@ -1991,14 +1969,8 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "DBA",
-      "field": "Database Administration",
-      "institution": "האקריו - HackerU",
-      "year_completed": 2022
-    },
-    {
       "degree": "Bachelor of Science",
-      "field": "Economist",
+      "field": "Economy",
       "institution": "The Open University of Israel",
       "year_completed": 2016
     }
@@ -2182,13 +2154,13 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "MBA",
+      "degree": "Master of Business",
       "field": "Business Administration",
       "institution": "Tel Aviv University",
       "year_completed": 2010
     },
     {
-      "degree": "B.Sc",
+      "degree": "Bachelor of Science",
       "field": "Computer Science and Mathematics",
       "institution": "Bar-Ilan University",
       "year_completed": 2004
@@ -2508,13 +2480,7 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "MCSA, TCDBA with excellence, MCDBA",
-      "field": "Database Administration",
-      "institution": "Technion",
-      "year_completed": 2014
-    },
-    {
-      "degree": "BSc, Industrial Management; IT Engineering",
+      "degree": "Bachelor of Science",
       "field": "Industrial Management; IT Engineering",
       "institution": "Ruppin",
       "year_completed": 2010
@@ -3227,7 +3193,7 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Business",
       "field": "Business Administration and Management, General",
       "institution": "Netanya Academic College",
       "year_completed": 2015
@@ -3454,7 +3420,7 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Arts",
       "field": "Mass media & Management",
       "institution": "The College of Management Academic Studies",
       "year_completed": 2001
@@ -3628,8 +3594,8 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "BSC",
-      "field": "computers",
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
       "institution": "Tel Aviv University",
       "year_completed": 1995
     }
@@ -4111,7 +4077,7 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Information Technology",
       "institution": "Kaplan University",
       "year_completed": 2015
@@ -4240,8 +4206,8 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "BS",
-      "field": "CIS",
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
       "institution": "Washburn University",
       "year_completed": 1987
     }
@@ -4383,8 +4349,8 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Bachelor of Technology - BTech",
-      "field": "Computer Engineering",
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
       "institution": "City Tech, CUNY",
       "year_completed": 2022
     }
@@ -4805,19 +4771,19 @@
   "education": [
     {
       "degree": "Bachelor of Science",
-      "field": "Computer and Information Systems Security/Information Assurance",
+      "field": "Information Technology",
       "institution": "University of Maryland Global Campus",
       "year_completed": 2022
     },
     {
-      "degree": "Bachelor of Science",
-      "field": "Human Resources Management/Personnel Administration",
+      "degree": "Bachelor of Arts",
+      "field": "Human Resources Management",
       "institution": "Ashford University",
       "year_completed": 2018
     },
     {
       "degree": "Associate of Arts",
-      "field": "Human Resources Management/Personnel Administration",
+      "field": "Human Resources Management",
       "institution": "Community College of the Air Force",
       "year_completed": 2018
     }
@@ -4883,15 +4849,15 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Master of Business Administration - MBA",
+      "degree": "Master of Business",
       "field": "Management of Technology Companies",
-      "institution": "Collage of Management",
+      "institution": "College of Management",
       "year_completed": 2017
     },
     {
       "degree": "Bachelor of Science",
       "field": "Computer Science",
-      "institution": "Collage of Management",
+      "institution": "College of Management",
       "year_completed": 2016
     }
   ],
@@ -5136,8 +5102,8 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Master's degree",
-      "field": "Database Administration",
+      "degree": "Master of Science",
+      "field": "Computer Science",
       "institution": "Addis Ababa University",
       "year_completed": null
     }
@@ -5193,7 +5159,7 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "Addis Ababa University",
       "year_completed": null
@@ -5260,13 +5226,13 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Bachelor of Arts - BA",
+      "degree": "Bachelor of Science",
       "field": "Computer Science and Data Analyst",
       "institution": "Denison University",
       "year_completed": 2024
     },
     {
-      "degree": "Master of Science - MS",
+      "degree": "Master of Science",
       "field": "Computer Science",
       "institution": "Georgia Institute of Technology",
       "year_completed": 2026
@@ -5333,7 +5299,7 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Computer Science",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "University of Maryland Global Campus",
       "year_completed": null
@@ -5440,7 +5406,7 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "B.B.A.",
+      "degree": "Bachelor of Business",
       "field": "Business Administration, Computer Science",
       "institution": "Austin Peay",
       "year_completed": 1988
@@ -5505,7 +5471,8 @@
       "year_completed": 2025
     },
     {
-      "degree": "Bachelor's of Technological Science",
+      "degree": "Bachelor of Science",
+      "field": "Information Technology"
       "institution": "Siantou University Complex",
       "year_completed": 2014
     }
@@ -5596,7 +5563,7 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "Addis Ababa University",
       "year_completed": 2016
@@ -5649,7 +5616,7 @@
       "year_completed": 2014
     },
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Information Technology",
       "institution": "Haramaya University",
       "year_completed": 2012
@@ -5696,7 +5663,7 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "L N Hoshing Vidyalaya",
       "year_completed": null
@@ -5753,7 +5720,7 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "BS",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "The University of Alabama",
       "year_completed": 2002
@@ -5850,13 +5817,13 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "BS",
+      "degree": "Bachelor of Science",
       "field": "Operations Management",
       "institution": "Remington College",
       "year_completed": 2008
     },
     {
-      "degree": "AS",
+      "degree": "Associate of Science",
       "field": "Computer Network Administration",
       "institution": "Remington College",
       "year_completed": 2002
@@ -6032,7 +5999,7 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Electric Engineering",
       "institution": "University of Benin",
       "year_completed": 2010
@@ -6127,15 +6094,15 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Master's degree",
+      "degree": "Master of Science",
       "field": "Computer Software Engineering",
       "institution": "North American University (NAU)",
       "year_completed": 2017
     },
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Mechanical Engineering",
-      "institution": "Orta Doğu Teknik Üniversitesi / Middle East Technical University",
+      "institution": "Middle East Technical University",
       "year_completed": 1995
     }
   ],
@@ -6180,13 +6147,13 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Arts",
       "field": "General Studies",
       "institution": "University of Missouri-Columbia",
       "year_completed": 1985
     },
     {
-      "degree": "Master's degree",
+      "degree": "Master of Arts",
       "field": "Medieval and Renaissance Studies",
       "institution": "University of Missouri-Columbia",
       "year_completed": 1985
@@ -6288,7 +6255,7 @@
   "label": "Database Administrator",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Information Technology",
       "institution": "SVSHV Hindu Vidyalaya",
       "year_completed": 2010

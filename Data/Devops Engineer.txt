@@ -3,13 +3,7 @@
   "label": "DevOps Engineer",
   "education": [
     {
-      "degree": "Devops pro",
-      "field": null,
-      "institution": "InfinityLabs R&D",
-      "year_completed": 2024
-    },
-    {
-      "degree": "BSc Computer Science",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "The Open University of Israel",
       "year_completed": 2026
@@ -142,7 +136,7 @@
   "label": "DevOps Engineer",
   "education": [
     {
-      "degree": "Student",
+      "degree": "Bachelor of Science",
       "field": "Mathematics and Computer Science",
       "institution": "Ariel University",
       "start_date": "2016-01-01",
@@ -288,7 +282,7 @@
       "year_completed": 2018
     },
     {
-      "degree": "Engineer's degree",
+      "degree": "Bachelor of Science",
       "field": "Computer Engineering",
       "institution": "iNT college - Institute of Innovation & Technology",
       "year_completed": 2024
@@ -393,13 +387,7 @@
   "label": "DevOps Engineer",
   "education": [
     {
-      "degree": "Cisco Certified Network Associate",
-      "field": "Networking",
-      "institution": "John Bryce",
-      "year_completed": 2019
-    },
-    {
-      "degree": "Bachelor's Degree",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "ORT Colleges",
       "year_completed": 2016
@@ -469,13 +457,7 @@
   "label": "DevOps Engineer",
   "education": [
     {
-      "degree": "Diploma",
-      "field": "Expert Software Development",
-      "institution": "Sela College",
-      "year_completed": 2020
-    },
-    {
-      "degree": "Cinematography and Film/Video Production",
+      "degree": "Bachelor of Arts",
       "field": "Cinematography",
       "institution": "Tel Aviv University",
       "year_completed": 2017
@@ -589,12 +571,6 @@
       "field": "Non-Profit/Public/Organizational Management",
       "institution": "ORT Colleges",
       "year_completed": 2023
-    },
-    {
-      "degree": "DevOps Engineer",
-      "field": "DevOps Engineering",
-      "institution": "ORT Colleges",
-      "year_completed": 2022
     }
   ],
   "job_history": [
@@ -620,14 +596,6 @@
 {
   "uid": "1511",
   "label": "DevOps Engineer",
-  "education": [
-    {
-      "degree": "DevOps Engineer",
-      "field": "DevOps Engineering",
-      "institution": "ORT Colleges",
-      "year_completed": 2022
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -726,8 +694,8 @@
   "label": "DevOps Engineer",
   "education": [
     {
-      "degree": "Bachelor of Engineering - BE",
-      "field": "Software and Information Systems Engineering",
+      "degree": "Bachelor of Science",
+      "field": "Software Engineering",
       "school": "Ben-Gurion University of the Negev",
       "start_date": "2018-09-01",
       "end_date": "2022-07-01"
@@ -844,7 +812,7 @@
   "label": "DevOps Engineer",
   "education": [
     {
-      "degree": "Bachelor of Science - BS",
+      "degree": "Bachelor of Sciences",
       "field_of_study": "Computer Science",
       "school": "The Open University of Israel",
       "start_date": "2019-01-01",
@@ -889,20 +857,6 @@
 {
   "uid": "1516",
   "label": "DevOps Engineer",
-  "education": [
-    {
-      "degree": "CCNA",
-      "field": "Networking",
-      "institution": "IITC",
-      "year_completed": 2021
-    },
-    {
-      "degree": "CCNP",
-      "field": "Networking",
-      "institution": "IITC",
-      "year_completed": 2022
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -953,8 +907,8 @@
   "label": "DevOps Engineer",
   "education": [
     {
-      "degree": "Bachelor’s Degree",
-      "field": "Engineering",
+      "degree": "Bachelor of Science",
+      "field": "Software Engineering",
       "institution": "Afeka Tel Aviv Academic College of Engineering",
       "year_completed": 2016
     }
@@ -1173,15 +1127,10 @@
   "label": "DevOps Engineer",
   "education": [
     {
-      "degree": "Engineer's degree",
+      "degree": "Bachelor of Science",
       "field": "Electronics Engineer",
       "institution": "National Aerospace University -'Kharkiv Aviation Institute'",
       "year_completed": 1999
-    },
-    {
-      "degree": "Cisco Certified Network Technician",
-      "institution": "Kharkiv National University of Radio Electronics",
-      "year_completed": 2006
     }
   ],
   "job_history": [
@@ -1246,14 +1195,9 @@
   "education": [
     {
       "degree": "Bachelor of Science",
-      "field": "Information Systems, Cyber specialization",
+      "field": "Information Systems",
       "institution": "Ramat Gan Academic College",
       "year_completed": 2023
-    },
-    {
-      "degree": "DevOps Professional Bootcamp",
-      "institution": "Develeap",
-      "year_completed": 2024
     }
   ],
   "job_history": [
@@ -1293,83 +1237,11 @@
   ]
 }
 {
-  "uid": "1523",
-  "label": "DevOps Engineer",
-  "education": [
-    {
-      "degree": "Bachelor of Science",
-      "field": "Information Systems, Cyber specialization",
-      "institution": "Ramat Gan Academic College",
-      "year_completed": 2023
-    },
-    {
-      "degree": "DevOps Professional Bootcamp",
-      "institution": "Develeap",
-      "year_completed": 2024
-    }
-  ],
-  "job_history": [
-    {
-      "job_id": "001",
-      "title": "DevOps Engineer",
-      "company": "Amdocs",
-      "start_date": "2022-04-01",
-      "end_date": "2023-09-01",
-      "skills": [
-        "Linux", "Python", "DevOps"
-      ]
-    },
-    {
-      "job_id": "002",
-      "title": "DevOps Engineer",
-      "company": "DeviceTotal",
-      "start_date": "2021-04-01",
-      "end_date": "2022-04-01",
-      "skills": [
-        "DevOps", "Linux"
-      ]
-    },
-    {
-      "job_id": "003",
-      "title": "DevOps Engineer",
-      "company": "Project Circle",
-      "start_date": "2020-01-01",
-      "end_date": "2021-04-01",
-      "skills": [
-        "DevOps", "Linux"
-      ]
-    },
-    {
-      "job_id": "004",
-      "title": "PHP Developer",
-      "company": "Innstant Travel",
-      "start_date": "2016-02-01",
-      "end_date": "2017-03-01",
-      "skills": [
-        "PHP", "Web Development"
-      ]
-    },
-    {
-      "job_id": "005",
-      "title": "DevOps Engineer",
-      "company": "AvantisTeam",
-      "start_date": "2014-03-01",
-      "end_date": "2016-01-01",
-      "skills": [
-        "DevOps", "Linux"
-      ]
-    }
-  ],
-  "skills": [
-    "Linux", "Python", "DevOps", "PHP"
-  ]
-}
-{
   "uid": "1524",
   "label": "DevOps Engineer",
   "education": [
     {
-      "degree": "Bachelor's Degree",
+      "degree": "Bachelor of Business",
       "field": "Economy and Business Management",
       "institution": "The Open University of Israel",
       "year_completed": 2018
@@ -1472,14 +1344,6 @@
 {
   "uid": "1525",
   "label": "DevOps Engineer",
-  "education": [
-    {
-      "degree": "Certified Programmer",
-      "field": "Programming",
-      "institution": "IDF - Programming School (Mamram)",
-      "year_completed": 2013
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -1556,7 +1420,7 @@
       "year_completed": "2008"
     },
     {
-      "degree": "MBA",
+      "degree": "Master of Business",
       "field": "Marketing",
       "institution": "Peres Academic Center",
       "year_completed": "2011"
@@ -1623,7 +1487,7 @@
   "label": "DevOps Engineer",
   "education": [
     {
-      "degree": "Bachelor of Education",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "ORT Colleges",
       "year_completed": 2015
@@ -1680,7 +1544,7 @@
   "label": "DevOps Engineer",
   "education": [
     {
-      "degree": "Diploma Specialist",
+      "degree": "Practical Engineer",
       "field": "Information Technology",
       "institution": "National Metallurgical Academy of Ukraine",
       "year_completed": null
@@ -1727,7 +1591,7 @@
   "label": "DevOps Engineer",
   "education": [
     {
-      "degree": "Bachelor's Degree",
+      "degree": "Bachelor of Science",
       "field": "Information Technology",
       "institution": "University of the Potomac",
       "year_completed": null
@@ -1820,7 +1684,8 @@
   "label": "DevOps Engineer",
   "education": [
     {
-      "degree": "Doctor of Pharmacy - PharmD",
+      "degree": "Doctor of Pharmacy",
+      "field": "Pharmacy",
       "institution": "Texas Southern University",
       "start_date": "Aug 2011",
       "end_date": "May 2017"
@@ -1883,7 +1748,7 @@
   "label": "DevOps Engineer",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "DeVry University",
       "year_completed": null
@@ -2043,13 +1908,13 @@
   "label": "DevOps Engineer",
   "education": [
     {
-      "degree": "Bachelor of Business Administration - BBA",
+      "degree": "Bachelor of Business",
       "field": "Business Administration",
       "institution": "City Colleges of Chicago-Harold Washington College",
       "year_completed": 2021
     },
     {
-      "degree": "Associate's degree",
+      "degree": "Associate of Law",
       "field": "Law",
       "institution": "City Colleges of Chicago-Harry S Truman College",
       "year_completed": 2020
@@ -2135,16 +2000,10 @@
   "label": "DevOps Engineer",
   "education": [
     {
-      "degree": "Associate of Arts and Sciences - AAS",
+      "degree": "Associate of Science",
       "field": "Computer Science",
       "institution": "Irvine Valley College",
       "year_completed": 2020
-    },
-    {
-      "degree": "Computer Science",
-      "field": "Computer Science",
-      "institution": "Saddleback College",
-      "year_completed": 2019
     }
   ],
   "job_history": [
@@ -2304,11 +2163,11 @@
 }
 {
   "uid": "1537",
-  "label": "Cloud Engineer",
+  "label": "DevOps Engineer",
   "education": [
     {
-      "degree": "Master's degree",
-      "field": "Computer and Information Systems Security/Information Assurance",
+      "degree": "Master of Science",
+      "field": "Information Technology",
       "institution": "Pace University",
       "year_completed": 2020
     }
@@ -2316,7 +2175,7 @@
   "job_history": [
     {
       "job_id": "001",
-      "title": "Cloud Engineer",
+      "title": "Devops Engineer",
       "company": "itworks",
       "start_date": "2021-02-01",
       "end_date": null,
@@ -2363,13 +2222,13 @@
   "label": "DevOps Engineer",
   "education": [
     {
-      "degree": "Master's degree",
+      "degree": "Master of Science",
       "field": "Computer Science",
       "institution": "Monroe University",
       "year_completed": 2018
     },
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Electronics and communication engineering",
       "institution": "Jawaharlal Nehru Technological University",
       "year_completed": null
@@ -2416,7 +2275,7 @@
   "label": "DevOps Engineer",
   "education": [
     {
-      "degree": "Bachelor's",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "Technion - Israel Institute of Technology",
       "year_completed": 2013
@@ -2503,7 +2362,7 @@
   "label": "DevOps Engineer",
   "education": [
     {
-      "degree": "Associate's degree",
+      "degree": "Associate of Science",
       "field": "Computer Science",
       "institution": "Unixtrainings",
       "year_completed": 2016
@@ -2746,7 +2605,7 @@
   "label": "DevOps Engineer",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Petroleum Engineering",
       "institution": "kazakh National Technical University",
       "year_completed": 2008
@@ -3051,7 +2910,7 @@
 }
 {
   "uid": "1549",
-  "label": "DevOps Engineer at Peacock",
+  "label": "DevOps Engineer",
   "education": [],
   "job_history": [
     {

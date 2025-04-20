@@ -1,15 +1,15 @@
 {
   "uid": "1751",
-  "label": "Senior Site Reliability Engineer",
+  "label": "Site Reliability Engineer",
   "education": [
     {
-      "degree": "Master's degree",
+      "degree": "Master of Science",
       "field": "Informational Technology, Cyber Security and Information Assurance",
       "institution": "Capella University",
       "year_completed": 2022
     },
     {
-      "degree": "Associate's degree",
+      "degree": "Associate of Science",
       "field": "Information Technology",
       "institution": "Indian River State College",
       "year_completed": 2013
@@ -74,7 +74,7 @@
 }
 {
   "uid": "1752",
-  "label": "Senior Site Reliability Engineer",
+  "label": "Site Reliability Engineer",
   "education": [
     {
       "degree": "Bachelor of Science",
@@ -190,7 +190,7 @@
       "year_completed": 2024
     },
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "Western Governors University",
       "year_completed": null
@@ -677,20 +677,6 @@
 {
   "uid": "1758",
   "label": "Site Reliability Engineer",
-  "education": [
-    {
-      "degree": "DevOps/SRE",
-      "field": "Information Technology",
-      "institution": "iNT college - Institute of Innovation & Technology",
-      "year_completed": 2022
-    },
-    {
-      "degree": "MCSA",
-      "field": "Network and System Administration/Administrator",
-      "institution": "John Bryce",
-      "year_completed": 2018
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -826,7 +812,7 @@
 }
 {
   "uid": "1760",
-  "label": "Senior Site Reliability Engineer",
+  "label": "Site Reliability Engineer",
   "education": [],
   "job_history": [
     {
@@ -989,7 +975,7 @@
 }
 {
   "uid": "1761",
-  "label": "Site Reliability Engineer II",
+  "label": "Site Reliability Engineer",
   "education": [
     {
       "degree": "Bachelor of Science",
@@ -1056,11 +1042,11 @@
 }
 {
   "uid": "1762",
-  "label": "Staff Site Reliability Engineer",
+  "label": "Site Reliability Engineer",
   "education": [
     {
       "degree": "Bachelor of Science",
-      "field": "Computer and Information Systems Security/Information Assurance",
+      "field": "Information Technology",
       "institution": "California State University, Chico",
       "year_completed": 2019
     }
@@ -1126,7 +1112,7 @@
   "label": "Site Reliability Engineer",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "University of Maryland Baltimore County",
       "year_completed": null
@@ -1257,11 +1243,11 @@
 }
 {
   "uid": "1765",
-  "label": "Senior Site Reliability Engineer",
+  "label": "Site Reliability Engineer",
   "education": [
     {
       "degree": "System Administrator",
-      "field": "Computer and Information Systems Security/Information Assurance",
+      "field": "Information Technology",
       "institution": "Strayer University",
       "year_completed": 2019
     }
@@ -1335,7 +1321,7 @@
   "education": [
     {
       "degree": "Associate of Science",
-      "field": "Network and System Administration/Administrator",
+      "field": "System Administration",
       "institution": "Utah Valley University",
       "year_completed": 2018
     }
@@ -1411,7 +1397,7 @@
   "label": "Site Reliability Engineer",
   "education": [
     {
-      "degree": "Associate's degree",
+      "degree": "Associate of Science",
       "field": "Computer Systems Networking and Telecommunications",
       "institution": "Quinsigamond Community College",
       "year_completed": 2016
@@ -1498,7 +1484,7 @@
 }
 {
   "uid": "1768",
-  "label": "Senior Site Reliability Engineer",
+  "label": "Site Reliability Engineer",
   "education": [],
   "job_history": [
     {
@@ -1602,7 +1588,7 @@
   "education": [
     {
       "degree": "Bachelor of Arts",
-      "field": "Mass Communication/Media Studies",
+      "field": "Media Studies",
       "institution": "Menlo College",
       "year_completed": 2008
     }
@@ -1699,8 +1685,8 @@
   "label": "Site Reliability Engineer",
   "education": [
     {
-      "degree": "Bachelor of Technology",
-      "field": "Computer Software Engineering",
+      "degree": "Bachelor of Science",
+      "field": "Software Engineering",
       "institution": "Jawaharlal Nehru Technological University",
       "year_completed": 2018
     }
@@ -1789,14 +1775,6 @@
 {
   "uid": "1772",
   "label": "Site Reliability Engineer",
-  "education": [
-    {
-      "degree": "Bachelor's degree",
-      "field": null,
-      "institution": "The Academy of Public Administration under the President of the Kyrgyz Republic",
-      "year_completed": 2019
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -2170,19 +2148,13 @@
 }
 {
   "uid": "1775",
-  "label": "Senior Site Reliability Engineer",
+  "label": "Site Reliability Engineer",
   "education": [
     {
-      "degree": "Master's degree",
+      "degree": "Master of Science",
       "field": "Computer Science",
       "institution": "Harvard Extension School",
       "year_completed": null
-    },
-    {
-      "degree": "Certificate",
-      "field": "Full Stack Web Development (MERN)",
-      "institution": "University of North Carolina at Chapel Hill",
-      "year_completed": 2021
     }
   ],
   "job_history": [
@@ -2324,22 +2296,22 @@
 }
 {
   "uid": "1777",
-  "label": "Senior Site Reliability Engineer",
+  "label": "Site Reliability Engineer",
   "education": [
     {
-      "degree": "PhD",
+      "degree": "Doctor of Philosophy",
       "field": "Information Systems Engineering",
       "institution": "Technion - Israel Institute of Technology",
       "year_completed": 2007
     },
     {
-      "degree": "MSc",
+      "degree": "Master of Science",
       "field": "Computer Science",
       "institution": "Technion - Israel Institute of Technology",
       "year_completed": 2004
     },
     {
-      "degree": "BSc",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "Technion - Israel Institute of Technology",
       "year_completed": 2001
@@ -2455,7 +2427,7 @@
   "label": "Site Reliability Engineer",
   "education": [
     {
-      "degree": "B.S.",
+      "degree": "Bachelor of Science",
       "field": "Information Technology Management",
       "institution": "University of Wisconsin-Stout",
       "year_completed": 2011
@@ -2523,7 +2495,7 @@
       "institution": "Western Governors University"
     },
     {
-      "degree": "Associate's degree",
+      "degree": "Associate of Science",
       "field": "Computer Programming",
       "institution": "Santa Monica College"
     }
@@ -2709,7 +2681,7 @@
   "label": "Site Reliability Engineer",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "Georgia Institute of Technology",
       "year_completed": 2023
@@ -2776,14 +2748,6 @@
 {
   "uid": "1783",
   "label": "Site Reliability Engineer",
-  "education": [
-    {
-      "degree": "Certification",
-      "field": "Programming and Systems Design, Computer Programming, C++ Python Cobol Java",
-      "institution": "CollegeAmerica",
-      "year_completed": 1998
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -3047,17 +3011,17 @@
 }
 {
   "uid": "1786",
-  "label": "Senior Site Reliability Engineer",
+  "label": "Site Reliability Engineer",
   "education": [
     {
-      "degree": "Master's degree",
+      "degree": "Master of Science",
       "field": "Computer Science",
       "institution": "Harvard Extension School",
       "year_completed": null
     },
     {
-      "degree": "Bachelor's degree",
-      "field": "Math & CS",
+      "degree": "Bachelor of Science",
+      "field": "Mathematics and Computer Science",
       "institution": "Wake Forest University",
       "year_completed": 2020
     }
@@ -3131,7 +3095,7 @@
   "label": "Site Reliability Engineer",
   "education": [
     {
-      "degree": "Btech",
+      "degree": "Bachelor of Science",
       "field": "Electrical and Electronics Engineering",
       "institution": "KL University, Vaddeswaram",
       "year_completed": null
@@ -3207,7 +3171,7 @@
   "label": "Site Reliability Engineer",
   "education": [
     {
-      "degree": "Bachelor's Degree",
+      "degree": "Bachelor of Science",
       "field": "Management Information Systems",
       "institution": "The University of Texas at Austin",
       "year_completed": 2014
@@ -3289,7 +3253,7 @@
   "label": "Site Reliability Engineer",
   "education": [
     {
-      "degree": "Master's degree",
+      "degree": "Master of Science",
       "field": "Information Technology",
       "institution": "University of North Texas G. Brint Ryan College of Business",
       "year_completed": 2023
@@ -3460,7 +3424,7 @@
 }
 {
   "uid": "1791",
-  "label": "Senior Site Reliability Engineer",
+  "label": "Site Reliability Engineer",
   "education": [],
   "job_history": [
     {
@@ -3538,7 +3502,7 @@
 }
 {
   "uid": "1792",
-  "label": "Sr. Site Reliability Engineer",
+  "label": "Site Reliability Engineer",
   "education": [],
   "job_history": [
     {
@@ -3662,7 +3626,7 @@
 }
 {
   "uid": "1793",
-  "label": "Sr. Site Reliability Engineer",
+  "label": "Site Reliability Engineer",
   "education": [],
   "job_history": [
     {
@@ -3755,16 +3719,10 @@
   "label": "Site Reliability Engineer (SRE) at Consensys",
   "education": [
     {
-      "degree": "B.Sc.",
+      "degree": "Bachelor  of Science",
       "field": "Computer Software Engineering",
       "institution": "SCE - Shamoon College of Engineering",
       "year_completed": 2022
-    },
-    {
-      "degree": "Not Available",
-      "field": "Not Available",
-      "institution": "Technion - Israel Institute of Technology",
-      "year_completed": "2024"
     }
   ],
   "job_history": [
@@ -4029,7 +3987,7 @@
   "label": "Site Reliability Engineer",
   "education": [
     {
-      "degree": "Bachelor of Business Administration",
+      "degree": "Bachelor of Business",
       "field": "Management Information Systems, General",
       "institution": "Ruppin Academic Center",
       "year_completed": 2021
@@ -4148,7 +4106,7 @@
 }
 {
   "uid": "1816",
-  "label": "Senior Site Reliability Engineer",
+  "label": "Site Reliability Engineer",
   "education": [],
   "job_history": [
     {
@@ -4600,7 +4558,7 @@
   "label": "Site Reliability Engineer",
   "education": [
     {
-      "degree": "BA",
+      "degree": "Bachelor of Arts",
       "field": "Social Sciences",
       "institution": "Bar-Ilan University",
       "year_completed": 2022
@@ -4683,7 +4641,7 @@
 }
 {
   "uid": "1820",
-  "label": "Senior Site Reliability Engineer",
+  "label": "Site Reliability Engineer",
   "education": [],
   "job_history": [
     {

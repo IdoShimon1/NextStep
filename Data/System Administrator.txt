@@ -86,20 +86,6 @@
 {
   "uid": "1602",
   "label": "System Administrator",
-  "education": [
-    {
-      "degree": "Certificate",
-      "field": "Linux and Python",
-      "institution": "See Security: Cyber & Information Security College",
-      "year_completed": 2017
-    },
-    {
-      "degree": "Certificate",
-      "field": "Linux and Python",
-      "institution": "John Bryce",
-      "year_completed": 2017
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -183,14 +169,6 @@
 {
   "uid": "1603",
   "label": "System Administrator",
-  "education": [
-    {
-      "degree": "Certificate",
-      "field": "Network and System Administration/Administrator",
-      "institution": "HackerU",
-      "year_completed": 2021
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -259,22 +237,16 @@
   "label": "System Administrator",
   "education": [
     {
-      "degree": "Master's degree",
+      "degree": "Master of Science",
       "field": "Educational/Instructional Technology",
       "institution": "Holon Institute of Technology",
       "year_completed": 2023
     },
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Instructional Technologies",
       "institution": "Holon Institute of Technology",
       "year_completed": 2022
-    },
-    {
-      "degree": "Certificate",
-      "field": "Network and System Administration/Administrator",
-      "institution": "HackerU",
-      "year_completed": 2025
     }
   ],
   "job_history": [
@@ -369,14 +341,6 @@
 {
   "uid": "1605",
   "label": "System Administrator",
-  "education": [
-    {
-      "degree": "Certification",
-      "field": "Mcitp enterprise administrator",
-      "institution": "John Bryce",
-      "year_completed": 2011
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -468,20 +432,6 @@
 {
   "uid": "1606",
   "label": "System Administrator",
-  "education": [
-    {
-      "degree": "Certification",
-      "field": "Cyber Security",
-      "institution": "John Bryce",
-      "year_completed": 2018
-    },
-    {
-      "degree": "Certification",
-      "field": "MCSA - Microsoft Certified Solutions Associate, Information Technology",
-      "institution": "John Bryce",
-      "year_completed": 2018
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -570,14 +520,6 @@
 {
   "uid": "1607",
   "label": "System Administrator",
-  "education": [
-    {
-      "degree": "Certification",
-      "field": "Ccna, Computer Systems Networking and Telecommunications",
-      "institution": "IITC College - Highway To Hightech",
-      "year_completed": 2023
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -629,20 +571,6 @@
 {
   "uid": "1608",
   "label": "System Administrator",
-  "education": [
-    {
-      "degree": "Certification",
-      "field": "Server Administration",
-      "institution": "John Bryce",
-      "year_completed": 2013
-    },
-    {
-      "degree": "Certification",
-      "field": "CCNA, Computer Systems Networking and Telecommunications",
-      "institution": "John Bryce",
-      "year_completed": 2013
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -775,20 +703,6 @@
 {
   "uid": "1610",
   "label": "System Administrator",
-  "education": [
-    {
-      "degree": "MCSA",
-      "field": "System Administration",
-      "institution": "The College of Management Academic Studies",
-      "year_completed": 2017
-    },
-    {
-      "degree": "Office365 & Exchange Administration",
-      "field": "Office365 & Exchange Administration",
-      "institution": "John Bryce",
-      "year_completed": 2019
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -920,20 +834,6 @@
 {
   "uid": "1612",
   "label": "System Administrator",
-  "education": [
-    {
-      "degree": "MCSA",
-      "field": "System Administration",
-      "institution": "John Bryce",
-      "year_completed": 2018
-    },
-    {
-      "degree": "Cyber Security",
-      "field": "Cyber Security",
-      "institution": "Sqlink",
-      "year_completed": 2021
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -1062,20 +962,6 @@
 {
   "uid": "1614",
   "label": "System Administrator",
-  "education": [
-    {
-      "degree": "MCSA",
-      "field": "System Administration",
-      "institution": "John Bryce",
-      "year_completed": 2018
-    },
-    {
-      "degree": "Cyber Security",
-      "field": "Cyber Security",
-      "institution": "Sqlink",
-      "year_completed": 2021
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -1321,14 +1207,6 @@
 {
   "uid": "1616",
   "label": "System Administrator",
-  "education": [
-    {
-      "degree": "CEH",
-      "field": "Information Security and Cybersecurity",
-      "institution": "האקריו - HackerU",
-      "year_completed": 2019
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -1411,20 +1289,6 @@
 {
   "uid": "1618",
   "label": "System Administrator",
-  "education": [
-    {
-      "degree": "Specialist",
-      "field": "VMware vSphere install, configure, manage [v6.7]",
-      "institution": "John Bryce",
-      "year_completed": 2018
-    },
-    {
-      "degree": "Engineer’s Degree",
-      "field": "Quality Assurance",
-      "institution": "HackerU",
-      "year_completed": 2017
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -1591,14 +1455,6 @@
 {
   "uid": "1621",
   "label": "System Administrator",
-  "education": [
-    {
-      "degree": "MCSE",
-      "field": "System Administration",
-      "institution": "JohnBryce",
-      "year_completed": 2016
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -1735,20 +1591,6 @@
 {
   "uid": "1623",
   "label": "System Administrator",
-  "education": [
-    {
-      "degree": "Network Management and Information Security Course",
-      "field": "Network Management and Information Security",
-      "institution": "האקריו - HackerU",
-      "year_completed": 2016
-    },
-    {
-      "degree": "DevOps Engineer",
-      "field": "DevOps Engineering",
-      "institution": "DevOps Experts",
-      "year_completed": 2022
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -1901,7 +1743,7 @@
   "education": [
     {
       "degree": "Practical Engineer",
-      "field": "Software",
+      "field": "Software Engineering",
       "institution": "Ruppin Academic Center",
       "year_completed": 2021
     }
@@ -2061,13 +1903,13 @@
   "label": "System Administrator",
   "education": [
     {
-      "degree": "Master's degree",
+      "degree": "Master of Science",
       "field": "Information Technology",
       "institution": "University of the Cumberlands",
       "year_completed": 2022
     },
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "Osmania University",
       "year_completed": 2018
@@ -2132,7 +1974,7 @@
   "label": "System Administrator",
   "education": [
     {
-      "degree": "Engineer's degree",
+      "degree": "Bachelor of Science",
       "field": "Computer Engineering",
       "institution": "Universidad del Valle de Atemajac (UNIVA)",
       "year_completed": 2019
@@ -2251,13 +2093,13 @@
   "label": "System Administrator",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Information Technology",
       "institution": "Western Governors University",
       "year_completed": 2021
     },
     {
-      "degree": "Associate's degree",
+      "degree": "Associate of Science",
       "field": "Information Technology",
       "institution": "Guilford Technical Community College",
       "year_completed": 2019
@@ -2343,7 +2185,7 @@
   "label": "System Administrator",
   "education": [
     {
-      "degree": "Expert",
+      "degree": "Bachelor of Science",
       "field": "Computer Sciences",
       "institution": "National Technical University of Ukraine 'Kyiv Polytechnic Institute'",
       "year_completed": 2004
@@ -2540,7 +2382,7 @@
       "year_completed": 2018
     },
     {
-      "degree": "Associate of Applied Science",
+      "degree": "Associate of Science",
       "field": "Computer Information Systems",
       "institution": "Bossier Parish Community College",
       "year_completed": 2012
@@ -2667,7 +2509,7 @@
 }
 {
   "uid": "1633",
-  "label": "System Administrator 3",
+  "label": "System Administrator",
   "education": [],
   "job_history": [
     {
@@ -2809,14 +2651,6 @@
 {
   "uid": "1634",
   "label": "System Administrator",
-  "education": [
-    {
-      "degree": "MCSA, MCSE, CCNA, CCNP",
-      "field": "Computer and Information Systems Security/Information Assurance",
-      "institution": "HackerU College",
-      "year_completed": "2014"
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -2958,7 +2792,7 @@
 }
 {
   "uid": "1635",
-  "label": "System/VDI Administrator",
+  "label": "System Administrator",
   "education": [
     {
       "degree": "Bachelor of Science",
@@ -3067,8 +2901,8 @@
   "label": "System Administrator",
   "education": [
     {
-      "degree": "Associate Degree",
-      "field": "Computer Technology/Computer Systems Technology",
+      "degree": "Associate  of Science",
+      "field": "Computer Science",
       "institution": "Davis Technical College",
       "year_completed": 2001
     }
@@ -3221,19 +3055,13 @@
 }
 {
   "uid": "1637",
-  "label": "Linux System Administrator",
+  "label": "System Administrator",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Criminal Justice and Corrections",
       "institution": "Monroe University",
       "year_completed": 2005
-    },
-    {
-      "degree": "Certification",
-      "field": "linux for jobs, Information Technology",
-      "institution": "Yellowtail.tech",
-      "year_completed": 2022
     }
   ],
   "job_history": [
@@ -3298,11 +3126,11 @@
 }
 {
   "uid": "1638",
-  "label": "Linux System Administrator",
+  "label": "System Administrator",
   "education": [
     {
-      "degree": "Master's degree",
-      "field": "Marketing/Marketing Management, General",
+      "degree": "Master of Arts",
+      "field": "Marketing Management",
       "institution": "Anglia Ruskin University",
       "year_completed": 2012
     }
@@ -3384,7 +3212,7 @@
 }
 {
   "uid": "1639",
-  "label": "Senior System Administrator",
+  "label": "System Administrator",
   "education": [],
   "job_history": [
     {
@@ -3523,7 +3351,7 @@
 }
 {
   "uid": "1640",
-  "label": "Systems Administrator / IT Manager",
+  "label": "Systems Administrator",
   "education": [
     {
       "degree": "Master of Science",
@@ -3649,11 +3477,11 @@
 }
 {
   "uid": "1641",
-  "label": "Linux System Administrator at Uber",
+  "label": "System Administrator",
   "education": [
     {
-      "degree": "Bachelor's degree",
-      "field": "TEFL, Secondary Education and Teaching",
+      "degree": "Bachelor of Education",
+      "field": "Secondary Education and Teaching",
       "institution": "UAC Benin",
       "year_completed": 2017
     }
@@ -3735,15 +3563,10 @@
 }
 {
   "uid": "1642",
-  "label": "System Administrator at American Airlines",
+  "label": "System Administrator",
   "education": [
     {
-      "degree": "ESL certificate",
-      "institution": "Yvy Tech community College",
-      "year_completed": 2016
-    },
-    {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Information Technology",
       "institution": "University of Benin (ESCAE-BENIN)",
       "year_completed": 2012
@@ -3837,7 +3660,7 @@
 }
 {
   "uid": "1643",
-  "label": "Junior System Administrator",
+  "label": "System Administrator",
   "education": [],
   "job_history": [
     {
@@ -4010,14 +3833,6 @@
 {
   "uid": "1646",
   "label": "System Administrator",
-  "education": [
-    {
-      "degree": "Network Manager",
-      "field": "Cloud Azure, Security",
-      "institution": "HackerU",
-      "year_completed": 2020
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -4069,20 +3884,6 @@
 {
   "uid": "1647",
   "label": "System Administrator",
-  "education": [
-    {
-      "degree": "Cyber Security Analyst",
-      "field": "Cyber Security, Cyber/Computer Forensics, Counterterrorism",
-      "institution": "John Bryce",
-      "year_completed": 2024
-    },
-    {
-      "degree": "MCSA, MCSE",
-      "field": "Network and System Administration",
-      "institution": "John Bryce",
-      "year_completed": 2015
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -4249,7 +4050,7 @@
     {
       "job_id": "002",
       "title": "System Administrator",
-      "company": "נOGA - Israel Independent System Operator",
+      "company": "OGA - Israel Independent System Operator",
       "start_date": "2021-04-01",
       "end_date": "2023-01-31",
       "skills": [
@@ -4314,14 +4115,6 @@
 {
   "uid": "1650",
   "label": "System Administrator",
-  "education": [
-    {
-      "degree": "Certification",
-      "field": "AWS Certified Cloud Practitioner",
-      "institution": "DevOps Experts",
-      "year_completed": 2023
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",

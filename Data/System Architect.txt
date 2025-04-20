@@ -87,13 +87,13 @@
   "label": "System Architect",
   "education": [
     {
-      "degree": "BA",
+      "degree": "Bachelor of Science",
       "field": "Physics",
       "institution": "Technion - Israel Institute of Technology",
       "year_completed": 1997
     },
     {
-      "degree": "BSc",
+      "degree": "Bachelor of Science",
       "field": "Electrical Engineering",
       "institution": "Technion - Israel Institute of Technology",
       "year_completed": 1997
@@ -202,16 +202,16 @@
 }
 {
   "uid": "1553",
-  "label": "Senior System Architect",
+  "label": "System Architect",
   "education": [
     {
-      "degree": "MBA",
+      "degree": "Master of Business",
       "field": "Business Managing",
       "institution": "The College of Management Academic Studies",
       "year_completed": 2008
     },
     {
-      "degree": "BTech",
+      "degree": "Bachelor of Science",
       "field": "Electro-Optical Engineering",
       "institution": "Jerusalem College of Technology",
       "year_completed": 2002
@@ -317,13 +317,13 @@
   "label": "System Architect",
   "education": [
     {
-      "degree": "Master of Business Administration (MBA)",
+      "degree": "Master of Business",
       "field": "Management of Technology, Innovation & Entrepreneurship (MoTIE)",
       "institution": "Tel Aviv University",
       "year_completed": 2019
     },
     {
-      "degree": "Bachelor of Engineering (BE)",
+      "degree": "Bachelor of Science",
       "field": "Electrical and Electronics Engineering",
       "institution": "Tel Aviv University",
       "year_completed": 2016
@@ -410,7 +410,7 @@
   "label": "System Architect",
   "education": [
     {
-      "degree": "Bachelor of Technology",
+      "degree": "Bachelor of Science",
       "field": "Computer Software Engineering",
       "institution": "SCE - Shamoon College of Engineering",
       "year_completed": 2004
@@ -522,7 +522,7 @@
   "label": "System Architect",
   "education": [
     {
-      "degree": "B.Sc",
+      "degree": "Bachelor of Science",
       "field": "Computer Science and Mathematics",
       "institution": "Tel-Aviv University",
       "year_completed": null
@@ -631,13 +631,13 @@
   "label": "System Architect",
   "education": [
     {
-      "degree": "MBA",
+      "degree": "Master of Business",
       "field": "Business Administration",
       "institution": "Israel Jobs",
       "year_completed": 2009
     },
     {
-      "degree": "B.A.",
+      "degree": "Bachelor of Science",
       "field": "Computer Science & Management",
       "institution": "Israel Jobs",
       "year_completed": 2000
@@ -792,18 +792,6 @@
 {
   "uid": "1558",
   "label": "System Architect",
-  "education": [
-    {
-      "degree": "MCDBA",
-      "institution": "HackerU",
-      "year_completed": 2000
-    },
-    {
-      "degree": "MCSE",
-      "institution": "HackerU",
-      "year_completed": 2000
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -1002,14 +990,6 @@
 {
   "uid": "1560",
   "label": "System Architect",
-  "education": [
-    {
-      "degree": "MCSE",
-      "field": "IT - System Administration",
-      "institution": "Hi Tech College",
-      "year_completed": 2007
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -1118,7 +1098,7 @@
 }
 {
   "uid": "1561",
-  "label": "System Engineer",
+  "label": "System Architect",
   "education": [
     {
       "degree": "Bachelor of Science",
@@ -1243,13 +1223,13 @@
   "label": "System Architect",
   "education": [
     {
-      "degree": "Bachelor of Science (BSc)",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "Tel Aviv University",
       "year_completed": 2016
     },
     {
-      "degree": "Bachelor of Arts (BA)",
+      "degree": "Bachelor of Arts",
       "field": "Economics",
       "institution": "Tel Aviv University",
       "year_completed": 2016
@@ -1517,7 +1497,7 @@
   "label": "System Architect",
   "education": [
     {
-      "degree": "Bachelor of Applied Science",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "Netanya Academic College",
       "year_completed": 2015
@@ -1588,7 +1568,7 @@
   "label": "System Architect",
   "education": [
     {
-      "degree": "Practical computer engineer",
+      "degree": "Practical Engineer",
       "field": "Computer Engineering",
       "institution": "Tel Aviv University",
       "year_completed": 1995
@@ -1709,7 +1689,7 @@
 }
 {
   "uid": "1567",
-  "label": "System Architect - Harmony SASE",
+  "label": "System Architect",
   "education": [],
   "job_history": [
     {
@@ -1811,13 +1791,13 @@
   "label": "System Architect",
   "education": [
     {
-      "degree": "Master's degree",
+      "degree": "Master of Science",
       "field": "Computer and Information Sciences and Support Services",
       "institution": "Kazan National Research Technical University named after A.N. Tupolev – KAI",
       "year_completed": "Year not specified"
     },
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Computer and Information Sciences and Support Services",
       "institution": "Kazan National Research Technical University named after A.N. Tupolev – KAI",
       "year_completed": "Year not specified"
@@ -2691,16 +2671,16 @@
 }
 {
   "uid": "1575",
-  "label": "Sr. System Architect",
+  "label": "System Architect",
   "education": [
     {
-      "degree": "M.Sc.",
+      "degree": "Master of Science",
       "field": "Computer Science",
       "institution": "Ben-Gurion University of the Negev",
       "year_completed": 2008
     },
     {
-      "degree": "B.Sc.",
+      "degree": "Bachelor of Science.",
       "field": "Computer Science and Philosophy",
       "institution": "Ben-Gurion University of the Negev",
       "year_completed": 2001
@@ -3062,13 +3042,13 @@
   "label": "System Architect",
   "education": [
     {
-      "degree": "Bachelors",
+      "degree": "Bachelor of Science",
       "field": "Information Technology for Manager's",
       "institution": "Point Park University",
       "year_completed": 2011
     },
     {
-      "degree": "Associates",
+      "degree": "Associate of Science",
       "field": "Computer Network Systems",
       "institution": "ITT Technical Institute",
       "year_completed": 2007
@@ -3243,7 +3223,7 @@
   "label": "System Architect",
   "education": [
     {
-      "degree": "Master",
+      "degree": "Master of Science",
       "field": "Computer Science",
       "institution": "Belarusian State University of Informatics and Radioelectronics",
       "year_completed": 1985
@@ -3327,7 +3307,7 @@
 }
 {
   "uid": "1582",
-  "label": "Systems Architect",
+  "label": "System Architect",
   "education": [
     {
       "degree": "Bachelor of Science",
@@ -3417,13 +3397,7 @@
   "label": "System Architect",
   "education": [
     {
-      "degree": "Certificate",
-      "field": "Cyber Security",
-      "institution": "Arizona State University",
-      "year_completed": 2021
-    },
-    {
-      "degree": "Master of Business Administration",
+      "degree": "Master of Business",
       "field": "Marketing, IT Administration",
       "institution": "Avinashilingam Institute, Coimbatore",
       "year_completed": 2006
@@ -3597,7 +3571,7 @@
   "label": "System Architect",
   "education": [
     {
-      "degree": "BSC(Hons)",
+      "degree": "Bachelor of Science",
       "field": "Business IT",
       "institution": "University of Staffordshire",
       "year_completed": 2002
@@ -3718,7 +3692,7 @@
   "label": "System Architect",
   "education": [
     {
-      "degree": "Bachelor of Engineering - BE",
+      "degree": "Bachelor of Science",
       "field": "Software and Management",
       "institution": "Afeka",
       "year_completed": 2004
@@ -3944,10 +3918,10 @@
 }
 {
   "uid": "1593",
-  "label": "Principal System Architect",
+  "label": "System Architect",
   "education": [
     {
-      "degree": "Master of Business Administration",
+      "degree": "Master of Business",
       "field": "Business Management",
       "institution": "Ben-Gurion University of the Negev",
       "year_completed": 2012
@@ -4037,7 +4011,7 @@
   "label": "System Architect",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Electrical, Electronics and Communications Engineering",
       "institution": "Technion - Israel Institute of Technology"
     }
@@ -4433,13 +4407,13 @@
   "label": "System Architect",
   "education": [
     {
-      "degree": "MSc.",
+      "degree": "Master of Science",
       "field": "Robotics, Optical Metrology, Algorithms",
       "institution": "Technion - Israel Institute of Technology",
       "year_completed": null
     },
     {
-      "degree": "BSc.",
+      "degree": "Bachelor of Science",
       "field": "Computer Software Engineering",
       "institution": "Technion - Israel Institute of Technology",
       "year_completed": null
@@ -4610,13 +4584,13 @@
   "label": "System Architect",
   "education": [
     {
-      "degree": "MSc",
+      "degree": "Master of Science",
       "field": "EE",
       "institution": "Tel Aviv University",
       "year_completed": 2000
     },
     {
-      "degree": "BSc",
+      "degree": "Bachelor of Science",
       "field": "EE",
       "institution": "Tel Aviv University",
       "year_completed": 1992
@@ -4739,8 +4713,8 @@
   ]
 }
 {
-  "uid": "1532",
-  "label": "System Architect at Placer.ai",
+  "uid": "1584",
+  "label": "System Architect",
   "education": [
     {
       "degree": "Bachelor of Science",

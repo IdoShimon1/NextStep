@@ -1,6 +1,6 @@
 {
   "uid": "1826",
-  "label": "Lead Data Center Engineer",
+  "label": "Data Center Engineer",
   "education": [],
   "job_history": [
     {
@@ -49,7 +49,7 @@
       "year_completed": 2014
     },
     {
-      "degree": "Business Administration - Marketing",
+      "degree": "Bachelor of Business",
       "field": "Business Administration",
       "institution": "San José State University",
       "year_completed": 2015
@@ -210,10 +210,10 @@
 }
 {
   "uid": "1828",
-  "label": "Data Center Technician",
+  "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Business Technology Management",
       "institution": "Regis University",
       "year_completed": 2013
@@ -256,7 +256,7 @@
 }
 {
   "uid": "1829",
-  "label": "Data Center Technician",
+  "label": "Data Center Engineer",
   "education": [],
   "job_history": [
     {
@@ -349,7 +349,7 @@
 }
 {
   "uid": "1830",
-  "label": "Data Center Technician",
+  "label": "Data Center Engineer",
   "education": [],
   "job_history": [
     {
@@ -447,10 +447,10 @@
 }
 {
   "uid": "1831",
-  "label": "Senior Data Center Engineer",
+  "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Bachelor of Applied Science",
+      "degree": "Bachelor of Science",
       "field": "Organizational Leadership",
       "institution": "Centralia College",
       "year_completed": 2014
@@ -552,7 +552,7 @@
 }
 {
   "uid": "1832",
-  "label": "Data Center Technician",
+  "label": "Data Center Engineer",
   "education": [
     {
       "degree": "Doctor of Philosophy",
@@ -561,7 +561,7 @@
       "year_completed": 2025
     },
     {
-      "degree": "Master's degree",
+      "degree": "Master of Science",
       "field": "Mechanical Engineering",
       "institution": "Iran University of Science and Technology",
       "year_completed": 2019
@@ -635,7 +635,7 @@
 }
 {
   "uid": "1833",
-  "label": "Data Center Engineering Team Lead",
+  "label": "Data Center Engineer",
   "education": [
     {
       "degree": "Bachelor of Science",
@@ -644,7 +644,7 @@
       "year_completed": null
     },
     {
-      "degree": "Associate's degree",
+      "degree": "Associate of Science",
       "field": "Computer and Information Systems Security/Information Assurance",
       "institution": "Anne Arundel Community College",
       "year_completed": null
@@ -712,13 +712,13 @@
   "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "PhD",
+      "degree": "Doctor of Philosophy",
       "field": "Chemical Engineering, Controls, Machine Learning",
       "institution": "UC Santa Barbara",
       "year_completed": 2023
     },
     {
-      "degree": "BTech",
+      "degree": "Bachelor of Science",
       "field": "Chemical Engineering",
       "institution": "Indian Institute of Technology, Bombay",
       "year_completed": 2017
@@ -915,7 +915,7 @@
 }
 {
   "uid": "1837",
-  "label": "Senior Data Center Engineer",
+  "label": "Data Center Engineer",
   "education": [],
   "job_history": [
     {
@@ -1214,7 +1214,7 @@
 }
 {
   "uid": "1839",
-  "label": "Lead Data Center Engineer",
+  "label": "Data Center Engineer",
   "education": [],
   "job_history": [
     {
@@ -1342,16 +1342,16 @@
 }
 {
   "uid": "1840",
-  "label": "Senior Data Center Engineer",
+  "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Bachelor",
+      "degree": "Bachelor of Science",
       "field": "ELECTRONICS ENGINEERING TECHNOLOGY",
       "institution": "DeVry University",
       "year_completed": 1991
     },
     {
-      "degree": "Associate",
+      "degree": "Associate of Arts",
       "field": "Liberal Arts and Sciences",
       "institution": "University of Illinois Chicago",
       "year_completed": 1988
@@ -1531,10 +1531,10 @@
 }
 {
   "uid": "1841",
-  "label": "Data Center Engineer II",
+  "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Associate's Degree",
+      "degree": "Associate of Science",
       "field": "Computer Information Systems",
       "institution": "Paradise Valley Community College",
       "year_completed": null
@@ -1886,13 +1886,13 @@
   "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Bachelor's Degree",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "Montclair State University",
       "year_completed": 2004
     },
     {
-      "degree": "Master of Business Administration (M.B.A.)",
+      "degree": "Master of Business",
       "field": "Executive Master of Business Administration",
       "institution": "New Jersey Institute of Technology",
       "year_completed": 2006
@@ -2024,7 +2024,7 @@
 }
 {
   "uid": "1843",
-  "label": "Sr Staff Data Center Engineer",
+  "label": "Data Center Engineer",
   "education": [
     {
       "degree": "Master of Science",
@@ -2033,7 +2033,7 @@
       "year_completed": 2017
     },
     {
-      "degree": "Bachelor of Technology",
+      "degree": "Bachelor of Science",
       "field": "Electrical Engineering",
       "institution": "CHARUSAT",
       "year_completed": 2014
@@ -2140,17 +2140,11 @@
 }
 {
   "uid": "1844",
-  "label": "Data Center Engineer - SW CLOUD",
+  "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Post-baccalaureate Professional Certificate",
-      "field": "Information & Cybersecurity Engineering",
-      "institution": "UC Berkeley School of Information",
-      "year_completed": 2024
-    },
-    {
-      "degree": "Bachelor's degree",
-      "field": "Engineering Technology, Computer Network System Management Concentration",
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
       "institution": "San José State University",
       "year_completed": 2022
     }
@@ -2195,7 +2189,7 @@
 }
 {
   "uid": "1845",
-  "label": "Lead, IT Infrastructure and Systems - Data Center",
+  "label": "Data Center Engineer",
   "education": [
     {
       "degree": "Bachelor of Science",
@@ -2207,7 +2201,7 @@
   "job_history": [
     {
       "job_id": "001",
-      "title": "Lead, IT Infrastructure and Systems - Data Center",
+      "title": "Lead Data Center Engineer",
       "company": "Baylor College of Medicine",
       "start_date": "Jan 2022",
       "end_date": null,
@@ -2402,16 +2396,16 @@
 }
 {
   "uid": "1847",
-  "label": "Data Center Architect",
+  "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Master of Business Administration - MBA",
-      "field": "Computer/Information Technology Administration and Management",
+      "degree": "Master of Business",
+      "field": "Information Technology",
       "institution": "University of Phoenix",
       "year_completed": 2002
     },
     {
-      "degree": "BS",
+      "degree": "Bachelor of Science",
       "field": "Computer and Information Sciences",
       "institution": "University of Maryland",
       "year_completed": 1991
@@ -2525,21 +2519,7 @@
 }
 {
   "uid": "1848",
-  "label": "Data Center Engineer at Amazon Web Services (AWS)",
-  "education": [
-    {
-      "degree": "Cybersecurity",
-      "field": "Cybersecurity",
-      "institution": "George Mason University",
-      "year_completed": null
-    },
-    {
-      "degree": "Data Analysis",
-      "field": "Data Analysis",
-      "institution": "Northern Virginia Community College",
-      "year_completed": "2024"
-    }
-  ],
+  "label": "Data Center Engineer",
   "job_history": [
     {
       "job_id": "001",
@@ -2593,7 +2573,7 @@
   "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Associate's degree",
+      "degree": "Associate of Arts",
       "field": "Computer Science",
       "institution": "ITT Technical Institute-Pittsburgh",
       "year_completed": 2016
@@ -2696,7 +2676,7 @@
 }
 {
   "uid": "1850",
-  "label": "Senior Datacenter Technician",
+  "label": "Data Center Engineer",
   "education": [],
   "job_history": [
     {
@@ -2781,10 +2761,10 @@
 }
 {
   "uid": "1851",
-  "label": "Senior Datacenter Engineer",
+  "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Master of Commerce",
+      "degree": "Master of Arts",
       "field": "Commerce",
       "institution": "CCS (Chaudhary Charan Singh) University",
       "year_completed": null
@@ -2894,10 +2874,10 @@
 }
 {
   "uid": "1852",
-  "label": "Data Center Infrastructure Engineer",
+  "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Associate's degree",
+      "degree": "Associate of Arts",
       "field": "Applied Psychology",
       "institution": "Ohlone College",
       "year_completed": null
@@ -2909,7 +2889,7 @@
       "year_completed": null
     },
     {
-      "degree": "Computer and Information Sciences, General",
+      "degree": "Bachelor of Science",
       "field": "Computer and Information Sciences",
       "institution": "De Anza College",
       "year_completed": "Mar 2021"
@@ -2975,7 +2955,7 @@
 }
 {
   "uid": "1853",
-  "label": "Critical Operations Technician",
+  "label": "Data Center Engineer",
   "education": [],
   "job_history": [
     {
@@ -3127,10 +3107,10 @@
 }
 {
   "uid": "1854",
-  "label": "Lead Data Center Engineer",
+  "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Bachelor’s Degree",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "Northern Illinois University",
       "year_completed": 2011
@@ -3270,239 +3250,9 @@
   "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Bachelor's degree",
-      "field": "Network Administration and Security",
-      "institution": "Central Penn College",
-      "year_completed": 2014
-    },
-    {
-      "degree": "Associate’s Degree",
+      "degree": "Bachelor of Science",
       "field": "Computer Networking Technology",
-      "institution": "HACC, Central Pennsylvania's Community College",
-      "year_completed": 2017
-    }
-  ],
-  "job_history": [
-    {
-      "job_id": "001",
-      "title": "Data Center Engineer",
-      "company": "Apex Systems",
-      "start_date": "Nov 2024",
-      "end_date": null,
-      "skills": [
-        "Network Engineering",
-        "Disaster Recovery",
-        "Cisco Systems Products",
-        "IT Infrastructure Management"
-      ]
-    },
-    {
-      "job_id": "002",
-      "title": "Data Center Engineer",
-      "company": "WellSpan Health",
-      "start_date": "Jun 2023",
-      "end_date": "Sep 2024",
-      "skills": [
-        "Network Engineering",
-        "Disaster Recovery",
-        "Cybersecurity",
-        "Cisco Routers",
-        "Cisco Switches"
-      ]
-    },
-    {
-      "job_id": "003",
-      "title": "Network & Systems Administrator",
-      "company": "PA GI Consultants",
-      "start_date": "Jun 2023",
-      "end_date": "Sep 2024",
-      "skills": [
-        "Network Systems",
-        "Systems Administration",
-        "VLAN",
-        "Azure Infrastructure as a Service (IaaS)",
-        "Microsoft 365"
-      ]
-    },
-    {
-      "job_id": "004",
-      "title": "IT Data Center Specialist Team Leader",
-      "company": "HCL Technologies",
-      "start_date": "Nov 2019",
-      "end_date": "Jul 2023",
-      "skills": [
-        "Cloud Migration",
-        "Azure Site Recovery",
-        "VLAN",
-        "Capacity Planning",
-        "Security Monitoring"
-      ]
-    },
-    {
-      "job_id": "005",
-      "title": "IT Analyst & Security Specialist",
-      "company": "Vibra Healthcare",
-      "start_date": null,
-      "end_date": null,
-      "skills": [
-        "Security Devices",
-        "Security Monitoring",
-        "Remote User Support",
-        "Information Security",
-        "System Installations"
-      ]
-    }
-  ],
-  "skills": [
-    "Cisco Switches",
-    "Azure Site Recovery",
-    "Microsoft OneDrive",
-    "Cloud Migration",
-    "Access Management",
-    "Security Monitoring",
-    "VLAN",
-    "OSI Model",
-    "Capacity Planning",
-    "Quality Assurance",
-    "Remote Administration",
-    "Network Security Auditing",
-    "Cisco Routers",
-    "Cisco IOS",
-    "Windows System Administration",
-    "AWS",
-    "Microsoft Azure",
-    "Security Devices",
-    "Cybersecurity",
-    "IT Infrastructure Management",
-    "Network Systems"
-  ]
-}
-{
-  "uid": "1855",
-  "label": "Data Center Engineer",
-  "education": [
-    {
-      "degree": "Bachelor's degree",
-      "field": "Network Administration and Security",
       "institution": "Central Penn College",
-      "year_completed": 2014
-    },
-    {
-      "degree": "Associate’s Degree",
-      "field": "Computer Networking Technology",
-      "institution": "HACC, Central Pennsylvania's Community College",
-      "year_completed": 2017
-    }
-  ],
-  "job_history": [
-    {
-      "job_id": "001",
-      "title": "Data Center Engineer",
-      "company": "Apex Systems",
-      "start_date": "Nov 2024",
-      "end_date": null,
-      "skills": [
-        "Network Engineering",
-        "Disaster Recovery",
-        "Cisco Systems Products",
-        "IT Infrastructure Management"
-      ]
-    },
-    {
-      "job_id": "002",
-      "title": "Data Center Engineer",
-      "company": "WellSpan Health",
-      "start_date": "Jun 2023",
-      "end_date": "Sep 2024",
-      "skills": [
-        "Network Engineering",
-        "Disaster Recovery",
-        "Cybersecurity",
-        "Cisco Routers",
-        "Cisco Switches"
-      ]
-    },
-    {
-      "job_id": "003",
-      "title": "Network & Systems Administrator",
-      "company": "PA GI Consultants",
-      "start_date": "Jun 2023",
-      "end_date": "Sep 2024",
-      "skills": [
-        "Network Systems",
-        "Systems Administration",
-        "VLAN",
-        "Azure Infrastructure as a Service (IaaS)",
-        "Microsoft 365"
-      ]
-    },
-    {
-      "job_id": "004",
-      "title": "IT Data Center Specialist Team Leader",
-      "company": "HCL Technologies",
-      "start_date": "Nov 2019",
-      "end_date": "Jul 2023",
-      "skills": [
-        "Cloud Migration",
-        "Azure Site Recovery",
-        "VLAN",
-        "Capacity Planning",
-        "Security Monitoring"
-      ]
-    },
-    {
-      "job_id": "005",
-      "title": "IT Analyst & Security Specialist",
-      "company": "Vibra Healthcare",
-      "start_date": null,
-      "end_date": null,
-      "skills": [
-        "Security Devices",
-        "Security Monitoring",
-        "Remote User Support",
-        "Information Security",
-        "System Installations"
-      ]
-    }
-  ],
-  "skills": [
-    "Cisco Switches",
-    "Azure Site Recovery",
-    "Microsoft OneDrive",
-    "Cloud Migration",
-    "Access Management",
-    "Security Monitoring",
-    "VLAN",
-    "OSI Model",
-    "Capacity Planning",
-    "Quality Assurance",
-    "Remote Administration",
-    "Network Security Auditing",
-    "Cisco Routers",
-    "Cisco IOS",
-    "Windows System Administration",
-    "AWS",
-    "Microsoft Azure",
-    "Security Devices",
-    "Cybersecurity",
-    "IT Infrastructure Management",
-    "Network Systems"
-  ]
-}
-{
-  "uid": "1855",
-  "label": "Data Center Engineer",
-  "education": [
-    {
-      "degree": "Bachelor's degree",
-      "field": "Network Administration and Security",
-      "institution": "Central Penn College",
-      "year_completed": 2014
-    },
-    {
-      "degree": "Associate’s Degree",
-      "field": "Computer Networking Technology",
-      "institution": "HACC, Central Pennsylvania's Community College",
       "year_completed": 2017
     }
   ],
@@ -3606,13 +3356,13 @@
   "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Master's degree",
+      "degree": "Master of Science",
       "field": "Electrical and Electronics Engineering",
       "institution": "Dumlupinar University",
       "year_completed": 2012
     },
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Electrical and Electronics Engineering",
       "institution": "Firat University",
       "year_completed": 2008
@@ -3691,13 +3441,13 @@
   "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Bachelor",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "Portland State University",
       "year_completed": 1988
     },
     {
-      "degree": "Master",
+      "degree": "Master of Science",
       "field": "Computer Information Systems",
       "institution": "University of Phoenix",
       "year_completed": 2008
@@ -4034,7 +3784,7 @@
 }
 {
   "uid": "1862",
-  "label": "System Engineer",
+  "label": "Data Center Engineer",
   "education": [],
   "job_history": [
     {
@@ -4138,7 +3888,7 @@
   "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Cybersecurity",
       "institution": "Western Governors University",
       "year_completed": 2023
@@ -4209,7 +3959,7 @@
   "label": "Data Center Engineer",
   "education": [
     {
-      "degree": null,
+      "degree": "Bachelor of Science",
       "field": "Communications technologies , Information Technology",
       "institution": "National Open University of Nigeria",
       "year_completed": 2011
@@ -4314,7 +4064,7 @@
 }
 {
   "uid": "1865",
-  "label": "Data Center Administrator",
+  "label": "Data Center Engineer",
   "education": [],
   "job_history": [
     {
@@ -4543,7 +4293,7 @@
 }
 {
   "uid": "1867",
-  "label": "Senior Data Center Engineer Operator",
+  "label": "Data Center Engineer",
   "education": [],
   "job_history": [
     {
@@ -4709,13 +4459,13 @@
   "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Diploma of Education",
+      "degree": "Practical Engineer",
       "field": "Electrician",
       "institution": "ORT Colleges",
       "year_completed": 2024
     },
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Business",
       "field": "Business Administration, Management and Operations",
       "institution": "Bar-Ilan University",
       "year_completed": 2020
@@ -4883,7 +4633,7 @@
 }
 {
   "uid": "1871",
-  "label": "Senior Data Center Engineer",
+  "label": "Data Center Engineer",
   "education": [
     {
       "degree": "Master of Science",
@@ -5144,13 +4894,7 @@
   "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Associate's degree",
-      "field": "DevSecOps",
-      "institution": "Bar-Ilan University",
-      "year_completed": 2023
-    },
-    {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Information Technology",
       "institution": "The Open University of Israel",
       "year_completed": 2028
@@ -5296,10 +5040,10 @@
 }
 {
   "uid": "1875",
-  "label": "Data Center Engineer - Team Lead",
+  "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "Reichman University",
       "year_completed": 2023
@@ -5384,7 +5128,7 @@
   "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Bachelor of Laws - LLB",
+      "degree": "Bachelor of Law",
       "field": "Law",
       "institution": "Ono Academic College",
       "year_completed": 2019
@@ -5488,7 +5232,7 @@
   "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Engineer's degree",
+      "degree": "Bachelor of Science",
       "field": "Electrical and Electronics Engineering",
       "institution": "Bar-Ilan University",
       "year_completed": 2026
@@ -5547,7 +5291,7 @@
   "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Computer Software Engineering",
       "institution": "Afeka Tel Aviv Academic College of Engineering",
       "year_completed": 2022
@@ -5610,7 +5354,7 @@
   "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Computer Science, Information Technology",
       "institution": "Birzeit University",
       "year_completed": 2016
@@ -5695,11 +5439,11 @@
 }
 {
   "uid": "1880",
-  "label": "Data Center Architect",
+  "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "BA",
-      "field": "Computer Science, Information Technology",
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
       "institution": "Birzeit University",
       "year_completed": 2016
     }
@@ -5822,7 +5566,7 @@
 }
 {
   "uid": "1881",
-  "label": "Data Center Technician",
+  "label": "Data Center Engineer",
   "education": [],
   "job_history": [
     {
@@ -5869,7 +5613,7 @@
 }
 {
   "uid": "1882",
-  "label": "Senior Data Center Technician",
+  "label": "Data Center Engineer",
   "education": [],
   "job_history": [
     {
@@ -6003,7 +5747,7 @@
 }
 {
   "uid": "1884",
-  "label": "Data Center Manager",
+  "label": "Data Center Engineer",
   "education": [
     {
       "degree": "Practical engineer",
@@ -6060,7 +5804,7 @@
 }
 {
   "uid": "1885",
-  "label": "Data Center Operator",
+  "label": "Data Center Engineer",
   "education": [],
   "job_history": [
     {
@@ -6090,15 +5834,7 @@
 }
 {
   "uid": "1886",
-  "label": "Data Center Operator",
-  "education": [
-    {
-      "degree": "Cyber & Information Security",
-      "field": "See-Security: Cyber & Information Security College",
-      "institution": "See-Security: Cyber & Information Security College",
-      "year_completed": null
-    }
-  ],
+  "label": "Data Center Engineer",
   "job_history": [
     {
       "job_id": "001",
@@ -6137,7 +5873,7 @@
 }
 {
   "uid": "1887",
-  "label": "Data Center Technician",
+  "label": "Data Center Engineer",
   "education": [],
   "job_history": [
     {
@@ -6179,7 +5915,7 @@
 }
 {
   "uid": "1888",
-  "label": "Data Center Technician",
+  "label": "Data Center Engineer",
   "education": [],
   "job_history": [
     {
@@ -6245,7 +5981,7 @@
 }
 {
   "uid": "1889",
-  "label": "Datacenter Technician",
+  "label": "Data Center Engineer",
   "education": [],
   "job_history": [
     {
@@ -6275,7 +6011,7 @@
 }
 {
   "uid": "1890",
-  "label": "Datacenter Technician",
+  "label": "Data Center Engineer",
   "education": [
     {
       "degree": "Bachelor of Arts",
@@ -6318,7 +6054,7 @@
 }
 {
   "uid": "1891",
-  "label": "Network Engineer",
+  "label": "Data Center Engineer",
   "education": [],
   "job_history": [
     {
@@ -6416,10 +6152,10 @@
 }
 {
   "uid": "1893",
-  "label": "PS Engineering Computing Team Leader",
+  "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Bachelor",
+      "degree": "Bachelor of Science",
       "field": "Mathematics & Biology",
       "institution": "Audiberty College",
       "year_completed": 1990
@@ -6515,7 +6251,7 @@
 }
 {
   "uid": "1894",
-  "label": "Data Centre Technician",
+  "label": "Data Centre Engineer",
   "education": [],
   "job_history": [
     {
@@ -6549,11 +6285,11 @@
 }
 {
   "uid": "1895",
-  "label": "Data Center Technician",
+  "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Associate's degree",
-      "field": "Network and System Administration/Administrator",
+      "degree": "Associate of Science",
+      "field": "Computer Science",
       "institution": "Metropolitan Community College",
       "year_completed": 2023
     }
@@ -6595,7 +6331,7 @@
     {
       "job_id": "001",
       "title": "Data Center Engineer",
-      "company": "max מקס",
+      "company": "max",
       "start_date": "2023-07-01",
       "end_date": null,
       "skills": [
@@ -6629,10 +6365,10 @@
 }
 {
   "uid": "1897",
-  "label": "Datacenter Technician",
+  "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Bachelor of Arts - BA",
+      "degree": "Bachelor of Arts",
       "field": "Economic",
       "institution": "The Open University of Israel",
       "year_completed": 2024
@@ -6676,7 +6412,7 @@
 }
 {
   "uid": "1898",
-  "label": "Datacenter Administrator",
+  "label": "Data Center Engineer",
   "education": [],
   "job_history": [
     {
@@ -6716,61 +6452,12 @@
 }
 {
   "uid": "1899",
-  "label": "Data Center Technician",
+  "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Bachelor of Applied Science - BASc",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "Elsewedy University of Technology",
-      "year_completed": 2023
-    },
-    {
-      "degree": "Information Technology",
-      "field": "Information Technology",
-      "institution": "We School for Applied Technology",
-      "year_completed": 2023
-    }
-  ],
-  "job_history": [
-    {
-      "job_id": "001",
-      "title": "Data Center Technician",
-      "company": "Telecom Egypt",
-      "start_date": "2023-08-01",
-      "end_date": null,
-      "skills": [
-        "Telecommunications Systems", "LAN-WAN", "Technical Maintenance", "Networking", "Cisco Networking", "Linux", "MySQL", "Microsoft SQL Server"
-      ]
-    },
-    {
-      "job_id": "002",
-      "title": "Telecommunications Technician",
-      "company": "Smart Info",
-      "start_date": "2023-06-01",
-      "end_date": "2023-07-31",
-      "skills": [
-        "Telecommunications Systems", "LAN-WAN", "Technical Maintenance", "Networking", "MySQL", "Cisco Networking", "Linux", "Python", "HTML", "CSS"
-      ]
-    }
-  ],
-  "skills": [
-    "Telecommunications Systems", "LAN-WAN", "Technical Maintenance", "Networking", "Cisco Networking", "Linux", "MySQL", "Microsoft SQL Server", "Python", "HTML", "CSS", "Java", "Microsoft Excel", "Adobe Photoshop", "AutoCAD", "Public Speaking", "Microsoft Word", "Microsoft PowerPoint"
-  ]
-}
-{
-  "uid": "1899",
-  "label": "Data Center Technician",
-  "education": [
-    {
-      "degree": "Bachelor of Applied Science - BASc",
-      "field": "Computer Science",
-      "institution": "Elsewedy University of Technology",
-      "year_completed": 2023
-    },
-    {
-      "degree": "Information Technology",
-      "field": "Information Technology",
-      "institution": "We School for Applied Technology",
       "year_completed": 2023
     }
   ],
@@ -6802,16 +6489,16 @@
 }
 {
   "uid": "1900",
-  "label": "Datacenter Technician",
+  "label": "Data Center Engineer",
   "education": [
     {
-      "degree": "Master of Science - MS",
+      "degree": "Master of Science",
       "field": "Information Systems",
       "institution": "University of Nevada, Reno",
       "year_completed": 2022
     },
     {
-      "degree": "Bachelor of Science - BS",
+      "degree": "Bachelor of Science",
       "field": "Public Administration",
       "institution": "University of Nevada-Las Vegas",
       "year_completed": 2016

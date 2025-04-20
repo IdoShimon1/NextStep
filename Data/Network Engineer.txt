@@ -3,7 +3,7 @@
   "label": "Network Engineer",
   "education": [
     {
-      "degree": "ICT engineer",
+      "degree": "Bachelor of Science",
       "field": "Computer Systems Networking and Telecommunications",
       "institution": "Adir Bamarom College",
       "year_completed": null
@@ -50,7 +50,7 @@
   "label": "Network Engineer",
   "education": [
     {
-      "degree": "ICT engineer",
+      "degree": "Bachelor of Science",
       "field": "Computer Systems Networking and Telecommunications",
       "institution": "Adir Bamarom College",
       "year_completed": null
@@ -153,14 +153,6 @@
 {
   "uid": "1704",
   "label": "Network Engineer",
-  "education": [
-    {
-      "degree": "CCNA, CCNP",
-      "field": "System, Networking, and LAN/WAN Management/Manager",
-      "institution": "Tech Career Israel",
-      "year_completed": 2018
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -214,20 +206,6 @@
 {
   "uid": "1705",
   "label": "Network Engineer",
-  "education": [
-    {
-      "degree": "CCNA, Network and System Administration/Administrator",
-      "field": "Network and System Administration",
-      "institution": "John Bryce",
-      "year_completed": 2016
-    },
-    {
-      "degree": "Computer and Information Systems Security/Information Assurance",
-      "field": "Information Security",
-      "institution": "ITQ Ltd",
-      "year_completed": 2024
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -269,14 +247,6 @@
 {
   "uid": "1706",
   "label": "Network Engineer",
-  "education": [
-    {
-      "degree": "Information Technology",
-      "field": "Information Technology",
-      "institution": "HackerU",
-      "year_completed": 2022
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -322,13 +292,13 @@
   "label": "Network Engineer",
   "education": [
     {
-      "degree": "Master of Arts",
+      "degree": "Master of Business",
       "field": "Business Administration and Management",
       "institution": "College of Law and Business",
       "year_completed": 2025
     },
     {
-      "degree": "Bachelor of Arts",
+      "degree": "Bachelor of Business",
       "field": "Business Administration and Management",
       "institution": "College of Law and Business",
       "year_completed": 2024
@@ -527,14 +497,6 @@
 {
   "uid": "1712",
   "label": "Network Engineer",
-  "education": [
-    {
-      "degree": "Certificate",
-      "field": "Ethical Hacking, Computer and Information Systems Security/Information Assurance",
-      "institution": "KERNELiOS",
-      "year_completed": 2023
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -564,14 +526,6 @@
 {
   "uid": "1713",
   "label": "Network Engineer",
-  "education": [
-    {
-      "degree": "Certification",
-      "field": "Computer Programming, Vendor/Product Certification",
-      "institution": "IITC College",
-      "year_completed": null
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -666,7 +620,7 @@
     {
       "job_id": "001",
       "title": "Network Engineer",
-      "company": "Ness Technologies | נס טכנולוגיות",
+      "company": "Ness Technologies",
       "start_date": "Jan 2025",
       "end_date": null,
       "skills": [
@@ -709,14 +663,6 @@
 {
   "uid": "1716",
   "label": "Network Engineer",
-  "education": [
-    {
-      "degree": "Devops",
-      "field": "Devops",
-      "institution": "DevOps Experts",
-      "year_completed": 2024
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -758,7 +704,7 @@
   "label": "Network Engineer",
   "education": [
     {
-      "degree": "Engineer's degree",
+      "degree": "Practical Engineering",
       "field": "Electrical and Electronics Engineering",
       "institution": "ORT Colleges",
       "year_completed": 2020
@@ -795,7 +741,7 @@
   "label": "Network Engineer",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "Jerusalem Multidisciplinary College",
       "year_completed": 2021
@@ -850,20 +796,6 @@
 {
   "uid": "1719",
   "label": "Network Engineer",
-  "education": [
-    {
-      "degree": "Certificate",
-      "field": "Implementing and Operating Cisco Enterprise Network Core Technologies",
-      "institution": "IITC",
-      "year_completed": 2022
-    },
-    {
-      "degree": "Certificate",
-      "field": "Computer Systems Networking and Telecommunications",
-      "institution": "johne bryce",
-      "year_completed": null
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -983,14 +915,6 @@
 {
   "uid": "1722",
   "label": "Network Engineer",
-  "education": [
-    {
-      "degree": "Certificate",
-      "field": "Cisco Certified Network Associate",
-      "institution": "Self-study",
-      "year_completed": 2012
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -1040,14 +964,6 @@
 {
   "uid": "1723",
   "label": "Network Engineer",
-  "education": [
-    {
-      "degree": "Associate's degree",
-      "field": "Network Management",
-      "institution": "John Bryce",
-      "year_completed": 2016
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -1172,16 +1088,10 @@
   "label": "Network Engineer",
   "education": [
     {
-      "degree": "Master's degree",
+      "degree": "Master of Arts",
       "field": "German and European studies",
       "institution": "University of Haifa",
       "year_completed": 2016
-    },
-    {
-      "degree": "Cyber Security Practitioner",
-      "field": "Cyber Security",
-      "institution": "See Security: Cyber & Information Security College",
-      "year_completed": 2018
     }
   ],
   "job_history": [
@@ -1368,13 +1278,7 @@
   "label": "Network Engineer",
   "education": [
     {
-      "degree": "Cybersecurity Training Program",
-      "field": null,
-      "institution": "Per Scholas",
-      "year_completed": 2025
-    },
-    {
-      "degree": "Associate's degree",
+      "degree": "Associate of Arts",
       "field": "Natural Resources Management and Policy",
       "institution": "Kwame Nkrumah University of Science and Technology, Kumasi",
       "year_completed": null
@@ -1447,7 +1351,7 @@
   "label": "Network Engineer",
   "education": [
     {
-      "degree": "N/A",
+      "degree": "Bachelor of Art",
       "field": "Criminal Justice/Police Science",
       "institution": "Moravian University",
       "year_completed": null
@@ -1666,13 +1570,13 @@
   "label": "Network Engineer",
   "education": [
     {
-      "degree": "Bachelor of Technology",
+      "degree": "Bachelor of Science",
       "field": "Electrical, Electronics and Communications Engineering",
       "institution": "JNTUH College of Engineering Hyderabad",
       "year_completed": null
     },
     {
-      "degree": "Master's degree",
+      "degree": "Master of Science",
       "field": "Masters in Computer Networking",
       "institution": "Wichita State University",
       "year_completed": null
@@ -1832,12 +1736,6 @@
   "label": "Network Engineer",
   "education": [
     {
-      "degree": null,
-      "field": "Cyber security",
-      "institution": "Tzomet Cyberwise",
-      "year_completed": 2024
-    },
-    {
       "degree": "High school",
       "field": null,
       "institution": "Francis Lewis High School",
@@ -1904,7 +1802,7 @@
   "label": "Network Engineer",
   "education": [
     {
-      "degree": "Master's degree",
+      "degree": "Master of Science",
       "field": "Telecommunications Engineering",
       "institution": "SUNY Polytechnic Institute Graduate Studies",
       "year_completed": 2012
@@ -1974,7 +1872,7 @@
   "label": "Network Engineer",
   "education": [
     {
-      "degree": "Bachelors",
+      "degree": "Bachelor of Science",
       "field": "Information Technology",
       "institution": "Georgia State University",
       "year_completed": null
@@ -2057,14 +1955,6 @@
 {
   "uid": "1735",
   "label": "Network Engineer",
-  "education": [
-    {
-      "degree": null,
-      "field": null,
-      "institution": "Montclair State University",
-      "year_completed": 2013
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -2173,7 +2063,7 @@
   "label": "Network Engineer",
   "education": [
     {
-      "degree": "Master's degree",
+      "degree": "Master of Science",
       "field": "Management Information Systems and Services",
       "institution": "Marist University",
       "year_completed": 2023
@@ -2185,7 +2075,7 @@
       "year_completed": 2020
     },
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "Malla Reddy College of Engineering & Technology",
       "year_completed": 2017
@@ -2274,7 +2164,7 @@
   "label": "Network Engineer",
   "education": [
     {
-      "degree": "Associate's degree",
+      "degree": "Practical Engineer",
       "field": "Electronics Engineering & Computer Technology",
       "institution": "ORT Colleges",
       "year_completed": 2016
@@ -2339,14 +2229,6 @@
 {
   "uid": "1738",
   "label": "Network Engineer",
-  "education": [
-    {
-      "degree": "Cyberspace Operations Fundamentals Course",
-      "field": "Cyberspace Operations",
-      "institution": "U.S. Air Force",
-      "year_completed": null
-    }
-  ],
   "job_history": [
     {
       "job_id": "001",
@@ -2438,13 +2320,13 @@
   "label": "Network Engineer",
   "education": [
     {
-      "degree": "Master of Science (M.S.)",
+      "degree": "Master of Science",
       "field": "Computer Science",
       "institution": "The George Washington University",
       "year_completed": 2007
     },
     {
-      "degree": "Bachelor of Science (B.S.)",
+      "degree": "Bachelor of Science",
       "field": "Computer Science",
       "institution": "North Carolina State University",
       "year_completed": 2005
@@ -2481,7 +2363,7 @@
   "label": "Network Engineer",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Business",
       "field": "Business Administration and Management, General",
       "institution": "Suffolk University",
       "year_completed": null
@@ -2528,7 +2410,7 @@
   "label": "Network Engineer",
   "education": [
     {
-      "degree": "Bachelor's degree",
+      "degree": "Bachelor of Business,
       "field": "Business Administration and Management, General",
       "institution": "Suffolk University",
       "year_completed": null
@@ -2742,16 +2624,10 @@
   "label": "Network Engineer",
   "education": [
     {
-      "degree": "General Studies",
+      "degree": "Bachelor of Arts",
       "field": "General Studies",
       "institution": "Truckee Meadows Community College",
       "year_completed": 2016
-    },
-    {
-      "degree": "Network Management Technician",
-      "field": "Network Management Technician",
-      "institution": "Warrant Officer Basic Course",
-      "year_completed": 2014
     }
   ],
   "job_history": [
@@ -2852,8 +2728,8 @@
   "label": "Network Engineer",
   "education": [
     {
-      "degree": "Bachelor's degree",
-      "field": "System, Networking, and LAN/WAN Management/Manager",
+      "degree": "Bachelor of Science",
+      "field": "System Managemen",
       "institution": "DeVry University",
       "year_completed": null
     }
@@ -2936,7 +2812,7 @@
       "year_completed": 2010
     },
     {
-      "degree": "Associate of Arts and Sciences",
+      "degree": "Associate of Science",
       "field": "Mathematics and Computer Science",
       "institution": "Camden County College",
       "year_completed": 2007
@@ -3122,7 +2998,7 @@
   "education": [
     {
       "degree": "Associate of Science",
-      "field": "Computer Networking: Cyber Security, Computer Science",
+      "field": "Cyber Security, Computer Science",
       "institution": "Coastline College",
       "year_completed": 2017
     }
@@ -3175,7 +3051,7 @@
   "label": "Network Engineer",
   "education": [
     {
-      "degree": "Master's degree",
+      "degree": "Master of Science",
       "field": "Information Technology",
       "institution": "Trine University",
       "year_completed": null
