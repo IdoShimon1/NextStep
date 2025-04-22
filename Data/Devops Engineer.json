@@ -1,0 +1,3651 @@
+[
+  {
+    "uid": "1501",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Other / Unknown",
+        "field": null,
+        "institution": "InfinityLabs R&D",
+        "year_completed": 2024
+      },
+      {
+        "degree": "Other / Unknown",
+        "field": "Computer Science",
+        "institution": "The Open University of Israel",
+        "year_completed": 2026
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Autodesk",
+        "start_date": "2025-01-01",
+        "end_date": null,
+        "skills": []
+      },
+      {
+        "job_id": "002",
+        "title": "Software Developer",
+        "company": "Olive Diagnostics",
+        "start_date": "2024-01-01",
+        "end_date": "2024-06-30",
+        "skills": [
+          "Python",
+          "Software Design"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "Help Desk Administrator",
+        "company": "A-zuzIT",
+        "start_date": "2023-01-01",
+        "end_date": "2023-07-31",
+        "skills": [
+          "Linux",
+          "Python"
+        ]
+      }
+    ],
+    "skills": [
+      "Python",
+      "Linux",
+      "Software Design"
+    ]
+  },
+  {
+    "uid": "1502",
+    "label": "Devops Engineer",
+    "education": [],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Cybereason",
+        "start_date": "2022-01-01",
+        "end_date": "2025-03-01",
+        "skills": [
+          "AWS",
+          "GCP",
+          "Linux",
+          "Kubernetes",
+          "Docker",
+          "Ansible",
+          "Terraform",
+          "Jenkins",
+          "Git",
+          "Networking"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "DevOps Engineer",
+        "company": "BOLT Solutions Inc.",
+        "start_date": "2019-01-01",
+        "end_date": "2021-12-01",
+        "skills": [
+          "AWS",
+          "GCP",
+          "Linux",
+          "Kubernetes",
+          "Docker",
+          "Ansible",
+          "Terraform",
+          "Jenkins",
+          "Git",
+          "Networking"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "Site Reliability Engineer",
+        "company": "Sears Israel",
+        "start_date": "2018-06-01",
+        "end_date": "2018-12-01",
+        "skills": [
+          "Monitoring",
+          "Logging",
+          "AWS",
+          "GCP",
+          "Networking"
+        ]
+      },
+      {
+        "job_id": "004",
+        "title": "System Administrator",
+        "company": "Mamram",
+        "start_date": "2015-08-01",
+        "end_date": "2018-04-01",
+        "skills": [
+          "Windows Server",
+          "Active Directory",
+          "IIS",
+          "DNS",
+          "DHCP",
+          "Office 365"
+        ]
+      }
+    ],
+    "skills": [
+      "AWS",
+      "GCP",
+      "Linux",
+      "Kubernetes",
+      "Docker",
+      "Ansible",
+      "Terraform",
+      "Jenkins",
+      "Git",
+      "Networking",
+      "Monitoring",
+      "Logging",
+      "Windows Server",
+      "Active Directory",
+      "IIS",
+      "DNS",
+      "DHCP",
+      "Office 365"
+    ]
+  },
+  {
+    "uid": "1503",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Other / Unknown",
+        "field": "Mathematics and Computer Science",
+        "institution": "Ariel University",
+        "start_date": "2016-01-01",
+        "end_date": "2019-01-01"
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Parallel Wireless",
+        "start_date": "2022-03-01",
+        "end_date": "Present",
+        "skills": [
+          "Linux",
+          "DevOps",
+          "Cloud Computing"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "HPC Engineer",
+        "company": "Ariel University",
+        "start_date": "2020-10-01",
+        "end_date": "2022-02-01",
+        "skills": [
+          "Linux",
+          "High Performance Computing",
+          "Cloud Computing"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "NOC Team Support",
+        "company": "Israel Ministry of Defense",
+        "start_date": "2017-09-01",
+        "end_date": "2020-10-01",
+        "skills": [
+          "Networking",
+          "Troubleshooting",
+          "Monitoring"
+        ]
+      },
+      {
+        "job_id": "004",
+        "title": "Teaching Assistant",
+        "company": "Ariel University",
+        "start_date": "2018-12-01",
+        "end_date": "2019-12-01",
+        "skills": [
+          "Machine Learning",
+          "Data Science"
+        ]
+      }
+    ],
+    "skills": [
+      "Linux",
+      "DevOps",
+      "Cloud Computing",
+      "High Performance Computing",
+      "Networking",
+      "Troubleshooting",
+      "Monitoring",
+      "Machine Learning",
+      "Data Science"
+    ]
+  },
+  {
+    "uid": "1504",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "field": "Computer Science",
+        "institution": "Holon Institute of Technology",
+        "year_completed": 2021
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer & developer",
+        "company": "Cognyte",
+        "start_date": "2022-03-01",
+        "end_date": null,
+        "skills": [
+          "DevOps",
+          "Python"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "Network Technical Specialist",
+        "company": "Partner Israel",
+        "start_date": "2016-10-01",
+        "end_date": "2020-04-30",
+        "skills": [
+          "Network Configuration",
+          "VoIP",
+          "ISP infrastructure"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "Tier 2 Support",
+        "company": "Partner Israel",
+        "start_date": "2016-10-01",
+        "end_date": "2020-04-30",
+        "skills": [
+          "SIP/PRI voice solutions",
+          "Network and security equipment",
+          "Office 365",
+          "DNS management"
+        ]
+      },
+      {
+        "job_id": "004",
+        "title": "Tier 1 Support",
+        "company": "Partner Israel",
+        "start_date": "2016-10-01",
+        "end_date": "2020-04-30",
+        "skills": [
+          "VoIP solutions",
+          "IP-Phones",
+          "SDH/Metro Networks"
+        ]
+      },
+      {
+        "job_id": "005",
+        "title": "Helpdesk",
+        "company": "Calanit",
+        "start_date": "2016-01-01",
+        "end_date": "2016-10-01",
+        "skills": [
+          "Technical Support",
+          "Software and Hardware Support"
+        ]
+      }
+    ],
+    "skills": [
+      "DevOps",
+      "Python"
+    ]
+  },
+  {
+    "uid": "1505",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "High School",
+        "field": "",
+        "institution": "Shamir High School",
+        "year_completed": 2018
+      },
+      {
+        "degree": "Bachelor of Engineering",
+        "field": "Computer Engineering",
+        "institution": "iNT college - Institute of Innovation & Technology",
+        "year_completed": 2024
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Octopus Systems",
+        "start_date": "2024-05-01",
+        "end_date": null,
+        "skills": [
+          "Grafana",
+          "Ubuntu",
+          "DevOps"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "Installation Specialist",
+        "company": "Verifone",
+        "start_date": "2024-07-01",
+        "end_date": null,
+        "skills": [
+          "Microsoft SQL Server",
+          "SQL"
+        ]
+      }
+    ],
+    "skills": [
+      "GitHub",
+      "Ubuntu",
+      "DevOps"
+    ]
+  },
+  {
+    "uid": "1506",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "High School",
+        "field": "",
+        "institution": "Shamir High School",
+        "year_completed": 2018
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Nova Ltd.",
+        "start_date": "2022-10-01",
+        "end_date": null,
+        "skills": [
+          "DevOps",
+          "Infrastructure as code (IaC)"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "DevOps Developer",
+        "company": "NCR Corporation",
+        "start_date": "2016-09-01",
+        "end_date": "2022-10-01",
+        "skills": [
+          "Infrastructure as code (IaC)",
+          "Ansible"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "Software Developer",
+        "company": "EntryPoint",
+        "start_date": "2012-11-01",
+        "end_date": "2022-10-01",
+        "skills": [
+          ".NET Core",
+          ".NET Framework"
+        ]
+      },
+      {
+        "job_id": "004",
+        "title": "C# Developer",
+        "company": "CAST TIME",
+        "start_date": "2010-12-01",
+        "end_date": "2012-10-01",
+        "skills": [
+          "C#",
+          "Silverlight"
+        ]
+      }
+    ],
+    "skills": [
+      "Jenkins",
+      "DevOps",
+      "ASP.NET Core"
+    ]
+  },
+  {
+    "uid": "1507",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Other / Unknown",
+        "field": "Networking",
+        "institution": "John Bryce",
+        "year_completed": 2019
+      },
+      {
+        "degree": "Other / Unknown",
+        "field": "Computer Science",
+        "institution": "ORT Colleges",
+        "year_completed": 2016
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Cloudride",
+        "start_date": "2022-07-01",
+        "end_date": null,
+        "skills": [
+          "Terraform",
+          "CloudFormation",
+          "Jenkins",
+          "Git",
+          "AWS",
+          "Kubernetes",
+          "Docker",
+          "Helm",
+          "CI/CD"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "Technical Support",
+        "company": "Bezeq",
+        "start_date": "2020-05-01",
+        "end_date": "2021-12-01",
+        "skills": [
+          "Juniper Networks",
+          "Cisco Routers",
+          "Networking"
+        ]
+      }
+    ],
+    "licenses_and_certifications": [
+      {
+        "certificate": "AWS Certified Solutions Architect – Professional",
+        "issuer": "Amazon Web Services",
+        "issue_date": "2023-07-01",
+        "expiration_date": "2026-07-01"
+      },
+      {
+        "certificate": "AWS Certified Solutions Architect – Associate",
+        "issuer": "Amazon Web Services",
+        "issue_date": "2022-08-01",
+        "expiration_date": "2025-08-01"
+      }
+    ],
+    "skills": [
+      "Finops",
+      "Datadog",
+      "Kubernetes",
+      "Linux",
+      "Shell scripts",
+      "Ansible",
+      "Jenkins",
+      "AWS",
+      "K8s",
+      "Terraform"
+    ]
+  },
+  {
+    "uid": "1508",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Certificate",
+        "field": "Expert Software Development",
+        "institution": "Sela College",
+        "year_completed": 2020
+      },
+      {
+        "degree": "Other / Unknown",
+        "field": "Cinematography",
+        "institution": "Tel Aviv University",
+        "year_completed": 2017
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "UBS",
+        "start_date": "2021-11-01",
+        "end_date": null,
+        "skills": [
+          "Automation",
+          "Azure",
+          "DevOps"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "Technical Support Specialist",
+        "company": "Practi",
+        "start_date": "2021-04-01",
+        "end_date": "2021-11-01",
+        "skills": [
+          "Technical Support"
+        ]
+      }
+    ],
+    "skills": [
+      "Automation",
+      "JavaScript",
+      "Azure",
+      "DevOps"
+    ]
+  },
+  {
+    "uid": "1509",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "field": "Software Engineering",
+        "institution": "Braude Academic College",
+        "year_completed": 2021
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Amdocs",
+        "start_date": "2023-06-01",
+        "end_date": null,
+        "skills": [
+          "Kubernetes",
+          "Couchbase",
+          "Cloud Computing",
+          "Problem-Solving"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "Back End Developer",
+        "company": "Amdocs",
+        "start_date": "2021-09-01",
+        "end_date": "2023-06-01",
+        "skills": [
+          "Azure",
+          "Java",
+          "Teamwork",
+          "Time Management"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "System Administrator",
+        "company": "SEGEV Communication Solutions",
+        "start_date": "2017-03-01",
+        "end_date": "2021-09-01",
+        "part_time": true,
+        "skills": [
+          "Linux",
+          "SQL",
+          "Customer Service",
+          "Leadership"
+        ]
+      }
+    ],
+    "skills": [
+      "Kubernetes",
+      "Couchbase",
+      "Azure",
+      "Java",
+      "Linux",
+      "SQL",
+      "Cloud Computing",
+      "Problem-Solving",
+      "Teamwork",
+      "Time Management",
+      "Customer Service",
+      "Leadership"
+    ]
+  },
+  {
+    "uid": "1510",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "High School",
+        "field": "Non-Profit/Public/Organizational Management",
+        "institution": "ORT Colleges",
+        "year_completed": 2023
+      },
+      {
+        "degree": "Other / Unknown",
+        "field": "DevOps Engineering",
+        "institution": "ORT Colleges",
+        "year_completed": 2022
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Silverfort",
+        "start_date": "2024-07-01",
+        "end_date": null,
+        "skills": [
+          "CI/CD",
+          "DevOps"
+        ]
+      }
+    ],
+    "skills": [
+      "CI/CD",
+      "Python",
+      "Bash",
+      "MySQL"
+    ]
+  },
+  {
+    "uid": "1511",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Other / Unknown",
+        "field": "DevOps Engineering",
+        "institution": "ORT Colleges",
+        "year_completed": 2022
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "develeap",
+        "start_date": "2024-05-01",
+        "end_date": null,
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "Terraform",
+          "Bash",
+          "Docker"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "Process Technician",
+        "company": "Intel Corporation",
+        "start_date": "2018-05-01",
+        "end_date": "2023-05-01",
+        "skills": [
+          "Process Optimization",
+          "Manufacturing"
+        ]
+      }
+    ],
+    "skills": [
+      "AWS",
+      "Kubernetes",
+      "Terraform",
+      "Bash",
+      "Docker",
+      "Process Optimization"
+    ],
+    "licenses": [
+      {
+        "title": "AWS Certified Solutions Architect – Associate",
+        "issuer": "Amazon Web Services",
+        "issued": "2024-07-01",
+        "expires": "2027-07-01"
+      },
+      {
+        "title": "CKA: Certified Kubernetes Administrator",
+        "issuer": "The Linux Foundation",
+        "issued": "2024-06-01",
+        "expires": "2026-06-01"
+      }
+    ]
+  },
+  {
+    "uid": "1512",
+    "label": "Devops Engineer",
+    "education": [],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Check Point Software",
+        "start_date": "Present",
+        "end_date": null,
+        "skills": [
+          "DevOps",
+          "Cloud Security",
+          "Kubernetes",
+          "Automation"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "System and Board Bring-Up Engineer",
+        "company": "Mellanox Technologies",
+        "start_date": "2015-07-01",
+        "end_date": "2019-08-01",
+        "skills": [
+          "System Engineering",
+          "Hardware Integration",
+          "Linux",
+          "Networking"
+        ]
+      }
+    ],
+    "skills": [
+      "DevOps",
+      "Cloud Security",
+      "Kubernetes",
+      "Automation",
+      "System Engineering",
+      "Hardware Integration",
+      "Linux",
+      "Networking"
+    ]
+  },
+  {
+    "uid": "1513",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Other / Unknown",
+        "field": "Software and Information Systems Engineering",
+        "school": "Ben-Gurion University of the Negev",
+        "start_date": "2018-09-01",
+        "end_date": "2022-07-01"
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "CLEW",
+        "start_date": "2022-10-01",
+        "end_date": null,
+        "skills": [
+          "DevOps",
+          "Automation",
+          "CI/CD",
+          "Cloud"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "System Administrator",
+        "company": "Escrow Global",
+        "start_date": "2019-08-01",
+        "end_date": "2022-10-01",
+        "skills": [
+          "Python",
+          "PowerShell",
+          "Bash",
+          "AWS",
+          "Azure",
+          "Docker",
+          "Networking",
+          "Server Maintenance"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "IT Support Technician",
+        "company": "Tzomet Sfarim",
+        "start_date": "2015-10-01",
+        "end_date": "2016-09-01",
+        "skills": [
+          "Technical Support",
+          "Server Backup Systems",
+          "SAP Database Management"
+        ]
+      },
+      {
+        "job_id": "004",
+        "title": "Help Desk",
+        "company": "GRE",
+        "start_date": "2013-06-01",
+        "end_date": "2015-07-01",
+        "skills": [
+          "Technical Support",
+          "Hardware Support",
+          "Networking"
+        ]
+      }
+    ],
+    "skills": [
+      "DevOps",
+      "Automation",
+      "CI/CD",
+      "Cloud",
+      "Python",
+      "PowerShell",
+      "Bash",
+      "AWS",
+      "Azure",
+      "Docker",
+      "Networking",
+      "Server Maintenance",
+      "Technical Support",
+      "SAP Database Management"
+    ]
+  },
+  {
+    "uid": "1514",
+    "label": "Devops Engineer",
+    "education": [],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "JFrog",
+        "start_date": "2022-05-01",
+        "end_date": null,
+        "skills": [
+          "Bash",
+          "Pipelines"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "Software Developer",
+        "company": "Western Digital",
+        "start_date": "2017-09-01",
+        "end_date": "2022-05-01",
+        "skills": [
+          "PowerShell"
+        ]
+      }
+    ],
+    "skills": [
+      "Bash",
+      "Pipelines",
+      "PowerShell"
+    ]
+  },
+  {
+    "uid": "1515",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Other / Unknown",
+        "field_of_study": "Computer Science",
+        "school": "The Open University of Israel",
+        "start_date": "2019-01-01",
+        "end_date": "2023-12-31"
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "MDClone",
+        "start_date": "2025-04-01",
+        "end_date": null
+      },
+      {
+        "job_id": "002",
+        "title": "DevOps Specialist",
+        "company": "Bynet Data Communications",
+        "start_date": "2020-08-01",
+        "end_date": "2025-04-01"
+      }
+    ],
+    "certifications": [
+      {
+        "certification": "Cisco Certified Network Associate",
+        "organization": "Cisco",
+        "issue_date": "2020-01-01",
+        "expiry_date": "2023-07-01"
+      },
+      {
+        "certification": "Cisco Certified Network Associate Routing and Switching (CCNA)",
+        "organization": "Cisco",
+        "issue_date": "2020-01-01",
+        "expiry_date": "2023-07-01"
+      }
+    ],
+    "skills": [
+      "Cisco Certified",
+      "Routing"
+    ]
+  },
+  {
+    "uid": "1516",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Certificate",
+        "field": "Networking",
+        "institution": "IITC",
+        "year_completed": 2021
+      },
+      {
+        "degree": "Other / Unknown",
+        "field": "Networking",
+        "institution": "IITC",
+        "year_completed": 2022
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "Information Technology Manager",
+        "company": "Cellwize",
+        "start_date": "2021-01-01",
+        "end_date": null,
+        "skills": [
+          "AWS",
+          "Server Administration",
+          "Network Engineering"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "Network Engineer",
+        "company": "LivePerson",
+        "start_date": "2017-12-01",
+        "end_date": "2020-12-01",
+        "skills": [
+          "AWS",
+          "LAN-WAN",
+          "Network Engineering"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "System Administrator",
+        "company": "LivePerson",
+        "start_date": "2017-07-01",
+        "end_date": "2020-12-01",
+        "skills": [
+          "AWS",
+          "Windows",
+          "System Administration"
+        ]
+      }
+    ],
+    "skills": [
+      "AWS",
+      "Server Administration",
+      "Network Engineering",
+      "Windows"
+    ]
+  },
+  {
+    "uid": "1517",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Other / Unknown",
+        "field": "Engineering",
+        "institution": "Afeka Tel Aviv Academic College of Engineering",
+        "year_completed": 2016
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "CyberArk",
+        "start_date": "2021-04-01",
+        "end_date": null,
+        "skills": [
+          "CI/CD pipelines",
+          "Jenkins",
+          "AWS",
+          "Azure",
+          "Python",
+          "Groovy",
+          "Bash",
+          "PowerShell"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "Software Infrastructure Developer",
+        "company": "Orbotech",
+        "start_date": "2018-05-01",
+        "end_date": "2021-04-01",
+        "skills": [
+          "CI/CD",
+          "Jenkins",
+          "CMake",
+          "Python",
+          "Bash"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "Software QA",
+        "company": "Orbotech",
+        "start_date": "2016-08-01",
+        "end_date": "2018-05-01",
+        "skills": [
+          "Automation Testing",
+          "Python",
+          "Bash"
+        ]
+      },
+      {
+        "job_id": "004",
+        "title": "Helpdesk Support",
+        "company": "Bezeq International",
+        "start_date": "2007-07-01",
+        "end_date": "2013-10-01",
+        "skills": [
+          "Customer Support",
+          "Networking"
+        ]
+      }
+    ],
+    "skills": [
+      "CI/CD",
+      "Jenkins",
+      "AWS",
+      "Azure",
+      "Python",
+      "Groovy",
+      "Bash",
+      "PowerShell",
+      "CMake",
+      "Automation Testing",
+      "Networking"
+    ]
+  },
+  {
+    "uid": "1518",
+    "label": "Devops Engineer",
+    "education": [],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Tomax Technology",
+        "start_date": "2022-11-01",
+        "end_date": null,
+        "skills": [
+          "Jenkins",
+          "Continuous Integration",
+          "Linux"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "DevOps Engineer",
+        "company": "Rafael Advanced Defense Systems",
+        "start_date": null,
+        "end_date": null,
+        "skills": [
+          "Jenkins",
+          "Continuous Integration"
+        ]
+      }
+    ],
+    "skills": [
+      "Jenkins",
+      "Continuous Integration",
+      "Linux"
+    ]
+  },
+  {
+    "uid": "1519",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Bachelor of Engineering",
+        "field": "Computer software engineering",
+        "institution": "Technion - Israel Institute of technology",
+        "year_completed": 2011
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Arineta Ltd.",
+        "start_date": "2022-02-01",
+        "end_date": null,
+        "skills": [
+          "Terraform",
+          "AWS",
+          "Jenkins",
+          "Azure DevOps",
+          "PowerShell",
+          "Bash",
+          "Git",
+          "Docker",
+          "CI/CD",
+          "Cybersecurity"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "DevOps Engineer",
+        "company": "GE Healthcare",
+        "start_date": "2020-04-01",
+        "end_date": "2022-02-01",
+        "skills": [
+          "CI/CD",
+          "Cloud onboarding",
+          "Product auto deployment",
+          "R&D",
+          "Automation"
+        ]
+      }
+    ],
+    "skills": [
+      "Terraform",
+      "AWS",
+      "Jenkins",
+      "Azure DevOps",
+      "PowerShell",
+      "Bash",
+      "Git",
+      "Docker",
+      "CI/CD",
+      "Cybersecurity"
+    ]
+  },
+  {
+    "uid": "1520",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Bachelor of Engineering",
+        "field": "Computer Engineering",
+        "institution": "Ruppin Academic Center",
+        "year_completed": null
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Leadspace",
+        "start_date": "2019-01-01",
+        "end_date": null,
+        "skills": [
+          "Linux",
+          "CI/CD",
+          "Ansible",
+          "Jenkins",
+          "AWS",
+          "GitLab",
+          "Production deployment",
+          "Maintenance"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "DevOps Engineer",
+        "company": "Ezugi",
+        "start_date": "2018-02-01",
+        "end_date": "2018-12-01",
+        "skills": [
+          "Ansible",
+          "GitLab",
+          "CI/CD",
+          "Jenkins",
+          "Production deployment",
+          "Support"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "DevOps & Developer (PHP & Python)",
+        "company": "Teridion",
+        "start_date": "2016-12-01",
+        "end_date": "2018-02-01",
+        "skills": [
+          "Python",
+          "PHP",
+          "MySQL",
+          "Linux",
+          "Cloud environments",
+          "REST API",
+          "Automation"
+        ]
+      },
+      {
+        "job_id": "004",
+        "title": "IT Linux expert & VoIP & PHP Developer & MySQL",
+        "company": "TradeFXL",
+        "start_date": "2013-01-01",
+        "end_date": "2016-12-01",
+        "skills": [
+          "Linux",
+          "MySQL",
+          "PHP",
+          "VoIP",
+          "Asterisk",
+          "Automation",
+          "Zabbix",
+          "Nagios",
+          "Bash"
+        ]
+      },
+      {
+        "job_id": "005",
+        "title": "System, IT, Support, Software R&D Engineer - Linux Asterisk",
+        "company": "VoiceSpin",
+        "start_date": "2008-01-01",
+        "end_date": "2010-01-01",
+        "skills": [
+          "Linux",
+          "UNIX",
+          "VoIP",
+          "Asterisk",
+          "MySQL",
+          "Network",
+          "SIP",
+          "Nagios",
+          "Zabbix",
+          "Python",
+          "Perl",
+          "PHP"
+        ]
+      }
+    ],
+    "skills": [
+      "Linux",
+      "CI/CD",
+      "Ansible",
+      "Jenkins",
+      "AWS",
+      "GitLab",
+      "Python",
+      "PHP",
+      "MySQL",
+      "Automation",
+      "VoIP",
+      "Asterisk",
+      "Zabbix",
+      "Nagios",
+      "Bash"
+    ]
+  },
+  {
+    "uid": "1521",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Bachelor of Engineering",
+        "field": "Electronics Engineer",
+        "institution": "National Aerospace University -'Kharkiv Aviation Institute'",
+        "year_completed": 1999
+      },
+      {
+        "degree": "Other / Unknown",
+        "institution": "Kharkiv National University of Radio Electronics",
+        "year_completed": 2006
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "floLIVE",
+        "start_date": "2023-06-01",
+        "end_date": null,
+        "skills": [
+          "Amazon EKS",
+          "Terraform",
+          "IntelliJ IDEA",
+          "Lens",
+          "CloudWatch",
+          "Opensearch",
+          "Kubernetes"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "Head of Customer Service Department",
+        "company": "VAIR Company LLC",
+        "start_date": "2010-06-01",
+        "end_date": null,
+        "skills": [
+          "Proxmox",
+          "Cisco Networking"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "Head of the Department for the Construction of Linear Communication Facilities",
+        "company": "WeAreNet",
+        "start_date": "2010-06-01",
+        "end_date": "2017-09-01",
+        "skills": [
+          "Proxmox",
+          "Nginx"
+        ]
+      },
+      {
+        "job_id": "004",
+        "title": "Head of IT Department",
+        "company": "LLC Ukrainian-Slovenian Joint Enterprise 'Monis'",
+        "start_date": "2004-12-01",
+        "end_date": "2010-06-01",
+        "skills": [
+          "Cisco Networking",
+          "Mikrotik",
+          "SIP Technologies"
+        ]
+      },
+      {
+        "job_id": "005",
+        "title": "Network Administrator",
+        "company": "Tandem plus\" LLC",
+        "start_date": "2001-11-01",
+        "end_date": "2004-12-01",
+        "skills": [
+          "Cisco Networking",
+          "Mikrotik"
+        ]
+      }
+    ],
+    "skills": [
+      "Amazon EKS",
+      "Terraform",
+      "IntelliJ IDEA",
+      "Lens",
+      "CloudWatch",
+      "Opensearch",
+      "Grafana",
+      "Prometheus",
+      "Zabbix",
+      "Clickhouse",
+      "Postgres",
+      "MariaDB",
+      "VMWare",
+      "Proxmox",
+      "Cisco Networking",
+      "Mikrotik",
+      "Nginx",
+      "Linux",
+      "Windows",
+      "SIP Technologies"
+    ]
+  },
+  {
+    "uid": "1522",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "field": "Information Systems, Cyber specialization",
+        "institution": "Ramat Gan Academic College",
+        "year_completed": 2023
+      },
+      {
+        "degree": "Other / Unknown",
+        "institution": "Develeap",
+        "year_completed": 2024
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Jeen.ai",
+        "start_date": "2024-07-01",
+        "end_date": null,
+        "skills": [
+          "Microsoft Azure",
+          "Azure SQL",
+          "Kubernetes",
+          "AWS"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "IT Support Technician",
+        "company": "Femi",
+        "start_date": "2022-01-01",
+        "end_date": "2024-07-01",
+        "skills": [
+          "IT Support"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "Help Desk Specialist",
+        "company": "Femi",
+        "start_date": "2022-07-01",
+        "end_date": "2023-12-01",
+        "skills": [
+          "Help Desk Support"
+        ]
+      }
+    ],
+    "skills": [
+      "Microsoft Azure",
+      "Azure SQL",
+      "DevOps",
+      "AWS",
+      "Kubernetes"
+    ]
+  },
+  {
+    "uid": "1523",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "field": "Information Systems, Cyber specialization",
+        "institution": "Ramat Gan Academic College",
+        "year_completed": 2023
+      },
+      {
+        "degree": "Other / Unknown",
+        "institution": "Develeap",
+        "year_completed": 2024
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Amdocs",
+        "start_date": "2022-04-01",
+        "end_date": "2023-09-01",
+        "skills": [
+          "Linux",
+          "Python",
+          "DevOps"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "DevOps Engineer",
+        "company": "DeviceTotal",
+        "start_date": "2021-04-01",
+        "end_date": "2022-04-01",
+        "skills": [
+          "DevOps",
+          "Linux"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "DevOps Engineer",
+        "company": "Project Circle",
+        "start_date": "2020-01-01",
+        "end_date": "2021-04-01",
+        "skills": [
+          "DevOps",
+          "Linux"
+        ]
+      },
+      {
+        "job_id": "004",
+        "title": "PHP Developer",
+        "company": "Innstant Travel",
+        "start_date": "2016-02-01",
+        "end_date": "2017-03-01",
+        "skills": [
+          "PHP",
+          "Web Development"
+        ]
+      },
+      {
+        "job_id": "005",
+        "title": "DevOps Engineer",
+        "company": "AvantisTeam",
+        "start_date": "2014-03-01",
+        "end_date": "2016-01-01",
+        "skills": [
+          "DevOps",
+          "Linux"
+        ]
+      }
+    ],
+    "skills": [
+      "Linux",
+      "Python",
+      "DevOps",
+      "PHP"
+    ]
+  },
+  {
+    "uid": "1524",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Other / Unknown",
+        "field": "Economy and Business Management",
+        "institution": "The Open University of Israel",
+        "year_completed": 2018
+      },
+      {
+        "degree": "High School",
+        "field": "Psychology and Sociology",
+        "institution": "Ora Modi'im High School",
+        "year_completed": 2008
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "AllCloud",
+        "start_date": "2021-06-01",
+        "end_date": null,
+        "skills": [
+          "AWS",
+          "Terraform",
+          "AWS CDK",
+          "CloudFormation",
+          "GitHub Actions",
+          "GitLab CI",
+          "EKS",
+          "Helm",
+          "ArgoCD",
+          "Cluster Auto-scalers",
+          "Karpenter"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "Linux System Administrator",
+        "company": "SAP / GSR IT",
+        "start_date": "2020-01-01",
+        "end_date": "2021-06-01",
+        "skills": [
+          "RHEL",
+          "SUSE",
+          "Ubuntu",
+          "Bash scripts",
+          "Zabbix"
+        ]
+      }
+    ],
+    "skills": [
+      "AWS",
+      "Terraform",
+      "AWS CDK",
+      "CloudFormation",
+      "GitHub Actions",
+      "GitLab CI",
+      "EKS",
+      "Helm",
+      "ArgoCD",
+      "Cluster Auto-scalers",
+      "Karpenter",
+      "RHEL",
+      "SUSE",
+      "Ubuntu",
+      "Bash scripts",
+      "Zabbix"
+    ]
+  },
+  {
+    "uid": "1525",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "field": "Computer Science",
+        "institution": "Bar-Ilan University",
+        "year_completed": 2022
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "KayHut",
+        "start_date": "2022-06-01",
+        "end_date": null,
+        "skills": [
+          "Git",
+          "Python",
+          "Terraform",
+          "Amazon Web Services (AWS)"
+        ]
+      }
+    ],
+    "skills": [
+      "Git",
+      "Python",
+      "Terraform",
+      "Amazon Web Services (AWS)"
+    ]
+  },
+  {
+    "uid": "1525",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Other / Unknown",
+        "field": "Programming",
+        "institution": "IDF - Programming School (Mamram)",
+        "year_completed": 2013
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Electreon",
+        "start_date": "2021-01-01",
+        "end_date": null,
+        "skills": [
+          "Java",
+          "Git"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "Backend Developer",
+        "company": "Electreon",
+        "start_date": "2020-11-01",
+        "end_date": "2021-01-01",
+        "skills": [
+          "Java",
+          "Linux",
+          "Git"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "Senior Backend Developer",
+        "company": "Israeli Air Force",
+        "start_date": "2017-04-01",
+        "end_date": "2019-04-01",
+        "skills": [
+          "Java",
+          "Vertex",
+          "Linux (RHEL)",
+          "Docker",
+          "Bamboo",
+          "Git"
+        ]
+      },
+      {
+        "job_id": "004",
+        "title": "Backend Developer",
+        "company": "Israeli Air Force",
+        "start_date": "2013-10-01",
+        "end_date": "2017-04-01",
+        "skills": [
+          "Java",
+          "RTI-DDS",
+          "Maven",
+          "Linux",
+          "Git"
+        ]
+      }
+    ],
+    "skills": [
+      "Java",
+      "Git",
+      "Linux",
+      "Docker",
+      "Bamboo",
+      "RTI-DDS",
+      "Maven",
+      "Vertex"
+    ]
+  },
+  {
+    "uid": "1526",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Bachelor of Arts",
+        "field": "Unknown",
+        "institution": "Ben-Gurion University of the Negev",
+        "year_completed": "2008"
+      },
+      {
+        "degree": "Business Master's",
+        "field": "Marketing",
+        "institution": "Peres Academic Center",
+        "year_completed": "2011"
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Wix.com",
+        "start_date": "2021-07-01",
+        "end_date": null,
+        "skills": [
+          "Linux",
+          "Bash",
+          "Python",
+          "Ruby",
+          "Cloud Computing",
+          "AWS",
+          "VMware",
+          "EC2",
+          "S3",
+          "EMR",
+          "Apache",
+          "Nginx",
+          "Tomcat",
+          "Jboss",
+          "SQL",
+          "NoSQL",
+          "Monitoring systems"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "DevOps Engineer",
+        "company": "Playtika",
+        "start_date": "2017-01-01",
+        "end_date": "2021-07-01",
+        "skills": [
+          "Linux",
+          "Bash",
+          "Python",
+          "Ruby",
+          "Cloud Computing",
+          "AWS",
+          "VMware",
+          "EC2",
+          "S3",
+          "EMR",
+          "Apache",
+          "Nginx",
+          "Tomcat",
+          "Jboss",
+          "SQL",
+          "NoSQL",
+          "Monitoring systems"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "Linux System Administrator",
+        "company": "SolarEdge Technologies",
+        "start_date": "2014-12-01",
+        "end_date": "2017-01-01",
+        "skills": [
+          "Linux",
+          "Cloud Computing",
+          "VMware",
+          "MySQL",
+          "Monitoring systems",
+          "Jboss",
+          "Apache",
+          "Nginx"
+        ]
+      },
+      {
+        "job_id": "004",
+        "title": "Linux System Administrator",
+        "company": "WeFi",
+        "start_date": "2011-07-01",
+        "end_date": "2014-12-01",
+        "skills": [
+          "Linux",
+          "Hadoop",
+          "Couchbase",
+          "MySQL",
+          "Apache",
+          "Nginx",
+          "VMware",
+          "AWS",
+          "EC2",
+          "S3",
+          "Cloud Computing"
+        ]
+      },
+      {
+        "job_id": "005",
+        "title": "IT Manager",
+        "company": "Hayat",
+        "start_date": "2009-12-01",
+        "end_date": "2011-07-01",
+        "skills": [
+          "DNS",
+          "DHCP",
+          "Active Directory",
+          "Windows"
+        ]
+      }
+    ],
+    "skills": [
+      "Linux",
+      "Bash",
+      "Python",
+      "Ruby",
+      "Cloud Computing",
+      "AWS",
+      "VMware",
+      "EC2",
+      "S3",
+      "EMR",
+      "Apache",
+      "Nginx",
+      "Tomcat",
+      "Jboss",
+      "SQL",
+      "NoSQL",
+      "Monitoring systems"
+    ]
+  },
+  {
+    "uid": "1527",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Other / Unknown",
+        "field": "Computer Science",
+        "institution": "ORT Colleges",
+        "year_completed": 2015
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "CloudBuzz",
+        "start_date": "2022-12-01",
+        "end_date": null,
+        "skills": [
+          "Docker",
+          "Project Management"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "System Administrator",
+        "company": "DONE (Previously known as Cleanbox)",
+        "start_date": "2021-10-01",
+        "end_date": "2022-12-01",
+        "skills": [
+          "Operating Systems",
+          "System Administration"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "System Administrator",
+        "company": "CleanBox Israel",
+        "start_date": "2019-03-01",
+        "end_date": "2020-04-01",
+        "skills": [
+          "System Administration"
+        ]
+      },
+      {
+        "job_id": "004",
+        "title": "Network Technician",
+        "company": "IDF - Israel Defence Forces",
+        "start_date": "2015-11-01",
+        "end_date": "2018-06-01",
+        "skills": [
+          "Network Management"
+        ]
+      }
+    ],
+    "skills": [
+      "Docker",
+      "Project Management",
+      "Operating Systems",
+      "System Administration",
+      "Network Management"
+    ]
+  },
+  {
+    "uid": "1528",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Other / Unknown",
+        "field": "Information Technology",
+        "institution": "National Metallurgical Academy of Ukraine",
+        "year_completed": null
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Genome",
+        "start_date": "2022-11-01",
+        "end_date": null,
+        "skills": [
+          "Zabbix",
+          "Prometheus",
+          "Grafana",
+          "Apache Hadoop",
+          "ElasticSearch",
+          "Kibana",
+          "Bash",
+          "Python",
+          "Puppet",
+          "Terraform",
+          "Nomad",
+          "Consul",
+          "Linux Server Management",
+          "Windows Server Administration",
+          "Proxmox",
+          "VMware"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "DevOps Engineer",
+        "company": "PrivatBank",
+        "start_date": "2021-05-01",
+        "end_date": "2022-11-01",
+        "skills": [
+          "Zabbix",
+          "Prometheus",
+          "Grafana",
+          "Terraform",
+          "Puppet",
+          "GitLab CI/CD",
+          "Jenkins"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "Lead System Administrator",
+        "company": "Simply Contact",
+        "start_date": "2019-10-01",
+        "end_date": "2021-05-01",
+        "skills": [
+          "Linux Server Administration",
+          "Network Administration",
+          "Web Servers (Apache, Nginx)",
+          "Database Management"
+        ]
+      }
+    ],
+    "skills": [
+      "Zabbix",
+      "Prometheus",
+      "Grafana",
+      "Apache Hadoop",
+      "ElasticSearch",
+      "Kibana",
+      "Bash",
+      "Python",
+      "Puppet",
+      "Terraform",
+      "Nomad",
+      "Consul",
+      "Linux Server Management",
+      "Windows Server Administration",
+      "Proxmox",
+      "VMware",
+      "GitLab CI/CD",
+      "Jenkins",
+      "Network Administration",
+      "Web Servers",
+      "Database Management"
+    ]
+  },
+  {
+    "uid": "1529",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Other / Unknown",
+        "field": "Information Technology",
+        "institution": "University of the Potomac",
+        "year_completed": null
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Delta Air Lines",
+        "start_date": "2022-03-01",
+        "end_date": null,
+        "skills": [
+          "GitHub Actions",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "Helm",
+          "Terraform",
+          "Ansible",
+          "Prometheus",
+          "Grafana",
+          "HashiCorp Vault"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "DevOps Engineer",
+        "company": "Allstate",
+        "start_date": "2019-11-01",
+        "end_date": "2022-02-28",
+        "skills": [
+          "Kubernetes",
+          "Helm",
+          "Terraform",
+          "AWS",
+          "Amazon Route 53"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "System Administrator",
+        "company": "Uline",
+        "start_date": "2017-10-01",
+        "end_date": "2019-09-30",
+        "skills": [
+          "Server Administration",
+          "Systems Management"
+        ]
+      }
+    ],
+    "skills": [
+      "GitHub Actions",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Helm",
+      "Terraform",
+      "Ansible",
+      "Prometheus",
+      "Grafana",
+      "HashiCorp Vault",
+      "Amazon Route 53",
+      "Server Administration",
+      "Systems Management"
+    ]
+  },
+  {
+    "uid": "1530",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "High School",
+        "field": null,
+        "institution": "Avicenna Tajik State Medical University",
+        "year_completed": null
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "CVS Health",
+        "start_date": "2020-01-01",
+        "end_date": "2022-06-30",
+        "skills": [
+          "AWS",
+          "Terraform",
+          "Kubernetes",
+          "Jenkins"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "DevOps Engineer",
+        "company": "Caterpillar Inc.",
+        "start_date": "2022-07-01",
+        "end_date": null,
+        "skills": [
+          "AWS",
+          "Terraform",
+          "Kubernetes",
+          "Jenkins"
+        ]
+      }
+    ],
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Kubernetes",
+      "Jenkins"
+    ]
+  },
+  {
+    "uid": 1531,
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Other / Unknown",
+        "institution": "Texas Southern University",
+        "start_date": "Aug 2011",
+        "end_date": "May 2017"
+      }
+    ],
+    "job_history": [
+      {
+        "role": "DevOps Engineer",
+        "company": "Ford Motor Company",
+        "location": "Dearborn, Michigan, United States",
+        "start_date": "Jun 2022",
+        "end_date": "Present",
+        "description": [
+          "Designed a hybrid cloud architecture with AWS and Azure using Direct Connect and ExpressRoute for seamless communication with zero downtime.",
+          "Implemented AWS Organizations with SCPs and Config to centrally manage accounts, enforcing policy-based restrictions and preventive/detective guardrails.",
+          "Migrated legacy applications to ECS using Docker and EKS for orchestration, improving uptime and reducing operational costs."
+        ]
+      },
+      {
+        "role": "DevOps Engineer",
+        "company": "Johnson & Johnson",
+        "location": "New Brunswick, New Jersey, United States (Remote)",
+        "start_date": "Apr 2018",
+        "end_date": "May 2022",
+        "description": [
+          "Managed CI/CD pipelines using Jenkins and GitLab for cloud-based applications hosted on AWS and Azure.",
+          "Automated multi-region deployments with Terraform and CloudFormation, streamlining development cycles and reducing provisioning errors.",
+          "Migrated legacy apps to AWS ECS, using Docker and AWS MSK."
+        ]
+      },
+      {
+        "role": "Junior DevOps Engineer",
+        "company": "Johnson & Johnson",
+        "location": "New Brunswick, New Jersey, United States (Remote)",
+        "start_date": "Jul 2017",
+        "end_date": "Mar 2018",
+        "description": [
+          "Supported an AWS data pipeline using Redshift, S3, and Lambda, enabling seamless high-volume processing and real-time business intelligence.",
+          "Participated in the implementation of a CI/CD pipeline with AWS CodePipeline, GitLab, and CodeBuild."
+        ]
+      }
+    ],
+    "certifications": [
+      {
+        "name": "AWS Certified Solutions Architect - Associate",
+        "issuer": "Amazon Web Services (AWS)",
+        "issued_date": "Jul 2024",
+        "expiry_date": "Jul 2027",
+        "credential_id": "f527db14ea7b40069128e0cd35053dda"
+      },
+      {
+        "name": "HashiCorp Certified Terraform Associate",
+        "issuer": "HashiCorp",
+        "issued_date": "Jul 2024"
+      }
+    ]
+  },
+  {
+    "uid": "1532",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Other / Unknown",
+        "field": "Computer Science",
+        "institution": "DeVry University",
+        "year_completed": null
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Ticketmaster",
+        "start_date": "2022-05-01",
+        "end_date": null,
+        "skills": [
+          "ELK",
+          "IPv4",
+          "Terraform",
+          "Git",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "Python",
+          "Continuous Integration & Continuous Delivery (CI&CD)",
+          "Automation",
+          "Container Orchestration",
+          "Containerization",
+          "GitHub",
+          "Grafana",
+          "Agile Methodologies"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "Site Reliability Engineer",
+        "company": "AHEAD",
+        "start_date": "2020-06-01",
+        "end_date": "2022-03-31",
+        "skills": [
+          "Python",
+          "Cloud Services",
+          "Jira",
+          "Release Management",
+          "AWS Lambda",
+          "Amazon EC2",
+          "AWS CloudFormation",
+          "Google Cloud Platform (GCP)",
+          "Linux",
+          "Google Kubernetes Engine (GKE)",
+          "Infrastructure as code (IaC)",
+          "Prometheus",
+          "Helm Charts",
+          "Disaster Recovery",
+          "Terraform",
+          "Ansible",
+          "AWS Identity and Access Management (AWS IAM)",
+          "Configuration Management"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "System Administrator",
+        "company": "Peaksoft",
+        "start_date": "2017-06-01",
+        "end_date": "2018-04-30",
+        "skills": [
+          "Agile / Trello / Scrum Methodologies",
+          "Working With Diverse Team",
+          "EC2 (Amazon Elastic Cloud Computing)",
+          "Bash",
+          "Client Orientation"
+        ]
+      }
+    ],
+    "skills": [
+      "ELK",
+      "IPv4",
+      "Terraform",
+      "Git",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Python",
+      "Continuous Integration & Continuous Delivery (CI&CD)",
+      "Automation",
+      "Container Orchestration",
+      "Containerization",
+      "GitHub",
+      "Grafana",
+      "Agile Methodologies",
+      "Cloud Services",
+      "Jira",
+      "Release Management",
+      "AWS Lambda",
+      "Amazon EC2",
+      "AWS CloudFormation",
+      "Google Cloud Platform (GCP)",
+      "Linux",
+      "Google Kubernetes Engine (GKE)",
+      "Infrastructure as code (IaC)",
+      "Prometheus",
+      "Helm Charts",
+      "Disaster Recovery",
+      "Ansible",
+      "AWS Identity and Access Management (AWS IAM)",
+      "Configuration Management",
+      "Agile / Trello / Scrum Methodologies",
+      "EC2 (Amazon Elastic Cloud Computing)",
+      "Bash",
+      "Client Orientation"
+    ]
+  },
+  {
+    "uid": "1533",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "field": "Information Technology",
+        "institution": "Governors State University",
+        "year_completed": 2019
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Oracle",
+        "start_date": "2022-04-01",
+        "end_date": null,
+        "skills": [
+          "Amazon Web Services (AWS)",
+          "System Administration",
+          "Kubernetes",
+          "DevOps"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "System Engineer",
+        "company": "Cerner Corporation",
+        "start_date": "2020-03-01",
+        "end_date": "2022-04-01",
+        "skills": [
+          "Linux System Administration"
+        ]
+      }
+    ],
+    "skills": [
+      "Amazon Web Services (AWS)",
+      "System Administration",
+      "Kubernetes",
+      "DevOps",
+      "Linux System Administration"
+    ]
+  },
+  {
+    "uid": "1534",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Other / Unknown",
+        "field": "Business Administration",
+        "institution": "City Colleges of Chicago-Harold Washington College",
+        "year_completed": 2021
+      },
+      {
+        "degree": "Other / Unknown",
+        "field": "Law",
+        "institution": "City Colleges of Chicago-Harry S Truman College",
+        "year_completed": 2020
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Code Lab Technology",
+        "start_date": "2019-01-01",
+        "end_date": null,
+        "skills": [
+          "Amazon Web Services (AWS)",
+          "Jenkins",
+          "Docker",
+          "Kubernetes",
+          "Git",
+          "Linux",
+          "MySQL",
+          "Cloudflare CDN"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "DevOps Engineer",
+        "company": "Blue Cross and Blue Shield of Illinois, Montana, New Mexico, Oklahoma & Texas",
+        "start_date": "2020-12-01",
+        "end_date": "2021-06-01",
+        "skills": [
+          "CI/CD",
+          "Jenkins",
+          "Azure",
+          "AWS CodeBuild",
+          "Docker",
+          "Kubernetes",
+          "Linux",
+          "Cloudflare CDN"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "DevOps Engineer",
+        "company": "Freelance",
+        "start_date": "2023-12-01",
+        "end_date": null,
+        "skills": [
+          "Amazon Web Services (AWS)",
+          "CI/CD",
+          "Docker",
+          "Kubernetes",
+          "Linux",
+          "Jenkins",
+          "Git",
+          "Azure",
+          "MySQL"
+        ]
+      }
+    ],
+    "skills": [
+      "Amazon Web Services (AWS)",
+      "Jenkins",
+      "Docker",
+      "Kubernetes",
+      "Git",
+      "Linux",
+      "MySQL",
+      "Cloudflare CDN",
+      "CI/CD",
+      "Azure",
+      "AWS CodeBuild",
+      "GitHub",
+      "Gitlab",
+      "Maven",
+      "Java",
+      "JavaScript",
+      "Tomcat",
+      "Apache"
+    ]
+  },
+  {
+    "uid": "1535",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Other / Unknown",
+        "field": "Computer Science",
+        "institution": "Irvine Valley College",
+        "year_completed": 2020
+      },
+      {
+        "degree": "Other / Unknown",
+        "field": "Computer Science",
+        "institution": "Saddleback College",
+        "year_completed": 2019
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Cableteque",
+        "start_date": "2023-03-01",
+        "end_date": null,
+        "skills": [
+          "AWS",
+          "Terraform",
+          "Puppet",
+          "VPC",
+          "EC2",
+          "IAM",
+          "EKS",
+          "AI frameworks",
+          "GitHub"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "Cloud and Operations Support Engineer",
+        "company": "Zadara",
+        "start_date": "2019-07-01",
+        "end_date": "2022-06-30",
+        "skills": [
+          "Zendesk",
+          "Firewalls",
+          "Cloud Security",
+          "Hybrid Cloud",
+          "AWS IAM",
+          "AWS SSO",
+          "Amazon EC2",
+          "Amazon VPC",
+          "Cloud Storage",
+          "Linux"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "Systems and Network Administrator",
+        "company": "BirchStreet Systems",
+        "start_date": "2015-04-01",
+        "end_date": "2019-06-30",
+        "skills": [
+          "Linux System Administration",
+          "Web Services",
+          "Git",
+          "Red Hat Linux",
+          "Cisco Networking",
+          "Enterprise Support"
+        ]
+      }
+    ],
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Puppet",
+      "VPC",
+      "EC2",
+      "IAM",
+      "EKS",
+      "AI frameworks",
+      "GitHub",
+      "Zendesk",
+      "Firewalls",
+      "Cloud Security",
+      "Hybrid Cloud",
+      "AWS IAM",
+      "AWS SSO",
+      "Amazon EC2",
+      "Amazon VPC",
+      "Cloud Storage",
+      "Linux",
+      "Linux System Administration",
+      "Web Services",
+      "Git",
+      "Red Hat Linux",
+      "Cisco Networking",
+      "Enterprise Support"
+    ]
+  },
+  {
+    "uid": "1536",
+    "label": "Devops Engineer",
+    "education": [],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "Senior DevOps Engineer",
+        "company": "Citadel Securities",
+        "start_date": "2021-03-01",
+        "end_date": null,
+        "skills": [
+          "Kubernetes",
+          "Ansible",
+          "Git",
+          "GitHub",
+          "Amazon Web Services (AWS)",
+          "Cloud Computing",
+          "AWS Lambda",
+          "Docker",
+          "Kubernetes",
+          "Amazon EKS",
+          "Terraform",
+          "Linux",
+          "AWS CloudFormation",
+          "AWS Command Line Interface (CLI)",
+          "DevOps",
+          "AWS Elastic Beanstalk"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "DevOps Engineer",
+        "company": "Exelon",
+        "start_date": "2018-03-01",
+        "end_date": "2021-02-28",
+        "skills": [
+          "Amazon Web Services (AWS)",
+          "Cloud Computing",
+          "AWS Lambda",
+          "AWS Identity and Access Management (AWS IAM)",
+          "Docker Swarm",
+          "Docker",
+          "Kubernetes",
+          "Amazon EKS",
+          "Terraform",
+          "Linux",
+          "AWS CloudFormation",
+          "AWS Command Line Interface (CLI)",
+          "DevOps",
+          "AWS Elastic Beanstalk"
+        ]
+      }
+    ],
+    "skills": [
+      "Kubernetes",
+      "Ansible",
+      "Git",
+      "GitHub",
+      "Amazon Web Services (AWS)",
+      "Cloud Computing",
+      "AWS Lambda",
+      "Docker",
+      "Kubernetes",
+      "Amazon EKS",
+      "Terraform",
+      "Linux",
+      "AWS CloudFormation",
+      "AWS Command Line Interface (CLI)",
+      "DevOps",
+      "AWS Elastic Beanstalk"
+    ]
+  },
+  {
+    "uid": "1537",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Master of Science",
+        "field": "Computer and Information Systems Security/Information Assurance",
+        "institution": "Pace University",
+        "year_completed": 2020
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "Cloud Engineer",
+        "company": "itworks",
+        "start_date": "2021-02-01",
+        "end_date": null,
+        "skills": [
+          "AWS",
+          "Linux",
+          "Python",
+          "Terraform",
+          "Docker",
+          "Kubernetes",
+          "Jenkins",
+          "Bitbucket",
+          "Ansible"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "System Administrator",
+        "company": "Streams Inc.",
+        "start_date": "2020-07-01",
+        "end_date": "2021-01-31",
+        "skills": [
+          "Red Hat Linux",
+          "Git",
+          "Ansible",
+          "Bitbucket"
+        ]
+      }
+    ],
+    "skills": [
+      "AWS",
+      "Linux",
+      "Python",
+      "Terraform",
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "Bitbucket",
+      "Ansible"
+    ]
+  },
+  {
+    "uid": "1538",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Master of Science",
+        "field": "Computer Science",
+        "institution": "Monroe University",
+        "year_completed": 2018
+      },
+      {
+        "degree": "Other / Unknown",
+        "field": "Electronics and communication engineering",
+        "institution": "Jawaharlal Nehru Technological University",
+        "year_completed": null
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "National Grid",
+        "start_date": "2020-11-01",
+        "end_date": null,
+        "skills": [
+          "Kubernetes",
+          "Microsoft Azure",
+          "Azure DevOps Services",
+          "Docker",
+          "Amazon Web Services (AWS)",
+          "DevOps",
+          "Linux",
+          "Shell Scripting",
+          "Terraform",
+          "Continuous Integration and Continuous Delivery (CI/CD)",
+          "Git",
+          "Jenkins"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "DevOps Engineer",
+        "company": "Fiserv",
+        "start_date": "2019-07-01",
+        "end_date": "2020-10-31",
+        "skills": [
+          "Kubernetes",
+          "Microsoft Azure",
+          "Azure DevOps Services",
+          "Docker",
+          "Amazon Web Services (AWS)",
+          "DevOps",
+          "Linux",
+          "Shell Scripting",
+          "Terraform",
+          "Continuous Integration and Continuous Delivery (CI/CD)",
+          "Git",
+          "Jenkins"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "Software Engineer",
+        "company": "Verizon",
+        "start_date": "2018-07-01",
+        "end_date": "2019-06-30",
+        "skills": [
+          "Software Development Life Cycle (SDLC)",
+          "GitHub",
+          "Maven",
+          "Sonarqube",
+          "Tomcat",
+          "Nexus",
+          "Nginx"
+        ]
+      }
+    ],
+    "skills": [
+      "Kubernetes",
+      "Microsoft Azure",
+      "Azure DevOps Services",
+      "Docker",
+      "Amazon Web Services (AWS)",
+      "DevOps",
+      "Linux",
+      "Shell Scripting",
+      "Terraform",
+      "Continuous Integration and Continuous Delivery (CI/CD)",
+      "Git",
+      "Jenkins",
+      "Software Development Life Cycle (SDLC)",
+      "GitHub",
+      "Maven",
+      "Sonarqube",
+      "Tomcat",
+      "Nexus",
+      "Nginx"
+    ]
+  },
+  {
+    "uid": "1539",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Other / Unknown",
+        "field": "Computer Science",
+        "institution": "Technion - Israel Institute of Technology",
+        "year_completed": 2013
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "Senior DevOps Engineer",
+        "company": "Samsung Research America (SRA)",
+        "start_date": "2022-01-01",
+        "end_date": "2024-09-01",
+        "skills": [
+          "AWS",
+          "Terraform",
+          "Jenkins",
+          "Docker",
+          "CI/CD"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "Senior DevOps Engineer",
+        "company": "Samsung Research America (SRA)",
+        "start_date": "2020-09-01",
+        "end_date": "2022-01-01",
+        "skills": [
+          "AWS",
+          "Terraform",
+          "Jenkins",
+          "Docker",
+          "CI/CD"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "Lead Site Reliability Engineer",
+        "company": "Pango",
+        "start_date": "2019-07-01",
+        "end_date": "2020-07-01",
+        "skills": [
+          "CI/CD",
+          "Docker",
+          "Terraform",
+          "Jenkins",
+          "AWS",
+          "Service Monitoring"
+        ]
+      },
+      {
+        "job_id": "004",
+        "title": "Site Reliability Engineer",
+        "company": "Pango",
+        "start_date": "2018-10-01",
+        "end_date": "2019-07-01",
+        "skills": [
+          "Docker",
+          "AWS",
+          "Terraform",
+          "Ansible",
+          "Prometheus",
+          "MySQL"
+        ]
+      },
+      {
+        "job_id": "005",
+        "title": "DevOps Engineer",
+        "company": "Cydersoft",
+        "start_date": "2016-10-01",
+        "end_date": "2018-09-01",
+        "skills": [
+          "AWS",
+          "Ansible",
+          "Packer",
+          "Grafana",
+          "Prometheus",
+          "ClickHouse"
+        ]
+      },
+      {
+        "job_id": "006",
+        "title": "IT Operations Engineer",
+        "company": "iMesh",
+        "start_date": "2014-02-01",
+        "end_date": "2015-04-01",
+        "skills": [
+          "AWS",
+          "Linux",
+          "Automation",
+          "Security",
+          "DNS",
+          "Backup"
+        ]
+      },
+      {
+        "job_id": "007",
+        "title": "IT Operations Engineer",
+        "company": "Competera",
+        "start_date": "2013-02-01",
+        "end_date": "2014-12-01",
+        "skills": [
+          "AWS",
+          "Ansible",
+          "CloudWatch",
+          "Git"
+        ]
+      }
+    ],
+    "skills": [
+      "AWS",
+      "Docker",
+      "Terraform",
+      "Jenkins",
+      "Prometheus",
+      "MySQL",
+      "CI/CD",
+      "Ansible",
+      "Grafana",
+      "Python",
+      "Shell Scripting"
+    ]
+  },
+  {
+    "uid": "1540",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Other / Unknown",
+        "field": "Computer Science",
+        "institution": "Unixtrainings",
+        "year_completed": 2016
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "Senior DevOps Engineer",
+        "company": "Data Service Group",
+        "start_date": "2017-10-01",
+        "end_date": null,
+        "skills": [
+          "CI/CD",
+          "Source Code Management",
+          "Troubleshooting",
+          "Linux Operating Systems",
+          "AWS",
+          "Terraform",
+          "Jenkins",
+          "Ansible",
+          "GKE",
+          "Cluster Creation",
+          "Problem Solving"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "Senior Linux System Administrator",
+        "company": "Data Service Group",
+        "start_date": "2015-01-01",
+        "end_date": "2017-10-01",
+        "skills": [
+          "Linux Operating Systems",
+          "Troubleshooting",
+          "Application Monitoring",
+          "Network Configuration",
+          "Proxy Servers",
+          "Firewalls",
+          "Security Policies",
+          "Bash Scripting",
+          "Agile Environment"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "Information Technology Help Desk Technician",
+        "company": "EUREKA SUPPORT LLC",
+        "start_date": "2012-05-01",
+        "end_date": "2014-09-01",
+        "skills": [
+          "System Maintenance",
+          "Software Updates",
+          "Support",
+          "Troubleshooting",
+          "Hardware Problems"
+        ]
+      }
+    ],
+    "skills": [
+      "CI/CD",
+      "Source Code Management",
+      "Troubleshooting",
+      "Linux Operating Systems",
+      "AWS",
+      "Terraform",
+      "Jenkins",
+      "Ansible",
+      "GKE",
+      "Cluster Creation",
+      "Problem Solving",
+      "Application Monitoring",
+      "Network Configuration",
+      "Proxy Servers",
+      "Firewalls",
+      "Security Policies",
+      "Bash Scripting",
+      "Agile Environment",
+      "Docker",
+      "Virtualization",
+      "Jira",
+      "Prometheus.io",
+      "Grafana",
+      "PHP",
+      "HAProxy",
+      "Confluence",
+      "Cloud Services",
+      "Team Spirit",
+      "Oracle VirtualBox"
+    ]
+  },
+  {
+    "uid": "1541",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "field": "Economics",
+        "institution": "ADA University",
+        "year_completed": null
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Travelers",
+        "start_date": "2022-01-01",
+        "end_date": null,
+        "skills": [
+          "Terraform",
+          "Kubernetes",
+          "AWS",
+          "GCP",
+          "Ansible",
+          "Helm Charts",
+          "ArgoCD",
+          "Docker",
+          "HashiCorp Vault",
+          "Datadog",
+          "CI/CD"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "Cloud Engineer",
+        "company": "American Express",
+        "start_date": "2020-03-01",
+        "end_date": "2022-01-01",
+        "skills": [
+          "Terraform",
+          "AWS",
+          "Ansible",
+          "Load Balancing",
+          "AWS EC2",
+          "S3",
+          "RDS",
+          "VPC",
+          "Cloud Architecture"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "System Administrator",
+        "company": "Itron, Inc.",
+        "start_date": "2018-11-01",
+        "end_date": "2020-03-01",
+        "skills": [
+          "Ansible",
+          "Linux",
+          "System Administration"
+        ]
+      }
+    ],
+    "skills": [
+      "Terraform",
+      "Kubernetes",
+      "AWS",
+      "GCP",
+      "Ansible",
+      "Helm Charts",
+      "ArgoCD",
+      "Docker",
+      "HashiCorp Vault",
+      "Datadog",
+      "CI/CD",
+      "AWS EC2",
+      "S3",
+      "RDS",
+      "VPC",
+      "Linux"
+    ]
+  },
+  {
+    "uid": "1542",
+    "label": "Devops Engineer",
+    "education": [],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "EY Technology Solutions",
+        "start_date": "2022-01-01",
+        "end_date": null,
+        "skills": [
+          "Kubernetes",
+          "Terraform",
+          "Amazon Web Services (AWS)",
+          "Docker Products",
+          "Ansible"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "DevOps Engineer",
+        "company": "Itron, Inc.",
+        "start_date": "2019-09-01",
+        "end_date": "2021-12-31",
+        "skills": [
+          "Kubernetes",
+          "Terraform",
+          "Amazon Web Services (AWS)",
+          "Docker Products",
+          "Ansible"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "Cloud Engineer",
+        "company": "Amdocs",
+        "start_date": "2018-05-01",
+        "end_date": "2019-08-31",
+        "skills": [
+          "Kubernetes",
+          "Terraform",
+          "Amazon Web Services (AWS)",
+          "Docker Products",
+          "Ansible"
+        ]
+      }
+    ],
+    "skills": [
+      "Kubernetes",
+      "Terraform",
+      "Amazon Web Services (AWS)",
+      "Docker Products",
+      "Ansible"
+    ]
+  },
+  {
+    "uid": "1543",
+    "label": "Devops Engineer",
+    "education": [],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Red Hat",
+        "start_date": "2022-03-01",
+        "end_date": null,
+        "skills": [
+          "Jenkins",
+          "Docker",
+          "Kubernetes",
+          "Terraform",
+          "Ansible",
+          "Helm Charts",
+          "Git",
+          "ArgoCD"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "Jr DevOps Engineer",
+        "company": "Evolve Cyber",
+        "start_date": "2020-07-01",
+        "end_date": "2022-03-01",
+        "skills": [
+          "Jenkins",
+          "AWS",
+          "Terraform",
+          "Kubernetes",
+          "Docker",
+          "Ansible",
+          "CI/CD"
+        ]
+      }
+    ],
+    "skills": [
+      "Jenkins",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Ansible",
+      "GitHub Actions",
+      "AWS",
+      "Linux",
+      "CI/CD",
+      "ArgoCD"
+    ]
+  },
+  {
+    "uid": "1544",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Other / Unknown",
+        "field": "Petroleum Engineering",
+        "institution": "kazakh National Technical University",
+        "year_completed": 2008
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "EvolveCyber",
+        "start_date": "2021-06-01",
+        "end_date": null,
+        "skills": [
+          "AWS",
+          "Kubernetes",
+          "CI/CD",
+          "Terraform",
+          "Docker",
+          "Helm",
+          "Jenkins",
+          "Grafana",
+          "Prometheus",
+          "SonarQube",
+          "EKS",
+          "CloudWatch",
+          "Auto-scaling",
+          "IAM",
+          "VPC",
+          "Security Groups"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "DevOps Engineer",
+        "company": "KazMunayGas",
+        "start_date": "2020-01-01",
+        "end_date": "2021-05-01",
+        "skills": [
+          "AWS",
+          "Docker",
+          "Jenkins",
+          "Terraform",
+          "Kubernetes",
+          "Helm",
+          "Groovy",
+          "EC2",
+          "ECS",
+          "VPC",
+          "Security Groups"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "PACS Administrator",
+        "company": "QUANTUM PHYSICIANS PA",
+        "start_date": "2017-06-01",
+        "end_date": "2019-12-01",
+        "skills": []
+      },
+      {
+        "job_id": "004",
+        "title": "PACS Administrator",
+        "company": "Pioneer Research Solutions, Inc.",
+        "start_date": "2014-01-01",
+        "end_date": "2017-05-01",
+        "skills": []
+      },
+      {
+        "job_id": "005",
+        "title": "Diagnostic Medical Sonographer/Pacs Admin",
+        "company": "Universal Diagnostics",
+        "start_date": "2011-01-01",
+        "end_date": "2013-12-01",
+        "skills": []
+      }
+    ],
+    "skills": [
+      "AWS",
+      "Kubernetes",
+      "CI/CD",
+      "Terraform",
+      "Docker",
+      "Helm",
+      "Jenkins",
+      "Groovy",
+      "EKS",
+      "CloudWatch",
+      "Auto-scaling",
+      "IAM",
+      "VPC",
+      "Security Groups",
+      "EC2",
+      "ECS"
+    ]
+  },
+  {
+    "uid": "1545",
+    "label": "Devops Engineer",
+    "education": [],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Echo Global Logistics",
+        "start_date": "2020-11-01",
+        "end_date": null,
+        "skills": [
+          "Jenkins",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "AWS",
+          "Ansible",
+          "Linux",
+          "IaC",
+          "DevOps",
+          "Cloud Infrastructure",
+          "CI/CD"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "DevOps Engineer",
+        "company": "UnitedHealth Group",
+        "start_date": "2019-07-01",
+        "end_date": "2020-11-01",
+        "skills": [
+          "Jenkins",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "AWS",
+          "Ansible",
+          "Linux",
+          "IaC",
+          "DevOps",
+          "Cloud Infrastructure",
+          "CI/CD"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "Cloud Engineer",
+        "company": "XPO Logistics, Inc.",
+        "start_date": "2017-09-01",
+        "end_date": "2019-07-01",
+        "skills": [
+          "Jenkins",
+          "Kubernetes",
+          "Docker",
+          "Terraform",
+          "AWS",
+          "Ansible",
+          "Linux",
+          "IaC",
+          "Cloud Infrastructure"
+        ]
+      },
+      {
+        "job_id": "004",
+        "title": "Linux/Unix System Administrator",
+        "company": "Allstate",
+        "start_date": "2015-06-01",
+        "end_date": "2017-09-01",
+        "skills": [
+          "Linux",
+          "AWS",
+          "DevOps"
+        ]
+      }
+    ],
+    "skills": [
+      "Jenkins",
+      "Kubernetes",
+      "Docker",
+      "Terraform",
+      "AWS",
+      "Ansible",
+      "Linux",
+      "IaC",
+      "DevOps",
+      "Cloud Infrastructure",
+      "CI/CD"
+    ]
+  },
+  {
+    "uid": "1546",
+    "label": "Devops Engineer",
+    "education": [],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Acoustic",
+        "start_date": "2021-01-01",
+        "end_date": null,
+        "skills": [
+          "Kubernetes",
+          "AWS",
+          "Terraform",
+          "Docker",
+          "CI/CD",
+          "Prometheus",
+          "Grafana",
+          "EKS"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "Junior DevOps Engineer",
+        "company": "Innovid",
+        "start_date": "2019-07-01",
+        "end_date": "2021-01-01",
+        "skills": [
+          "AWS",
+          "Terraform",
+          "Jenkins",
+          "CI/CD",
+          "Prometheus",
+          "Grafana"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "Cloud Engineer",
+        "company": "Innovid",
+        "start_date": "2018-03-01",
+        "end_date": "2019-06-01",
+        "skills": [
+          "AWS",
+          "Terraform",
+          "VPC",
+          "EC2",
+          "RDS",
+          "DynamoDB",
+          "IAM",
+          "Security Groups"
+        ]
+      }
+    ],
+    "skills": [
+      "Kubernetes",
+      "Terraform",
+      "AWS",
+      "CI/CD",
+      "Docker",
+      "Prometheus",
+      "Grafana",
+      "Jenkins",
+      "GitHub",
+      "Python",
+      "Cloud Infrastructure",
+      "Automation",
+      "Linux",
+      "Scripting",
+      "Microservices"
+    ]
+  },
+  {
+    "uid": "1547",
+    "label": "Devops Engineer",
+    "education": [],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Egencia",
+        "start_date": "2021-03-01",
+        "end_date": null,
+        "skills": [
+          "Kubernetes",
+          "AWS",
+          "Terraform",
+          "CI/CD",
+          "GitHub Actions",
+          "Jenkins",
+          "Helm",
+          "Docker",
+          "DataDog"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "DevOps Engineer",
+        "company": "CDK Global",
+        "start_date": "2019-12-01",
+        "end_date": "2021-03-01",
+        "skills": [
+          "Kubernetes",
+          "AWS",
+          "Terraform",
+          "Docker",
+          "CI/CD",
+          "Security",
+          "Networking"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "Junior DevOps/Cloud Engineer",
+        "company": "CDK Global",
+        "start_date": "2018-07-01",
+        "end_date": "2019-12-01",
+        "skills": [
+          "AWS",
+          "Docker",
+          "Kubernetes",
+          "CI/CD",
+          "IaC"
+        ]
+      }
+    ],
+    "skills": [
+      "Kubernetes",
+      "AWS",
+      "Terraform",
+      "CI/CD",
+      "GitHub Actions",
+      "Jenkins",
+      "Helm",
+      "Docker",
+      "DataDog",
+      "Security",
+      "Networking",
+      "IaC"
+    ]
+  },
+  {
+    "uid": "1548",
+    "label": "Devops Engineer",
+    "education": [
+      {
+        "degree": "Bachelor of Arts",
+        "field": "Economics",
+        "institution": "Northeastern Illinois University",
+        "year_completed": 2009
+      }
+    ],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Capital One",
+        "start_date": "2020-04-01",
+        "end_date": null,
+        "skills": [
+          "Ansible",
+          "Kubernetes",
+          "AWS",
+          "Helm",
+          "Terraform",
+          "Jenkins",
+          "Linux",
+          "Python",
+          "Bash",
+          "Docker",
+          "Vagrant",
+          "Datadog",
+          "Grafana",
+          "Prometheus",
+          "Lens",
+          "EKS",
+          "ECR",
+          "Beanstalk"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "DevOps Engineer",
+        "company": "NRG Energy",
+        "start_date": "2018-01-01",
+        "end_date": "2020-03-31",
+        "skills": [
+          "AWS",
+          "Ansible",
+          "Terraform",
+          "Jenkins",
+          "Docker",
+          "Kubernetes",
+          "Linux"
+        ]
+      }
+    ],
+    "skills": [
+      "AWS",
+      "Kubernetes",
+      "Terraform",
+      "Helm",
+      "Docker",
+      "Ansible",
+      "Jenkins",
+      "Linux",
+      "Vagrant",
+      "Datadog",
+      "Grafana",
+      "Prometheus",
+      "Python",
+      "Bash"
+    ]
+  },
+  {
+    "uid": "1549",
+    "label": "Devops Engineer",
+    "education": [],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "DevOps Engineer",
+        "company": "Peacock",
+        "start_date": "2021-06-01",
+        "end_date": null,
+        "skills": [
+          "AWS",
+          "Terraform",
+          "Kubernetes",
+          "Linux"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "DevOps Engineer",
+        "company": "DTN",
+        "start_date": "2020-04-01",
+        "end_date": "2021-05-31",
+        "skills": [
+          "AWS",
+          "Terraform",
+          "Kubernetes"
+        ]
+      },
+      {
+        "job_id": "003",
+        "title": "Junior DevOps Engineer",
+        "company": "DTN",
+        "start_date": "2019-11-01",
+        "end_date": "2020-04-30",
+        "skills": [
+          "AWS",
+          "GitHub",
+          "Kubernetes"
+        ]
+      }
+    ],
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Kubernetes",
+      "Linux",
+      "GitHub"
+    ]
+  },
+  {
+    "uid": "1550",
+    "label": "Devops Engineer",
+    "education": [],
+    "job_history": [
+      {
+        "job_id": "001",
+        "title": "AWS / DevOps Engineer",
+        "company": "Amazon Web Services (AWS)",
+        "start_date": "2017-10-01",
+        "end_date": null,
+        "skills": [
+          "AWS",
+          "DevOps",
+          "Cloud"
+        ]
+      },
+      {
+        "job_id": "002",
+        "title": "System Administrator",
+        "company": "US Military",
+        "start_date": "2017-06-01",
+        "end_date": null,
+        "skills": [
+          "System Administration"
+        ]
+      }
+    ],
+    "skills": [
+      "AWS",
+      "DevOps",
+      "Cloud",
+      "System Administration"
+    ]
+  }
+]
