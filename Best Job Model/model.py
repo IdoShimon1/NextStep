@@ -44,7 +44,7 @@ from datasets import Dataset, DatasetDict
 
 # ------------------------------------------------------------
 # 1.  Load & flatten résumé JSON ------------------------------
-DATA_PATH = "ModelDev/Files/data_merged.json"     # <‑‑ YOUR JSON
+DATA_PATH = "Final Data/data_merged.json"
 EXCLUDE_LABELS = {
     "Security Engineer",
     "Application Security Engineer",
