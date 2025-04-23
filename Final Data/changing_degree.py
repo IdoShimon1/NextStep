@@ -3,7 +3,7 @@ import json
 import pandas as pd
 from collections import Counter
 
-filename = "System Architect.json"
+filename = "Final Data/data.json"
 label_name = filename.replace('.json', '')
 # Load the JSON file
 
@@ -20,7 +20,9 @@ length = len(raw)
 while pos < length:
     try:
         obj, size = decoder.raw_decode(raw[pos:])
-        obj['label'] = label_name  # Add or overwrite the label
+        for obj in data:  # data is the JSON list
+           obj['label'] = label_name
+
         data.append(obj)
         pos += size
 
@@ -219,34 +221,34 @@ degree_group_map = {
     "data bootcamp / cyber bootcamp / programming":"Certificate",
 
     #Cybersecurity 
-    "cyber security":"Cybersecurity",
-    "cyber security architecture & design":"Cybersecurity",
-    "cyber security expert":"Cybersecurity",
-    "cyber security operations":"Cybersecurity",
-    "cyber/electronic operations and warfare":"Cybersecurity",
-    "it/cyber security":"Cybersecurity",
-    "cybersecurity immersive bootcamp":"Cybersecurity",
-    "cybersecurity professional bootcamp":"Cybersecurity",
-    "cybersecurity certificate":"Cybersecurity",
-    "information technology management/project management":"Cybersecurity",
-    "cyber management":"Cybersecurity",
-    "advanced penetration testing":"Cybersecurity",
-    "penetration tester/testing":"Cybersecurity",
-    "incident response":"Cybersecurity",
-    "qa engineer course / manual / tester":"Cybersecurity",
-    "ciso / ciso & dpo / tciso":"Cybersecurity",
-    "csp / csp: cyber security practitioner":"Cybersecurity",
+    "cyber security":"Certificate",
+    "cyber security architecture & design":"Certificate",
+    "cyber security expert":"Certificate",
+    "cyber security operations":"Certificate",
+    "cyber/electronic operations and warfare":"Certificate",
+    "it/cyber security":"Certificate",
+    "cybersecurity immersive bootcamp":"Certificate",
+    "cybersecurity professional bootcamp":"Certificate",
+    "cybersecurity certificate":"Certificate",
+    "information technology management/project management":"Certificate",
+    "cyber management":"Certificate",
+    "advanced penetration testing":"Certificate",
+    "penetration tester/testing":"Certificate",
+    "incident response":"Certificate",
+    "qa engineer course / manual / tester":"Certificate",
+    "ciso / ciso & dpo / tciso":"Certificate",
+    "csp / csp: cyber security practitioner":"Certificate",
 
     #Dev
-    "android dev":"Dev",
-    "advanced backend developer":"Dev",
-    "fullstack / fullstack developer / full-stack development":"Dev",
-    "frontend developer":"Dev",
-    "full stack web developer":"Dev",
-    "web development":"Dev",
-    "system engineer":"Dev",
-    "system and network practitioner":"Dev",
-    "responsible en ingénierie systèmes et réseaux":"Dev",
+    "android dev":"Certificate",
+    "advanced backend developer":"Certificate",
+    "fullstack / fullstack developer / full-stack development":"Certificate",
+    "frontend developer":"Certificate",
+    "full stack web developer":"Certificate",
+    "web development":"Certificate",
+    "system engineer":"Certificate",
+    "system and network practitioner":"Certificate",
+    "responsible en ingénierie systèmes et réseaux":"Certificate",
 
     #null
     "music business":"null",
