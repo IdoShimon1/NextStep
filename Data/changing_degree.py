@@ -3,8 +3,8 @@ import json
 import pandas as pd
 from collections import Counter
 
-filename = "Final Data/data.json"
-label_name = filename.replace('.json', '')
+filename = "Data/Web Designer.json"
+label_name = "Web Designer"  #filename.replace('.json', '')
 # Load the JSON file
 
 # Read the raw file content
