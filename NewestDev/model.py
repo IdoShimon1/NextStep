@@ -199,7 +199,7 @@ val_acc    = []
 for log in logs:
     if "eval_accuracy" in log and "epoch" in log:
         val_epochs.append(log["epoch"])
-        val_acc.append(log["eval_accuracy"])
+        val_acc.append(log.get("eval_accuracy", 0))
 
 os.makedirs(OUT_DIR, exist_ok=True)
 

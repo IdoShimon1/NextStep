@@ -18,34 +18,23 @@ def find_experiment_directories():
     experiment_dirs = []
     
     # Look specifically in the requested experiment directory
-    target_exp_dir = "model_experiments_20250505_195154"
-    
+    target_exp_dir = "experiments_20250519_175233"
     if os.path.exists(target_exp_dir) and os.path.isdir(target_exp_dir):
         print(f"Looking for models in: {target_exp_dir}")
         
-        # First, get all the numbered directories (1_BERT_Base, etc.)
-        for numbered_dir in sorted(glob.glob(f"{target_exp_dir}/*/"), reverse=True):
-            numbered_dir = numbered_dir.rstrip("/\\")
-            numbered_dir_name = os.path.basename(numbered_dir)
+        # Each model directory is directly inside the experiment directory
+        for model_dir in sorted(glob.glob(f"{target_exp_dir}/*/"), reverse=True):
+            model_dir = model_dir.rstrip("/\\")
+            model_name = os.path.basename(model_dir).replace("_", " ")
             
-            # Now look for model directories inside each numbered directory
-            for model_subdir in glob.glob(f"{numbered_dir}/*/"):
-                model_subdir = model_subdir.rstrip("/\\")
+            # Check if this is a model directory by looking for checkpoints
+            checkpoints = glob.glob(f"{model_dir}/checkpoint-*/")
+            if checkpoints:
+                # Use the latest checkpoint as the model path
+                latest_checkpoint = sorted(checkpoints, key=lambda x: int(os.path.basename(x.rstrip('/\\')).split('-')[1]))[-1].rstrip("/\\")
                 
-                # Check if this is a model directory by looking for checkpoints
-                checkpoints = glob.glob(f"{model_subdir}/checkpoint-*/")
-                if checkpoints:
-                    # Use the latest checkpoint as the model path
-                    latest_checkpoint = sorted(checkpoints, key=lambda x: int(os.path.basename(x.rstrip('/\\')).split('-')[1]))[-1].rstrip("/\\")
-                    
-                    # Define a clean model name from the numbered directory
-                    if numbered_dir_name[0].isdigit() and '_' in numbered_dir_name:
-                        model_name = numbered_dir_name.split('_', 1)[1].replace('_', ' ')
-                    else:
-                        model_name = numbered_dir_name
-                    
-                    print(f"Found model: {model_name} at {latest_checkpoint}")
-                    experiment_dirs.append((model_name, latest_checkpoint))
+                print(f"Found model: {model_name} at {latest_checkpoint}")
+                experiment_dirs.append((model_name, latest_checkpoint))
     
     if not experiment_dirs:
         print("⚠️  No experiment models found in the specified directory.")
@@ -64,100 +53,43 @@ current_model = None
 current_tokenizer = None
 current_label_encoder = None
 
-# -------------------------------------------------------------------
-# 2.  Model loading function ----------------------------------------
 def load_model(model_path):
-    """Load a model, tokenizer, and label encoder from the specified path."""
-    global current_model, current_tokenizer, current_label_encoder, LABEL_PATH
-    
-    print(f"\nAttempting to load model from path: {model_path}")
-    
+    """Load a model, tokenizer and label-encoder that BELONG together."""
+    global current_model, current_tokenizer, current_label_encoder
+
     try:
-        # Find label encoder - check multiple possible locations
-        potential_paths = [
-            os.path.join(model_path, "label_encoder.pkl"),  # In checkpoint dir
-            os.path.join(os.path.dirname(model_path), "label_encoder.pkl"),  # In model dir
-            os.path.join(os.path.dirname(os.path.dirname(model_path)), "label_encoder.pkl"),  # In numbered dir
-            os.path.join("model_experiments_20250505_195154", "label_encoder.pkl"),  # In experiment root
-            "label_encoder.pkl"  # In workspace root
-        ]
-        
-        for path in potential_paths:
-            if os.path.exists(path):
-                LABEL_PATH = path
-                print(f"Found label encoder at: {LABEL_PATH}")
-                break
-        
-        if not LABEL_PATH:
-            # If not found in standard locations, try to search up the directory tree
-            current_dir = model_path
-            for _ in range(3):  # Look up to 3 levels up
-                current_dir = os.path.dirname(current_dir)
-                if os.path.exists(os.path.join(current_dir, "label_encoder.pkl")):
-                    LABEL_PATH = os.path.join(current_dir, "label_encoder.pkl")
-                    print(f"Found label encoder at: {LABEL_PATH}")
-                    break
-        
-        if not LABEL_PATH:
-            raise FileNotFoundError("Cannot find label_encoder.pkl in any expected location")
-        
-        # For the tokenizer, first check if it's in the checkpoint directory
-        if os.path.exists(os.path.join(model_path, "tokenizer_config.json")):
-            tokenizer_path = model_path
-            print(f"Using checkpoint directory for tokenizer: {tokenizer_path}")
-        else:
-            # Check if there's a tokenizer subdirectory in the parent
-            parent_tokenizer = os.path.join(os.path.dirname(model_path), "tokenizer")
-            if os.path.exists(parent_tokenizer):
-                tokenizer_path = parent_tokenizer
-                print(f"Found tokenizer in parent subdirectory: {tokenizer_path}")
-            else:
-                # Just use the parent directory
-                tokenizer_path = os.path.dirname(model_path)
-                print(f"Using parent directory for tokenizer: {tokenizer_path}")
-        
-        # Verify model files exist
-        if not os.path.exists(os.path.join(model_path, "config.json")):
-            print(f"Warning: config.json not found in {model_path}")
-            files = os.listdir(model_path)
-            print(f"Files in model directory: {files}")
-        
-        # Load the tokenizer
-        print(f"Loading tokenizer from {tokenizer_path}...")
+        # ------------ paths --------------------------------------------------
+        model_dir      = os.path.dirname(model_path)          # …/DeBERTa
+        tokenizer_path = os.path.join(model_dir, "tokenizer") # …/DeBERTa/tokenizer
+        encoder_path   = os.path.join(model_dir, "label_encoder.pkl")
+
+        if not os.path.isdir(tokenizer_path):
+            raise FileNotFoundError(f"Tokenizer dir not found: {tokenizer_path}")
+        if not os.path.exists(encoder_path):
+            raise FileNotFoundError(f"Label encoder not found: {encoder_path}")
+
+        # ------------ load objects -------------------------------------------
+        print(f"Loading tokenizer  → {tokenizer_path}")
         current_tokenizer = AutoTokenizer.from_pretrained(tokenizer_path)
-        
-        # Load the model
-        print(f"Loading model from {model_path}...")
-        current_model = AutoModelForSequenceClassification.from_pretrained(model_path)
+
+        print(f"Loading model      → {model_path}")
+        current_model     = AutoModelForSequenceClassification.from_pretrained(model_path)
         current_model.eval()
-        
-        # Load the label encoder
-        print(f"Loading label encoder from {LABEL_PATH}...")
-        with open(LABEL_PATH, "rb") as fp:
+
+        print(f"Loading encoder    → {encoder_path}")
+        with open(encoder_path, "rb") as fp:
             current_label_encoder = pickle.load(fp)
-        
-        # Extract a clean model name for display
-        # If it's a checkpoint directory, get the parent directory name
-        if "checkpoint" in model_path:
-            model_dir = os.path.dirname(model_path)
-            model_name = os.path.basename(model_dir)
-            # Also check the parent of model_dir for the numbered directory
-            numbered_dir = os.path.basename(os.path.dirname(model_dir))
-            if numbered_dir[0].isdigit() and '_' in numbered_dir:
-                display_name = numbered_dir.split('_', 1)[1].replace('_', ' ')
-            else:
-                display_name = model_name
-        else:
-            display_name = os.path.basename(model_path)
-        
+
+        # ------------ UI feedback --------------------------------------------
+        display_name = os.path.basename(model_dir).replace("_", " ")
         status_label.config(text=f"✅ Model loaded: {display_name}")
-        print(f"Successfully loaded model: {display_name}")
+        print(f"✓ Ready – {display_name}")
         return True
+
     except Exception as e:
-        error_msg = f"Error loading model: {str(e)}"
-        status_label.config(text=f"❌ {error_msg}")
-        messagebox.showerror("Model Loading Error", error_msg)
-        print(f"Error: {error_msg}")
+        msg = f"Error loading model: {e}"
+        status_label.config(text=f"❌ {msg}")
+        messagebox.showerror("Model Loading Error", msg)
         return False
 
 # -------------------------------------------------------------------
@@ -234,11 +166,18 @@ def predict_title(resume_json: dict) -> str:
     if current_model is None or current_tokenizer is None or current_label_encoder is None:
         raise ValueError("Model not loaded. Please select a model first.")
     
+    # Process the resume data exactly as done during training
     text_parts = []
     for ed in resume_json.get("education", []):
         text_parts.append(f"{ed.get('degree','')} {ed.get('field','')} {ed.get('institution','')}")
-    for job in resume_json.get("job_history", []):
+    
+    # Add job history (skip current job)
+    jobs = resume_json.get("job_history", [])
+    if jobs and jobs[0].get("end_date") is None:
+        jobs = jobs[1:]
+    for job in jobs:
         text_parts.append(f"{job.get('title','')} {job.get('company','')}")
+    
     text_parts.append(" ".join(resume_json.get("skills", [])))
     full_text = " ".join(text_parts)
 
@@ -246,6 +185,12 @@ def predict_title(resume_json: dict) -> str:
     with torch.no_grad():
         logits = current_model(**enc).logits
     probs = torch.softmax(logits, dim=1).cpu().numpy()[0]
+    
+    # Handle case where model outputs more logits than we have classes
+    num_classes = len(current_label_encoder.classes_)
+    if len(probs) > num_classes:
+        probs = probs[:num_classes]
+    
     predicted_label = current_label_encoder.inverse_transform([probs.argmax()])[0]
     
     # Get top 3 predictions with probabilities
